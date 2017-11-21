@@ -38,7 +38,7 @@
 }
 ```
 
-## Workspace setting for repo containing Ansible
+## Workspace settings for a repo containing Ansible
 
 ```json
 {
