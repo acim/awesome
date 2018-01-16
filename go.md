@@ -4,6 +4,7 @@
 
 * [A curated list of awesome Go frameworks, libraries and software](https://github.com/avelino/awesome-go)
 * [A curated list of awesome Go storage projects and libraries](https://github.com/gostor/awesome-go-storage)
+* [Build your own web framework in Go](https://www.nicolasmerouze.com/build-web-framework-golang/)
 
 ## Docker
 
