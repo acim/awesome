@@ -8,6 +8,7 @@
 * [Simple HTTP request context example](https://gocodecloud.com/blog/2016/11/15/simple-golang-http-request-context-example/)
 * [Best practice for accessing database in HTTP handlers](http://www.alexedwards.net/blog/organising-database-access)
 * [Code snippets](snippets.go)
+* [Applying the clean architecture](http://manuel.kiessling.net/2012/09/28/applying-the-clean-architecture-to-go-applications/)
 
 ## Docker
 
