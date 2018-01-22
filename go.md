@@ -29,5 +29,5 @@
 ## RabbitMQ
 
 * [Make sure your connection to RabbitMQ stays active](https://ninefinity.org/post/ensuring-rabbitmq-connection-in-golang/)
-* [Using amqp in a single goroutine that publishes and consumes](https://github.com/streadway/amqp/issues/117)
+* [Using AMQP in a single goroutine that publishes and consumes](https://github.com/streadway/amqp/issues/117)
 * [Examples](https://github.com/rabbitmq/rabbitmq-tutorials/tree/master/go)
