@@ -30,4 +30,6 @@
 
 * [Make sure your connection to RabbitMQ stays active](https://ninefinity.org/post/ensuring-rabbitmq-connection-in-golang/)
 * [Using AMQP in a single goroutine that publishes and consumes](https://github.com/streadway/amqp/issues/117)
+* [HTTP AMQP Proxy](https://github.com/iyidan/http-proxy-amqp)
+* [Tips for using RabbitMQ](https://agocs.org/blog/2014/08/19/tips-for-using-rabbitmq-in-go/)
 * [Examples](https://github.com/rabbitmq/rabbitmq-tutorials/tree/master/go)
