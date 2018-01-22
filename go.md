@@ -25,3 +25,9 @@
 
 * [Introducing NATS](https://medium.com/@shijuvar/introducing-nats-to-go-developers-3cfcb98c21d0)
 * [Building distributed systems and microservices NATS Streaming](https://medium.com/@shijuvar/building-distributed-systems-and-microservices-in-go-with-nats-streaming-d8b4baa633a2)
+
+## RabbitMQ
+
+* [Make sure your connection to RabbitMQ stays active](https://ninefinity.org/post/ensuring-rabbitmq-connection-in-golang/)
+* [Using amqp in a single goroutine that publishes and consumes](https://github.com/streadway/amqp/issues/117)
+* [Examples](https://github.com/rabbitmq/rabbitmq-tutorials/tree/master/go)
