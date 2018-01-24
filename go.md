@@ -33,3 +33,7 @@
 * [HTTP AMQP Proxy](https://github.com/iyidan/http-proxy-amqp)
 * [Tips for using RabbitMQ](https://agocs.org/blog/2014/08/19/tips-for-using-rabbitmq-in-go/)
 * [Examples](https://github.com/rabbitmq/rabbitmq-tutorials/tree/master/go)
+
+## AWS
+
+* [Code examples](https://github.com/awsdocs/aws-doc-sdk-examples/tree/master/go/example_code()
