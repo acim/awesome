@@ -36,4 +36,6 @@
 
 ## AWS
 
-* [Code examples](https://github.com/awsdocs/aws-doc-sdk-examples/tree/master/go/example_code()
+* [Code examples](https://github.com/awsdocs/aws-doc-sdk-examples/tree/master/go/example_code
+* [Creating a Lambda function](https://docs.aws.amazon.com/sdk-for-go/v1/developer-guide/lambda-go-example-create-function.html)
+* [Lambda function handler](https://docs.aws.amazon.com/lambda/latest/dg/go-programming-model-handler-types.html)
