@@ -9,11 +9,13 @@
 * [Best practice for accessing database in HTTP handlers](http://www.alexedwards.net/blog/organising-database-access)
 * [Code snippets](snippets.go)
 * [Applying the clean architecture](http://manuel.kiessling.net/2012/09/28/applying-the-clean-architecture-to-go-applications/)
+* [Shrink your binaries with this one weird trick](https://blog.filippo.io/shrink-your-go-binaries-with-this-one-weird-trick/)
 
 ## Docker
 
 * [Docker powered development environment for your web app](https://medium.com/developers-writing/docker-powered-development-environment-for-your-go-app-6185d043ea35)
 * [Live reloading server in Docker container](https://github.com/ntboes/docker-golang-gin)
+* [Building minimal docker containers](https://blog.codeship.com/building-minimal-docker-containers-for-go-applications/)
 
 ## Mongo
 
