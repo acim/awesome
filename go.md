@@ -4,7 +4,6 @@
 
 * [A curated list of awesome frameworks, libraries and software](https://github.com/avelino/awesome-go)
 * [A curated list of awesome storage projects and libraries](https://github.com/gostor/awesome-go-storage)
-* [A curated list of amazingly awesome database libraries, resources and shiny things](https://github.com/numetriclabz/awesome-db)
 * [Build your own web framework](https://www.nicolasmerouze.com/build-web-framework-golang/)
 * [Simple HTTP request context example](https://gocodecloud.com/blog/2016/11/15/simple-golang-http-request-context-example/)
 * [Best practice for accessing database in HTTP handlers](http://www.alexedwards.net/blog/organising-database-access)
@@ -39,6 +38,10 @@
 
 ## AWS
 
-* [Code examples](https://github.com/awsdocs/aws-doc-sdk-examples/tree/master/go/example_code
+* [Code examples](https://github.com/awsdocs/aws-doc-sdk-examples/tree/master/go/example_code)
 * [Creating a Lambda function](https://docs.aws.amazon.com/sdk-for-go/v1/developer-guide/lambda-go-example-create-function.html)
 * [Lambda function handler](https://docs.aws.amazon.com/lambda/latest/dg/go-programming-model-handler-types.html)
+
+## Aerospike
+
+* [Driver](https://github.com/aerospike/aerospike-client-go)
