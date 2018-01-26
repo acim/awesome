@@ -10,6 +10,7 @@
 * [Code snippets](snippets.go)
 * [Applying the clean architecture](http://manuel.kiessling.net/2012/09/28/applying-the-clean-architecture-to-go-applications/)
 * [Shrink your binaries with this one weird trick](https://blog.filippo.io/shrink-your-go-binaries-with-this-one-weird-trick/)
+* [How to improve latency by 700% using sync.Pool](http://www.akshaydeo.com/blog/2017/12/23/How-did-I-improve-latency-by-700-percent-using-syncPool/)
 
 ## Docker
 
