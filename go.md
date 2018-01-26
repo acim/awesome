@@ -45,3 +45,7 @@
 ## Aerospike
 
 * [Driver](https://github.com/aerospike/aerospike-client-go)
+
+## Lambda
+
+* [Shim is a thin layer between API Gateway integration requests via Lambda and the standard library http.Handler interface](https://github.com/iamatypeofwalrus/shim)
