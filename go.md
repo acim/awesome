@@ -73,4 +73,4 @@
 
 ## SQL
 
-* [SQLX](https://jmoiron.github.io/sqlx/)
+* [SQLX - extensions on top of database/sql package](https://jmoiron.github.io/sqlx/)
