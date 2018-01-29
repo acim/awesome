@@ -14,6 +14,7 @@
 * [Microservices example](https://github.com/wizelineacademy/GoWorkshop)
 * [Packing multiple binaries in a package](https://ieftimov.com/golang-package-multiple-binaries)
 * [Supercronic is a crontab-compatible job runner, designed specifically to run in containers](https://github.com/aptible/supercronic)
+* [Advanced testing](https://www.youtube.com/watch?v=yszygk1cpEc)
 
 ## HTTP routers (multiplexers) and middleware
 
@@ -59,6 +60,7 @@
 
 * [Shim is a thin layer between API Gateway integration requests via Lambda and the standard library http.Handler interface](https://github.com/iamatypeofwalrus/shim)
 * [Porting web applications to AWS Lambda](http://artem.krylysov.com/blog/2018/01/18/porting-go-web-applications-to-aws-lambda/)
+* [AWS Lambda proxy - run Lambda function on your machine](https://github.com/mtojek/aws-lambda-go-proxy)
 
 ## Artificial intelligence
 
