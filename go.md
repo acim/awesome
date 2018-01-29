@@ -13,6 +13,7 @@
 * [How to improve latency by 700% using sync.Pool](http://www.akshaydeo.com/blog/2017/12/23/How-did-I-improve-latency-by-700-percent-using-syncPool/)
 * [Microservices example](https://github.com/wizelineacademy/GoWorkshop)
 * [Packing multiple binaries in a package](https://ieftimov.com/golang-package-multiple-binaries)
+* [Supercronic is a crontab-compatible job runner, designed specifically to run in containers](https://github.com/aptible/supercronic)
 
 ## HTTP routers (multiplexers) and middleware
 
@@ -57,3 +58,8 @@
 ## Lambda
 
 * [Shim is a thin layer between API Gateway integration requests via Lambda and the standard library http.Handler interface](https://github.com/iamatypeofwalrus/shim)
+* [Porting web applications to AWS Lambda](http://artem.krylysov.com/blog/2018/01/18/porting-go-web-applications-to-aws-lambda/)
+
+## Artificial intelligence
+
+* [Face Detection iusing OpenCV and MachineBox](https://www.youtube.com/watch?v=rbZeZNVA-Q4)
