@@ -12,7 +12,12 @@
 * [Shrink your binaries with this one weird trick](https://blog.filippo.io/shrink-your-go-binaries-with-this-one-weird-trick/)
 * [How to improve latency by 700% using sync.Pool](http://www.akshaydeo.com/blog/2017/12/23/How-did-I-improve-latency-by-700-percent-using-syncPool/)
 * [Microservices example](https://github.com/wizelineacademy/GoWorkshop)
-* [Gocraft router and middleware](https://github.com/gocraft/web)
+* [Packing multiple binaries in a package](https://ieftimov.com/golang-package-multiple-binaries)
+
+## HTTP routers (multiplexers) and middleware
+
+* [chi](https://github.com/go-chi/chi)
+* [Gocraft](https://github.com/gocraft/web)
 
 ## Docker
 
