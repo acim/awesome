@@ -16,6 +16,11 @@
 * [Supercronic is a crontab-compatible job runner, designed specifically to run in containers](https://github.com/aptible/supercronic)
 * [Advanced testing](https://www.youtube.com/watch?v=yszygk1cpEc)
 
+## Patterns
+
+[Functional Options - Implementing clean APIs](https://github.com/tmrts/go-patterns/blob/master/idiom/functional-options.md
+)
+
 ## HTTP routers (multiplexers) and middleware
 
 * [chi](https://github.com/go-chi/chi)
