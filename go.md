@@ -79,3 +79,7 @@
 ## SQL
 
 * [SQLX - extensions on top of database/sql package](https://jmoiron.github.io/sqlx/)
+
+## Microservices
+
+* [Distributed tracing in 10 minutes](https://medium.com/opentracing/distributed-tracing-in-10-minutes-51b378ee40f1)
