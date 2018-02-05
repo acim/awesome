@@ -1,7 +1,5 @@
 # Go
 
-## Links
-
 * [A curated list of awesome frameworks, libraries and software](https://github.com/avelino/awesome-go)
 * [A curated list of awesome storage projects and libraries](https://github.com/gostor/awesome-go-storage)
 * [Build your own web framework](https://www.nicolasmerouze.com/build-web-framework-golang/)
@@ -15,6 +13,7 @@
 * [Packing multiple binaries in a package](https://ieftimov.com/golang-package-multiple-binaries)
 * [Supercronic is a crontab-compatible job runner, designed specifically to run in containers](https://github.com/aptible/supercronic)
 * [Advanced testing](https://www.youtube.com/watch?v=yszygk1cpEc)
+* [Error handling](https://blog.golang.org/error-handling-and-go#TOC_3)
 
 ## Patterns
 
