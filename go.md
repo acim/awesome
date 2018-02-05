@@ -82,3 +82,8 @@
 ## Microservices
 
 * [Distributed tracing in 10 minutes](https://medium.com/opentracing/distributed-tracing-in-10-minutes-51b378ee40f1)
+
+## CI & CD
+
+* [How to do Continuous Integration like a boss](https://medium.com/pantomath/go-tools-gitlab-how-to-do-continuous-integration-like-a-boss-941a3a9ad0b6)
+* [Building a CI system with Jenkins](https://medium.com/@zarkopafilis/building-a-ci-system-for-go-with-jenkins-4ab04d4bacd0)
