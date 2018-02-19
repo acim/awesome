@@ -17,8 +17,7 @@
 
 ## Patterns
 
-[Functional Options - Implementing clean APIs](https://github.com/tmrts/go-patterns/blob/master/idiom/functional-options.md
-)
+[Functional Options - Implementing clean APIs](https://github.com/tmrts/go-patterns/blob/master/idiom/functional-options.md)
 
 ## HTTP routers (multiplexers) and middleware
 
@@ -65,6 +64,7 @@
 * [Shim is a thin layer between API Gateway integration requests via Lambda and the standard library http.Handler interface](https://github.com/iamatypeofwalrus/shim)
 * [Porting web applications to AWS Lambda](http://artem.krylysov.com/blog/2018/01/18/porting-go-web-applications-to-aws-lambda/)
 * [AWS Lambda proxy - run Lambda function on your machine](https://github.com/mtojek/aws-lambda-go-proxy)
+* [Getting started with serverless](https://yos.io/2018/02/08/getting-started-with-serverless-go/)
 
 ## Artificial intelligence
 
