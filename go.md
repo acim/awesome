@@ -75,6 +75,7 @@
 
 * [JSON and struct composition](https://attilaolah.eu/2014/09/10/json-and-struct-composition-in-go/)
 * [JSON decoding](https://attilaolah.eu/2013/11/29/json-decoding-in-go/)
+* [Custom JSON marshalling](http://choly.ca/post/go-json-marshalling/)
 
 ## SQL
 
