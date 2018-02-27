@@ -19,10 +19,14 @@
 
 [Functional Options - Implementing clean APIs](https://github.com/tmrts/go-patterns/blob/master/idiom/functional-options.md)
 
-## HTTP routers (multiplexers) and middleware
+## HTTP multiplexers and middleware
 
 * [chi](https://github.com/go-chi/chi)
 * [Gocraft](https://github.com/gocraft/web)
+
+## HTTP clients
+
+* [](https://medium.com/@nate510/don-t-use-go-s-default-http-client-4804cb19f779)
 
 ## Docker
 
