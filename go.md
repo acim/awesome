@@ -26,7 +26,7 @@
 
 ## HTTP clients
 
-* [](https://medium.com/@nate510/don-t-use-go-s-default-http-client-4804cb19f779)
+* [Don’t use default HTTP client in production](https://medium.com/@nate510/don-t-use-go-s-default-http-client-4804cb19f779)
 
 ## Docker
 
