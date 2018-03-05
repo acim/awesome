@@ -15,10 +15,7 @@
 * [Advanced testing](https://www.youtube.com/watch?v=yszygk1cpEc)
 * [Error handling](https://blog.golang.org/error-handling-and-go#TOC_3)
 * [Best practices for writing high-performance code](https://github.com/dgryski/go-perfbook/blob/master/performance.md)
-
-## Patterns
-
-[Functional Options - Implementing clean APIs](https://github.com/tmrts/go-patterns/blob/master/idiom/functional-options.md)
+* [Functional Options - Implementing clean APIs](https://github.com/tmrts/go-patterns/blob/master/idiom/functional-options.md)
 
 # Concurrency
 
