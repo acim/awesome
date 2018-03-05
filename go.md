@@ -14,10 +14,16 @@
 * [Supercronic is a crontab-compatible job runner, designed specifically to run in containers](https://github.com/aptible/supercronic)
 * [Advanced testing](https://www.youtube.com/watch?v=yszygk1cpEc)
 * [Error handling](https://blog.golang.org/error-handling-and-go#TOC_3)
+* [Best practices for writing high-performance code](https://github.com/dgryski/go-perfbook/blob/master/performance.md)
 
 ## Patterns
 
 [Functional Options - Implementing clean APIs](https://github.com/tmrts/go-patterns/blob/master/idiom/functional-options.md)
+
+# Concurrency
+
+* [Multithreading](https://pragmacoders.com/multithreading-go-tutorial/)
+* [Data races and how to fix them ](https://www.sohamkamani.com/blog/2018/02/18/golang-data-race-and-how-to-fix-it/)
 
 ## HTTP multiplexers and middleware
 
@@ -71,7 +77,7 @@
 * [AWS Lambda proxy - run Lambda function on your machine](https://github.com/mtojek/aws-lambda-go-proxy)
 * [Getting started with serverless](https://yos.io/2018/02/08/getting-started-with-serverless-go/)
 
-## Artificial intelligence
+## AI
 
 * [Face Detection iusing OpenCV and MachineBox](https://www.youtube.com/watch?v=rbZeZNVA-Q4)
 
@@ -93,3 +99,7 @@
 
 * [How to do Continuous Integration like a boss](https://medium.com/pantomath/go-tools-gitlab-how-to-do-continuous-integration-like-a-boss-941a3a9ad0b6)
 * [Building a CI system with Jenkins](https://medium.com/@zarkopafilis/building-a-ci-system-for-go-with-jenkins-4ab04d4bacd0)
+
+## Tools
+
+* [GoConvey - automatic web UI for testing](https://github.com/smartystreets/goconvey)
