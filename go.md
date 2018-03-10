@@ -16,18 +16,20 @@
 * [Error handling](https://blog.golang.org/error-handling-and-go#TOC_3)
 * [Best practices for writing high-performance code](https://github.com/dgryski/go-perfbook/blob/master/performance.md)
 * [Functional Options - Implementing clean APIs](https://github.com/tmrts/go-patterns/blob/master/idiom/functional-options.md)
+* [Using the Service Object pattern](https://www.calhoun.io/using-the-service-object-pattern-in-go/)
 
 # Concurrency
 
 * [Multithreading](https://pragmacoders.com/multithreading-go-tutorial/)
 * [Data races and how to fix them ](https://www.sohamkamani.com/blog/2018/02/18/golang-data-race-and-how-to-fix-it/)
 
-## HTTP multiplexers and middleware
+## HTTP server
 
 * [chi](https://github.com/go-chi/chi)
 * [Gocraft](https://github.com/gocraft/web)
+* [Creating the V in MVC](https://www.calhoun.io/intro-to-templates-p4-v-in-mvc/)
 
-## HTTP clients
+## HTTP client
 
 * [Don’t use default HTTP client in production](https://medium.com/@nate510/don-t-use-go-s-default-http-client-4804cb19f779)
 
@@ -100,3 +102,7 @@
 ## Tools
 
 * [GoConvey - automatic web UI for testing](https://github.com/smartystreets/goconvey)
+
+## Raspberry PI
+
+* [Building your own build status indicator](https://scene-si.org/2016/07/19/building-your-own-build-status-indicator-with-golang-and-rpi3/)
