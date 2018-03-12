@@ -2,6 +2,7 @@
 
 * [A curated list of awesome frameworks, libraries and software](https://github.com/avelino/awesome-go)
 * [A curated list of awesome storage projects and libraries](https://github.com/gostor/awesome-go-storage)
+* [A curated selection of blog posts](https://github.com/enocom/gopher-reading-list)
 * [Build your own web framework](https://www.nicolasmerouze.com/build-web-framework-golang/)
 * [Simple HTTP request context example](https://gocodecloud.com/blog/2016/11/15/simple-golang-http-request-context-example/)
 * [Best practice for accessing database in HTTP handlers](http://www.alexedwards.net/blog/organising-database-access)
