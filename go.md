@@ -103,6 +103,8 @@
 ## Tools
 
 * [GoConvey - automatic web UI for testing](https://github.com/smartystreets/goconvey)
+* [Collection of tools and libraries including linters and static analysis](https://github.com/dominikh/go-tools)
+* [Concurrently run lint tools and normalise their output](https://github.com/alecthomas/gometalinter)
 
 ## Raspberry PI
 
