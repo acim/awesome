@@ -18,6 +18,7 @@
 * [Best practices for writing high-performance code](https://github.com/dgryski/go-perfbook/blob/master/performance.md)
 * [Functional Options - Implementing clean APIs](https://github.com/tmrts/go-patterns/blob/master/idiom/functional-options.md)
 * [Using the Service Object pattern](https://www.calhoun.io/using-the-service-object-pattern-in-go/)
+* [Integration with systemd](https://vincent.bernat.im/en/blog/2017-systemd-golang)
 
 # Concurrency
 
