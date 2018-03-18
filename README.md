@@ -1,4 +1,5 @@
 # awesome
+
 A curated list of delightful developers resources.
 
 * [AWS](aws.md)
@@ -6,3 +7,4 @@ A curated list of delightful developers resources.
 * [MySQL](mysql.md)
 * [Visual Studio Code](vscode.md)
 * [mongoDB](mongodb.md)
+* [Raspberry Pi](pi.md)

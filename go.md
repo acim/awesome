@@ -19,11 +19,15 @@
 * [Functional Options - Implementing clean APIs](https://github.com/tmrts/go-patterns/blob/master/idiom/functional-options.md)
 * [Using the Service Object pattern](https://www.calhoun.io/using-the-service-object-pattern-in-go/)
 * [Integration with systemd](https://vincent.bernat.im/en/blog/2017-systemd-golang)
+* [50 shades of Go: traps, gotchas, and common mistakes](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/)
 
 # Concurrency
 
 * [Multithreading](https://pragmacoders.com/multithreading-go-tutorial/)
 * [Data races and how to fix them ](https://www.sohamkamani.com/blog/2018/02/18/golang-data-race-and-how-to-fix-it/)
+* [Interesting ways of using channels](http://nomad.uk.net/articles/interesting-ways-of-using-go-channels.html)
+* [Concurrency and a mini load-balancer](https://gist.github.com/rushilgupta/228dfdf379121cb9426d5e90d34c5b96)
+* [Handling 1 million requests per minute](http://marcio.io/2015/07/handling-1-million-requests-per-minute-with-golang/)
 
 ## HTTP server
 
