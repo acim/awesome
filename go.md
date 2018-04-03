@@ -21,7 +21,11 @@
 * [Integration with systemd](https://vincent.bernat.im/en/blog/2017-systemd-golang)
 * [50 shades of Go: traps, gotchas, and common mistakes](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/)
 
-# Concurrency
+## Blogs
+
+* [divan](https://divan.github.io/)
+
+## Concurrency
 
 * [Multithreading](https://pragmacoders.com/multithreading-go-tutorial/)
 * [Data races and how to fix them ](https://www.sohamkamani.com/blog/2018/02/18/golang-data-race-and-how-to-fix-it/)

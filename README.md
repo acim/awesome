@@ -8,3 +8,4 @@ A curated list of delightful developers resources.
 * [Visual Studio Code](vscode.md)
 * [mongoDB](mongodb.md)
 * [Raspberry Pi](pi.md)
+* [Vue.js](vue.md)
