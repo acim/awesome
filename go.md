@@ -38,6 +38,7 @@
 * [chi](https://github.com/go-chi/chi)
 * [Gocraft](https://github.com/gocraft/web)
 * [Creating the V in MVC](https://www.calhoun.io/intro-to-templates-p4-v-in-mvc/)
+* [aah - a secure, flexible, rapid Go web framework](https://aahframework.org/)
 
 ## HTTP client
 
