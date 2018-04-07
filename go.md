@@ -116,6 +116,7 @@
 * [Collection of tools and libraries including linters and static analysis](https://github.com/dominikh/go-tools)
 * [Concurrently run lint tools and normalise their output](https://github.com/alecthomas/gometalinter)
 * [A curated list of awesome linters (more than 60 linters and tools)](https://github.com/golangci/awesome-go-linters)
+* [GopherCI helps you maintain high-quality Go projects by checking each GitHub pull request](https://github.com/bradleyfalzon/gopherci)
 
 ## Raspberry PI
 
