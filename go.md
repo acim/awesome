@@ -86,6 +86,7 @@
 * [Porting web applications to AWS Lambda](http://artem.krylysov.com/blog/2018/01/18/porting-go-web-applications-to-aws-lambda/)
 * [AWS Lambda proxy - run Lambda function on your machine](https://github.com/mtojek/aws-lambda-go-proxy)
 * [Getting started with serverless](https://yos.io/2018/02/08/getting-started-with-serverless-go/)
+* [How to build a Serverless API with AWS Lambda](http://www.alexedwards.net/blog/serverless-api-with-go-and-aws-lambda)
 
 ## AI
 
