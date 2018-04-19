@@ -24,6 +24,7 @@
 ## Blogs
 
 * [divan](https://divan.github.io/)
+* [Ardan labs](https://www.ardanlabs.com/blog/)
 
 ## Concurrency
 
