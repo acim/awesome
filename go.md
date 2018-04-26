@@ -13,7 +13,6 @@
 * [Microservices example](https://github.com/wizelineacademy/GoWorkshop)
 * [Packing multiple binaries in a package](https://ieftimov.com/golang-package-multiple-binaries)
 * [Supercronic is a crontab-compatible job runner, designed specifically to run in containers](https://github.com/aptible/supercronic)
-* [Advanced testing](https://www.youtube.com/watch?v=yszygk1cpEc)
 * [Error handling](https://blog.golang.org/error-handling-and-go#TOC_3)
 * [Best practices for writing high-performance code](https://github.com/dgryski/go-perfbook/blob/master/performance.md)
 * [Functional Options - Implementing clean APIs](https://github.com/tmrts/go-patterns/blob/master/idiom/functional-options.md)
@@ -116,10 +115,15 @@
 
 * [GoConvey - automatic web UI for testing](https://github.com/smartystreets/goconvey)
 * [Collection of tools and libraries including linters and static analysis](https://github.com/dominikh/go-tools)
-* [Concurrently run lint tools and normalise their output](https://github.com/alecthomas/gometalinter)
+* [Concurrently run lint tools and normalize their output](https://github.com/alecthomas/gometalinter)
 * [A curated list of awesome linters (more than 60 linters and tools)](https://github.com/golangci/awesome-go-linters)
 * [GopherCI helps you maintain high-quality Go projects by checking each GitHub pull request](https://github.com/bradleyfalzon/gopherci)
 
 ## Raspberry PI
 
 * [Building your own build status indicator](https://scene-si.org/2016/07/19/building-your-own-build-status-indicator-with-golang-and-rpi3/)
+
+## Testing
+
+* [Advanced testing](https://www.youtube.com/watch?v=yszygk1cpEc)
+* [In-memory network stack](https://akutz.wordpress.com/2018/04/20/memconn/)
