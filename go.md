@@ -32,6 +32,7 @@
 * [Interesting ways of using channels](http://nomad.uk.net/articles/interesting-ways-of-using-go-channels.html)
 * [Concurrency and a mini load-balancer](https://gist.github.com/rushilgupta/228dfdf379121cb9426d5e90d34c5b96)
 * [Handling 1 million requests per minute](http://marcio.io/2015/07/handling-1-million-requests-per-minute-with-golang/)
+* [Common Concurrent Programming Mistakes](https://go101.org/article/concurrent-common-mistakes.html)
 
 ## HTTP server
 
