@@ -19,6 +19,7 @@
 * [Using the Service Object pattern](https://www.calhoun.io/using-the-service-object-pattern-in-go/)
 * [Integration with systemd](https://vincent.bernat.im/en/blog/2017-systemd-golang)
 * [50 shades of Go: traps, gotchas, and common mistakes](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/)
+* [Packaging application for OSX](https://medium.com/@mattholt/packaging-a-go-application-for-macos-f7084b00f6b5)
 
 ## Blogs
 
@@ -108,6 +109,7 @@
 ## Microservices
 
 * [Distributed tracing in 10 minutes](https://medium.com/opentracing/distributed-tracing-in-10-minutes-51b378ee40f1)
+* [Building a microservices application following the CQRS pattern](https://outcrawl.com/go-microservices-cqrs-docker/)
 
 ## CI & CD
 
