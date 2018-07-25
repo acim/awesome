@@ -10,32 +10,35 @@
 
 ```json
 {
+{
     "editor.fontFamily": "'Fira Code'",
     "editor.fontLigatures": true,
     "editor.fontSize": 14,
-    "editor.formatOnPaste": true,
-    "editor.formatOnSave": true,
-    "files.autoSave": "afterDelay",
+    "editor.minimap.enabled": false,
+    "editor.rulers": [120],
+    "editor.cursorStyle": "line",
+    "editor.cursorBlinking": "phase",
+    "editor.renderWhitespace": "none",
+    "editor.multiCursorModifier": "alt",
+    "files.autoSave": "onWindowChange",
     "files.exclude": {
         "**/.DS_Store": true,
         "**/.git": true,
-        "**/.hg": true,
         "**/.idea": true,
-        "**/.svn": true,
         "**/.terraform": true,
-        "**/CVS": true
     },
     "git.enableSmartCommit": true,
-    "go.formatFlags": [
-        "-w"
-    ],
     "search.exclude": {
         "**/bower_components": true,
-        "**/node_modules": true,
-        "**/vendor": true
+        "**/node_modules": true
     },
-    "terraform.formatOnSave": true,
-    "workbench.startupEditor": "newUntitledFile"
+    "workbench.startupEditor": "newUntitledFile",
+    "explorer.confirmDragAndDrop": false,
+    "git.autofetch": true,
+    "search.location": "sidebar",
+    "diffEditor.ignoreTrimWhitespace": true,
+    "workbench.colorTheme": "Cobalt2",
+    "files.trimTrailingWhitespace": true,
 }
 ```
 
