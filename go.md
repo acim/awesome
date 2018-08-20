@@ -123,6 +123,7 @@
 * [Concurrently run lint tools and normalize their output](https://github.com/alecthomas/gometalinter)
 * [A curated list of awesome linters (more than 60 linters and tools)](https://github.com/golangci/awesome-go-linters)
 * [GopherCI helps you maintain high-quality Go projects by checking each GitHub pull request](https://github.com/bradleyfalzon/gopherci)
+* [A good Makefile](https://azer.bike/journal/a-good-makefile-for-go/)
 
 ## Raspberry PI
 
