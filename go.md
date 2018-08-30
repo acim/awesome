@@ -23,6 +23,7 @@
 
 ## Blogs
 
+* [Dave Cheney](https://dave.cheney.net/)
 * [divan](https://divan.github.io/)
 * [Ardan labs](https://www.ardanlabs.com/blog/)
 
