@@ -10,17 +10,19 @@
 
 ```json
 {
-{
     "editor.fontFamily": "'Fira Code'",
     "editor.fontLigatures": true,
     "editor.fontSize": 14,
     "editor.minimap.enabled": false,
-    "editor.rulers": [120],
+    "editor.rulers": [
+        120
+    ],
     "editor.cursorStyle": "line",
     "editor.cursorBlinking": "phase",
     "editor.renderWhitespace": "none",
     "editor.multiCursorModifier": "alt",
     "files.autoSave": "onWindowChange",
+    "files.trimTrailingWhitespace": true,
     "files.exclude": {
         "**/.DS_Store": true,
         "**/.git": true,
@@ -34,11 +36,34 @@
     },
     "workbench.startupEditor": "newUntitledFile",
     "explorer.confirmDragAndDrop": false,
+    "gitlens.advanced.messages": {
+        "suppressCommitHasNoPreviousCommitWarning": false,
+        "suppressCommitNotFoundWarning": false,
+        "suppressFileNotUnderSourceControlWarning": false,
+        "suppressGitVersionWarning": false,
+        "suppressLineUncommittedWarning": false,
+        "suppressNoRepositoryWarning": false,
+        "suppressResultsExplorerNotice": false,
+        "suppressShowKeyBindingsNotice": true,
+        "suppressUpdateNotice": false,
+        "suppressWelcomeNotice": true
+    },
     "git.autofetch": true,
+    "gitlens.keymap": "chorded",
     "search.location": "sidebar",
-    "diffEditor.ignoreTrimWhitespace": true,
+    "gitlens.historyExplorer.enabled": true,
+    "diffEditor.ignoreTrimWhitespace": false,
     "workbench.colorTheme": "Cobalt2",
-    "files.trimTrailingWhitespace": true,
+    "terminal.integrated.fontSize": 14,
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": true,
+    "go.formatFlags": [
+        "-w"
+    ],
+    "go.autocompleteUnimportedPackages": true,
+    "go.buildOnSave": "off",
+    "go.lintTool": "megacheck",
+    "editor.insertSpaces": false,
 }
 ```
 
