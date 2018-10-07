@@ -4,6 +4,7 @@ A curated list of delightful developers resources.
 
 * [Go](go.md)
 * [Kubernetes](kubernetes.go)
+* [git](git.go)
 * [AWS](aws.md)
 * [mongoDB](mongodb.md)
 * [MySQL](mysql.md)

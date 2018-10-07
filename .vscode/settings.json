@@ -1,7 +1,10 @@
 {
     "cSpell.words": [
+        "dockerfile",
+        "dockerfiles",
         "kubernetes",
         "microservice",
-        "microservices"
+        "microservices",
+        "minikube"
     ]
 }
