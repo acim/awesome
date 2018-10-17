@@ -1,5 +1,7 @@
 # git
 
+* [Flight rules for Git](https://github.com/k88hudson/git-flight-rules)
+
 ## Delete merged local branches
 
 ```bash
