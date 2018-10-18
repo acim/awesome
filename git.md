@@ -9,3 +9,9 @@ git remote prune origin # prunes tracking branches not on the remote
 git branch —merged # lists branches that have been merged into the current branch
 git branch -d ...
 ```
+
+## Shallow clone repository (single branch with truncated history)
+
+```bash
+git clone --depth 1 https://path/to/repo/foo.git -b bar
+```
