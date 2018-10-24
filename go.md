@@ -44,6 +44,7 @@
 * [Creating the V in MVC](https://www.calhoun.io/intro-to-templates-p4-v-in-mvc/)
 * [aah - a secure, flexible, rapid Go web framework](https://aahframework.org/)
 * [How I write HTTP services after seven years](https://medium.com/@matryer/how-i-write-go-http-services-after-seven-years-37c208122831)
+* [http.Handler wrapper technique](https://medium.com/@matryer/the-http-handler-wrapper-technique-in-golang-updated-bc7fbcffa702)
 
 ## HTTP client
 
