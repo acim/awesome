@@ -30,7 +30,7 @@
 ## Concurrency
 
 * [Multithreading](https://pragmacoders.com/multithreading-go-tutorial/)
-* [Data races and how to fix them ](https://www.sohamkamani.com/blog/2018/02/18/golang-data-race-and-how-to-fix-it/)
+* [Data races and how to fix them](https://www.sohamkamani.com/blog/2018/02/18/golang-data-race-and-how-to-fix-it/)
 * [Interesting ways of using channels](http://nomad.uk.net/articles/interesting-ways-of-using-go-channels.html)
 * [Concurrency and a mini load-balancer](https://gist.github.com/rushilgupta/228dfdf379121cb9426d5e90d34c5b96)
 * [Handling 1 million requests per minute](http://marcio.io/2015/07/handling-1-million-requests-per-minute-with-golang/)
@@ -112,6 +112,7 @@
 
 * [Distributed tracing in 10 minutes](https://medium.com/opentracing/distributed-tracing-in-10-minutes-51b378ee40f1)
 * [Building a microservices application following the CQRS pattern](https://outcrawl.com/go-microservices-cqrs-docker/)
+* [Microservices](http://callistaenterprise.se/blogg/teknik/2017/02/17/go-blog-series-part1/)
 
 ## CI & CD
 

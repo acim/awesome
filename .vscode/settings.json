@@ -5,6 +5,8 @@
         "kubernetes",
         "microservice",
         "microservices",
-        "minikube"
+        "minikube",
+        "multithreading",
+        "serverless"
     ]
 }
