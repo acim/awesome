@@ -49,6 +49,7 @@
 ## HTTP client
 
 * [Don’t use default HTTP client in production](https://medium.com/@nate510/don-t-use-go-s-default-http-client-4804cb19f779)
+* [Resty - imple HTTP and REST client library](https://github.com/go-resty/resty/)
 
 ## Docker
 
@@ -96,7 +97,7 @@
 
 ## AI
 
-* [Face Detection iusing OpenCV and MachineBox](https://www.youtube.com/watch?v=rbZeZNVA-Q4)
+* [Face Detection using OpenCV and MachineBox](https://www.youtube.com/watch?v=rbZeZNVA-Q4)
 
 ## JSON
 
@@ -107,6 +108,7 @@
 ## SQL
 
 * [SQLX - extensions on top of database/sql package](https://jmoiron.github.io/sqlx/)
+* [Grimoire ORM](https://github.com/Fs02/grimoire)
 
 ## Microservices
 
