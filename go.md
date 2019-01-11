@@ -10,9 +10,8 @@
 * [Applying the clean architecture](http://manuel.kiessling.net/2012/09/28/applying-the-clean-architecture-to-go-applications/)
 * [Shrink your binaries with this one weird trick](https://blog.filippo.io/shrink-your-go-binaries-with-this-one-weird-trick/)
 * [How to improve latency by 700% using sync.Pool](http://www.akshaydeo.com/blog/2017/12/23/How-did-I-improve-latency-by-700-percent-using-syncPool/)
-* [Microservices example](https://github.com/wizelineacademy/GoWorkshop)
 * [Packing multiple binaries in a package](https://ieftimov.com/golang-package-multiple-binaries)
-* [Supercronic is a crontab-compatible job runner, designed specifically to run in containers](https://github.com/aptible/supercronic)
+* [Supercronic - crontab-compatible job runner designed to run in containers](https://github.com/aptible/supercronic)
 * [Error handling](https://blog.golang.org/error-handling-and-go#TOC_3)
 * [Best practices for writing high-performance code](https://github.com/dgryski/go-perfbook/blob/master/performance.md)
 * [Functional Options - Implementing clean APIs](https://github.com/tmrts/go-patterns/blob/master/idiom/functional-options.md)
@@ -36,6 +35,7 @@
 * [Handling 1 million requests per minute](http://marcio.io/2015/07/handling-1-million-requests-per-minute-with-golang/)
 * [Common concurrent programming mistakes](https://go101.org/article/concurrent-common-mistakes.html)
 * [Channel use cases](https://go101.org/article/channel-use-cases.html)
+* [Load balancer](https://medium.com/@owlwalks/load-balancer-at-your-fingertips-golang-ea23d7aaee82)
 
 ## HTTP server
 
@@ -45,6 +45,7 @@
 * [aah - a secure, flexible, rapid Go web framework](https://aahframework.org/)
 * [How I write HTTP services after seven years](https://medium.com/@matryer/how-i-write-go-http-services-after-seven-years-37c208122831)
 * [http.Handler wrapper technique](https://medium.com/@matryer/the-http-handler-wrapper-technique-in-golang-updated-bc7fbcffa702)
+* [CertMagic - automagic TLS](https://github.com/mholt/certmagic)
 
 ## HTTP client
 
@@ -115,6 +116,7 @@
 * [Distributed tracing in 10 minutes](https://medium.com/opentracing/distributed-tracing-in-10-minutes-51b378ee40f1)
 * [Building a microservices application following the CQRS pattern](https://outcrawl.com/go-microservices-cqrs-docker/)
 * [Microservices](http://callistaenterprise.se/blogg/teknik/2017/02/17/go-blog-series-part1/)
+* [Microservices example](https://github.com/wizelineacademy/GoWorkshop)
 
 ## CI & CD
 
