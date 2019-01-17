@@ -19,6 +19,7 @@
 * [Integration with systemd](https://vincent.bernat.im/en/blog/2017-systemd-golang)
 * [50 shades of Go: traps, gotchas, and common mistakes](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/)
 * [Packaging application for OSX](https://medium.com/@mattholt/packaging-a-go-application-for-macos-f7084b00f6b5)
+* [How to create an SSH tunnel](http://elliot.land/post/how-to-create-an-ssh-tunnel-in-go)
 
 ## Blogs
 
@@ -46,6 +47,7 @@
 * [How I write HTTP services after seven years](https://medium.com/@matryer/how-i-write-go-http-services-after-seven-years-37c208122831)
 * [http.Handler wrapper technique](https://medium.com/@matryer/the-http-handler-wrapper-technique-in-golang-updated-bc7fbcffa702)
 * [CertMagic - automagic TLS](https://github.com/mholt/certmagic)
+* [Serve local files](https://github.com/syntaqx/serve)
 
 ## HTTP client
 
