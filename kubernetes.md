@@ -6,3 +6,4 @@
 * [Uninstall Minikube](https://github.com/kubernetes/minikube/issues/1043)
 * [Kubernetes on bare-metal in 10 minutes](https://blog.alexellis.io/kubernetes-in-10-minutes/)
 * [Deploy Kubernetes on Hetzner Cloud](https://blog.alexellis.io/kubernetes-in-10-minutes/)
+* [Istio](https://www.youtube.com/watch?v=s4qasWn_mFc)
