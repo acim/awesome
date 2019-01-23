@@ -48,6 +48,8 @@
 * [http.Handler wrapper technique](https://medium.com/@matryer/the-http-handler-wrapper-technique-in-golang-updated-bc7fbcffa702)
 * [CertMagic - automagic TLS](https://github.com/mholt/certmagic)
 * [Serve local files](https://github.com/syntaqx/serve)
+* [Authenticate a Go API with JSON web tokens](https://www.thepolyglotdeveloper.com/2017/03/authenticate-a-golang-api-with-json-web-tokens/)
+* [Expose Go on the Internet](https://blog.cloudflare.com/exposing-go-on-the-internet/)
 
 ## HTTP client
 
@@ -152,3 +154,7 @@
 * [How to develop gRPC microservice - Part 1](https://medium.com/@amsokol.com/tutorial-how-to-develop-go-grpc-microservice-with-http-rest-endpoint-middleware-kubernetes-daebb36a97e9)
 * [How to develop gRPC microservice - Part 2: HTTP/REST endpoint](https://medium.com/@amsokol.com/tutorial-how-to-develop-go-grpc-microservice-with-http-rest-endpoint-middleware-kubernetes-af1fff81aeb2)
 * [How to develop gRPC microservice - Part 3: Middleware](https://medium.com/@amsokol.com/tutorial-part-3-how-to-develop-go-grpc-microservice-with-http-rest-endpoint-middleware-739aac8f1d7e)
+
+## E-Mail
+
+* [Hermes - Clean, responsive HTML e-mails](https://github.com/matcornic/hermes)
