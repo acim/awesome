@@ -144,6 +144,7 @@
 
 * [Advanced testing](https://www.youtube.com/watch?v=yszygk1cpEc)
 * [In-memory network stack](https://akutz.wordpress.com/2018/04/20/memconn/)
+* [Testing HTTP handlers](https://blog.questionable.services/article/testing-http-handlers-go/)
 
 ## Public API's
 
@@ -151,6 +152,8 @@
 
 ## gRPC
 
+* [Building high performance API's using gRPC and Protocol Buffers](https://medium.com/@shijuvar/building-high-performance-apis-in-go-using-grpc-and-protocol-buffers-2eda5b80771b)
+* [gRPC gateway](https://github.com/grpc-ecosystem/grpc-gateway)
 * [How to develop gRPC microservice - Part 1](https://medium.com/@amsokol.com/tutorial-how-to-develop-go-grpc-microservice-with-http-rest-endpoint-middleware-kubernetes-daebb36a97e9)
 * [How to develop gRPC microservice - Part 2: HTTP/REST endpoint](https://medium.com/@amsokol.com/tutorial-how-to-develop-go-grpc-microservice-with-http-rest-endpoint-middleware-kubernetes-af1fff81aeb2)
 * [How to develop gRPC microservice - Part 3: Middleware](https://medium.com/@amsokol.com/tutorial-part-3-how-to-develop-go-grpc-microservice-with-http-rest-endpoint-middleware-739aac8f1d7e)
