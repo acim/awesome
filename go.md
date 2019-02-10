@@ -55,6 +55,7 @@
 
 * [Don’t use default HTTP client in production](https://medium.com/@nate510/don-t-use-go-s-default-http-client-4804cb19f779)
 * [Resty - imple HTTP and REST client library](https://github.com/go-resty/resty/)
+* [Transport for http.Client that will cache responses according to the HTTP RFC](https://github.com/gregjones/httpcache)
 
 ## Docker
 
@@ -168,4 +169,4 @@
 
 ## Miscellaneous
 
-[File type discovery using magic numbers](https://github.com/h2non/filetype)
+[File type discovery using magic numbers](https://github.com/h2non/filetype)‚
