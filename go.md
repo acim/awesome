@@ -161,3 +161,11 @@
 ## E-Mail
 
 * [Hermes - Clean, responsive HTML e-mails](https://github.com/matcornic/hermes)
+
+## Logging
+
+* [ripzap - The fastest structured, leveled JSON logger](https://github.com/bloom42/rz-go)
+
+## Miscellaneous
+
+[File type discovery using magic numbers](https://github.com/h2non/filetype)
