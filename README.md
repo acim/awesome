@@ -3,7 +3,7 @@
 A curated list of delightful developers resources.
 
 * [Go](go.md)
-* [Kubernetes](kubernetes.md)
+* [Kubernetes](k8s.md)
 * [git](git.md)
 * [AWS](aws.md)
 * [mongoDB](mongodb.md)
