@@ -2,12 +2,16 @@
     "cSpell.words": [
         "dockerfile",
         "dockerfiles",
+        "istio",
+        "kubectl",
         "kubernetes",
+        "kubespray",
         "microservice",
         "microservices",
         "minikube",
         "multithreading",
         "serverless",
+        "solr",
         "struct"
     ]
 }
