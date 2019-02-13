@@ -36,6 +36,7 @@
 * [Helm hub](https://hub.helm.sh/)
 * [Charts](https://github.com/helm/charts)
 * [Solr](https://github.com/guigo2k/helm-solr)
+* [Portus](https://github.com/kubic-project/caasp-services/tree/master/contrib/helm-charts/portus)
 * [Plugins](https://docs.helm.sh/related/)
 
 ## Example commands
