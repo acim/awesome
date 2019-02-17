@@ -136,6 +136,7 @@
 * [A curated list of awesome linters (more than 60 linters and tools)](https://github.com/golangci/awesome-go-linters)
 * [GopherCI helps you maintain high-quality Go projects by checking each GitHub pull request](https://github.com/bradleyfalzon/gopherci)
 * [A good Makefile](https://azer.bike/journal/a-good-makefile-for-go/)
+* [SonarQube](https://medium.com/red6-es/go-for-sonarqube-ffff5b74f33a)
 
 ## Raspberry PI
 
