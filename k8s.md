@@ -24,6 +24,7 @@
 * [Clair - Vulnerability static analysis for containers](https://github.com/coreos/clair)
 * [JenkinsX - Continuous delivery for Kubernetes](https://jenkins-x.io/demos/devoxx-uk-2018/)
 * [ChartMuseum - Host your own Helm chart repository](https://github.com/helm/chartmuseum)
+* [Kompose - translate docker-compose files to Kubernetes resources](https://github.com/kubernetes/kompose)
 
 ## Courses
 
