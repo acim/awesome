@@ -69,6 +69,12 @@ alias k=kubectl
 complete -F __start_kubectl k
 ```
 
+### Set context in kube-system namespace
+
+```sh
+kubectl set-context context_name --namespace kube-system
+```
+
 ### Example commands
 
 * Get pods with labels
@@ -93,6 +99,42 @@ kubectl get po,svc,pv,pvc,deploy,rs
 
 ```sh
 kubectl get deployment deployment_name -o yaml --export
+```
+
+* Create service by exposing port
+
+```sh
+kubectl expose rc nginx --port=80 --target-port=8000
+```
+
+* Create service for pod
+
+```sh
+kubectl expose pod pod_name --port=444 --name=frontend
+```
+
+* Create ClusterIP service
+
+```sh
+kubectl create service clusterip service_name --tcp=5678:8080
+```
+
+* Set deployment's nginx container image to specific version and it's busybox container to busybox
+
+```sh
+kubectl set image deployment/nginx busybox=busybox nginx=nginx:1.9.1
+```
+
+* Update all deployments and replicasets using nginx to version 1.9.1
+
+```sh
+kubectl set image deployments,rc nginx=nginx:1.9.1 --all
+```
+
+* Update image of all containers of deamonset
+
+```sh
+kubectl set image deamonset ds_name *=nginx:1.9.1
 ```
 
 * Rollout
