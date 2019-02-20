@@ -40,13 +40,65 @@
 * [Portus](https://github.com/kubic-project/caasp-services/tree/master/contrib/helm-charts/portus)
 * [Plugins](https://docs.helm.sh/related/)
 
-## Example commands
-
-* kubectl get pods --show-labels
-* kubectl rollout status
-* kubectl rollout history
-* kubectl rollout undo
-
 ## Pin Docker version
 
 apt-get install docker-ce="18.06.0~ce~3-0~ubuntu"
+
+## kubectl Cheat Sheet
+
+[Official Cheat Sheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/)
+
+### Autocomplete
+
+* Turn on autocomplete in the current shell
+
+```sh
+source <(kubectl completion bash)
+```
+
+* Turn on autocomplete permanently
+
+```sh
+echo "source <(kubectl completion bash)" >> ~/.bashrc
+```
+
+* Make alias k and autocomplete for it
+
+```sh
+alias k=kubectl
+complete -F __start_kubectl k
+```
+
+### Example commands
+
+* Get pods with labels
+
+```sh
+kubectl get pods --show-labels
+```
+
+* Get all resources
+
+```sh
+kubectl get all
+```
+
+* Get multiple resources
+
+```sh
+kubectl get po,svc,pv,pvc,deploy,rs
+```
+
+* Output resource without creationTimestamp, selfLink, uid, ResourceVersion, etc.
+
+```sh
+kubectl get deployment deployment_name -o yaml --export
+```
+
+* Rollout
+
+```sh
+kubectl rollout status
+kubectl rollout history
+kubectl rollout undo
+```
