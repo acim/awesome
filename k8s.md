@@ -137,6 +137,63 @@ kubectl set image deployments,rc nginx=nginx:1.9.1 --all
 kubectl set image deamonset ds_name *=nginx:1.9.1
 ```
 
+* Create nginx deployment
+
+```sh
+kubectl run nginx --image=nginx
+```
+
+* Create nginx pod
+
+```sh
+kubectl run nginx --image=nginx --restart=Never
+```
+
+* Create nginx job
+
+```sh
+kubectl run nginx --image=nginx --restart=OnFailure
+```
+
+* Create nginx cronjob
+
+```sh
+kubectl run nginx --image=nginx --restart=OnFailure --schedule="* * * * *"
+```
+
+* Easily create pod resource yaml file
+
+```sh
+kubectl run nginx --image=nginx --restart=Never --port=80 --namespace=my_ns --command \
+  --serviceaccount=ma_sa --env=HOSTNAME=local --labels=unit=finance,env=dev \
+  --requests='cpu=100m,memory=256Mi' --limits='cpu=200m,memory=512Mi' \
+  --dry-run -o yaml -- /bin/sh -c 'echo hello'
+```
+
+* Easily create deployment resource
+
+```sh
+kubectl run deploy_name --replicas=2 --labels=run=load-balancer-example --image=busybox --port=8080
+```
+
+* Easily create service
+
+```sh
+kubectl expose deyployment frontend --type=NodePort --name=frontend-service --port=6262 --target-port=8080
+```
+
+* Easily set service account for deployment
+
+```sh
+kubectl set serviceaccount deployment frontend user_name
+```
+
+* Easily create service resource
+
+```sh
+kubectl create service clusterip service_name --tcp=5678:8080 --dry-run -o yaml
+```
+
 * Rollout
 
 ```sh
