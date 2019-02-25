@@ -115,6 +115,9 @@
 
 * [SQLX - extensions on top of database/sql package](https://jmoiron.github.io/sqlx/)
 * [Grimoire ORM](https://github.com/Fs02/grimoire)
+* [kingshard - high-performance proxy for MySQL](https://github.com/flike/kingshard)
+* [Vitess - database clustering system for horizontal scaling of MySQL](https://vitess.io/)
+* [Nap - library that abstracts access to master-slave physical SQL servers](https://github.com/tsenart/nap)
 
 ## Microservices
 
