@@ -10,6 +10,8 @@
         "microservices",
         "minikube",
         "multithreading",
+        "provisioner",
+        "rbac",
         "serverless",
         "solr",
         "struct"

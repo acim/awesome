@@ -14,6 +14,7 @@
 * [Kubespray - Deploy a production ready Kubernetes cluster](https://github.com/kubernetes-sigs/kubespray)
 * [Community Operators](https://commons.openshift.org/sig/operators.html)
 * [Ingress basic auth](https://kubernetes.github.io/ingress-nginx/examples/auth/basic/)
+* [Generate RBAC policies based on Kubernetes audit logs](https://github.com/liggitt/audit2rbac)
 
 ## Blogs
 
