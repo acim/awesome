@@ -9,6 +9,7 @@
 * [Code snippets](snippets.go)
 * [Applying the clean architecture](http://manuel.kiessling.net/2012/09/28/applying-the-clean-architecture-to-go-applications/)
 * [Shrink your binaries with this one weird trick](https://blog.filippo.io/shrink-your-go-binaries-with-this-one-weird-trick/)
+* [Stripping dependency bloat](https://medium.com/@valyala/stripping-dependency-bloat-in-victoriametrics-docker-image-983fb5912b0d)
 * [How to improve latency by 700% using sync.Pool](http://www.akshaydeo.com/blog/2017/12/23/How-did-I-improve-latency-by-700-percent-using-syncPool/)
 * [Packing multiple binaries in a package](https://ieftimov.com/golang-package-multiple-binaries)
 * [Supercronic - crontab-compatible job runner designed to run in containers](https://github.com/aptible/supercronic)
