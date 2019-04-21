@@ -25,8 +25,9 @@
 ## Blogs
 
 * [Dave Cheney](https://dave.cheney.net/)
-* [divan](https://divan.github.io/)
+* [Ivan Daniluk](https://divan.github.io/)
 * [Ardan labs](https://www.ardanlabs.com/blog/)
+* [Johan Brandhorst ](https://jbrandhorst.com/)
 
 ## Concurrency
 
@@ -141,6 +142,7 @@
 * [GopherCI helps you maintain high-quality Go projects by checking each GitHub pull request](https://github.com/bradleyfalzon/gopherci)
 * [A good Makefile](https://azer.bike/journal/a-good-makefile-for-go/)
 * [SonarQube](https://medium.com/red6-es/go-for-sonarqube-ffff5b74f33a)
+* [Overview of tooling](https://www.alexedwards.net/blog/an-overview-of-go-tooling)
 
 ## Raspberry PI
 
