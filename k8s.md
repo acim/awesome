@@ -32,7 +32,7 @@
 
 * [Stephen Grider - Udemy - Docker casts](https://github.com/StephenGrider/DockerCasts)
 * [Ward Viaene - On premise or cloud-agnostic Kubernetes](https://github.com/wardviaene/on-prem-or-cloud-agnostic-kubernetes)
-*[Ward Viaene - Kubernetes course](https://github.com/wardviaene/kubernetes-course)
+* [Ward Viaene - Kubernetes course](https://github.com/wardviaene/kubernetes-course)
 
 ## Helm
 
@@ -41,6 +41,12 @@
 * [Solr](https://github.com/guigo2k/helm-solr)
 * [Portus](https://github.com/kubic-project/caasp-services/tree/master/contrib/helm-charts/portus)
 * [Plugins](https://docs.helm.sh/related/)
+* [Template developer’s guide](https://helm.sh/docs/chart_template_guide/)
+
+## Custom Resource Defintions
+
+* [Accessing Kubernetes CRDs from client-go package](https://www.martin-helmich.de/en/blog/kubernetes-crd-client.html)
+* [Extending Kubernetes APIs with Custom Resource Definitions](https://medium.com/velotio-perspectives/extending-kubernetes-apis-with-custom-resource-definitions-crds-139c99ed3477)
 
 ## Pin Docker version
 
