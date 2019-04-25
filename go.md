@@ -143,6 +143,7 @@
 * [A good Makefile](https://azer.bike/journal/a-good-makefile-for-go/)
 * [SonarQube](https://medium.com/red6-es/go-for-sonarqube-ffff5b74f33a)
 * [Overview of tooling](https://www.alexedwards.net/blog/an-overview-of-go-tooling)
+* [Find outdated dependencies](https://github.com/psampaz/go-mod-outdated)
 
 ## Raspberry PI
 
