@@ -27,6 +27,7 @@
 * [ChartMuseum - Host your own Helm chart repository](https://github.com/helm/chartmuseum)
 * [Kompose - translate docker-compose files to Kubernetes resources](https://github.com/kubernetes/kompose)
 * [kuberhealthy - synthetic testing](https://github.com/Comcast/kuberhealthy)
+* [Keel - Kubernetes Operator to automate Helm, DaemonSet, StatefulSet & Deployment updates](https://github.com/keel-hq/keel)
 
 ## Courses
 
