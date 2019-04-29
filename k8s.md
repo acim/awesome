@@ -28,6 +28,7 @@
 * [Kompose - translate docker-compose files to Kubernetes resources](https://github.com/kubernetes/kompose)
 * [kuberhealthy - synthetic testing](https://github.com/Comcast/kuberhealthy)
 * [Keel - Kubernetes Operator to automate Helm, DaemonSet, StatefulSet & Deployment updates](https://github.com/keel-hq/keel)
+* [kontinuous - Kubernetes Continuous Integration & Delivery Platform](https://github.com/AcalephStorage/kontinuous)
 
 ## Courses
 
