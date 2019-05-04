@@ -29,6 +29,7 @@
 * [kuberhealthy - synthetic testing](https://github.com/Comcast/kuberhealthy)
 * [Keel - Kubernetes Operator to automate Helm, DaemonSet, StatefulSet & Deployment updates](https://github.com/keel-hq/keel)
 * [kontinuous - Kubernetes Continuous Integration & Delivery Platform](https://github.com/AcalephStorage/kontinuous)
+* [M3 - Uber’s large-scale metrics platform for Prometheus](https://eng.uber.com/m3/)
 
 ## Courses
 

@@ -5,6 +5,7 @@
 * [Tips and tricks](https://github.com/Microsoft/vscode-tips-and-tricks)
 * [A curated list of delightful VS Code packages and resources](https://github.com/viatsko/awesome-vscode)
 * [PHP and Vue optimized settings and extensions](http://calebporzio.com/my-vs-code-setup-2/)
+* [VSCodium – open source Visual Studio Code without trackers](https://www.fossmint.com/vscodium-clone-of-visual-studio-code-for-linux/)
 
 ## User settings (settings.json)
 
