@@ -45,6 +45,7 @@
 * [Portus](https://github.com/kubic-project/caasp-services/tree/master/contrib/helm-charts/portus)
 * [Plugins](https://docs.helm.sh/related/)
 * [Template developer’s guide](https://helm.sh/docs/chart_template_guide/)
+* [helmfile - Deploy Kubernetes Helm Charts](https://github.com/roboll/helmfile)
 
 ## Custom Resource Defintions
 
