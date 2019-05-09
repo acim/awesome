@@ -182,3 +182,7 @@
 ## Miscellaneous
 
 [File type discovery using magic numbers](https://github.com/h2non/filetype)‚
+
+## Images
+
+[caire - Content aware image resize library](https://github.com/esimov/caire)
