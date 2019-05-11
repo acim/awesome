@@ -15,6 +15,7 @@
 * [Community Operators](https://commons.openshift.org/sig/operators.html)
 * [Ingress basic auth](https://kubernetes.github.io/ingress-nginx/examples/auth/basic/)
 * [Generate RBAC policies based on Kubernetes audit logs](https://github.com/liggitt/audit2rbac)
+* [Awesome Kubernetes](https://github.com/helm/charts/tree/master/incubator/raw)
 
 ## Blogs
 
@@ -24,13 +25,20 @@
 
 * [Clair - Vulnerability static analysis for containers](https://github.com/coreos/clair)
 * [JenkinsX - Continuous delivery for Kubernetes](https://jenkins-x.io/demos/devoxx-uk-2018/)
-* [ChartMuseum - Host your own Helm chart repository](https://github.com/helm/chartmuseum)
 * [Kompose - translate docker-compose files to Kubernetes resources](https://github.com/kubernetes/kompose)
 * [kuberhealthy - synthetic testing](https://github.com/Comcast/kuberhealthy)
 * [Keel - Kubernetes Operator to automate Helm, DaemonSet, StatefulSet & Deployment updates](https://github.com/keel-hq/keel)
+* [Keel webhooks](https://keel.sh/v1/guide/documentation.html#Triggers)
 * [kontinuous - Kubernetes Continuous Integration & Delivery Platform](https://github.com/AcalephStorage/kontinuous)
 * [M3 - Uber’s large-scale metrics platform for Prometheus](https://eng.uber.com/m3/)
 * [kubectx & kubens - Switch faster between clusters and namespaces](https://github.com/ahmetb/kubectx)
+
+## Backup
+
+* [Velero (formerly Ark) - Backup and migrate Kubernetes applications and their persistent volumes](https://github.com/heptio/velero)
+[Backup Kubernetes – how and why](https://elastisys.com/2018/12/10/backup-kubernetes-how-and-why/)
+[How To Back Up and Restore Kubernetes Cluster using Ark](https://www.digitalocean.com/community/tutorials/how-to-back-up-and-restore-a-kubernetes-cluster-on-digitalocean-using-heptio-ark)
+[Backup etcd cluster](https://kubernetes.io/docs/tasks/administer-cluster/configure-upgrade-etcd/#backing-up-an-etcd-cluster)
 
 ## Courses
 
@@ -46,7 +54,16 @@
 * [Portus](https://github.com/kubic-project/caasp-services/tree/master/contrib/helm-charts/portus)
 * [Plugins](https://docs.helm.sh/related/)
 * [Template developer’s guide](https://helm.sh/docs/chart_template_guide/)
-* [helmfile - Deploy Kubernetes Helm Charts](https://github.com/roboll/helmfile)
+* [Helmfile - deploy Kubernetes Helm Charts](https://github.com/roboll/helmfile)
+* [Helmfile - chart deployment tool](https://medium.com/@devopseylife/helmfile-aka-helm-chart-deployment-tool-4e3378fad242)
+* [helmfile  -  it’s like a Helm for Helm](https://medium.com/@naseem_60378/helmfile-its-like-a-helm-for-your-helm-74a908581599)
+* [15+ useful Helm Charts tools](https://caylent.com/15-useful-helm-charts-tools/)
+* [ChartMuseum - host your own Helm chart repository](https://github.com/helm/chartmuseum)
+* [Using incubator/raw chart](https://github.com/roboll/helmfile/issues/494#issuecomment-474697430)
+* [incubator/raw - chart for kubectl declarations](https://github.com/helm/charts/tree/master/incubator/raw)
+* [Awesome Helm](https://github.com/cdwv/awesome-helm)
+* [Helm Chart starter - better Helm chart boilerplate](https://github.com/sitewards/helm-chart)
+* [Creating a better chart](https://medium.com/sitewards/deploying-on-kubernetes-2-scaffolding-6a54e5d181fb)
 
 ## Custom Resource Defintions
 
@@ -214,3 +231,21 @@ kubectl rollout status
 kubectl rollout history
 kubectl rollout undo
 ```
+
+* Browse documentation
+
+```sh
+kubectl explain --api-version="batch/v1beta1" cronjobs.spec
+```
+
+* Reboot cluster
+
+** stop kupe-apiserver on master
+** stop kube-scheduler on master
+** stop kube-controller on master
+** stop kubelet on master (if applicable)
+** kube-proxy on master (if applicable)
+** stop federation-apiserver on master (if applicable)
+** backup etcd
+** stop etcd
+** for each node stop kubelet and kube-proxy
