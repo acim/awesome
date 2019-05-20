@@ -32,6 +32,7 @@
 * [kontinuous - Kubernetes Continuous Integration & Delivery Platform](https://github.com/AcalephStorage/kontinuous)
 * [M3 - Uber’s large-scale metrics platform for Prometheus](https://eng.uber.com/m3/)
 * [kubectx & kubens - Switch faster between clusters and namespaces](https://github.com/ahmetb/kubectx)
+* [kubeone - Lifecycle management tool for highly available Kubernetes clusters](https://github.com/kubermatic/kubeone)
 
 ## Backup
 
@@ -65,10 +66,11 @@
 * [Helm Chart starter - better Helm chart boilerplate](https://github.com/sitewards/helm-chart)
 * [Creating a better chart](https://medium.com/sitewards/deploying-on-kubernetes-2-scaffolding-6a54e5d181fb)
 
-## Custom Resource Defintions
+## Custom Resource Defintions and Development
 
 * [Accessing Kubernetes CRDs from client-go package](https://www.martin-helmich.de/en/blog/kubernetes-crd-client.html)
 * [Extending Kubernetes APIs with Custom Resource Definitions](https://medium.com/velotio-perspectives/extending-kubernetes-apis-with-custom-resource-definitions-crds-139c99ed3477)
+* [Unit testing](https://medium.com/@e_frogers/unit-testing-with-kubernetes-client-go-283b11aaa7db)
 
 ## Pin Docker version
 
