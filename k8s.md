@@ -34,6 +34,7 @@
 * [M3 - Uber’s large-scale metrics platform for Prometheus](https://eng.uber.com/m3/)
 * [kubectx & kubens - Switch faster between clusters and namespaces](https://github.com/ahmetb/kubectx)
 * [kubeone - Lifecycle management tool for highly available Kubernetes clusters](https://github.com/kubermatic/kubeone)
+* [kaniko - Build Images In Kubernetes](https://github.com/GoogleContainerTools/kaniko)
 
 ## Backup
 
