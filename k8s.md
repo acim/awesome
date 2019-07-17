@@ -17,6 +17,7 @@
 * [Generate RBAC policies based on Kubernetes audit logs](https://github.com/liggitt/audit2rbac)
 * [Awesome Kubernetes](https://github.com/helm/charts/tree/master/incubator/raw)
 * [stern - tail multiple pods on Kubernetes and multiple containers within the pod](https://github.com/wercker/stern)
+* [Kubernetes SIG](https://github.com/kubernetes-sigs)
 
 ## Blogs
 
