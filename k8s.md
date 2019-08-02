@@ -17,6 +17,7 @@
 * [Generate RBAC policies based on Kubernetes audit logs](https://github.com/liggitt/audit2rbac)
 * [Awesome Kubernetes](https://github.com/helm/charts/tree/master/incubator/raw)
 * [stern - tail multiple pods on Kubernetes and multiple containers within the pod](https://github.com/wercker/stern)
+* [Kubernetes SIG](https://github.com/kubernetes-sigs)
 
 ## Blogs
 
@@ -35,6 +36,7 @@
 * [kubectx & kubens - Switch faster between clusters and namespaces](https://github.com/ahmetb/kubectx)
 * [kubeone - Lifecycle management tool for highly available Kubernetes clusters](https://github.com/kubermatic/kubeone)
 * [TK8 - Multi-cloud, multi-cluster Kubernetes platform installation and integration tool](https://github.com/kubernauts/tk8)
+* [kaniko - Build Images In Kubernetes](https://github.com/GoogleContainerTools/kaniko)
 
 ## Backup
 
@@ -73,6 +75,7 @@
 * [Accessing Kubernetes CRDs from client-go package](https://www.martin-helmich.de/en/blog/kubernetes-crd-client.html)
 * [Extending Kubernetes APIs with Custom Resource Definitions](https://medium.com/velotio-perspectives/extending-kubernetes-apis-with-custom-resource-definitions-crds-139c99ed3477)
 * [Unit testing](https://medium.com/@e_frogers/unit-testing-with-kubernetes-client-go-283b11aaa7db)
+* [Code Generation for CustomResources](https://blog.openshift.com/kubernetes-deep-dive-code-generation-customresources/)
 
 ## Pin Docker version
 

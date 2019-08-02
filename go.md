@@ -188,3 +188,7 @@
 ## Images
 
 [caire - Content aware image resize library](https://github.com/esimov/caire)
+
+## Error handling
+
+[cockroachdb/errors](https://github.com/cockroachdb/errors)
