@@ -27,7 +27,7 @@
 * [Dave Cheney](https://dave.cheney.net/)
 * [Ivan Daniluk](https://divan.github.io/)
 * [Ardan labs](https://www.ardanlabs.com/blog/)
-* [Johan Brandhorst ](https://jbrandhorst.com/)
+* [Johan Brandhorst](https://jbrandhorst.com/)
 
 ## Concurrency
 
@@ -58,6 +58,7 @@
 * [Don’t use default HTTP client in production](https://medium.com/@nate510/don-t-use-go-s-default-http-client-4804cb19f779)
 * [Resty - imple HTTP and REST client library](https://github.com/go-resty/resty/)
 * [Transport for http.Client that will cache responses according to the HTTP RFC](https://github.com/gregjones/httpcache)
+* [Ferret - web scraper](https://github.com/MontFerret/ferret)
 
 ## Docker
 
@@ -154,6 +155,7 @@
 * [Advanced testing](https://www.youtube.com/watch?v=yszygk1cpEc)
 * [In-memory network stack](https://akutz.wordpress.com/2018/04/20/memconn/)
 * [Testing HTTP handlers](https://blog.questionable.services/article/testing-http-handlers-go/)
+* [go-replayers - tools for recording and replaying RPCs](https://github.com/google/go-replayers)
 
 ## Public API's
 
