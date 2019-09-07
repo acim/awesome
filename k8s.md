@@ -78,6 +78,12 @@
 * [Unit testing](https://medium.com/@e_frogers/unit-testing-with-kubernetes-client-go-283b11aaa7db)
 * [Code Generation for CustomResources](https://blog.openshift.com/kubernetes-deep-dive-code-generation-customresources/)
 
+## Security
+
+* [Kubernetes Security Practices You Should Follow](https://blog.sonatype.com/kubesecops-kubernetes-security-practices-you-should-follow)
+* [Sealed Secrets](https://github.com/bitnami-labs/sealed-secrets)
+* [Vault](https://www.vaultproject.io/)
+
 ## Pin Docker version
 
 apt-get install docker-ce="18.06.0~ce~3-0~ubuntu"

@@ -13,7 +13,6 @@
 		"streetsidesoftware.code-spell-checker",
 		"tyriar.sort-lines",
 		"wayou.vscode-todo-highlight",
-		"wesbos.theme-cobalt2",
 	],
 	// List of extensions recommended by VS Code that should not be recommended for users of this workspace.
 	"unwantedRecommendations": []
