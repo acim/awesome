@@ -31,13 +31,20 @@
 * [kuberhealthy - synthetic testing](https://github.com/Comcast/kuberhealthy)
 * [Keel - Kubernetes Operator to automate Helm, DaemonSet, StatefulSet & Deployment updates](https://github.com/keel-hq/keel)
 * [Keel webhooks](https://keel.sh/v1/guide/documentation.html#Triggers)
-* [kontinuous - Kubernetes Continuous Integration & Delivery Platform](https://github.com/AcalephStorage/kontinuous)
 * [M3 - Uber’s large-scale metrics platform for Prometheus](https://eng.uber.com/m3/)
 * [kubectx & kubens - Switch faster between clusters and namespaces](https://github.com/ahmetb/kubectx)
 * [kubeone - Lifecycle management tool for highly available Kubernetes clusters](https://github.com/kubermatic/kubeone)
 * [TK8 - Multi-cloud, multi-cluster Kubernetes platform installation and integration tool](https://github.com/kubernauts/tk8)
 * [kaniko - Build Images In Kubernetes](https://github.com/GoogleContainerTools/kaniko)
 * [Kontemplate - Simple Kubernetes templater](https://github.com/tazjin/kontemplate)
+
+## CI & CD
+
+* [Tekton Pipelines](https://github.com/tektoncd/pipeline)
+* [Skaffold](https://github.com/GoogleContainerTools/skaffold)
+* [How to use Knative Pipelining Component to automate an Application Build and Deployment on Kubernetes](https://itnext.io/how-to-use-knative-pipelining-component-to-automate-an-application-build-and-deployment-on-442b0b1bebf)
+* [Build cloud native CI/CD build pipeline from GIT webhook](https://medium.com/@pongsatt/build-cloud-native-ci-cd-build-pipeline-from-git-webhook-9cd9a57a32e1)
+* [kontinuous - Kubernetes Continuous Integration & Delivery Platform](https://github.com/AcalephStorage/kontinuous)
 
 ## Backup
 
@@ -77,6 +84,8 @@
 * [Extending Kubernetes APIs with Custom Resource Definitions](https://medium.com/velotio-perspectives/extending-kubernetes-apis-with-custom-resource-definitions-crds-139c99ed3477)
 * [Unit testing](https://medium.com/@e_frogers/unit-testing-with-kubernetes-client-go-283b11aaa7db)
 * [Code Generation for CustomResources](https://blog.openshift.com/kubernetes-deep-dive-code-generation-customresources/)
+* [How to generate client codes for Kubernetes Custom Resource Definitions](https://itnext.io/how-to-generate-client-codes-for-kubernetes-custom-resource-definitions-crd-b4b9907769ba)
+* [Writing Kubernetes Custom Controllers](https://medium.com/@cloudark/kubernetes-custom-controllers-b6c7d0668fdf)
 
 ## Security
 
