@@ -40,6 +40,13 @@
 * [Channel use cases](https://go101.org/article/channel-use-cases.html)
 * [Load balancer](https://medium.com/@owlwalks/load-balancer-at-your-fingertips-golang-ea23d7aaee82)
 
+## Syncing goroutines
+
+* [errgroup](https://godoc.org/golang.org/x/sync/errgroup)
+* [tomb v2](https://github.com/go-tomb/tomb/tree/v2)
+* [tomb v1](https://github.com/go-tomb/tomb)
+* [oklog/run](https://github.com/oklog/run)
+
 ## HTTP server
 
 * [chi](https://github.com/go-chi/chi)
