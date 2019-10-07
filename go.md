@@ -59,6 +59,7 @@
 * [Serve local files](https://github.com/syntaqx/serve)
 * [Authenticate a Go API with JSON web tokens](https://www.thepolyglotdeveloper.com/2017/03/authenticate-a-golang-api-with-json-web-tokens/)
 * [Expose Go on the Internet](https://blog.cloudflare.com/exposing-go-on-the-internet/)
+* [GO_REUSEPORT](https://github.com/kavu/go_reuseport)
 
 ## HTTP client
 
