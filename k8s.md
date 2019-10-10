@@ -15,11 +15,10 @@
 * [Community Operators](https://commons.openshift.org/sig/operators.html)
 * [Ingress basic auth](https://kubernetes.github.io/ingress-nginx/examples/auth/basic/)
 * [Generate RBAC policies based on Kubernetes audit logs](https://github.com/liggitt/audit2rbac)
-* [Awesome Kubernetes](https://github.com/helm/charts/tree/master/incubator/raw)
+* [Awesome Kubernetes](https://github.com/ramitsurana/awesome-kubernetes)
 * [stern - tail multiple pods on Kubernetes and multiple containers within the pod](https://github.com/wercker/stern)
 * [Kubernetes SIG](https://github.com/kubernetes-sigs)
 * [12 Kubernetes configuration best practices](https://www.stackrox.com/post/2019/09/12-kubernetes-configuration-best-practices/)
-* [https://www.magalix.com/blog/kubernetes-patterns-capacity-planning](https://www.magalix.com/blog/kubernetes-patterns-capacity-planning)
 
 ## Blogs
 
