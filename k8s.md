@@ -96,6 +96,7 @@
 * [Kubernetes Security Practices You Should Follow](https://blog.sonatype.com/kubesecops-kubernetes-security-practices-you-should-follow)
 * [Sealed Secrets](https://github.com/bitnami-labs/sealed-secrets)
 * [Vault](https://www.vaultproject.io/)
+* [KUDO](https://github.com/kudobuilder/kudo)
 
 ## Pin Docker version
 
