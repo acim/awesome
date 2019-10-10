@@ -18,6 +18,8 @@
 * [Awesome Kubernetes](https://github.com/helm/charts/tree/master/incubator/raw)
 * [stern - tail multiple pods on Kubernetes and multiple containers within the pod](https://github.com/wercker/stern)
 * [Kubernetes SIG](https://github.com/kubernetes-sigs)
+* [12 Kubernetes configuration best practices](https://www.stackrox.com/post/2019/09/12-kubernetes-configuration-best-practices/)
+* [https://www.magalix.com/blog/kubernetes-patterns-capacity-planning](https://www.magalix.com/blog/kubernetes-patterns-capacity-planning)
 
 ## Blogs
 
