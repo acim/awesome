@@ -93,6 +93,7 @@
 * [Writing Kubernetes Custom Controllers](https://medium.com/@cloudark/kubernetes-custom-controllers-b6c7d0668fdf)
 * [How did that sidecar get there?](https://medium.com/dowjones/how-did-that-sidecar-get-there-4dcd73f1a0a4)
 * [k8s-sidecar-injector](https://github.com/tumblr/k8s-sidecar-injector)
+* [Controller to manage databases](https://github.com/kubehippie/database-controller)
 
 ## Security
 
