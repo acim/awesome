@@ -24,6 +24,10 @@
 
 * [Alex Ellis](https://blog.alexellis.io/)
 
+## Administration
+
+* [Adding a name or IP to the Kubernetes API Server certificate](https://blog.scottlowe.org/2019/07/30/adding-a-name-to-kubernetes-api-server-certificate/)
+
 ## Tools
 
 * [Clair - Vulnerability static analysis for containers](https://github.com/coreos/clair)
