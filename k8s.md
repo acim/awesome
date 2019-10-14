@@ -104,6 +104,7 @@
 ## Hetzner Cloud
 
 * [Install a Kubernetes cluster on cloud servers](https://community.hetzner.com/tutorials/install-kubernetes-cluster)
+* [Installing kubernetes cluster with wireguard](https://propellered.com/posts/kubernetes/)
 * [Load balancer Helm chart](https://github.com/exocode/helm-charts/tree/master/hetzner-failover-ip)
 * [Install hcloud-cloud-controller-manager with network support](https://github.com/hetznercloud/hcloud-cloud-controller-manager/blob/master/docs/deploy_with_networks.md)
 
