@@ -42,6 +42,7 @@
 * [TK8 - Multi-cloud, multi-cluster Kubernetes platform installation and integration tool](https://github.com/kubernauts/tk8)
 * [kaniko - Build Images In Kubernetes](https://github.com/GoogleContainerTools/kaniko)
 * [Kontemplate - Simple Kubernetes templater](https://github.com/tazjin/kontemplate)
+* [webkubectl - kubectl in web browser](https://github.com/webkubectl/webkubectl)
 
 ## CI & CD
 
