@@ -21,6 +21,7 @@
 * [50 shades of Go: traps, gotchas, and common mistakes](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/)
 * [Packaging application for OSX](https://medium.com/@mattholt/packaging-a-go-application-for-macos-f7084b00f6b5)
 * [How to create an SSH tunnel](http://elliot.land/post/how-to-create-an-ssh-tunnel-in-go)
+* [Uber Go style guide](https://github.com/uber-go/guide/blob/master/style.md)
 
 ## Blogs
 
