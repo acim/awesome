@@ -189,6 +189,7 @@
 ## Config
 
 * [konfig - composable, observable and performant config handling for Go for the distributed processing era](https://github.com/lalamove/konfig)
+* [A clean way to pass configs](https://dev.to/ilyakaznacheev/a-clean-way-to-pass-configs-in-a-go-application-1g64)
 
 ## Miscellaneous
 
