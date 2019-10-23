@@ -96,6 +96,7 @@
 * [k8s-sidecar-injector](https://github.com/tumblr/k8s-sidecar-injector)
 * [Controller to manage databases](https://github.com/kubehippie/database-controller)
 * [KUDO](https://github.com/kudobuilder/kudo)
+* [How to Build a Custom Kubernetes Ingress Controller in Go](http://www.doxsey.net/blog/how-to-build-a-custom-kubernetes-ingress-controller-in-go)
 
 ## Security
 
