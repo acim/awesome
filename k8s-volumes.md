@@ -9,7 +9,7 @@ spec:
         defaultMode: 0644
         items:
         - key: foo-config-map-key
-        path: destination-filename.conf
+          path: destination-filename.conf
         optional: false
 ```
 
