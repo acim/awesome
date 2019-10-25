@@ -2,8 +2,6 @@
 
 * [Best practices for writing Dockerfiles](https://docs.docker.com/engine/userguide/eng-image/dockerfile_best-practices/)
 * [Using Kaniko for Container Builds on Kubernetes](https://harthoover.com/using-kaniko-for-container-builds-on-kubernetes/)
-* []()
-* []()
 
 ## Tools
 
@@ -19,6 +17,9 @@
 ## Development
 
 * [Registry token authentication specification](https://docs.docker.com/registry/spec/auth/token/)
+* [Heroku Docker Registry Client](https://github.com/heroku/docker-registry-client)
+* [Google Golang library for working with container registries](https://github.com/google/go-containerregistry)
+* [genuinetools Docker registry v2 command line client](https://github.com/genuinetools/reg)
 
 ## Courses
 
