@@ -1,5 +1,7 @@
 # Kubernetes
 
+## [ConfigMaps and Secrets as volumes](k8s-volumes.md)
+
 * [Kubernetes by example](http://kubernetesbyexample.com/)
 * [Istio](https://www.youtube.com/watch?v=s4qasWn_mFc)
 * [Using NodeSelector to Schedule Deployments with large volumes of Stateful Data on Kubernetes](https://medium.com/@jmarhee/using-nodeselector-to-schedule-deployments-with-large-volumes-of-stateful-data-on-kubernetes-46bd3ac6059d)
