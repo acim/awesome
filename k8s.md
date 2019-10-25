@@ -30,7 +30,6 @@
 
 ## Tools
 
-* [Clair - Vulnerability static analysis for containers](https://github.com/coreos/clair)
 * [JenkinsX - Continuous delivery for Kubernetes](https://jenkins-x.io/demos/devoxx-uk-2018/)
 * [Kompose - translate docker-compose files to Kubernetes resources](https://github.com/kubernetes/kompose)
 * [kuberhealthy - synthetic testing](https://github.com/Comcast/kuberhealthy)
@@ -40,7 +39,6 @@
 * [kubectx & kubens - Switch faster between clusters and namespaces](https://github.com/ahmetb/kubectx)
 * [kubeone - Lifecycle management tool for highly available Kubernetes clusters](https://github.com/kubermatic/kubeone)
 * [TK8 - Multi-cloud, multi-cluster Kubernetes platform installation and integration tool](https://github.com/kubernauts/tk8)
-* [kaniko - Build Images In Kubernetes](https://github.com/GoogleContainerTools/kaniko)
 * [Kontemplate - Simple Kubernetes templater](https://github.com/tazjin/kontemplate)
 * [webkubectl - kubectl in web browser](https://github.com/webkubectl/webkubectl)
 
@@ -61,7 +59,6 @@
 
 ## Courses
 
-* [Stephen Grider - Udemy - Docker casts](https://github.com/StephenGrider/DockerCasts)
 * [Ward Viaene - On premise or cloud-agnostic Kubernetes](https://github.com/wardviaene/on-prem-or-cloud-agnostic-kubernetes)
 * [Ward Viaene - Kubernetes course](https://github.com/wardviaene/kubernetes-course)
 
@@ -110,10 +107,6 @@
 * [Installing kubernetes cluster with wireguard](https://propellered.com/posts/kubernetes/)
 * [Load balancer Helm chart](https://github.com/exocode/helm-charts/tree/master/hetzner-failover-ip)
 * [Install hcloud-cloud-controller-manager with network support](https://github.com/hetznercloud/hcloud-cloud-controller-manager/blob/master/docs/deploy_with_networks.md)
-
-## Pin Docker version
-
-apt-get install docker-ce="18.06.0~ce~3-0~ubuntu"
 
 ## kubectl commands
 
