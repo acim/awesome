@@ -110,6 +110,11 @@
 * [Load balancer Helm chart](https://github.com/exocode/helm-charts/tree/master/hetzner-failover-ip)
 * [Install hcloud-cloud-controller-manager with network support](https://github.com/hetznercloud/hcloud-cloud-controller-manager/blob/master/docs/deploy_with_networks.md)
 
+## CRI-O
+
+* [Install CRI-O as CRI runtime](https://kubernetes.io/docs/setup/production-environment/container-runtimes/#cri-o)
+* [Running CRI-O with kubeadm](https://github.com/cri-o/cri-o/blob/master/tutorials/kubeadm.md)
+
 ## kubectl commands
 
 * [Cheat sheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/)
