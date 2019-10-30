@@ -14,7 +14,6 @@
 * [Static provisioner of local volumes](https://github.com/kubernetes-sigs/sig-storage-local-static-provisioner)
 * [OpenEBS - Creating and attaching disk on GKE node](https://docs.openebs.io/docs/next/setupstoragepools.html#creating-and-attaching-a-disk-on-gke-node)
 * [Kubespray - Deploy a production ready Kubernetes cluster](https://github.com/kubernetes-sigs/kubespray)
-* [Community Operators](https://commons.openshift.org/sig/operators.html)
 * [Ingress basic auth](https://kubernetes.github.io/ingress-nginx/examples/auth/basic/)
 * [Generate RBAC policies based on Kubernetes audit logs](https://github.com/liggitt/audit2rbac)
 * [Awesome Kubernetes](https://github.com/ramitsurana/awesome-kubernetes)
@@ -29,6 +28,11 @@
 ## Administration
 
 * [Adding a name or IP to the Kubernetes API Server certificate](https://blog.scottlowe.org/2019/07/30/adding-a-name-to-kubernetes-api-server-certificate/)
+
+## Operators
+
+* [Community Operators](https://commons.openshift.org/sig/operators.html)
+* [OperatorHub](https://operatorhub.io/)
 
 ## Tools
 
