@@ -114,6 +114,10 @@
 * [Load balancer Helm chart](https://github.com/exocode/helm-charts/tree/master/hetzner-failover-ip)
 * [Install hcloud-cloud-controller-manager with network support](https://github.com/hetznercloud/hcloud-cloud-controller-manager/blob/master/docs/deploy_with_networks.md)
 
+## containerd
+
+* [Kubernetes with Cilium and containerd using kubeadm](https://blog.scottlowe.org/2018/09/06/kubernetes-cilium-containerd-using-kubeadm/)
+
 ## CRI-O
 
 * [Install CRI-O as CRI runtime](https://kubernetes.io/docs/setup/production-environment/container-runtimes/#cri-o)
