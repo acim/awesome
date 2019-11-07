@@ -111,10 +111,16 @@
 
 ## Hetzner Cloud
 
+* [Sysctl configuration for high performance](https://gist.github.com/techgaun/958e117b730634fa8128)
 * [Install a Kubernetes cluster on cloud servers](https://community.hetzner.com/tutorials/install-kubernetes-cluster)
 * [Installing kubernetes cluster with wireguard](https://propellered.com/posts/kubernetes/)
 * [Load balancer Helm chart](https://github.com/exocode/helm-charts/tree/master/hetzner-failover-ip)
 * [Install hcloud-cloud-controller-manager with network support](https://github.com/hetznercloud/hcloud-cloud-controller-manager/blob/master/docs/deploy_with_networks.md)
+* [Creating a single control-plane cluster with kubeadm](https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/create-cluster-kubeadm/)
+* [Installing a pod network add-on](https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/create-cluster-kubeadm/#pod-network)
+* [Install Cilium](https://cilium.readthedocs.io/en/stable/gettingstarted/k8s-install-default/)
+* /etc/default/docker: DOCKER_OPTS="--iptables=false --ip-masq=false"
+* Cilium --pod-network-cidr=10.217.0.0/16
 
 ## containerd
 
