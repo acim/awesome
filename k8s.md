@@ -24,10 +24,12 @@
 ## Blogs
 
 * [Alex Ellis](https://blog.alexellis.io/)
+* [IMTI - Architecting, Developing, nixCraft, DevOps, AI/ML, Blockchain](https://imti.co/)
 
 ## Administration
 
 * [Adding a name or IP to the Kubernetes API Server certificate](https://blog.scottlowe.org/2019/07/30/adding-a-name-to-kubernetes-api-server-certificate/)
+* [CORS on Kubernetes Ingress Nginx](https://imti.co/kubernetes-ingress-nginx-cors/)
 
 ## Operators
 
