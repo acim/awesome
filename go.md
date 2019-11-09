@@ -171,6 +171,7 @@
 * [In-memory network stack](https://akutz.wordpress.com/2018/04/20/memconn/)
 * [Testing HTTP handlers](https://blog.questionable.services/article/testing-http-handlers-go/)
 * [go-replayers - tools for recording and replaying RPCs](https://github.com/google/go-replayers)
+* [httpexpect - Concise, declarative, and easy to use end-to-end HTTP and REST API testing for Go](https://github.com/gavv/httpexpect)
 
 ## Public API's
 
