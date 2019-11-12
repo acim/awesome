@@ -68,6 +68,11 @@
 * [JWT auth in Go](https://medium.com/monstar-lab-bangladesh-engineering/jwt-auth-in-go-dde432440924)
 * [JWT auth in Go Part 2 — Refresh Tokens](https://medium.com/monstar-lab-bangladesh-engineering/jwt-auth-in-go-part-2-refresh-tokens-d334777ca8a0)
 
+## Authz
+
+* [Casbin custom functions](https://casbin.org/docs/en/function#how-to-add-a-customized-function)
+* [Casbin custom functions](https://github.com/casbin/casbin/issues/33)
+
 ## HTTP client
 
 * [Don’t use default HTTP client in production](https://medium.com/@nate510/don-t-use-go-s-default-http-client-4804cb19f779)
