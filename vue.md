@@ -16,6 +16,7 @@
 
 * [Amazon S3 Browser Upload](https://www.shanestillwell.com/2018/09/02/amazon-file-upload/)
 * [vue-s3-dropzone - Dropzone component uploads files to AWS S3 serverlessly](https://github.com/kfei/vue-s3-dropzone)
+* [Secure File Upload to S3  Directly from the Browser](https://m.youtube.com/watch?v=shCCP4PFXeU)
 
 ## Quasar
 
