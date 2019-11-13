@@ -16,3 +16,17 @@
 
 * [Amazon S3 Browser Upload](https://www.shanestillwell.com/2018/09/02/amazon-file-upload/)
 * [vue-s3-dropzone - Dropzone component uploads files to AWS S3 serverlessly](https://github.com/kfei/vue-s3-dropzone)
+
+## Quasar
+
+* [Introduction to Vue.js and the Quasar Framework](https://www.sitepoint.com/vue-js-quasar-framework/)
+* [Creating Quasar Framework project with Typescript support](https://dev.to/xkonti/creating-quasar-framework-project-with-typescript-support-51ge)
+
+## Mobile applications
+
+* [NativeScript - Create Native iOS and Android Apps with JavaScript](https://www.nativescript.org)
+* [Weex](https://weex.apache.org/)
+
+## Cool effects
+
+* [particles.js](https://vincentgarreau.com/particles.js/)
