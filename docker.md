@@ -9,6 +9,8 @@
 * [Harbor - cloud native registry](https://github.com/goharbor/harbor)
 * [Portus- authorization service and frontend for Docker registry](https://github.com/SUSE/Portus)
 * [kaniko - Build Images In Kubernetes](https://github.com/GoogleContainerTools/kaniko)
+* [Watchtower - process for automating Docker container base image updates](https://github.com/containrrr/watchtower)
+* [5 Docker Utilities You Should Know](https://blog.xebialabs.com/2017/05/18/5-docker-utilities-you-should-know/)
 
 ## Utilities to be used inside containers
 
