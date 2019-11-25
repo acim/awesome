@@ -28,6 +28,15 @@
 * [NativeScript - Create Native iOS and Android Apps with JavaScript](https://www.nativescript.org)
 * [Weex](https://weex.apache.org/)
 
+## Editors
+
+* [Editor.js](https://editorjs.io/)
+* [Vue Mobiledoc Editor](https://github.com/alidcastano/vue-mobiledoc-editor)
+* [CKEDitor 5](https://ckeditor.com/ckeditor-5/demo/)
+* [tiptap](https://github.com/scrumpy/tiptap)
+
 ## Cool effects
 
 * [particles.js](https://vincentgarreau.com/particles.js/)
+* [lax.js - simple & light weight vanilla javascript plugin to create smooth & beautiful animations when you scroll](https://github.com/alexfoxy/laxxx)
+* [Laxxx.js - An Awesome Scroll Animation Library that's Only 2KB!](https://www.youtube.com/watch?v=jaVy3SCibJw&t)
