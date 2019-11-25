@@ -31,6 +31,7 @@
 ## Editors
 
 * [Editor.js](https://editorjs.io/)
+  * [Rendering](https://github.com/codex-team/codex/tree/master/www/application/views/templates/editor/plugins)
 * [Vue Mobiledoc Editor](https://github.com/alidcastano/vue-mobiledoc-editor)
 * [CKEDitor 5](https://ckeditor.com/ckeditor-5/demo/)
 * [tiptap](https://github.com/scrumpy/tiptap)
