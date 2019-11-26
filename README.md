@@ -3,6 +3,7 @@
 A curated list of delightful developers resources.
 
 * [Drone](drone.md)
+* [Frontend](frontend.md)
 * [git](git.md)
 * [Go](go.md)
 * [Kubernetes](k8s.md)
