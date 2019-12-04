@@ -21,6 +21,7 @@
 * [50 shades of Go: traps, gotchas, and common mistakes](http://devs.cloudimmunity.com/gotchas-and-common-mistakes-in-go-golang/)
 * [Packaging application for OSX](https://medium.com/@mattholt/packaging-a-go-application-for-macos-f7084b00f6b5)
 * [How to create an SSH tunnel](http://elliot.land/post/how-to-create-an-ssh-tunnel-in-go)
+* [Uber Go style guide](https://github.com/uber-go/guide/blob/master/style.md)
 
 ## Blogs
 
@@ -40,6 +41,13 @@
 * [Channel use cases](https://go101.org/article/channel-use-cases.html)
 * [Load balancer](https://medium.com/@owlwalks/load-balancer-at-your-fingertips-golang-ea23d7aaee82)
 
+## Syncing goroutines
+
+* [errgroup](https://godoc.org/golang.org/x/sync/errgroup)
+* [tomb v2](https://github.com/go-tomb/tomb/tree/v2)
+* [tomb v1](https://github.com/go-tomb/tomb)
+* [oklog/run](https://github.com/oklog/run)
+
 ## HTTP server
 
 * [chi](https://github.com/go-chi/chi)
@@ -52,6 +60,19 @@
 * [Serve local files](https://github.com/syntaqx/serve)
 * [Authenticate a Go API with JSON web tokens](https://www.thepolyglotdeveloper.com/2017/03/authenticate-a-golang-api-with-json-web-tokens/)
 * [Expose Go on the Internet](https://blog.cloudflare.com/exposing-go-on-the-internet/)
+* [GO_REUSEPORT](https://github.com/kavu/go_reuseport)
+* [API Design Cheat Sheet](https://github.com/RestCheatSheet/api-cheat-sheet)
+
+## Auth
+
+* [JWT auth in Go](https://medium.com/monstar-lab-bangladesh-engineering/jwt-auth-in-go-dde432440924)
+* [JWT auth in Go Part 2 — Refresh Tokens](https://medium.com/monstar-lab-bangladesh-engineering/jwt-auth-in-go-part-2-refresh-tokens-d334777ca8a0)
+
+## Authz
+
+* [Casbin custom functions](https://casbin.org/docs/en/function#how-to-add-a-customized-function)
+* [Casbin custom functions](https://github.com/casbin/casbin/issues/33)
+* [How to implement RBAC custom function which has to read information from database?](https://github.com/casbin/casbin/issues/326#issuecomment-552875116)
 
 ## HTTP client
 
@@ -156,6 +177,7 @@
 * [In-memory network stack](https://akutz.wordpress.com/2018/04/20/memconn/)
 * [Testing HTTP handlers](https://blog.questionable.services/article/testing-http-handlers-go/)
 * [go-replayers - tools for recording and replaying RPCs](https://github.com/google/go-replayers)
+* [httpexpect - Concise, declarative, and easy to use end-to-end HTTP and REST API testing for Go](https://github.com/gavv/httpexpect)
 
 ## Public API's
 
@@ -180,6 +202,7 @@
 ## Config
 
 * [konfig - composable, observable and performant config handling for Go for the distributed processing era](https://github.com/lalamove/konfig)
+* [A clean way to pass configs](https://dev.to/ilyakaznacheev/a-clean-way-to-pass-configs-in-a-go-application-1g64)
 
 ## Miscellaneous
 

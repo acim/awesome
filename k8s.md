@@ -1,5 +1,7 @@
 # Kubernetes
 
+## [ConfigMaps and Secrets as volumes](k8s-volumes.md)
+
 * [Kubernetes by example](http://kubernetesbyexample.com/)
 * [Istio](https://www.youtube.com/watch?v=s4qasWn_mFc)
 * [Using NodeSelector to Schedule Deployments with large volumes of Stateful Data on Kubernetes](https://medium.com/@jmarhee/using-nodeselector-to-schedule-deployments-with-large-volumes-of-stateful-data-on-kubernetes-46bd3ac6059d)
@@ -12,20 +14,30 @@
 * [Static provisioner of local volumes](https://github.com/kubernetes-sigs/sig-storage-local-static-provisioner)
 * [OpenEBS - Creating and attaching disk on GKE node](https://docs.openebs.io/docs/next/setupstoragepools.html#creating-and-attaching-a-disk-on-gke-node)
 * [Kubespray - Deploy a production ready Kubernetes cluster](https://github.com/kubernetes-sigs/kubespray)
-* [Community Operators](https://commons.openshift.org/sig/operators.html)
 * [Ingress basic auth](https://kubernetes.github.io/ingress-nginx/examples/auth/basic/)
 * [Generate RBAC policies based on Kubernetes audit logs](https://github.com/liggitt/audit2rbac)
-* [Awesome Kubernetes](https://github.com/helm/charts/tree/master/incubator/raw)
+* [Awesome Kubernetes](https://github.com/ramitsurana/awesome-kubernetes)
 * [stern - tail multiple pods on Kubernetes and multiple containers within the pod](https://github.com/wercker/stern)
 * [Kubernetes SIG](https://github.com/kubernetes-sigs)
+* [12 Kubernetes configuration best practices](https://www.stackrox.com/post/2019/09/12-kubernetes-configuration-best-practices/)
 
 ## Blogs
 
 * [Alex Ellis](https://blog.alexellis.io/)
+* [IMTI - Architecting, Developing, nixCraft, DevOps, AI/ML, Blockchain](https://imti.co/)
+
+## Administration
+
+* [Adding a name or IP to the Kubernetes API Server certificate](https://blog.scottlowe.org/2019/07/30/adding-a-name-to-kubernetes-api-server-certificate/)
+* [CORS on Kubernetes Ingress Nginx](https://imti.co/kubernetes-ingress-nginx-cors/)
+
+## Operators
+
+* [Community Operators](https://commons.openshift.org/sig/operators.html)
+* [OperatorHub](https://operatorhub.io/)
 
 ## Tools
 
-* [Clair - Vulnerability static analysis for containers](https://github.com/coreos/clair)
 * [JenkinsX - Continuous delivery for Kubernetes](https://jenkins-x.io/demos/devoxx-uk-2018/)
 * [Kompose - translate docker-compose files to Kubernetes resources](https://github.com/kubernetes/kompose)
 * [kuberhealthy - synthetic testing](https://github.com/Comcast/kuberhealthy)
@@ -35,8 +47,8 @@
 * [kubectx & kubens - Switch faster between clusters and namespaces](https://github.com/ahmetb/kubectx)
 * [kubeone - Lifecycle management tool for highly available Kubernetes clusters](https://github.com/kubermatic/kubeone)
 * [TK8 - Multi-cloud, multi-cluster Kubernetes platform installation and integration tool](https://github.com/kubernauts/tk8)
-* [kaniko - Build Images In Kubernetes](https://github.com/GoogleContainerTools/kaniko)
 * [Kontemplate - Simple Kubernetes templater](https://github.com/tazjin/kontemplate)
+* [webkubectl - kubectl in web browser](https://github.com/webkubectl/webkubectl)
 
 ## CI & CD
 
@@ -49,13 +61,12 @@
 ## Backup
 
 * [Velero (formerly Ark) - Backup and migrate Kubernetes applications and their persistent volumes](https://github.com/heptio/velero)
-[Backup Kubernetes – how and why](https://elastisys.com/2018/12/10/backup-kubernetes-how-and-why/)
-[How To Back Up and Restore Kubernetes Cluster using Ark](https://www.digitalocean.com/community/tutorials/how-to-back-up-and-restore-a-kubernetes-cluster-on-digitalocean-using-heptio-ark)
-[Backup etcd cluster](https://kubernetes.io/docs/tasks/administer-cluster/configure-upgrade-etcd/#backing-up-an-etcd-cluster)
+* [Backup Kubernetes – how and why](https://elastisys.com/2018/12/10/backup-kubernetes-how-and-why/)
+* [How To Back Up and Restore Kubernetes Cluster using Ark](https://www.digitalocean.com/community/tutorials/how-to-back-up-and-restore-a-kubernetes-cluster-on-digitalocean-using-heptio-ark)
+* [Backup etcd cluster](https://kubernetes.io/docs/tasks/administer-cluster/configure-upgrade-etcd/#backing-up-an-etcd-cluster)
 
 ## Courses
 
-* [Stephen Grider - Udemy - Docker casts](https://github.com/StephenGrider/DockerCasts)
 * [Ward Viaene - On premise or cloud-agnostic Kubernetes](https://github.com/wardviaene/on-prem-or-cloud-agnostic-kubernetes)
 * [Ward Viaene - Kubernetes course](https://github.com/wardviaene/kubernetes-course)
 
@@ -88,6 +99,9 @@
 * [Writing Kubernetes Custom Controllers](https://medium.com/@cloudark/kubernetes-custom-controllers-b6c7d0668fdf)
 * [How did that sidecar get there?](https://medium.com/dowjones/how-did-that-sidecar-get-there-4dcd73f1a0a4)
 * [k8s-sidecar-injector](https://github.com/tumblr/k8s-sidecar-injector)
+* [Controller to manage databases](https://github.com/kubehippie/database-controller)
+* [KUDO](https://github.com/kudobuilder/kudo)
+* [How to Build a Custom Kubernetes Ingress Controller in Go](http://www.doxsey.net/blog/how-to-build-a-custom-kubernetes-ingress-controller-in-go)
 
 ## Security
 
@@ -95,13 +109,32 @@
 * [Sealed Secrets](https://github.com/bitnami-labs/sealed-secrets)
 * [Vault](https://www.vaultproject.io/)
 
-## Pin Docker version
+## Hetzner Cloud
 
-apt-get install docker-ce="18.06.0~ce~3-0~ubuntu"
+* [Sysctl configuration for high performance](https://gist.github.com/techgaun/958e117b730634fa8128)
+* [Install a Kubernetes cluster on cloud servers](https://community.hetzner.com/tutorials/install-kubernetes-cluster)
+* [Installing kubernetes cluster with wireguard](https://propellered.com/posts/kubernetes/)
+* [Load balancer Helm chart](https://github.com/exocode/helm-charts/tree/master/hetzner-failover-ip)
+* [Install hcloud-cloud-controller-manager with network support](https://github.com/hetznercloud/hcloud-cloud-controller-manager/blob/master/docs/deploy_with_networks.md)
+* [Creating a single control-plane cluster with kubeadm](https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/create-cluster-kubeadm/)
+* [Installing a pod network add-on](https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/create-cluster-kubeadm/#pod-network)
+* [Install Cilium](https://cilium.readthedocs.io/en/stable/gettingstarted/k8s-install-default/)
+* /etc/default/docker: DOCKER_OPTS="--iptables=false --ip-masq=false"
+* Cilium --pod-network-cidr=10.217.0.0/16
 
-## kubectl Cheat Sheet
+## containerd
 
-[Official Cheat Sheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/)
+* [Kubernetes with Cilium and containerd using kubeadm](https://blog.scottlowe.org/2018/09/06/kubernetes-cilium-containerd-using-kubeadm/)
+
+## CRI-O
+
+* [Install CRI-O as CRI runtime](https://kubernetes.io/docs/setup/production-environment/container-runtimes/#cri-o)
+* [Running CRI-O with kubeadm](https://github.com/cri-o/cri-o/blob/master/tutorials/kubeadm.md)
+
+## kubectl commands
+
+* [Cheat sheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/)
+* [Example commands](kubectl.md)
 
 ### Autocomplete
 
@@ -124,153 +157,14 @@ alias k=kubectl
 complete -F __start_kubectl k
 ```
 
-### Set context in kube-system namespace
+## Reboot cluster
 
-```sh
-kubectl set-context context_name --namespace kube-system
-```
-
-### Example commands
-
-* Get pods with labels
-
-```sh
-kubectl get pods --show-labels
-```
-
-* Get all resources
-
-```sh
-kubectl get all
-```
-
-* Get multiple resources
-
-```sh
-kubectl get po,svc,pv,pvc,deploy,rs
-```
-
-* Output resource without creationTimestamp, selfLink, uid, ResourceVersion, etc.
-
-```sh
-kubectl get deployment deployment_name -o yaml --export
-```
-
-* Create service by exposing port
-
-```sh
-kubectl expose rc nginx --port=80 --target-port=8000
-```
-
-* Create service for pod
-
-```sh
-kubectl expose pod pod_name --port=444 --name=frontend
-```
-
-* Create ClusterIP service
-
-```sh
-kubectl create service clusterip service_name --tcp=5678:8080
-```
-
-* Set deployment's nginx container image to specific version and it's busybox container to busybox
-
-```sh
-kubectl set image deployment/nginx busybox=busybox nginx=nginx:1.9.1
-```
-
-* Update all deployments and replicasets using nginx to version 1.9.1
-
-```sh
-kubectl set image deployments,rc nginx=nginx:1.9.1 --all
-```
-
-* Update image of all containers of deamonset
-
-```sh
-kubectl set image deamonset ds_name *=nginx:1.9.1
-```
-
-* Create nginx deployment
-
-```sh
-kubectl run nginx --image=nginx
-```
-
-* Create nginx pod
-
-```sh
-kubectl run nginx --image=nginx --restart=Never
-```
-
-* Create nginx job
-
-```sh
-kubectl run nginx --image=nginx --restart=OnFailure
-```
-
-* Create nginx cronjob
-
-```sh
-kubectl run nginx --image=nginx --restart=OnFailure --schedule="* * * * *"
-```
-
-* Easily create pod resource yaml file
-
-```sh
-kubectl run nginx --image=nginx --restart=Never --port=80 --namespace=my_ns --command \
-  --serviceaccount=ma_sa --env=HOSTNAME=local --labels=unit=finance,env=dev \
-  --requests='cpu=100m,memory=256Mi' --limits='cpu=200m,memory=512Mi' \
-  --dry-run -o yaml -- /bin/sh -c 'echo hello'
-```
-
-* Easily create deployment resource
-
-```sh
-kubectl run deploy_name --replicas=2 --labels=run=load-balancer-example --image=busybox --port=8080
-```
-
-* Easily create service
-
-```sh
-kubectl expose deyployment frontend --type=NodePort --name=frontend-service --port=6262 --target-port=8080
-```
-
-* Easily set service account for deployment
-
-```sh
-kubectl set serviceaccount deployment frontend user_name
-```
-
-* Easily create service resource
-
-```sh
-kubectl create service clusterip service_name --tcp=5678:8080 --dry-run -o yaml
-```
-
-* Rollout
-
-```sh
-kubectl rollout status
-kubectl rollout history
-kubectl rollout undo
-```
-
-* Browse documentation
-
-```sh
-kubectl explain --api-version="batch/v1beta1" cronjobs.spec
-```
-
-* Reboot cluster
-
-** stop kupe-apiserver on master
-** stop kube-scheduler on master
-** stop kube-controller on master
-** stop kubelet on master (if applicable)
-** kube-proxy on master (if applicable)
-** stop federation-apiserver on master (if applicable)
-** backup etcd
-** stop etcd
-** for each node stop kubelet and kube-proxy
+* stop kupe-apiserver on master
+* stop kube-scheduler on master
+* stop kube-controller on master
+* stop kubelet on master (if applicable)
+* kube-proxy on master (if applicable)
+* stop federation-apiserver on master (if applicable)
+* backup etcd
+* stop etcd
+* for each node stop kubelet and kube-proxy

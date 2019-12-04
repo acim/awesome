@@ -77,3 +77,28 @@
     },
 }
 ```
+
+## Vue.js and NUXT
+
+```json
+
+{
+  "eslint.validate": [
+    {
+      "language": "vue",
+      "autoFix": true
+    },
+    {
+      "language": "javascript",
+      "autoFix": true
+    },
+    {
+      "language": "javascriptreact",
+      "autoFix": true
+    }
+  ],
+  "eslint.autoFixOnSave": true,
+  "editor.formatOnSave": false,
+  "vetur.validation.template": false
+}
+```
