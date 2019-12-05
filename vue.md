@@ -39,5 +39,6 @@
 ## Cool effects
 
 * [particles.js](https://vincentgarreau.com/particles.js/)
+* [A Vue.js particles animation background component](https://github.com/lindelof/particles-bg-vue)
 * [lax.js - simple & light weight vanilla javascript plugin to create smooth & beautiful animations when you scroll](https://github.com/alexfoxy/laxxx)
 * [Laxxx.js - An Awesome Scroll Animation Library that's Only 2KB!](https://www.youtube.com/watch?v=jaVy3SCibJw&t)
