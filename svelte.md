@@ -1,3 +1,17 @@
 # Svelte
 
+* [made with Svelte](https://madewithsvelte.com/)
 * [A good authentication example, Sapper sessions, Svelte Store](https://www.nielsvandermolen.com/authentication-example-svelte-sapper/)
+
+## UI Libraries
+
+* [sveltestrap - Bootstrap 4](https://github.com/bestguy/sveltestrap)
+* [svelma - Bulma](https://github.com/c0bra/svelma)
+* [Additional Bulma based UI components](https://github.com/elcobvg/svelte-bulma-components)
+* [Svelte Material UI](https://github.com/hperrin/svelte-material-ui)
+
+## Routing
+
+* [Svelte Routing](https://github.com/EmilTholin/svelte-routing)
+* [svero](https://github.com/kazzkiq/svero)
+* [Svelte SPA Router](https://github.com/ItalyPaleAle/svelte-spa-router)
