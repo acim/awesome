@@ -2,6 +2,7 @@
 
 * [made with Svelte](https://madewithsvelte.com/)
 * [A good authentication example, Sapper sessions, Svelte Store](https://www.nielsvandermolen.com/authentication-example-svelte-sapper/)
+* [How to add environment variables](https://linguinecode.com/post/how-to-add-environment-variables-to-your-svelte-js-app)
 
 ## UI Libraries
 
@@ -15,3 +16,4 @@
 * [Svelte Routing](https://github.com/EmilTholin/svelte-routing)
 * [svero](https://github.com/kazzkiq/svero)
 * [Svelte SPA Router](https://github.com/ItalyPaleAle/svelte-spa-router)
+* [routify - Automated Svelte routes](https://github.com/sveltech/routify)
