@@ -19,6 +19,7 @@
 * [svero](https://github.com/kazzkiq/svero)
 * [Svelte SPA Router](https://github.com/ItalyPaleAle/svelte-spa-router)
 * [routify - Automated Svelte routes](https://github.com/sveltech/routify)
+* [yrv](https://github.com/pateketrueke/yrv)
 
 ## JWT Auth
 
