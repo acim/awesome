@@ -3,7 +3,8 @@
 * [made with Svelte](https://madewithsvelte.com/)
 * [A good authentication example, Sapper sessions, Svelte Store](https://www.nielsvandermolen.com/authentication-example-svelte-sapper/)
 * [How to add environment variables](https://linguinecode.com/post/how-to-add-environment-variables-to-your-svelte-js-app)
-* [Blog Niels van der Molen](https://www.nielsvandermolen.com/category/svelte/)
+* [Niels van der Molen - Svelte Blog](https://www.nielsvandermolen.com/category/svelte/)
+* [Valentino Gagliardi - Svelte Blog](https://www.valentinog.com/blog/svelte/)
 * [John Smilga - Svelte Store Project](https://github.com/john-smilga/svelte-store-project)
 
 ## UI Libraries
