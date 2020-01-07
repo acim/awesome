@@ -5,6 +5,7 @@
 * [How to add environment variables](https://linguinecode.com/post/how-to-add-environment-variables-to-your-svelte-js-app)
 * [Niels van der Molen - Svelte Blog](https://www.nielsvandermolen.com/category/svelte/)
 * [Valentino Gagliardi - Svelte Blog](https://www.valentinog.com/blog/svelte/)
+* [David Lacourt - Svelte Blog](https://lacourt.dev/)
 * [John Smilga - Svelte Store Project](https://github.com/john-smilga/svelte-store-project)
 
 ## UI Libraries
@@ -21,6 +22,15 @@
 * [Svelte SPA Router](https://github.com/ItalyPaleAle/svelte-spa-router)
 * [routify - Automated Svelte routes](https://github.com/sveltech/routify)
 * [yrv](https://github.com/pateketrueke/yrv)
+
+## SEO
+
+* [migrating to Sapper - SEO, Twitter Cards, OpenGraph](https://lacourt.dev/2019/06/16)
+
+## Validation
+
+* [Svelte Forms Validation](https://github.com/chainlist/svelte-forms)
+* [Yup](https://github.com/jquense/yup)
 
 ## JWT Auth
 
