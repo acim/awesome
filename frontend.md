@@ -46,6 +46,7 @@ Link:
 * [particles.js](https://vincentgarreau.com/particles.js/)
 * [lax.js - Simple & light weight vanilla javascript plugin to create smooth & beautiful animations when you scroll](https://github.com/alexfoxy/laxxx)
 * [lax.js - Video Tutorial](https://www.youtube.com/watch?v=jaVy3SCibJw&t)
+* [Web APIs](https://developer.mozilla.org/en-US/docs/Web/API)
 
 ## Editors
 
