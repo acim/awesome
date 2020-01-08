@@ -12,6 +12,11 @@
 [pixabay](https://pixabay.com)
 [AllTheFreeStock - links to multiple resources](https://allthefreestock.com)
 
+## Icons
+
+* [Material Design Icons By Community](https://materialdesignicons.com/)
+* [Font Awesome](https://fontawesome.com/)
+
 ## Security
 
 * [Protect your email address from spam](https://www.email-encoder.com/)
