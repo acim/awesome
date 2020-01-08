@@ -59,3 +59,15 @@ Link:
 
 * [NativeScript - Create Native iOS and Android Apps with JavaScript](https://www.nativescript.org)
 * [Weex](https://weex.apache.org/)
+
+## CSS
+
+* [Material Design Components](https://material.io/develop/web/components/animation/)
+* [Material Components for the Web Codelabs](https://github.com/material-components/material-components-web-codelabs)
+
+## Integration
+
+* [Open Graph protocol enables any web page to become a rich object in a social graph (Facebook)](https://ogp.me/)
+* [Open Graph Validator](https://opengraphcheck.com/)
+* [Twitter Card](https://developer.twitter.com/en/docs/tweets/optimize-with-cards/guides/getting-started)
+* [Twitter Card Validator](https://cards-dev.twitter.com/validator)
