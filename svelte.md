@@ -14,6 +14,7 @@
 * [svelma - Bulma](https://github.com/c0bra/svelma)
 * [Additional Bulma based UI components](https://github.com/elcobvg/svelte-bulma-components)
 * [Svelte Material UI](https://github.com/hperrin/svelte-material-ui)
+* [Smelte - UI framework with material components built with Svelte and Tailwind CSS](https://github.com/matyunya/smelte)
 
 ## Routing
 

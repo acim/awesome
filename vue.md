@@ -1,4 +1,4 @@
-# Vue.js
+# Vue.js & NUXT
 
 * [Awesome Vue.js](https://github.com/vuejs/awesome-vue)
 * [From authentication to calling an API](https://auth0.com/blog/build-an-app-with-vuejs/)
@@ -8,37 +8,23 @@
 * [Axios interceptor to refresh JWT token after expiration](https://blog.liplex.de/axios-interceptor-to-refresh-jwt-token-after-expiration/)
 * [Use Web Workers with Ease in Vue.js with vue-worker](https://alligator.io/vuejs/vue-workers/)
 
-## Nuxt
+## NUXT
 
 * [Awesome Nuxt.js](https://github.com/nuxt-community/awesome-nuxt)
 
 ## Upload
 
-* [Amazon S3 Browser Upload](https://www.shanestillwell.com/2018/09/02/amazon-file-upload/)
 * [vue-s3-dropzone - Dropzone component uploads files to AWS S3 serverlessly](https://github.com/kfei/vue-s3-dropzone)
-* [Secure File Upload to S3  Directly from the Browser](https://m.youtube.com/watch?v=shCCP4PFXeU)
 
 ## Quasar
 
 * [Introduction to Vue.js and the Quasar Framework](https://www.sitepoint.com/vue-js-quasar-framework/)
 * [Creating Quasar Framework project with Typescript support](https://dev.to/xkonti/creating-quasar-framework-project-with-typescript-support-51ge)
 
-## Mobile applications
-
-* [NativeScript - Create Native iOS and Android Apps with JavaScript](https://www.nativescript.org)
-* [Weex](https://weex.apache.org/)
-
 ## Editors
 
-* [Editor.js](https://editorjs.io/)
-  * [Rendering](https://github.com/codex-team/codex/tree/master/www/application/views/templates/editor/plugins)
 * [Vue Mobiledoc Editor](https://github.com/alidcastano/vue-mobiledoc-editor)
-* [CKEDitor 5](https://ckeditor.com/ckeditor-5/demo/)
-* [tiptap](https://github.com/scrumpy/tiptap)
 
-## Cool effects
+## Libraries
 
-* [particles.js](https://vincentgarreau.com/particles.js/)
 * [A Vue.js particles animation background component](https://github.com/lindelof/particles-bg-vue)
-* [lax.js - simple & light weight vanilla javascript plugin to create smooth & beautiful animations when you scroll](https://github.com/alexfoxy/laxxx)
-* [Laxxx.js - An Awesome Scroll Animation Library that's Only 2KB!](https://www.youtube.com/watch?v=jaVy3SCibJw&t)
