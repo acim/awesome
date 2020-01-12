@@ -20,11 +20,13 @@
 * [stern - tail multiple pods on Kubernetes and multiple containers within the pod](https://github.com/wercker/stern)
 * [Kubernetes SIG](https://github.com/kubernetes-sigs)
 * [12 Kubernetes configuration best practices](https://www.stackrox.com/post/2019/09/12-kubernetes-configuration-best-practices/)
+* [10 most important differences between OpenShift and Kubernetes](https://cloudowski.com/articles/10-differences-between-openshift-and-kubernetes)
 
 ## Blogs
 
 * [Alex Ellis](https://blog.alexellis.io/)
 * [IMTI - Architecting, Developing, nixCraft, DevOps, AI/ML, Blockchain](https://imti.co/)
+* [Cloud Native Architect Blog](https://cloudowski.com/)
 
 ## Administration
 
@@ -89,7 +91,7 @@
 * [Helm Chart starter - better Helm chart boilerplate](https://github.com/sitewards/helm-chart)
 * [Creating a better chart](https://medium.com/sitewards/deploying-on-kubernetes-2-scaffolding-6a54e5d181fb)
 
-## Custom Resource Defintions and Development
+## Custom Resource Definitions and Development
 
 * [Accessing Kubernetes CRDs from client-go package](https://www.martin-helmich.de/en/blog/kubernetes-crd-client.html)
 * [Extending Kubernetes APIs with Custom Resource Definitions](https://medium.com/velotio-perspectives/extending-kubernetes-apis-with-custom-resource-definitions-crds-139c99ed3477)
