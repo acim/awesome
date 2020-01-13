@@ -21,12 +21,15 @@
 * [Kubernetes SIG](https://github.com/kubernetes-sigs)
 * [12 Kubernetes configuration best practices](https://www.stackrox.com/post/2019/09/12-kubernetes-configuration-best-practices/)
 * [10 most important differences between OpenShift and Kubernetes](https://cloudowski.com/articles/10-differences-between-openshift-and-kubernetes)
+* [Copy files from Kubernetes to S3 and back](https://medium.com/nuvo-group-tech/copy-files-and-directories-between-kubernetes-and-s3-d290ded9a5e0)
+* [Kubernetes shared storage with S3 backend](https://icicimov.github.io/blog/virtualization/Kubernetes-shared-storage-with-S3-backend/)
 
 ## Blogs
 
 * [Alex Ellis](https://blog.alexellis.io/)
 * [IMTI - Architecting, Developing, nixCraft, DevOps, AI/ML, Blockchain](https://imti.co/)
 * [Cloud Native Architect Blog](https://cloudowski.com/)
+* [Igor Cicimov](https://icicimov.github.io/blog/)
 
 ## Administration
 
@@ -51,6 +54,7 @@
 * [TK8 - Multi-cloud, multi-cluster Kubernetes platform installation and integration tool](https://github.com/kubernauts/tk8)
 * [Kontemplate - Simple Kubernetes templater](https://github.com/tazjin/kontemplate)
 * [webkubectl - kubectl in web browser](https://github.com/webkubectl/webkubectl)
+* [Skbn - tool for copying files and directories between Kubernetes and cloud storage providers](https://github.com/maorfr/skbn)
 
 ## CI & CD
 

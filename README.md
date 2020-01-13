@@ -11,6 +11,7 @@ A curated list of delightful developers resources.
 * [Miscellaneous](misc.md)
 * [MongoDB](mongodb.md)
 * [MySQL](mysql.md)
+* [Node.js](node.md)
 * [Raspberry Pi](pi.md)
 * [Svelte](svelte.md)
 * [Visual Studio Code](vscode.md)
