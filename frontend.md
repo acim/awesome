@@ -6,11 +6,11 @@
 
 ## Stock Images
 
-[Pexels](https://www.pexels.com)
-[Unsplash](https://unsplash.com)
-[picjumbo](https://picjumbo.com)
-[pixabay](https://pixabay.com)
-[AllTheFreeStock - links to multiple resources](https://allthefreestock.com)
+* [Pexels](https://www.pexels.com)
+* [Unsplash](https://unsplash.com)
+* [picjumbo](https://picjumbo.com)
+* [pixabay](https://pixabay.com)
+* [AllTheFreeStock - links to multiple resources](https://allthefreestock.com)
 
 ## Icons
 
