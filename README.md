@@ -3,6 +3,7 @@
 A curated list of delightful developers resources.
 
 * [AWS](aws.md)
+* [Backend - REST](backend.md)
 * [Drone](drone.md)
 * [Free Services](services.md)
 * [Frontend - JavaScript, HTML5, CSS3, etc.](frontend.md)
