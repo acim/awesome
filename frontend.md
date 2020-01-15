@@ -4,6 +4,10 @@
 * [ES6 Cheatsheet](https://devhints.io/es6)
 * [ES6 Arrow Functions](https://www.sitepoint.com/es6-arrow-functions-new-fat-concise-syntax-javascript/)
 
+## Design
+
+* [Colorinspo - all in one resource to find everything about colors with extreme ease](https://colorsinspo.com/)
+
 ## Stock Images
 
 * [Pexels](https://www.pexels.com)
