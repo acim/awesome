@@ -128,6 +128,7 @@
 * [Install Cilium](https://cilium.readthedocs.io/en/stable/gettingstarted/k8s-install-default/)
 * /etc/default/docker: DOCKER_OPTS="--iptables=false --ip-masq=false"
 * Cilium --pod-network-cidr=10.217.0.0/16
+* [hcloud-k8s - Ansible playbook to install Kubernetes on Hetzner Cloud](https://github.com/gammpamm/hcloud-k8s)
 
 ## containerd
 
