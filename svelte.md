@@ -8,6 +8,8 @@
 * [David Lacourt - Svelte Blog](https://lacourt.dev/)
 * [John Smilga - Svelte Store Project](https://github.com/john-smilga/svelte-store-project)
 * [A lightweight library for managing forms in Svelte](https://github.com/tjinauyeung/svelte-forms-lib)
+* [Practical Svelte: The use-directive](https://medium.com/better-programming/practical-svelte-the-use-directive-60635671335f)
+* [Drag and Drop box using Svelte](https://www.youtube.com/watch?v=AFXmANgkipw)
 
 ## UI Libraries
 

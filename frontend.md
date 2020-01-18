@@ -3,6 +3,7 @@
 * [Frontend Book](https://frontendmasters.com/books/front-end-handbook/2019/#1)
 * [ES6 Cheatsheet](https://devhints.io/es6)
 * [ES6 Arrow Functions](https://www.sitepoint.com/es6-arrow-functions-new-fat-concise-syntax-javascript/)
+* [Drag & Drop With Vanilla JS](https://www.youtube.com/watch?v=C22hQKE_32c&t=17s)
 
 ## Design
 
@@ -82,3 +83,8 @@ Link:
 * [Twitter Card](https://developer.twitter.com/en/docs/tweets/optimize-with-cards/guides/getting-started)
 * [Twitter Card Validator](https://cards-dev.twitter.com/validator)
 * [iframely - Meta Validator](http://debug.iframely.com/)
+
+## Fake backends
+
+* [JSONPlaceholder](https://jsonplaceholder.typicode.com)
+* [DOG CEO](https://dog.ceo/)
