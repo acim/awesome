@@ -10,6 +10,9 @@
 * [A lightweight library for managing forms in Svelte](https://github.com/tjinauyeung/svelte-forms-lib)
 * [Practical Svelte: The use-directive](https://medium.com/better-programming/practical-svelte-the-use-directive-60635671335f)
 * [Drag and Drop box using Svelte](https://www.youtube.com/watch?v=AFXmANgkipw)
+* [Creating an inline editable component in Svelte and publishing to NPM](https://medium.com/@ukchukx/creating-an-inline-input-component-in-svelte-and-publishing-to-npm-84274be1aa73)
+* [Lets Create: A Data Visualization using Svelte](https://joshuaj.co.uk/blog/lets-create-data-vis-svelte)
+* [Build forms fast and easy in Svelte](https://tjinauyeung.com/articles/build-forms-fast-and-easy-in-svelte)
 
 ## UI Libraries
 
@@ -26,6 +29,7 @@
 * [Svelte SPA Router](https://github.com/ItalyPaleAle/svelte-spa-router)
 * [routify - Automated Svelte routes](https://github.com/sveltech/routify)
 * [yrv](https://github.com/pateketrueke/yrv)
+* [Setting up Routing In Svelte with Page.js](https://jackwhiting.co.uk/posts/setting-up-routing-in-svelte-with-pagejs)
 
 ## SEO
 

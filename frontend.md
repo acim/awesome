@@ -1,4 +1,4 @@
-# Frontend - JavaScript, HTML5, CSS3, resources, etc.
+# Frontend - JavaScript, HTML5, CSS3, resources
 
 * [Frontend Book](https://frontendmasters.com/books/front-end-handbook/2019/#1)
 * [ES6 Cheatsheet](https://devhints.io/es6)
@@ -88,3 +88,7 @@ Link:
 
 * [JSONPlaceholder](https://jsonplaceholder.typicode.com)
 * [DOG CEO](https://dog.ceo/)
+
+## Maps
+
+* [Free SVG countries' vector maps](https://mapsvg.com/maps)
