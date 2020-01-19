@@ -13,6 +13,7 @@
 * [Creating an inline editable component in Svelte and publishing to NPM](https://medium.com/@ukchukx/creating-an-inline-input-component-in-svelte-and-publishing-to-npm-84274be1aa73)
 * [Lets Create: A Data Visualization using Svelte](https://joshuaj.co.uk/blog/lets-create-data-vis-svelte)
 * [Build forms fast and easy in Svelte](https://tjinauyeung.com/articles/build-forms-fast-and-easy-in-svelte)
+* [Svelte / Sapper with Sass!](https://medium.com/@sean_27490/svelte-sapper-with-sass-271fff662da9)
 
 ## UI Libraries
 
