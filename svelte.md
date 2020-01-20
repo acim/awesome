@@ -41,8 +41,9 @@
 * [Svelte Forms Validation](https://github.com/chainlist/svelte-forms)
 * [Yup](https://github.com/jquense/yup)
 
-## JWT Auth
+## Auth
 
 * [Signup Form with HTML5 Validation in Svelte](https://www.nielsvandermolen.com/signup-form-html5-validation-svelte/)
 * [A good authentication example, Sapper sessions, Svelte Store](https://www.nielsvandermolen.com/authentication-example-svelte-sapper/)
 * [John Smilga - Svelte Store Project - Login](https://github.com/john-smilga/svelte-store-project/blob/master/src/pages/Login.svelte)
+* [Svelte: Google Sign In/Out](https://dev.to/safaiyeh/svelte-google-sign-in-out-3n1n)
