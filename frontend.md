@@ -4,6 +4,7 @@
 * [ES6 Cheatsheet](https://devhints.io/es6)
 * [ES6 Arrow Functions](https://www.sitepoint.com/es6-arrow-functions-new-fat-concise-syntax-javascript/)
 * [Drag & Drop With Vanilla JS](https://www.youtube.com/watch?v=C22hQKE_32c&t=17s)
+* [Dark theme in a day](https://medium.com/@mwichary/dark-theme-in-a-day-3518dde2955a)
 
 ## Design
 
@@ -77,6 +78,10 @@ Link:
 * [Material Components for the Web Codelabs](https://github.com/material-components/material-components-web-codelabs)
 * [Creating Non-Rectangular Headers](https://css-tricks.com/creating-non-rectangular-headers/)
 * [CSS clip-path maker](https://bennettfeely.com/clippy/)
+
+### Components
+
+* [Toggle Switch](https://codepen.io/mburnette/pen/LxNxNg)
 
 ## SEO
 
