@@ -14,6 +14,8 @@
 * [Lets Create: A Data Visualization using Svelte](https://joshuaj.co.uk/blog/lets-create-data-vis-svelte)
 * [Build forms fast and easy in Svelte](https://tjinauyeung.com/articles/build-forms-fast-and-easy-in-svelte)
 * [Svelte / Sapper with Sass!](https://medium.com/@sean_27490/svelte-sapper-with-sass-271fff662da9)
+* [Lazy Loading Images in Svelte](https://dev.to/collardeau/lazy-loading-images-in-svelte-1mk6)
+* [Load component when it becomes visible using IntersectionObserver API](https://spiffy.tech/blog/a-lazy-loading-higher-order-component-for-svelte)
 
 ## UI Libraries
 
@@ -26,6 +28,11 @@
 ## Components
 
 * [Svelte-select: a select component for Svelte apps](https://github.com/rob-balfre/svelte-select)
+* [Svelte-Awesome - Font-Awesome icons components](https://github.com/RobBrazier/svelte-awesome)
+
+## Charts
+
+* [Svelte bindings for frappe-charts - Modern, Open Source SVG Charts](https://github.com/himynameisdave/svelte-frappe-charts)
 
 ## Routing
 
