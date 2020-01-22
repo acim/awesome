@@ -5,10 +5,13 @@
 * [ES6 Arrow Functions](https://www.sitepoint.com/es6-arrow-functions-new-fat-concise-syntax-javascript/)
 * [Drag & Drop With Vanilla JS](https://www.youtube.com/watch?v=C22hQKE_32c&t=17s)
 * [Dark theme in a day](https://medium.com/@mwichary/dark-theme-in-a-day-3518dde2955a)
+* [prefers-color-scheme media query](https://web.dev/prefers-color-scheme/)
+* [Dark Mode in CSS - prefers-color-scheme](https://css-tricks.com/dark-modes-with-css/)
 
 ## Design
 
 * [Colorinspo - all in one resource to find everything about colors with extreme ease](https://colorsinspo.com/)
+* [Color Hunt - Dark Color Palettes](https://colorhunt.co/palettes/dark)
 
 ## Stock Images
 
