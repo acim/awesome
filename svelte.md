@@ -23,6 +23,10 @@
 * [Svelte Material UI](https://github.com/hperrin/svelte-material-ui)
 * [Smelte - UI framework with material components built with Svelte and Tailwind CSS](https://github.com/matyunya/smelte)
 
+## Components
+
+* [Svelte-select: a select component for Svelte apps](https://github.com/rob-balfre/svelte-select)
+
 ## Routing
 
 * [Svelte Routing](https://github.com/EmilTholin/svelte-routing)
