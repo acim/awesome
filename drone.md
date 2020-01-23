@@ -8,3 +8,9 @@
 * [Painless Github releases with Drone and GoReleaser](https://dev.to/mstrsobserver/painless-github-releases-with-drone-and-goreleaser-45b7)
 
 ## [Parameters substitution](https://github.com/drone/docs/blob/master/content/usage/config/substitution.md)
+
+## Conditional build if directory modified
+
+* [Report files changed to limit testing scope](https://github.com/drone/drone/issues/1021)
+* [Drone Config Plugin - Changeset Conditional](https://github.com/microadam/drone-config-changeset-conditional)
+* [Drone Config Plugin - Pipeline](https://github.com/microadam/drone-config-plugin-pipeline)
