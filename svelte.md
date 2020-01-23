@@ -1,21 +1,22 @@
 # Svelte
 
 * [made with Svelte](https://madewithsvelte.com/)
-* [A good authentication example, Sapper sessions, Svelte Store](https://www.nielsvandermolen.com/authentication-example-svelte-sapper/)
+
 * [How to add environment variables](https://linguinecode.com/post/how-to-add-environment-variables-to-your-svelte-js-app)
-* [Niels van der Molen - Svelte Blog](https://www.nielsvandermolen.com/category/svelte/)
-* [Valentino Gagliardi - Svelte Blog](https://www.valentinog.com/blog/svelte/)
-* [David Lacourt - Svelte Blog](https://lacourt.dev/)
 * [John Smilga - Svelte Store Project](https://github.com/john-smilga/svelte-store-project)
-* [A lightweight library for managing forms in Svelte](https://github.com/tjinauyeung/svelte-forms-lib)
 * [Practical Svelte: The use-directive](https://medium.com/better-programming/practical-svelte-the-use-directive-60635671335f)
 * [Drag and Drop box using Svelte](https://www.youtube.com/watch?v=AFXmANgkipw)
 * [Creating an inline editable component in Svelte and publishing to NPM](https://medium.com/@ukchukx/creating-an-inline-input-component-in-svelte-and-publishing-to-npm-84274be1aa73)
 * [Lets Create: A Data Visualization using Svelte](https://joshuaj.co.uk/blog/lets-create-data-vis-svelte)
-* [Build forms fast and easy in Svelte](https://tjinauyeung.com/articles/build-forms-fast-and-easy-in-svelte)
 * [Svelte / Sapper with Sass!](https://medium.com/@sean_27490/svelte-sapper-with-sass-271fff662da9)
 * [Lazy Loading Images in Svelte](https://dev.to/collardeau/lazy-loading-images-in-svelte-1mk6)
 * [Load component when it becomes visible using IntersectionObserver API](https://spiffy.tech/blog/a-lazy-loading-higher-order-component-for-svelte)
+
+## Blogs
+
+* [Niels van der Molen - Svelte Blog](https://www.nielsvandermolen.com/category/svelte/)
+* [Valentino Gagliardi - Svelte Blog](https://www.valentinog.com/blog/svelte/)
+* [David Lacourt - Svelte Blog](https://lacourt.dev/)
 
 ## UI Libraries
 
@@ -47,10 +48,17 @@
 
 * [migrating to Sapper - SEO, Twitter Cards, OpenGraph](https://lacourt.dev/2019/06/16)
 
-## Validation
+## i18n
+
+* [How to Localize a Svelte App with svelte-i18n](https://phrase.com/blog/posts/how-to-localize-a-svelte-app-with-svelte-i18n/)
+* [svelte-i18n](https://github.com/kaisermann/svelte-i18n)
+
+## Forms and Validation
 
 * [Svelte Forms Validation](https://github.com/chainlist/svelte-forms)
 * [Yup](https://github.com/jquense/yup)
+* [A lightweight library for managing forms in Svelte](https://github.com/tjinauyeung/svelte-forms-lib)
+* [Build forms fast and easy in Svelte](https://tjinauyeung.com/articles/build-forms-fast-and-easy-in-svelte)
 
 ## Auth
 
