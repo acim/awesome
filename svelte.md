@@ -1,4 +1,4 @@
-# Svelte
+# Svelte & Sapper
 
 * [made with Svelte](https://madewithsvelte.com/)
 
