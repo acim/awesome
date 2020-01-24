@@ -11,6 +11,7 @@
 * [Svelte / Sapper with Sass!](https://medium.com/@sean_27490/svelte-sapper-with-sass-271fff662da9)
 * [Lazy Loading Images in Svelte](https://dev.to/collardeau/lazy-loading-images-in-svelte-1mk6)
 * [Load component when it becomes visible using IntersectionObserver API](https://spiffy.tech/blog/a-lazy-loading-higher-order-component-for-svelte)
+* [RealWorld example application including auth](https://github.com/sveltejs/realworld)
 
 ## Blogs
 
@@ -66,3 +67,6 @@
 * [A good authentication example, Sapper sessions, Svelte Store](https://www.nielsvandermolen.com/authentication-example-svelte-sapper/)
 * [John Smilga - Svelte Store Project - Login](https://github.com/john-smilga/svelte-store-project/blob/master/src/pages/Login.svelte)
 * [Svelte: Google Sign In/Out](https://dev.to/safaiyeh/svelte-google-sign-in-out-3n1n)
+* [JWT token management and session persistence across page refreshes](https://www.youtube.com/watch?v=QYy4kkJVo4o&t=690)
+* [Firebase SSR-Auth + Sapper/Svelte](https://m.youtube.com/watch?v=9hCdGJ9GvL4)
+* [express-session - middleware to use with Sapper for authentication](https://github.com/expressjs/session)
