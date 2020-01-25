@@ -151,6 +151,7 @@
 * [Building a microservices application following the CQRS pattern](https://outcrawl.com/go-microservices-cqrs-docker/)
 * [Microservices](http://callistaenterprise.se/blogg/teknik/2017/02/17/go-blog-series-part1/)
 * [Microservices example](https://github.com/wizelineacademy/GoWorkshop)
+* [Automatically set GOMAXPROCS to match Linux container CPU quota](https://github.com/uber-go/automaxprocs)
 
 ## CI & CD
 
