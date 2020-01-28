@@ -31,3 +31,7 @@
 ## Pin Docker version
 
 apt-get install docker-ce="18.06.0~ce~3-0~ubuntu"
+
+## Base images
+
+* [Distroless Docker Images](https://github.com/GoogleContainerTools/distroless)
