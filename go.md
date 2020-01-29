@@ -170,6 +170,7 @@
 * [Overview of tooling](https://www.alexedwards.net/blog/an-overview-of-go-tooling)
 * [Find outdated dependencies](https://github.com/psampaz/go-mod-outdated)
 * [Using Makefiles for Go](https://danishpraka.sh/2019/12/07/using-makefiles-for-go.html)
+* [ko - tool for building and deploying Golang applications to Kubernetes](https://github.com/google/ko)
 
 ## Raspberry PI
 
