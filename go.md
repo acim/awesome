@@ -212,7 +212,8 @@
 
 ## Miscellaneous
 
-[File type discovery using magic numbers](https://github.com/h2non/filetype)‚
+[File type discovery using magic numbers](https://github.com/h2non/filetype)
+[v8go - Execute JavaScript from Go](https://github.com/rogchap/v8go)
 
 ## Images
 
