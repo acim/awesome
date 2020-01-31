@@ -82,6 +82,7 @@
 * [Resty - imple HTTP and REST client library](https://github.com/go-resty/resty/)
 * [Transport for http.Client that will cache responses according to the HTTP RFC](https://github.com/gregjones/httpcache)
 * [Ferret - web scraper](https://github.com/MontFerret/ferret)
+* [Colly - Lightning Fast and Elegant Scraping Framework](https://github.com/gocolly/colly)
 
 ## Docker
 
