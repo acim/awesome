@@ -41,6 +41,11 @@
 * [Community Operators](https://commons.openshift.org/sig/operators.html)
 * [OperatorHub](https://operatorhub.io/)
 
+## Load balancers
+
+[MetalLB - load-balancer implementation for bare metal Kubernetes](https://github.com/metallb/metallb)
+[Fabio is a fast, modern, zero-conf load balancing HTTPS and TCP router](https://github.com/fabiolb/fabio)
+
 ## Tools
 
 * [JenkinsX - Continuous delivery for Kubernetes](https://jenkins-x.io/demos/devoxx-uk-2018/)
