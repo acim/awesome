@@ -35,6 +35,7 @@
 ## Charts
 
 * [Svelte bindings for frappe-charts - Modern, Open Source SVG Charts](https://github.com/himynameisdave/svelte-frappe-charts)
+* [pancake - responsive charts](https://pancake-charts.surge.sh/)
 
 ## Routing
 

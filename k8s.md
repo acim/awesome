@@ -60,6 +60,9 @@
 * [Kontemplate - Simple Kubernetes templater](https://github.com/tazjin/kontemplate)
 * [webkubectl - kubectl in web browser](https://github.com/webkubectl/webkubectl)
 * [Skbn - tool for copying files and directories between Kubernetes and cloud storage providers](https://github.com/maorfr/skbn)
+* [kubenav - desktop and mobile navigator for your Kubernetes clusters](https://github.com/kubenav/kubenav)
+* [Kube-Scan - Kubernetes risk assessment tool](https://github.com/octarinesec/kube-scan)
+* [Permission Manager is a project that brings sanity to Kubernetes RBAC and Users management](https://github.com/sighupio/permission-manager)
 
 ## CI & CD
 
