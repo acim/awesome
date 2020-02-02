@@ -81,6 +81,7 @@ Link:
 * [Material Components for the Web Codelabs](https://github.com/material-components/material-components-web-codelabs)
 * [Creating Non-Rectangular Headers](https://css-tricks.com/creating-non-rectangular-headers/)
 * [CSS clip-path maker](https://bennettfeely.com/clippy/)
+* [Fancy CSS Button Hover Animations](https://github.com/WebDevSimplified/Fancy-CSS-Button-Hover-Animations)
 
 ### Components
 
