@@ -64,6 +64,8 @@ Link:
 * [Vue Mobiledoc Editor](https://github.com/alidcastano/vue-mobiledoc-editor)
 * [CKEDitor 5](https://ckeditor.com/ckeditor-5/demo/)
 * [tiptap](https://github.com/scrumpy/tiptap)
+* [Quill - powerful rich text editor](https://quilljs.com/)
+* [Slate - completely customizable framework for building rich text editors](https://github.com/ianstormtaylor/slate)
 
 ## Upload
 
