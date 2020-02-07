@@ -64,6 +64,8 @@ Link:
 * [Vue Mobiledoc Editor](https://github.com/alidcastano/vue-mobiledoc-editor)
 * [CKEDitor 5](https://ckeditor.com/ckeditor-5/demo/)
 * [tiptap](https://github.com/scrumpy/tiptap)
+* [Quill - powerful rich text editor](https://quilljs.com/)
+* [Slate - completely customizable framework for building rich text editors](https://github.com/ianstormtaylor/slate)
 
 ## Upload
 
@@ -82,6 +84,8 @@ Link:
 * [Creating Non-Rectangular Headers](https://css-tricks.com/creating-non-rectangular-headers/)
 * [CSS clip-path maker](https://bennettfeely.com/clippy/)
 * [Fancy CSS Button Hover Animations](https://github.com/WebDevSimplified/Fancy-CSS-Button-Hover-Animations)
+* [List Animations](https://codepen.io/designcourse/pen/YzPmJxo?__cf_chl_captcha_tk__=370595f2962c005184faae9d2ac651b6a6d3aec0-1580777046-0-ATFGeZ4BUojWZTDZUCW-kquMaQErlT2Tvm5G2M8jDLiEMusy4qIzLKrb7BNGhhnfu2YK112LvqDRXp4pKCzYs-cdd58C2OMSszcpbu7SfLv6YHtoAHn3y8cK3uTK5FZB8ThwRzM-NxAUoA5W5mXKdDHbD-Au9IXi77jgzgxfQjKGEzVnazRK3GLUyk3BauhrHstvlIIiLIg-Fe6eZn7k5e6Mo4JjGZK6V4Y9w9TIOHZZaKWTCLjWxAXyI2sOYidj0OKNkjwHdO9rBP3H-AboTclhObwFelnr5veP1H_-JLzP3FvhKfFA6ltsyuYcFJBomVQr2AhMfOUgzP6Lnh9xoTnWNpEB90DWvzARs3RjdcVK7o6cz6jYJA8_NvFy8waIsAGpZF95nt4ErgSDf_qGW-8)
+* [Staggered Animations with CSS Custom Properties](https://cloudfour.com/thinks/staggered-animations-with-css-custom-properties/)
 
 ### Components
 
