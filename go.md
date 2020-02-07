@@ -23,6 +23,7 @@
 * [How to create an SSH tunnel](http://elliot.land/post/how-to-create-an-ssh-tunnel-in-go)
 * [Uber Go style guide](https://github.com/uber-go/guide/blob/master/style.md)
 * [Practical Go: Real world advice for writing maintainable Go programs](https://dave.cheney.net/practical-go/presentations/qcon-china.html)
+* [Adopting Go Modules and integrating with Github Actions - Handle different application versions and conditional build in GitHub Actions](https://jcmturner.github.io/go/2020/02/01/adopting-go-modules.html)
 
 ## Blogs
 
@@ -184,6 +185,7 @@
 * [Testing HTTP handlers](https://blog.questionable.services/article/testing-http-handlers-go/)
 * [go-replayers - tools for recording and replaying RPCs](https://github.com/google/go-replayers)
 * [httpexpect - Concise, declarative, and easy to use end-to-end HTTP and REST API testing for Go](https://github.com/gavv/httpexpect)
+* [Testing with golden files in Go](https://medium.com/soon-london/testing-with-golden-files-in-go-7fccc71c43d3)
 
 ## Public API's
 
