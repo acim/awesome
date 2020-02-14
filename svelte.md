@@ -1,7 +1,6 @@
 # Svelte & Sapper
 
 * [made with Svelte](https://madewithsvelte.com/)
-
 * [How to add environment variables](https://linguinecode.com/post/how-to-add-environment-variables-to-your-svelte-js-app)
 * [John Smilga - Svelte Store Project](https://github.com/john-smilga/svelte-store-project)
 * [Practical Svelte: The use-directive](https://medium.com/better-programming/practical-svelte-the-use-directive-60635671335f)
@@ -12,6 +11,7 @@
 * [Lazy Loading Images in Svelte](https://dev.to/collardeau/lazy-loading-images-in-svelte-1mk6)
 * [Load component when it becomes visible using IntersectionObserver API](https://spiffy.tech/blog/a-lazy-loading-higher-order-component-for-svelte)
 * [RealWorld example application including auth](https://github.com/sveltejs/realworld)
+* [How to Setup Svelte with GraphQL, TypeScript and Material-UI](https://motion-software.com/blog/setup-svelte-with-graphql-typescript-and-material-ui/)
 
 ## Blogs
 
@@ -36,6 +36,7 @@
 
 * [Svelte bindings for frappe-charts - Modern, Open Source SVG Charts](https://github.com/himynameisdave/svelte-frappe-charts)
 * [pancake - responsive charts](https://pancake-charts.surge.sh/)
+* [Layer Cake](https://layercake.graphics/)
 
 ## Routing
 
