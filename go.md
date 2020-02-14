@@ -224,3 +224,7 @@
 ## Error handling
 
 [cockroachdb/errors](https://github.com/cockroachdb/errors)
+
+## Desktop and mobile
+
+* [fyne - Cross platform GUI](https://github.com/fyne-io/fyne)
