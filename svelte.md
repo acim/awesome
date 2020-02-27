@@ -72,3 +72,7 @@
 * [JWT token management and session persistence across page refreshes](https://www.youtube.com/watch?v=QYy4kkJVo4o&t=690)
 * [Firebase SSR-Auth + Sapper/Svelte](https://m.youtube.com/watch?v=9hCdGJ9GvL4)
 * [express-session - middleware to use with Sapper for authentication](https://github.com/expressjs/session)
+
+## Tools
+
+* [svelvet - Make Svelte play nicely with Snowpack and web_modules](https://github.com/jakedeichert/svelvet)
