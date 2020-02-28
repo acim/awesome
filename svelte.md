@@ -12,6 +12,7 @@
 * [Load component when it becomes visible using IntersectionObserver API](https://spiffy.tech/blog/a-lazy-loading-higher-order-component-for-svelte)
 * [RealWorld example application including auth](https://github.com/sveltejs/realworld)
 * [How to Setup Svelte with GraphQL, TypeScript and Material-UI](https://motion-software.com/blog/setup-svelte-with-graphql-typescript-and-material-ui/)
+* [Fixing memory leaks in web applications](https://nolanlawson.com/2020/02/19/fixing-memory-leaks-in-web-applications/)
 
 ## Blogs
 
