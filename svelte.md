@@ -13,6 +13,7 @@
 * [RealWorld example application including auth](https://github.com/sveltejs/realworld)
 * [How to Setup Svelte with GraphQL, TypeScript and Material-UI](https://motion-software.com/blog/setup-svelte-with-graphql-typescript-and-material-ui/)
 * [Fixing memory leaks in web applications](https://nolanlawson.com/2020/02/19/fixing-memory-leaks-in-web-applications/)
+* [Tree component: - Recursion using "svelte:self"](https://www.youtube.com/watch?v=-EwKiLZtnUs&t=278s)
 
 ## Blogs
 
