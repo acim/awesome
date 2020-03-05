@@ -5,7 +5,6 @@
 
 ## Tools
 
-* [Vulnerability Static Analysis for Containers](https://github.com/coreos/clair)
 * [Harbor - cloud native registry](https://github.com/goharbor/harbor)
 * [Portus- authorization service and frontend for Docker registry](https://github.com/SUSE/Portus)
 * [kaniko - Build Images In Kubernetes](https://github.com/GoogleContainerTools/kaniko)
@@ -35,3 +34,8 @@ apt-get install docker-ce="18.06.0~ce~3-0~ubuntu"
 ## Base images
 
 * [Distroless Docker Images](https://github.com/GoogleContainerTools/distroless)
+
+## Security
+
+* [Vulnerability Static Analysis for Containers](https://github.com/coreos/clair)
+* [trivy - Simple and Comprehensive Vulnerability Scanner for Containers](https://github.com/aquasecurity/trivy)
