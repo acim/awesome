@@ -12,6 +12,8 @@
 * [Load component when it becomes visible using IntersectionObserver API](https://spiffy.tech/blog/a-lazy-loading-higher-order-component-for-svelte)
 * [RealWorld example application including auth](https://github.com/sveltejs/realworld)
 * [How to Setup Svelte with GraphQL, TypeScript and Material-UI](https://motion-software.com/blog/setup-svelte-with-graphql-typescript-and-material-ui/)
+* [Fixing memory leaks in web applications](https://nolanlawson.com/2020/02/19/fixing-memory-leaks-in-web-applications/)
+* [Tree component: - Recursion using "svelte:self"](https://www.youtube.com/watch?v=-EwKiLZtnUs&t=278s)
 
 ## Blogs
 
@@ -62,6 +64,7 @@
 * [Yup](https://github.com/jquense/yup)
 * [A lightweight library for managing forms in Svelte](https://github.com/tjinauyeung/svelte-forms-lib)
 * [Build forms fast and easy in Svelte](https://tjinauyeung.com/articles/build-forms-fast-and-easy-in-svelte)
+* [Sveltik - Forms in Svelte inspired by Formik](https://github.com/nathancahill/sveltik)
 
 ## Auth
 
@@ -72,3 +75,12 @@
 * [JWT token management and session persistence across page refreshes](https://www.youtube.com/watch?v=QYy4kkJVo4o&t=690)
 * [Firebase SSR-Auth + Sapper/Svelte](https://m.youtube.com/watch?v=9hCdGJ9GvL4)
 * [express-session - middleware to use with Sapper for authentication](https://github.com/expressjs/session)
+* [Passport - Simple, unobtrusive authentication](http://www.passportjs.org/)
+
+## Tools
+
+* [svelvet - Make Svelte play nicely with Snowpack and web_modules](https://github.com/jakedeichert/svelvet)
+
+## Desktop
+
+* [Building a Desktop App using Svelte and Electron](https://joshuaj.co.uk/blog/building-desktop-app-svelte-electron)
