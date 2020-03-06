@@ -123,6 +123,7 @@
 * [Kubernetes Security Practices You Should Follow](https://blog.sonatype.com/kubesecops-kubernetes-security-practices-you-should-follow)
 * [Sealed Secrets](https://github.com/bitnami-labs/sealed-secrets)
 * [Vault](https://www.vaultproject.io/)
+* [Advanced Persistence Threats: The Future of Kubernetes Attacks](https://www.youtube.com/watch?v=CH7S5rE3j8w)
 
 ## Hetzner Cloud
 
