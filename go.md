@@ -85,6 +85,10 @@
 * [Ferret - web scraper](https://github.com/MontFerret/ferret)
 * [Colly - Lightning Fast and Elegant Scraping Framework](https://github.com/gocolly/colly)
 
+## Websocket
+
+* [Minimal and idiomatic WebSocket library](https://github.com/nhooyr/websocket)
+
 ## Docker
 
 * [Docker powered development environment for your web app](https://medium.com/developers-writing/docker-powered-development-environment-for-your-go-app-6185d043ea35)
