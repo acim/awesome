@@ -77,7 +77,11 @@ Link:
 * [NativeScript - Create Native iOS and Android Apps with JavaScript](https://www.nativescript.org)
 * [Weex](https://weex.apache.org/)
 
-## CSS
+## HTML5
+
+* [20 Days of HTML](https://dev.to/theindiancodinggrl/20-days-of-html-learn-20-amazing-things-about-html-part-1-2p99)
+
+## CSS3
 
 * [Material Design Components](https://material.io/develop/web/components/animation/)
 * [Material Components for the Web Codelabs](https://github.com/material-components/material-components-web-codelabs)
