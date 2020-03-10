@@ -84,3 +84,7 @@
 ## Desktop
 
 * [Building a Desktop App using Svelte and Electron](https://joshuaj.co.uk/blog/building-desktop-app-svelte-electron)
+
+## Testing
+
+* [Cypress - End to End Testing Framework](https://dev.to/bushraalam/cypress-end-to-end-testing-framework-3naa)
