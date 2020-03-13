@@ -57,6 +57,7 @@ Link:
 * [lax.js - Video Tutorial](https://www.youtube.com/watch?v=jaVy3SCibJw&t)
 * [Web APIs](https://developer.mozilla.org/en-US/docs/Web/API)
 * [barba.js - Create badass fluid and smooth transitions](https://barba.js.org/)
+* [swup - Complete, flexible, extensible and easy to use page transition library](https://swup.js.org/)
 
 ## Editors
 
