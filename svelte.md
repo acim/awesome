@@ -14,6 +14,8 @@
 * [How to Setup Svelte with GraphQL, TypeScript and Material-UI](https://motion-software.com/blog/setup-svelte-with-graphql-typescript-and-material-ui/)
 * [Fixing memory leaks in web applications](https://nolanlawson.com/2020/02/19/fixing-memory-leaks-in-web-applications/)
 * [Tree component: - Recursion using "svelte:self"](https://www.youtube.com/watch?v=-EwKiLZtnUs&t=278s)
+* [Custom Youtube Component](https://www.youtube.com/watch?v=Ank3IdQHOuE)
+* [How to Create a Package for Svelte](https://medium.com/better-programming/creating-a-package-for-svelte-f44fccbc886b)
 
 ## Blogs
 

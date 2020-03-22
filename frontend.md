@@ -7,6 +7,7 @@
 * [Dark theme in a day](https://medium.com/@mwichary/dark-theme-in-a-day-3518dde2955a)
 * [prefers-color-scheme media query](https://web.dev/prefers-color-scheme/)
 * [Dark Mode in CSS - prefers-color-scheme](https://css-tricks.com/dark-modes-with-css/)
+* [YouTube Player API Reference for iframe Embeds](https://developers.google.com/youtube/iframe_api_reference)
 
 ## Design
 
@@ -107,3 +108,11 @@ Link:
 ## Maps
 
 * [Free SVG countries' vector maps](https://mapsvg.com/maps)
+
+## Camera, video and screen streaming
+
+* [Stream Webcam to Java Server with Websocket](https://www.youtube.com/watch?v=H42bl4RDQF8)
+* [MediaDevices](https://developer.mozilla.org/en-US/docs/Web/API/MediaDevices)
+* [Screen Capture API](https://developer.mozilla.org/en-US/docs/Web/API/Screen_Capture_API)
+* [Introduction to getUserMedia](https://m.youtube.com/watch?v=Hc7GE3ENz7k)
+* [mediasoup - Cutting Edge WebRTC Video Conferencing](https://github.com/versatica/mediasoup)
