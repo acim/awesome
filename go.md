@@ -177,6 +177,7 @@
 * [Find outdated dependencies](https://github.com/psampaz/go-mod-outdated)
 * [Using Makefiles for Go](https://danishpraka.sh/2019/12/07/using-makefiles-for-go.html)
 * [ko - tool for building and deploying Golang applications to Kubernetes](https://github.com/google/ko)
+* [profefe continuously collects profiling data](https://github.com/profefe/kube-profefe)
 
 ## Raspberry PI
 
