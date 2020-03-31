@@ -16,7 +16,7 @@
         "source.fixAll.eslint": true
     },
     "editor.cursorBlinking": "phase",
-    "editor.fontFamily": "'Dank Mono','Operator Mono', 'Operator SSm','Fira Code'",
+    "editor.fontFamily": "'Dank Mono','Operator Mono','Operator SSm','Fira Code'",
     "editor.fontLigatures": true,
     "editor.fontSize": 16,
     "editor.formatOnSave": true,
