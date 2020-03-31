@@ -128,25 +128,15 @@
 ## Hetzner Cloud
 
 * [Sysctl configuration for high performance](https://gist.github.com/techgaun/958e117b730634fa8128)
-* [Install a Kubernetes cluster on cloud servers](https://community.hetzner.com/tutorials/install-kubernetes-cluster)
 * [Installing kubernetes cluster with wireguard](https://propellered.com/posts/kubernetes/)
+* [Install a Kubernetes cluster on cloud servers](https://community.hetzner.com/tutorials/install-kubernetes-cluster)
 * [Load balancer Helm chart](https://github.com/exocode/helm-charts/tree/master/hetzner-failover-ip)
 * [Install hcloud-cloud-controller-manager with network support](https://github.com/hetznercloud/hcloud-cloud-controller-manager/blob/master/docs/deploy_with_networks.md)
 * [Creating a single control-plane cluster with kubeadm](https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/create-cluster-kubeadm/)
 * [Installing a pod network add-on](https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/create-cluster-kubeadm/#pod-network)
 * [Install Cilium](https://cilium.readthedocs.io/en/stable/gettingstarted/k8s-install-default/)
-* /etc/default/docker: DOCKER_OPTS="--iptables=false --ip-masq=false"
-* Cilium --pod-network-cidr=10.217.0.0/16
+* [Kubernetes without kube-proxy](https://docs.cilium.io/en/stable/gettingstarted/kubeproxy-free/)
 * [hcloud-k8s - Ansible playbook to install Kubernetes on Hetzner Cloud](https://github.com/gammpamm/hcloud-k8s)
-
-## containerd
-
-* [Kubernetes with Cilium and containerd using kubeadm](https://blog.scottlowe.org/2018/09/06/kubernetes-cilium-containerd-using-kubeadm/)
-
-## CRI-O
-
-* [Install CRI-O as CRI runtime](https://kubernetes.io/docs/setup/production-environment/container-runtimes/#cri-o)
-* [Running CRI-O with kubeadm](https://github.com/cri-o/cri-o/blob/master/tutorials/kubeadm.md)
 
 ## kubectl commands
 
