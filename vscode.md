@@ -11,64 +11,59 @@
 
 ```json
 {
-    "editor.fontFamily": "'Fira Code'",
+    "breadcrumbs.enabled": true,
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    },
+    "editor.cursorBlinking": "phase",
+    "editor.fontFamily": "'Dank Mono','Operator Mono', 'Operator SSm','Fira Code'",
     "editor.fontLigatures": true,
-    "editor.fontSize": 14,
+    "editor.fontSize": 16,
+    "editor.formatOnSave": true,
     "editor.minimap.enabled": false,
     "editor.rulers": [
         120
     ],
-    "editor.cursorStyle": "line",
-    "editor.cursorBlinking": "phase",
-    "editor.renderWhitespace": "none",
-    "editor.multiCursorModifier": "alt",
+    "eslint.enable": true,
+    "eslint.validate": [
+        "javascript",
+        "svelte"
+    ],
     "files.autoSave": "onWindowChange",
+    "files.insertFinalNewline": true,
     "files.trimTrailingWhitespace": true,
-    "files.exclude": {
-        "**/.DS_Store": true,
-        "**/.git": true,
-        "**/.idea": true,
-        "**/.terraform": true,
-    },
-    "git.enableSmartCommit": true,
-    "search.exclude": {
-        "**/bower_components": true,
-        "**/node_modules": true
-    },
-    "workbench.startupEditor": "newUntitledFile",
-    "explorer.confirmDragAndDrop": false,
-    "gitlens.advanced.messages": {
-        "suppressCommitHasNoPreviousCommitWarning": false,
-        "suppressCommitNotFoundWarning": false,
-        "suppressFileNotUnderSourceControlWarning": false,
-        "suppressGitVersionWarning": false,
-        "suppressLineUncommittedWarning": false,
-        "suppressNoRepositoryWarning": false,
-        "suppressResultsExplorerNotice": false,
-        "suppressShowKeyBindingsNotice": true,
-        "suppressUpdateNotice": false,
-        "suppressWelcomeNotice": true
-    },
     "git.autofetch": true,
-    "gitlens.keymap": "chorded",
-    "search.location": "sidebar",
-    "gitlens.historyExplorer.enabled": true,
-    "diffEditor.ignoreTrimWhitespace": false,
-    "workbench.colorTheme": "Cobalt2",
-    "terminal.integrated.fontSize": 14,
-    "editor.formatOnPaste": true,
-    "editor.formatOnSave": true,
+    "git.enableSmartCommit": true,
+    "go.autocompleteUnimportedPackages": true,
+    "go.buildOnSave": "off",
     "go.formatFlags": [
         "-w"
     ],
-    "go.autocompleteUnimportedPackages": true,
-    "go.buildOnSave": "off",
-    "go.lintTool": "megacheck",
-    "editor.insertSpaces": false,
+    "go.lintTool": "revive",
+    "go.useLanguageServer": true,
+    "material-icon-theme.showWelcomeMessage": false,
+    "terminal.integrated.fontSize": 16,
+    "terraform.indexing": {
+        "delay": 500,
+        "enabled": false,
+        "exclude": [
+            ".terraform/**/*",
+            "**/.terraform/**/*"
+        ],
+        "liveIndexing": false
+    },
+    "terraform.languageServer": {
+        "args": [],
+        "enabled": true
+    },
+    "window.zoomLevel": 0,
+    "workbench.colorTheme": "Field Lights",
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.startupEditor": "newUntitledFile"
 }
 ```
 
-## Workspace settings for a repo containing Ansible
+## Ansible
 
 ```json
 {
