@@ -59,6 +59,7 @@ Link:
 * [Web APIs](https://developer.mozilla.org/en-US/docs/Web/API)
 * [barba.js - Create badass fluid and smooth transitions](https://barba.js.org/)
 * [swup - Complete, flexible, extensible and easy to use page transition library](https://swup.js.org/)
+* [Rellax - buttery smooth, super lightweight, vanilla javascript parallax library.](https://dixonandmoe.com/rellax/)
 
 ## Editors
 
