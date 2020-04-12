@@ -90,3 +90,14 @@
 ## Testing
 
 * [Cypress - End to End Testing Framework](https://dev.to/bushraalam/cypress-end-to-end-testing-framework-3naa)
+
+## Sapper
+
+* [Deploying multiple service workers](https://sapper.svelte.dev/docs#Deploying_service_workers)
+* [Content Security Policy (CSP)](https://sapper.svelte.dev/docs#Content_Security_Policy_CSP)
+* [Bug related to CSP implementation from above](https://github.com/sveltejs/sapper/issues/343)
+
+### Example projects
+
+* [RealWorld](https://github.com/sveltejs/realworld)
+* [Sapper Notes](https://github.com/imsamtar/sapper-notes)
