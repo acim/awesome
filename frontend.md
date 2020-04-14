@@ -30,6 +30,7 @@
 ## Security
 
 * [Protect your email address from spam](https://www.email-encoder.com/)
+* [Understanding CSRF](https://github.com/pillarjs/understanding-csrf)
 
 ### Generate SHA384
 
