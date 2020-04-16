@@ -101,3 +101,9 @@
 
 * [RealWorld](https://github.com/sveltejs/realworld)
 * [Sapper Notes](https://github.com/imsamtar/sapper-notes)
+
+## Modules
+
+* [Creating a package for Svelte](https://dev.to/agustinl/creating-a-package-for-svelte-262n)
+* [How to Create a Package for Svelte](https://medium.com/better-programming/creating-a-package-for-svelte-f44fccbc886b)
+* [ECMAScript Modules](https://nodejs.org/api/esm.html)
