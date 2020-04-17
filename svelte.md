@@ -22,6 +22,7 @@
 * [Niels van der Molen - Svelte Blog](https://www.nielsvandermolen.com/category/svelte/)
 * [Valentino Gagliardi - Svelte Blog](https://www.valentinog.com/blog/svelte/)
 * [David Lacourt - Svelte Blog](https://lacourt.dev/)
+* [svelte-chota](https://github.com/AlexxNB/svelte-chota)
 
 ## UI Libraries
 
@@ -82,6 +83,7 @@
 ## Tools
 
 * [svelvet - Make Svelte play nicely with Snowpack and web_modules](https://github.com/jakedeichert/svelvet)
+* [rollup-plugin-svg-icons - plugin for bundling all svg icons from the speciefed folder to the single spritesheet svg file](https://github.com/AlexxNB/rollup-plugin-svg-icons)
 
 ## Desktop
 
@@ -107,3 +109,15 @@
 * [Creating a package for Svelte](https://dev.to/agustinl/creating-a-package-for-svelte-262n)
 * [How to Create a Package for Svelte](https://medium.com/better-programming/creating-a-package-for-svelte-f44fccbc886b)
 * [ECMAScript Modules](https://nodejs.org/api/esm.html)
+
+## Markdown
+
+* [Write Svelte components using Markdown](https://github.com/AlexxNB/svelte-preprocess-markdown)
+
+## Extensions
+
+* [svelte-eventbus - use when you need handle events from deeply-nested child components without events forwarding](https://github.com/AlexxNB/svelte-eventbus)
+
+## Skeleton / template projects
+
+* [Svelte SPA Template](https://github.com/AlexxNB/svelte-template-spa)

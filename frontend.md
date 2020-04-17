@@ -26,6 +26,7 @@
 
 * [Material Design Icons By Community](https://materialdesignicons.com/)
 * [Font Awesome](https://fontawesome.com/)
+* [iconogram - all icons as separate .svg files](https://icongr.am/)
 
 ## Security
 
