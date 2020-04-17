@@ -28,6 +28,12 @@
 * [Font Awesome](https://fontawesome.com/)
 * [iconogram - all icons as separate .svg files](https://icongr.am/)
 
+## Fonts
+
+* [Google Fonts](https://fonts.google.com/)
+* [Overpass](http://overpassfont.org/)
+* [Overpass Cyrillic](https://github.com/AlexxNB/overpass-font-cyrillic)
+
 ## Security
 
 * [Protect your email address from spam](https://www.email-encoder.com/)
