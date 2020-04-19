@@ -1,5 +1,7 @@
 # awesome
 
+[![HitCount](http://hits.dwyl.com/acim/awesome.svg)](http://hits.dwyl.com/acim/awesome)
+
 A curated list of delightful developers resources.
 
 * [Backend - REST](backend.md)
