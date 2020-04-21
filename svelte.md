@@ -110,6 +110,7 @@
 * [Creating a package for Svelte](https://dev.to/agustinl/creating-a-package-for-svelte-262n)
 * [How to Create a Package for Svelte](https://medium.com/better-programming/creating-a-package-for-svelte-f44fccbc886b)
 * [ECMAScript Modules](https://nodejs.org/api/esm.html)
+* [component-template - a base for building shareable Svelte component](https://github.com/sveltejs/component-template)
 
 ## Markdown
 
