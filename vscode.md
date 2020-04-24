@@ -2,64 +2,54 @@
 
 ## Links
 
-* [Tips and tricks](https://github.com/Microsoft/vscode-tips-and-tricks)
-* [A curated list of delightful VS Code packages and resources](https://github.com/viatsko/awesome-vscode)
-* [PHP and Vue optimized settings and extensions](http://calebporzio.com/my-vs-code-setup-2/)
-* [VSCodium – open source Visual Studio Code without trackers](https://www.fossmint.com/vscodium-clone-of-visual-studio-code-for-linux/)
+- [Tips and tricks](https://github.com/Microsoft/vscode-tips-and-tricks)
+- [A curated list of delightful VS Code packages and resources](https://github.com/viatsko/awesome-vscode)
+- [PHP and Vue optimized settings and extensions](http://calebporzio.com/my-vs-code-setup-2/)
+- [VSCodium – open source Visual Studio Code without trackers](https://www.fossmint.com/vscodium-clone-of-visual-studio-code-for-linux/)
 
 ## User settings (settings.json)
 
 ```json
 {
-    "breadcrumbs.enabled": true,
-    "editor.codeActionsOnSave": {
-        "source.fixAll.eslint": true
-    },
-    "editor.cursorBlinking": "phase",
-    "editor.fontFamily": "'Operator Mono','Fira Code'",
-    "editor.fontLigatures": true,
-    "editor.fontSize": 16,
-    "editor.formatOnSave": true,
-    "editor.minimap.enabled": false,
-    "editor.rulers": [
-        120
-    ],
-    "eslint.enable": true,
-    "eslint.validate": [
-        "javascript",
-        "svelte"
-    ],
-    "files.autoSave": "onWindowChange",
-    "files.insertFinalNewline": true,
-    "files.trimTrailingWhitespace": true,
-    "git.autofetch": true,
-    "git.enableSmartCommit": true,
-    "go.autocompleteUnimportedPackages": true,
-    "go.buildOnSave": "off",
-    "go.formatFlags": [
-        "-w"
-    ],
-    "go.lintTool": "revive",
-    "go.useLanguageServer": true,
-    "material-icon-theme.showWelcomeMessage": false,
-    "terminal.integrated.fontSize": 16,
-    "terraform.indexing": {
-        "delay": 500,
-        "enabled": false,
-        "exclude": [
-            ".terraform/**/*",
-            "**/.terraform/**/*"
-        ],
-        "liveIndexing": false
-    },
-    "terraform.languageServer": {
-        "args": [],
-        "enabled": true
-    },
-    "window.zoomLevel": 0,
-    "workbench.colorTheme": "Field Lights",
-    "workbench.iconTheme": "material-icon-theme",
-    "workbench.startupEditor": "newUntitledFile"
+  "breadcrumbs.enabled": true,
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "editor.cursorBlinking": "phase",
+  "editor.fontFamily": "'Operator Mono Book','Fira Code'",
+  "editor.fontLigatures": true,
+  "editor.fontSize": 16,
+  "editor.formatOnSave": true,
+  "editor.minimap.enabled": false,
+  "editor.rulers": [120],
+  "eslint.enable": true,
+  "eslint.validate": ["javascript", "svelte"],
+  "files.autoSave": "onWindowChange",
+  "files.insertFinalNewline": true,
+  "files.trimTrailingWhitespace": true,
+  "git.autofetch": true,
+  "git.enableSmartCommit": true,
+  "go.autocompleteUnimportedPackages": true,
+  "go.buildOnSave": "off",
+  "go.formatFlags": ["-w"],
+  "go.lintTool": "revive",
+  "go.useLanguageServer": true,
+  "material-icon-theme.showWelcomeMessage": false,
+  "terminal.integrated.fontSize": 16,
+  "terraform.indexing": {
+    "delay": 500,
+    "enabled": false,
+    "exclude": [".terraform/**/*", "**/.terraform/**/*"],
+    "liveIndexing": false
+  },
+  "terraform.languageServer": {
+    "args": [],
+    "enabled": true
+  },
+  "window.zoomLevel": 0,
+  "workbench.colorTheme": "Field Lights",
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.startupEditor": "newUntitledFile"
 }
 ```
 
@@ -67,16 +57,15 @@
 
 ```json
 {
-    "files.associations": {
-        "*.yml": "ansible"
-    },
+  "files.associations": {
+    "*.yml": "ansible"
+  }
 }
 ```
 
 ## Vue.js and NUXT
 
 ```json
-
 {
   "eslint.validate": [
     {
