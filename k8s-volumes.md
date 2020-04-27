@@ -2,15 +2,15 @@
 
 ```yaml
 spec:
-    volumes:
+  volumes:
     - name: foo-volume
-    configMap:
-        name: foo-config-map
-        defaultMode: 0644
-        items:
-        - key: foo-config-map-key
-          path: destination-filename.conf
-        optional: false
+  configMap:
+    name: foo-config-map
+    defaultMode: 0644
+    items:
+      - key: foo-config-map-key
+        path: destination-filename.conf
+    optional: false
 ```
 
 ```txt
@@ -92,12 +92,12 @@ FIELDS:
 
 ```yaml
 spec:
-    containers:
+  containers:
     - volumeMounts:
-      - name: foo-volume
-        mountPath: /etc/destination-filename.conf
-        subPath: source-filename.conf
-        readOnly: true
+        - name: foo-volume
+          mountPath: /etc/destination-filename.conf
+          subPath: source-filename.conf
+          readOnly: true
 ```
 
 ```txt

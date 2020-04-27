@@ -1,7 +1,7 @@
 # git
 
-* [Flight rules for Git](https://github.com/k88hudson/git-flight-rules)
-* [Useful Git Commands](https://dev.to/lydiahallie/cs-visualized-useful-git-commands-37p1)
+- [Flight rules for Git](https://github.com/k88hudson/git-flight-rules)
+- [Useful Git Commands](https://dev.to/lydiahallie/cs-visualized-useful-git-commands-37p1)
 
 ## Delete merged local branches
 
