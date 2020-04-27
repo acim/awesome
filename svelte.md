@@ -71,6 +71,7 @@
 - [A lightweight library for managing forms in Svelte](https://github.com/tjinauyeung/svelte-forms-lib)
 - [Build forms fast and easy in Svelte](https://tjinauyeung.com/articles/build-forms-fast-and-easy-in-svelte)
 - [Sveltik - Forms in Svelte inspired by Formik](https://github.com/nathancahill/sveltik)
+- [svelte-forms](https://github.com/svelteschool/svelte-forms)
 
 ## Auth
 
