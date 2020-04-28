@@ -29,12 +29,15 @@
 - [Material Design Icons By Community](https://materialdesignicons.com/)
 - [Font Awesome](https://fontawesome.com/)
 - [iconogram - all icons as separate .svg files](https://icongr.am/)
+- [IcoMoon](https://icomoon.io/app/#/select)
 
 ## Fonts
 
 - [Google Fonts](https://fonts.google.com/)
 - [Overpass](http://overpassfont.org/)
 - [Overpass Cyrillic](https://github.com/AlexxNB/overpass-font-cyrillic)
+- [glyphhanger - subsets web fonts](https://github.com/filamentgroup/glyphhanger)
+- [Font style matcher](https://meowni.ca/font-style-matcher/)
 
 ## Security
 
@@ -106,6 +109,9 @@ Link:
 - [List Animations](https://codepen.io/designcourse/pen/YzPmJxo?__cf_chl_captcha_tk__=370595f2962c005184faae9d2ac651b6a6d3aec0-1580777046-0-ATFGeZ4BUojWZTDZUCW-kquMaQErlT2Tvm5G2M8jDLiEMusy4qIzLKrb7BNGhhnfu2YK112LvqDRXp4pKCzYs-cdd58C2OMSszcpbu7SfLv6YHtoAHn3y8cK3uTK5FZB8ThwRzM-NxAUoA5W5mXKdDHbD-Au9IXi77jgzgxfQjKGEzVnazRK3GLUyk3BauhrHstvlIIiLIg-Fe6eZn7k5e6Mo4JjGZK6V4Y9w9TIOHZZaKWTCLjWxAXyI2sOYidj0OKNkjwHdO9rBP3H-AboTclhObwFelnr5veP1H_-JLzP3FvhKfFA6ltsyuYcFJBomVQr2AhMfOUgzP6Lnh9xoTnWNpEB90DWvzARs3RjdcVK7o6cz6jYJA8_NvFy8waIsAGpZF95nt4ErgSDf_qGW-8)
 - [Staggered Animations with CSS Custom Properties](https://cloudfour.com/thinks/staggered-animations-with-css-custom-properties/)
 - [Blueprint CSS - A lightweight layout library for building great responsive mobile first UIs that work everywhere](https://blueprintcss.dev/)
+- [CSS Tricks](https://css-tricks.com/)
+- [CSS Reference](http://tympanus.net/codrops/css_reference)
+- [Can I use?](https://caniuse.com/)
 
 ### Components
 
@@ -134,3 +140,10 @@ Link:
 - [MediaDevices](https://developer.mozilla.org/en-US/docs/Web/API/MediaDevices)
 - [Screen Capture API](https://developer.mozilla.org/en-US/docs/Web/API/Screen_Capture_API)
 - [Introduction to getUserMedia](https://m.youtube.com/watch?v=Hc7GE3ENz7k)
+
+## Tools
+
+- [SVGOMG](https://jakearchibald.github.io/svgomg/)
+- [ShrinkMe](https://shrinkme.app/)
+- [Squoosh](https://squoosh.app/)
+- [Lighthouse - analyzes web apps and web pages, collecting modern performance metrics and insights](https://github.com/GoogleChrome/lighthouse)
