@@ -18,6 +18,7 @@
 - [How to Create a Package for Svelte](https://medium.com/better-programming/creating-a-package-for-svelte-f44fccbc886b)
 - [MVP repo to just start collecting recipes for Svelte Community](https://github.com/svelte-society/recipes-mvp)
 - [Svelte Community](https://svelte-community.netlify.app/)
+- [Data Fetching](https://www.youtube.com/watch?v=_K7LRy6IP_4&t=2s)
 
 ## Blogs
 

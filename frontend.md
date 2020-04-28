@@ -10,11 +10,15 @@
 - [YouTube Player API Reference for iframe Embeds](https://developers.google.com/youtube/iframe_api_reference)
 - [window.location cheatsheet](https://dev.to/samanthaming/window-location-cheatsheet-4edl)
 - [40 Free HTML landing page templates](https://dev.to/davidepacilio/40-free-html-landing-page-templates-3gfp)
+- [Easing funtions](https://easings.net/en)
+- [Browser Default Styles](https://browserdefaultstyles.com/)
 
 ## Design
 
 - [Colorinspo - all in one resource to find everything about colors with extreme ease](https://colorsinspo.com/)
 - [Color Hunt - Dark Color Palettes](https://colorhunt.co/palettes/dark)
+- [CSS Gradient](https://cssgradient.io/)
+- [Make a smooth shadow](https://brumm.af/shadows)
 
 ## Stock Images
 
@@ -125,6 +129,11 @@ Link:
 - [Twitter Card Validator](https://cards-dev.twitter.com/validator)
 - [iframely - Meta Validator](http://debug.iframely.com/)
 
+## Accessibility
+
+- [A11Y Project](https://a11yproject.com/patterns/)
+- [WAI-ARIA Recommendation](https://www.w3.org/TR/wai-aria-1.1/)
+
 ## Fake backends
 
 - [JSONPlaceholder](https://jsonplaceholder.typicode.com)
@@ -147,3 +156,4 @@ Link:
 - [ShrinkMe](https://shrinkme.app/)
 - [Squoosh](https://squoosh.app/)
 - [Lighthouse - analyzes web apps and web pages, collecting modern performance metrics and insights](https://github.com/GoogleChrome/lighthouse)
+- [Responsive Image Breakpoints Generator](https://responsivebreakpoints.com/)
