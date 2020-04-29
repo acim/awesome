@@ -12,10 +12,12 @@
 ```json
 {
   "breadcrumbs.enabled": true,
+  "diffEditor.ignoreTrimWhitespace": true,
   "editor.codeActionsOnSave": {
     "source.fixAll.eslint": true
   },
   "editor.cursorBlinking": "phase",
+  "editor.find.addExtraSpaceOnTop": false,
   "editor.fontFamily": "'Operator Mono Book','Fira Code'",
   "editor.fontLigatures": true,
   "editor.fontSize": 16,
@@ -47,7 +49,7 @@
     "enabled": true
   },
   "window.zoomLevel": 0,
-  "workbench.colorTheme": "Field Lights",
+  "workbench.colorTheme": "Night Owl",
   "workbench.iconTheme": "material-icon-theme",
   "workbench.startupEditor": "newUntitledFile"
 }
