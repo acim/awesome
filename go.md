@@ -53,6 +53,7 @@
 
 ## HTTP server
 
+- [Fiber - Express-inspired web framework using Fasthttp](https://gofiber.io/)
 - [chi](https://github.com/go-chi/chi)
 - [Gocraft](https://github.com/gocraft/web)
 - [Creating the V in MVC](https://www.calhoun.io/intro-to-templates-p4-v-in-mvc/)
