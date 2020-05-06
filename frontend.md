@@ -179,3 +179,67 @@ html {
 ```
 
 [modern-normalize](https://github.com/sindresorhus/modern-normalize) already applies this.
+
+### After normalize.css reset margin and padding and set box-sizing to border-box
+
+```css
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+```
+
+### [text-rendering](https://css-tricks.com/almanac/properties/t/text-rendering/)
+
+```css
+p.legibility {
+  text-rendering: optimizeLegibility;
+}
+p.speed {
+  text-rendering: optimizeSpeed;
+}
+/* maybe not performant */
+html {
+  text-rendering: optimizeLegibility;
+}
+/* or */
+body {
+  text-rendering: optimizeLegibility;
+}
+```
+
+### [The 1140 grid fits perfectly into a 1280 monitor](https://www.ramotion.com/agency/web-design/cssgrid/)
+
+```css
+.row {
+  max-width: 1140px;
+}
+```
+
+### Align icons and text
+
+```css
+.icon-small {
+  display: inline-block;
+  width: 30px;
+  text-align: center;
+  font-size: 120%;
+  margin-right: 10px;
+  /* trick */
+  line-height: 120%;
+  vertical-align: middle;
+  margin-top: -5px;
+}
+```
+
+### Fixed background image (cool effect)
+
+```css
+.section-with-bg-image {
+  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(img/bg.jpg);
+  background-size: cover;
+  color: white;
+  background-attachment: fixed;
+}
+```
