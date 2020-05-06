@@ -19,6 +19,8 @@
 - [Color Hunt - Dark Color Palettes](https://colorhunt.co/palettes/dark)
 - [CSS Gradient](https://cssgradient.io/)
 - [Make a smooth shadow](https://brumm.af/shadows)
+- [Flat UI Colors](https://flatuicolors.com/)
+- [Material Flat UI Colors](https://www.materialui.co/flatuicolors)
 
 ## Stock Images
 
@@ -109,13 +111,18 @@ Link:
 - [Material Components for the Web Codelabs](https://github.com/material-components/material-components-web-codelabs)
 - [Creating Non-Rectangular Headers](https://css-tricks.com/creating-non-rectangular-headers/)
 - [CSS clip-path maker](https://bennettfeely.com/clippy/)
-- [Fancy CSS Button Hover Animations](https://github.com/WebDevSimplified/Fancy-CSS-Button-Hover-Animations)
 - [List Animations](https://codepen.io/designcourse/pen/YzPmJxo?__cf_chl_captcha_tk__=370595f2962c005184faae9d2ac651b6a6d3aec0-1580777046-0-ATFGeZ4BUojWZTDZUCW-kquMaQErlT2Tvm5G2M8jDLiEMusy4qIzLKrb7BNGhhnfu2YK112LvqDRXp4pKCzYs-cdd58C2OMSszcpbu7SfLv6YHtoAHn3y8cK3uTK5FZB8ThwRzM-NxAUoA5W5mXKdDHbD-Au9IXi77jgzgxfQjKGEzVnazRK3GLUyk3BauhrHstvlIIiLIg-Fe6eZn7k5e6Mo4JjGZK6V4Y9w9TIOHZZaKWTCLjWxAXyI2sOYidj0OKNkjwHdO9rBP3H-AboTclhObwFelnr5veP1H_-JLzP3FvhKfFA6ltsyuYcFJBomVQr2AhMfOUgzP6Lnh9xoTnWNpEB90DWvzARs3RjdcVK7o6cz6jYJA8_NvFy8waIsAGpZF95nt4ErgSDf_qGW-8)
 - [Staggered Animations with CSS Custom Properties](https://cloudfour.com/thinks/staggered-animations-with-css-custom-properties/)
-- [Blueprint CSS - A lightweight layout library for building great responsive mobile first UIs that work everywhere](https://blueprintcss.dev/)
 - [CSS Tricks](https://css-tricks.com/)
 - [CSS Reference](http://tympanus.net/codrops/css_reference)
 - [Can I use?](https://caniuse.com/)
+- [sanitize.css - CSS library that provides consistent, cross-browser default styling of HTML elements alongside useful defaults](https://github.com/csstools/sanitize.css)
+- [Jonas' Resources for Building Beautiful Websites with HTML5, CSS3 and JavaScript](http://codingheroes.io/resources/)
+- [modern-normalize](https://github.com/sindresorhus/modern-normalize)
+- [Blueprint CSS - A lightweight layout library for building great responsive mobile first UIs that work everywhere](https://blueprintcss.dev/)
+- [Responsive Grid System](http://www.responsivegridsystem.com/)
+- [Fancy CSS Button Hover Animations](https://github.com/WebDevSimplified/Fancy-CSS-Button-Hover-Animations)
+- [Social Media Accordion With CSS3 Transitions](https://www.youtube.com/watch?v=4M6qPoFWIxI)
 
 ### Components
 
@@ -157,3 +164,18 @@ Link:
 - [Squoosh](https://squoosh.app/)
 - [Lighthouse - analyzes web apps and web pages, collecting modern performance metrics and insights](https://github.com/GoogleChrome/lighthouse)
 - [Responsive Image Breakpoints Generator](https://responsivebreakpoints.com/)
+
+## CSS Tips & Tricks
+
+### [Apply a natural box layout model to all elements, but allowing components to change](https://www.paulirish.com/2012/box-sizing-border-box-ftw/)
+
+```css
+html {
+  box-sizing: border-box;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+```
+
+[modern-normalize](https://github.com/sindresorhus/modern-normalize) already applies this.
