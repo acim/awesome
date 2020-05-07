@@ -204,10 +204,6 @@ p.speed {
   text-rendering: optimizeSpeed;
 }
 /* maybe not performant */
-html {
-  text-rendering: optimizeLegibility;
-}
-/* or */
 body {
   text-rendering: optimizeLegibility;
 }
@@ -250,16 +246,31 @@ body {
 
 ### White box with hollow text over a background image
 
+```css
 h1.white {
   background: white;
   color: black;
   mix-blend-mode: screen;
 }
+```
 
 ### Black box with hollow text over a background image
 
+```css
 h1.black {
   background: black;
   color: white;
   mix-blend-mode: multiply;
 }
+```
+
+### Center text on page
+
+```css
+body {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+```
