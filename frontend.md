@@ -123,6 +123,7 @@ Link:
 - [Even more CSS secrets](https://www.youtube.com/watch?v=vs34f9FiHps)
 - [Using @font-face](https://css-tricks.com/snippets/css/using-font-face/)
 - [Hot CSS tips](https://equinusocio.dev/blog/hot-tips-css/)
+- [Content CSS property - none, normal, string, image, counter, attr, open-quote](https://developer.mozilla.org/en-US/docs/Web/CSS/content)
 - [Jonas' Resources for Building Beautiful Websites with HTML5, CSS3 and JavaScript](http://codingheroes.io/resources/)
 - [modern-normalize](https://github.com/sindresorhus/modern-normalize)
 - [Blueprint CSS - A lightweight layout library for building great responsive mobile first UIs that work everywhere](https://blueprintcss.dev/)
