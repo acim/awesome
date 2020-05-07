@@ -121,6 +121,7 @@ Link:
 - [sanitize.css - CSS library that provides consistent, cross-browser default styling of HTML elements alongside useful defaults](https://github.com/csstools/sanitize.css)
 - [Even more CSS secrets](https://www.youtube.com/watch?v=vs34f9FiHps)
 - [Using @font-face](https://css-tricks.com/snippets/css/using-font-face/)
+- [Hot CSS tips](https://equinusocio.dev/blog/hot-tips-css/)
 - [Jonas' Resources for Building Beautiful Websites with HTML5, CSS3 and JavaScript](http://codingheroes.io/resources/)
 - [modern-normalize](https://github.com/sindresorhus/modern-normalize)
 - [Blueprint CSS - A lightweight layout library for building great responsive mobile first UIs that work everywhere](https://blueprintcss.dev/)
@@ -273,5 +274,13 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+}
+```
+
+### Render QR or thumbnails
+
+```css
+img {
+  image-rendering: pixelated;
 }
 ```
