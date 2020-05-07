@@ -21,6 +21,7 @@
 - [Make a smooth shadow](https://brumm.af/shadows)
 - [Flat UI Colors](https://flatuicolors.com/)
 - [Material Flat UI Colors](https://www.materialui.co/flatuicolors)
+- [Social Media Colors 2020](https://www.lockedownseo.com/social-media-colors/)
 
 ## Stock Images
 
