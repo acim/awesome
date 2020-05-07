@@ -243,3 +243,19 @@ body {
   background-attachment: fixed;
 }
 ```
+
+### White box with hollow text over a background image
+
+h1.white {
+  background: white;
+  color: black;
+  mix-blend-mode: screen;
+}
+
+### Black box with hollow text over a background image
+
+h1.black {
+  background: black;
+  color: white;
+  mix-blend-mode: multiply;
+}
