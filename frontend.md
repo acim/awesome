@@ -117,10 +117,13 @@ Link:
 - [CSS Reference](http://tympanus.net/codrops/css_reference)
 - [Can I use?](https://caniuse.com/)
 - [sanitize.css - CSS library that provides consistent, cross-browser default styling of HTML elements alongside useful defaults](https://github.com/csstools/sanitize.css)
+- [Even more CSS secrets](https://www.youtube.com/watch?v=vs34f9FiHps)
+- [Using @font-face](https://css-tricks.com/snippets/css/using-font-face/)
 - [Jonas' Resources for Building Beautiful Websites with HTML5, CSS3 and JavaScript](http://codingheroes.io/resources/)
 - [modern-normalize](https://github.com/sindresorhus/modern-normalize)
 - [Blueprint CSS - A lightweight layout library for building great responsive mobile first UIs that work everywhere](https://blueprintcss.dev/)
 - [Responsive Grid System](http://www.responsivegridsystem.com/)
+- [Fancy CSS Button Hover Animations](https://www.youtube.com/watch?v=cH0TC9gWiAg)
 - [Fancy CSS Button Hover Animations](https://github.com/WebDevSimplified/Fancy-CSS-Button-Hover-Animations)
 - [Social Media Accordion With CSS3 Transitions](https://www.youtube.com/watch?v=4M6qPoFWIxI)
 
