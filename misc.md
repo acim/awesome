@@ -7,6 +7,7 @@
 - [Ghost](https://github.com/helm/charts/tree/master/stable/ghost)
 - [Ghost storage adapter S3](https://github.com/luizamboni/ghost-s3-storage-adapter)
 - [Generate API documentation from Postman's export](https://github.com/thedevsaddam/docgen)
+- [curl cheat.sh - Cheat sheets in CLI](http://cheat.sh/)
 
 ## WebRTC Conferencing
 

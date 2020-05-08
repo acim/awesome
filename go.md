@@ -25,6 +25,7 @@
 - [Practical Go: Real world advice for writing maintainable Go programs](https://dave.cheney.net/practical-go/presentations/qcon-china.html)
 - [Adopting Go Modules and integrating with Github Actions - Handle different application versions and conditional build in GitHub Actions](https://jcmturner.github.io/go/2020/02/01/adopting-go-modules.html)
 - [Thanos Coding Style Guide](https://www.bwplotka.dev/2020/how-thanos-would-program-in-go/)
+- [Four Steps to Daemonize Your Go Programs](https://ieftimov.com/post/four-steps-daemonize-your-golang-programs/)
 
 ## Blogs
 
