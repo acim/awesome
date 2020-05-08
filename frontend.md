@@ -38,6 +38,8 @@
 - [Font Awesome](https://fontawesome.com/)
 - [iconogram - all icons as separate .svg files](https://icongr.am/)
 - [IcoMoon](https://icomoon.io/app/#/select)
+- [Genericons](https://github.com/Automattic/genericons-neue)
+- [Social Logos](https://github.com/Automattic/social-logos)
 
 ## Fonts
 
