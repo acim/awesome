@@ -314,3 +314,37 @@ img {
   font-size: calc(1vw + 1vh + .5vmin);
 }
 ```
+
+### Common bootstrap
+
+```css
+@import url(//cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css);
+
+:root  {
+  font-size: calc(1vw + 1vh + 0.5vmin);
+}
+
+html {
+  box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  height: 100vh;
+  /* max-width: 1140px; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-rendering: optimizeLegibility;
+}
+```
