@@ -64,7 +64,83 @@
     "workbench.startupEditor": "newUntitledFile",
     "yaml.format.bracketSpacing": false
 }
+```
 
+## Recommended Extensions
+
+### Go
+
+```json
+"ms-vscode.go",
+```
+
+### HTML & CSS
+
+```json
+"formulahendry.auto-rename-tag",
+"esbenp.prettier-vscode",
+"ritwickdey.liveserver",
+"mrmlnc.vscode-autoprefixer",
+```
+
+### JavaScript
+
+```json
+"dbaeumer.vscode-eslint",
+"jamesbirtles.svelte-vscode",
+"eg2.vscode-npm-script",
+```
+
+### General
+
+```json
+"streetsidesoftware.code-spell-checker",
+"davidanson.vscode-markdownlint",
+"christian-kohler.path-intellisense",
+"richie5um2.vscode-sort-json",
+"tyriar.sort-lines",
+"wayou.vscode-todo-highlight",
+"ms-vsliveshare.vsliveshare",
+"quicktype.quicktype",
+"humao.rest-client",
+```
+
+### Docker & Kubernetes
+
+```json
+"ms-azuretools.vscode-docker",
+"ms-kubernetes-tools.vscode-kubernetes-tools",
+"redhat.vscode-yaml",
+"pascalreitermann93.vscode-yaml-sort",
+```
+
+### Git
+
+```json
+"donjayamanne.githistory",
+"codezombiech.gitignore",
+"eamodio.gitlens",
+```
+
+### Jenkins
+
+```json
+"secanis.jenkinsfile-support",
+"janjoerke.jenkins-pipeline-linter-connector",
+```
+
+### Terraform
+
+```json
+"mauve.terraform",
+```
+
+### Azure
+
+```json
+"ms-vscode.azure-account",
+"ms-vscode.azurecli",
+"ms-azuretools.vscode-azureterraform",
 ```
 
 ## Ansible
