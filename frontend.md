@@ -315,6 +315,25 @@ img {
 }
 ```
 
+### Clearfix
+
+```css
+/* old way */
+.clearfix {
+  overflow: auto;
+}
+/* new way */
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+/* future way */
+.clearfix {
+  display: flow-root;
+}
+```
+
 ### Common bootstrap
 
 ```css
