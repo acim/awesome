@@ -120,12 +120,15 @@ Link:
 - [Staggered Animations with CSS Custom Properties](https://cloudfour.com/thinks/staggered-animations-with-css-custom-properties/)
 - [CSS Tricks](https://css-tricks.com/)
 - [CSS Reference](http://tympanus.net/codrops/css_reference)
-- [Can I use?](https://caniuse.com/)
+- [Can I use? - Check if browser supports some feature](https://caniuse.com/)
 - [sanitize.css - CSS library that provides consistent, cross-browser default styling of HTML elements alongside useful defaults](https://github.com/csstools/sanitize.css)
 - [Even more CSS secrets](https://www.youtube.com/watch?v=vs34f9FiHps)
 - [Using @font-face](https://css-tricks.com/snippets/css/using-font-face/)
 - [Hot CSS tips](https://equinusocio.dev/blog/hot-tips-css/)
 - [Content CSS property - none, normal, string, image, counter, attr, open-quote](https://developer.mozilla.org/en-US/docs/Web/CSS/content)
+- [:target pseudo selector](https://css-tricks.com/on-target/)
+- [transform-origin property](https://css-tricks.com/almanac/properties/t/transform-origin/)
+- [object-fit property - style images](https://css-tricks.com/almanac/properties/o/object-fit/)
 - [Jonas' Resources for Building Beautiful Websites with HTML5, CSS3 and JavaScript](http://codingheroes.io/resources/)
 - [modern-normalize](https://github.com/sindresorhus/modern-normalize)
 - [Blueprint CSS - A lightweight layout library for building great responsive mobile first UIs that work everywhere](https://blueprintcss.dev/)
@@ -174,8 +177,24 @@ Link:
 - [Squoosh](https://squoosh.app/)
 - [Lighthouse - analyzes web apps and web pages, collecting modern performance metrics and insights](https://github.com/GoogleChrome/lighthouse)
 - [Responsive Image Breakpoints Generator](https://responsivebreakpoints.com/)
+- [Favicon Generator - All browsers, all platforms](https://realfavicongenerator.net/)
+- [Optimizilla - Online image optimizer](https://imagecompressor.com/)
+- [W3C Markup Validation Service](https://validator.w3.org/)
 
 ## CSS Tips & Tricks
+
+### CSS Variables
+
+```css
+:root {
+  --primary: #0f0;
+  --secondary: #fff;
+}
+html {
+  font-family: Arial, Helvetica, sans-serif;
+  color: var(--primary)
+}
+```
 
 ### [Apply a natural box layout model to all elements, but allowing components to change](https://www.paulirish.com/2012/box-sizing-border-box-ftw/)
 
@@ -190,13 +209,12 @@ html {
 
 [modern-normalize](https://github.com/sindresorhus/modern-normalize) already applies this.
 
-### After normalize.css reset margin and padding and set box-sizing to border-box
+### [Reset margin and padding](https://css-tricks.com/reset-all-margins-padding/)
 
 ```css
 * {
   margin: 0;
   padding: 0;
-  box-sizing: border-box;
 }
 ```
 
@@ -286,5 +304,13 @@ body {
 ```css
 img {
   image-rendering: pixelated;
+}
+```
+
+### Fluid font size
+
+```css
+:root {
+  font-size: calc(1vw + 1vh + .5vmin);
 }
 ```
