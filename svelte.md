@@ -128,3 +128,7 @@
 ## Skeleton / template projects
 
 - [Svelte SPA Template](https://github.com/AlexxNB/svelte-template-spa)
+
+## Websockets
+
+- [WebSockets Demo](https://www.youtube.com/watch?v=weC9HydHEAg)
