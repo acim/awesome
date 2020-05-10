@@ -180,6 +180,8 @@ Link:
 - [Favicon Generator - All browsers, all platforms](https://realfavicongenerator.net/)
 - [Optimizilla - Online image optimizer](https://imagecompressor.com/)
 - [W3C Markup Validation Service](https://validator.w3.org/)
+- [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/)
+- [Test mobile site](https://www.thinkwithgoogle.com/intl/en-gb/feature/testmysite/)
 
 ## CSS Tips & Tricks
 
