@@ -11,6 +11,21 @@
 
 ```json
 {
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[svelte]": {
+        "editor.defaultFormatter": "JamesBirtles.svelte-vscode"
+    },
+    "[yaml]": {
+        "editor.defaultFormatter": "redhat.vscode-yaml"
+    },
     "breadcrumbs.enabled": true,
     "diffEditor.ignoreTrimWhitespace": true,
     "editor.codeActionsOnSave": {
@@ -21,6 +36,7 @@
     "editor.fontFamily": "'Operator Mono Book','Fira Code'",
     "editor.fontLigatures": true,
     "editor.fontSize": 16,
+    "editor.formatOnPaste": true,
     "editor.formatOnSave": true,
     "editor.minimap.enabled": false,
     "editor.rulers": [
