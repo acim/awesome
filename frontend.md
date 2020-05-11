@@ -336,6 +336,26 @@ img {
 }
 ```
 
+### H1 with logo (SEO)
+
+```html
+<h1 class="logo">My Company and what we do</h1>
+```
+
+```css
+.logo {
+  position:relative;
+  height:50px;
+  width:50px;
+  overflow:hidden;}
+.logo:after {
+  content:url(logo.jpg);
+  position:absolute;
+  top:0;
+  left:0;
+}
+```
+
 ### Common bootstrap
 
 ```css
