@@ -356,6 +356,11 @@ img {
 }
 ```
 
+### Image tips
+
+- img width and height in percentage units does not work if img is inside an inline element. Wrapping element has to be changed to inline-block
+- if img does not fit well in the wrapping div (white stripe at the bottom), use vertical-align: bottom or modify the wrapping tag to be displayed as inline-block or block.
+
 ### Common bootstrap
 
 ```css
