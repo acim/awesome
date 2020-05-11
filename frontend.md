@@ -292,6 +292,18 @@ h1.black {
 }
 ```
 
+### Title with image as text color
+
+```css
+h1.image {
+  background-image: url(//unsplash.it/800);
+  background-size: cover;
+  background-clip: text;
+  -webkit-background-clip: text;
+  color: transparent;
+}
+```
+
 ### Center text on page
 
 ```css
