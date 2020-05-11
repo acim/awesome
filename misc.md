@@ -4,6 +4,7 @@
 - [LocalStack - A fully functional local AWS cloud stack](https://github.com/localstack/localstack/)
 - [SeaweedFS - simple and highly scalable distributed file system](https://github.com/chrislusf/seaweedfs)
 - [The Missing Shell Scripting Crash Course](https://dev.to/godcrampy/the-missing-shell-scripting-crash-course-37mk)
+- [explainshell - write down a command-line to see the help text that matches each argument](https://explainshell.com/)
 - [Ghost](https://github.com/helm/charts/tree/master/stable/ghost)
 - [Ghost storage adapter S3](https://github.com/luizamboni/ghost-s3-storage-adapter)
 - [Generate API documentation from Postman's export](https://github.com/thedevsaddam/docgen)
