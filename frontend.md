@@ -336,6 +336,31 @@ img {
 }
 ```
 
+### H1 with logo (SEO)
+
+```html
+<h1 class="logo">My Company and what we do</h1>
+```
+
+```css
+.logo {
+  position:relative;
+  height:50px;
+  width:50px;
+  overflow:hidden;}
+.logo:after {
+  content:url(logo.jpg);
+  position:absolute;
+  top:0;
+  left:0;
+}
+```
+
+### Image tips
+
+- img width and height in percentage units does not work if img is inside an inline element. Wrapping element has to be changed to inline-block
+- if img does not fit well in the wrapping div (white stripe at the bottom), use vertical-align: bottom or modify the wrapping tag to be displayed as inline-block or block.
+
 ### Common bootstrap
 
 ```css
