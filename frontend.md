@@ -87,6 +87,7 @@ Link:
 - [swup - Complete, flexible, extensible and easy to use page transition library](https://swup.js.org/)
 - [Rellax - buttery smooth, super lightweight, vanilla javascript parallax library.](https://dixonandmoe.com/rellax/)
 - [Anime.js - animates using CSS properties, SVG, DOM attributes and JavaScript](https://animejs.com/)
+- [Masonry - Cascading grid layout library](https://masonry.desandro.com/)
 
 ## Editors
 
@@ -131,6 +132,7 @@ Link:
 - [:target pseudo selector](https://css-tricks.com/on-target/)
 - [transform-origin property](https://css-tricks.com/almanac/properties/t/transform-origin/)
 - [object-fit property - style images](https://css-tricks.com/almanac/properties/o/object-fit/)
+- [Seamless Responsive Photo Grid](https://css-tricks.com/seamless-responsive-photo-grid/)
 - [Jonas' Resources for Building Beautiful Websites with HTML5, CSS3 and JavaScript](http://codingheroes.io/resources/)
 - [modern-normalize](https://github.com/sindresorhus/modern-normalize)
 - [Blueprint CSS - A lightweight layout library for building great responsive mobile first UIs that work everywhere](https://blueprintcss.dev/)
