@@ -47,7 +47,7 @@
         "javascript",
         "svelte"
     ],
-    "files.autoSave": "onWindowChange",
+    "files.autoSave": "onFocusChange",
     "files.insertFinalNewline": true,
     "files.trimTrailingWhitespace": true,
     "git.autofetch": true,
@@ -57,6 +57,7 @@
     "go.formatFlags": [
         "-w"
     ],
+    "go.formatTool": "goimports",
     "go.lintTool": "revive",
     "go.useLanguageServer": true,
     "material-icon-theme.showWelcomeMessage": false,
