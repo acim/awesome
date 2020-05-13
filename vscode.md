@@ -54,7 +54,6 @@
     "git.enableSmartCommit": true,
     "go.autocompleteUnimportedPackages": true,
     "go.buildOnSave": "off",
-    "go.formatTool": "gofmt",
     "go.lintFlags": [
         "-exclude=vendor/...",
         "-config=${workspaceFolder}/config.toml"
