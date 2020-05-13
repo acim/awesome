@@ -54,10 +54,11 @@
     "git.enableSmartCommit": true,
     "go.autocompleteUnimportedPackages": true,
     "go.buildOnSave": "off",
-    "go.formatFlags": [
-        "-w"
+    "go.formatTool": "gofmt",
+    "go.lintFlags": [
+        "-exclude=vendor/...",
+        "-config=${workspaceFolder}/config.toml"
     ],
-    "go.formatTool": "goimports",
     "go.lintTool": "revive",
     "go.useLanguageServer": true,
     "material-icon-theme.showWelcomeMessage": false,
