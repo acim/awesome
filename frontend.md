@@ -387,6 +387,21 @@ main {
 }
 ```
 
+### Shorter way to make responsive width
+
+```css
+width: 70%;
+max-width: 500px;
+```
+
+can be done shorter way:
+
+```css
+width: min(500px, 70%);
+```
+
+Besides min(), there are also max() and clamp() functions.
+
 ### Common bootstrap
 
 ```css
