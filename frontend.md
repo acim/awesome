@@ -425,6 +425,10 @@ width: min(500px, 70%);
 
 Besides min(), there are also max() and clamp() functions.
 
+### Problem with no background color after inside elements set to float
+
+This happens because a wrapping block element collapses when all inside block elements are float (to left or right). Solution for this is to set `overflow: auto` to the parent container.
+
 ### Common bootstrap
 
 ```css
