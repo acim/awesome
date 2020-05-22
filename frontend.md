@@ -462,3 +462,10 @@ body {
   text-rendering: optimizeLegibility;
 }
 ```
+
+### Selective load of CSS (HTML <link> media Attribute)
+
+```css
+<link rel="stylesheet" type="text/css" href="print.css" media="print">
+<link rel="stylesheet" type="text/css" href="mobile.css" media="screen and (max-width: 768)">
+```
