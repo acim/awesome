@@ -133,6 +133,7 @@ Link:
 - [transform-origin property](https://css-tricks.com/almanac/properties/t/transform-origin/)
 - [object-fit property - style images](https://css-tricks.com/almanac/properties/o/object-fit/)
 - [Seamless Responsive Photo Grid](https://css-tricks.com/seamless-responsive-photo-grid/)
+- [flex properties](https://css-tricks.com/almanac/properties/f/flex/)
 - [Jonas' Resources for Building Beautiful Websites with HTML5, CSS3 and JavaScript](http://codingheroes.io/resources/)
 - [modern-normalize](https://github.com/sindresorhus/modern-normalize)
 - [Blueprint CSS - A lightweight layout library for building great responsive mobile first UIs that work everywhere](https://blueprintcss.dev/)
@@ -428,6 +429,12 @@ Besides min(), there are also max() and clamp() functions.
 ### Problem with no background color after inside elements set to float
 
 This happens because a wrapping block element collapses when all inside block elements are float (to left or right). Solution for this is to set `overflow: auto` to the parent container.
+
+### Properly display image in any rectangle area (show image central area not disturbing aspect ratio)
+
+```css
+object-fit: cover;
+```
 
 ### Common bootstrap
 
