@@ -11,6 +11,7 @@
 - [curl cheat.sh - Cheat sheets in CLI](http://cheat.sh/)
 - [iHateRegex](https://ihateregex.io/)
 - [DevHints - Cheatsheets](https://devhints.io/)
+- [GetTerms - Generates a Privacy Policy and Terms of Service](https://getterms.io/)
 
 ## WebRTC Conferencing
 

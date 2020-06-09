@@ -64,6 +64,7 @@
 - [Overpass Cyrillic](https://github.com/AlexxNB/overpass-font-cyrillic)
 - [glyphhanger - subsets web fonts](https://github.com/filamentgroup/glyphhanger)
 - [Font style matcher](https://meowni.ca/font-style-matcher/)
+- [FontSpark allows you to discover your next favorite font](https://fontspark.app/)
 
 ## Security
 
@@ -207,9 +208,13 @@ Link:
 - [Test mobile site](https://www.thinkwithgoogle.com/intl/en-gb/feature/testmysite/)
 - [Majestic - Zero config GUI for Jest](https://github.com/Raathigesh/majestic)
 - [carbon - Create and share beautiful images of your source code](https://carbon.now.sh/)
-- [Wappalyzer](https://www.wappalyzer.com/)
-- [Shape Divider](https://www.shapedivider.app/)
+- [Wappalyzer - Find out stack of your favorite website](https://www.wappalyzer.com/)
+- [Shape Divider - Generate sleek dividers for your website](https://www.shapedivider.app/)
 - [Ucraft Logo Maker](https://www.ucraft.com/free-logo-maker)
+- [AppMockUp - Generate mock-ups for Android and iPhones](https://app-mockup.com/)
+- [Webframe - Thousands of design inspiration based on real websites](https://webframe.xyz/)
+- [Remove BG - Delete the background from your images](https://www.remove.bg/)
+- [Unscreen - remove.bg for gifs and videos](https://www.unscreen.com/)
 
 ## CSS Tips & Tricks
 
