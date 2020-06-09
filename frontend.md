@@ -24,6 +24,8 @@
 - [Social Media Colors 2020](https://www.lockedownseo.com/social-media-colors/)
 - [ColorSpace](https://mycolor.space/)
 - [0to255](https://www.0to255.com/)
+- [colors.lol](https://colors.lol/)
+- [ColorMind](http://colormind.io/)
 
 ## Illustrations
 
@@ -125,7 +127,7 @@ Link:
 
 - [20 Days of HTML](https://dev.to/theindiancodinggrl/20-days-of-html-learn-20-amazing-things-about-html-part-1-2p99)
 
-## CSS3
+## CSS
 
 - [Material Design Components](https://material.io/develop/web/components/animation/)
 - [Material Components for the Web Codelabs](https://github.com/material-components/material-components-web-codelabs)
@@ -153,6 +155,10 @@ Link:
 - [Fancy CSS Button Hover Animations](https://www.youtube.com/watch?v=cH0TC9gWiAg)
 - [Fancy CSS Button Hover Animations](https://github.com/WebDevSimplified/Fancy-CSS-Button-Hover-Animations)
 - [Social Media Accordion With CSS3 Transitions](https://www.youtube.com/watch?v=4M6qPoFWIxI)
+- [Animista - Create CSS Animations](https://animista.net/)
+- [Pattern.css - CSS Patterns](https://bansal.io/pattern-css)
+- [CSSeffectsSnippets - CSS Animations](https://emilkowalski.github.io/css-effects-snippets/)
+- [98.css - Windows 98 Style UI](https://jdan.github.io/98.css/)
 
 ### Components
 
@@ -203,6 +209,7 @@ Link:
 - [carbon - Create and share beautiful images of your source code](https://carbon.now.sh/)
 - [Wappalyzer](https://www.wappalyzer.com/)
 - [Shape Divider](https://www.shapedivider.app/)
+- [Ucraft Logo Maker](https://www.ucraft.com/free-logo-maker)
 
 ## CSS Tips & Tricks
 
