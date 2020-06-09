@@ -25,6 +25,18 @@
 - [ColorSpace](https://mycolor.space/)
 - [0to255](https://www.0to255.com/)
 
+## Illustrations
+
+- [error404](https://error404.fun/)
+- [Blush](https://blush.design/)
+- [Smash Illustrations](https://usesmash.com/)
+- [Control](https://control.rocks/)
+- [DrawKit](https://www.drawkit.io/)
+- [Open Doodles](https://www.opendoodles.com/)
+- [Free Illustrations](https://freellustrations.com/)
+- [Mixkit](https://mixkit.co/free-stock-art/)
+- [Delesign](https://delesign.com/free-designs/graphics/)
+
 ## Stock Images
 
 - [Pexels](https://www.pexels.com)
@@ -32,7 +44,7 @@
 - [picjumbo](https://picjumbo.com)
 - [pixabay](https://pixabay.com)
 - [AllTheFreeStock - links to multiple resources](https://allthefreestock.com)
-- [Lorem Picsum - Example photos - unspash.it](https://picsum.photos/)
+- [Lorem Picsum - Example photos - unsplash.it](https://picsum.photos/)
 
 ## Icons
 
@@ -177,9 +189,9 @@ Link:
 
 ## Tools
 
-- [SVGOMG](https://jakearchibald.github.io/svgomg/)
+- [SVGOMG - GUI for optimizing SVG files](https://jakearchibald.github.io/svgomg/)
 - [ShrinkMe](https://shrinkme.app/)
-- [Squoosh](https://squoosh.app/)
+- [Squoosh - Compress your images will almost unnoticeable quality loss](https://squoosh.app/)
 - [Lighthouse - analyzes web apps and web pages, collecting modern performance metrics and insights](https://github.com/GoogleChrome/lighthouse)
 - [Responsive Image Breakpoints Generator](https://responsivebreakpoints.com/)
 - [Favicon Generator - All browsers, all platforms](https://realfavicongenerator.net/)
@@ -187,6 +199,10 @@ Link:
 - [W3C Markup Validation Service](https://validator.w3.org/)
 - [W3C CSS Validation Service](https://jigsaw.w3.org/css-validator/)
 - [Test mobile site](https://www.thinkwithgoogle.com/intl/en-gb/feature/testmysite/)
+- [Majestic - Zero config GUI for Jest](https://github.com/Raathigesh/majestic)
+- [carbon - Create and share beautiful images of your source code](https://carbon.now.sh/)
+- [Wappalyzer](https://www.wappalyzer.com/)
+- [Shape Divider](https://www.shapedivider.app/)
 
 ## CSS Tips & Tricks
 
