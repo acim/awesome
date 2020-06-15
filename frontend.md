@@ -65,6 +65,7 @@
 - [glyphhanger - subsets web fonts](https://github.com/filamentgroup/glyphhanger)
 - [Font style matcher](https://meowni.ca/font-style-matcher/)
 - [FontSpark allows you to discover your next favorite font](https://fontspark.app/)
+- [Web Safe Fonts](https://www.cssfontstack.com/)
 
 ## Security
 
