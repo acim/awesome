@@ -181,6 +181,7 @@
 - [Using Makefiles for Go](https://danishpraka.sh/2019/12/07/using-makefiles-for-go.html)
 - [ko - tool for building and deploying Golang applications to Kubernetes](https://github.com/google/ko)
 - [profefe continuously collects profiling data](https://github.com/profefe/kube-profefe)
+- [vssh - library to handle tens of thousands SSH connections and execute the command(s)](https://github.com/yahoo/vssh)
 
 ## Raspberry PI
 
