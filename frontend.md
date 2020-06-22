@@ -56,6 +56,7 @@
 - [IcoMoon](https://icomoon.io/app/#/select)
 - [Genericons](https://github.com/Automattic/genericons-neue)
 - [Social Logos](https://github.com/Automattic/social-logos)
+- [Linea Icon](https://linea.io/)
 
 ## Fonts
 
@@ -163,6 +164,8 @@ Link:
 - [98.css - Windows 98 Style UI](https://jdan.github.io/98.css/)
 - [Guide to Responsive-Friendly CSS Columns](https://css-tricks.com/guide-responsive-friendly-css-columns/)
 - [What CSS to prefix?](http://shouldiprefix.com/)
+- [all property - all property in CSS resets all of the selected element’s properties](https://css-tricks.com/almanac/properties/a/all/)
+- [Normalize CSS or CSS Reset?! - code to reset most important elements](https://medium.com/@elad/normalize-css-or-css-reset-9d75175c5d1e)
 
 ### Components
 
