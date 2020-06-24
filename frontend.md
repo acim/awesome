@@ -12,6 +12,7 @@
 - [40 Free HTML landing page templates](https://dev.to/davidepacilio/40-free-html-landing-page-templates-3gfp)
 - [Easing funtions](https://easings.net/en)
 - [Browser Default Styles](https://browserdefaultstyles.com/)
+- [Spread Syntax Three-dots - Tricks You Can Use Now](https://dev.to/girlie_mac/spread-syntax-three-dots-tricks-you-can-use-now-aob)
 
 ## Design
 
