@@ -168,6 +168,7 @@ Link:
 - [all property - resets all of the selected element’s properties](https://css-tricks.com/almanac/properties/a/all/)
 - [Normalize CSS or CSS Reset?! - code to reset most important elements](https://medium.com/@elad/normalize-css-or-css-reset-9d75175c5d1e)
 - [perspective property - gives an element a 3D-space by affecting the distance between the Z plane and the user](https://css-tricks.com/almanac/properties/p/perspective/)
+- [backface-visibility property - rotate an element so what we think of as the front of an element no longer faces the screen](https://css-tricks.com/almanac/properties/b/backface-visibility/)
 
 ### Components
 
