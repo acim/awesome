@@ -6,7 +6,6 @@ A curated list of delightful developers resources.
 
 - [Docker](docker.md)
 - [Drone, Tekton Pipelines, etc.](cicd.md)
-- [Free Services](services.md)
 - [Frontend - JavaScript, HTML5, CSS3, etc.](frontend.md)
 - [Git](git.md)
 - [Go](go.md)
