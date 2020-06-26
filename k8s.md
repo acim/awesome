@@ -140,6 +140,7 @@
 - [Install Cilium](https://cilium.readthedocs.io/en/stable/gettingstarted/k8s-install-default/)
 - [Kubernetes without kube-proxy](https://docs.cilium.io/en/stable/gettingstarted/kubeproxy-free/)
 - [hcloud-k8s - Ansible playbook to install Kubernetes on Hetzner Cloud](https://github.com/gammpamm/hcloud-k8s)
+- [Traefik v2.2 and Kubernetes Ingress](https://ralph.blog.imixs.com/2020/04/05/traefik-v2-2-and-kubernetes-ingress/)
 
 ## kubectl commands
 
