@@ -224,16 +224,17 @@
 
 ## Miscellaneous
 
-[File type discovery using magic numbers](https://github.com/h2non/filetype)
-[v8go - Execute JavaScript from Go](https://github.com/rogchap/v8go)
+- [File type discovery using magic numbers](https://github.com/h2non/filetype)
+- [v8go - Execute JavaScript from Go](https://github.com/rogchap/v8go)
+- [x/text - packages related to internationalization (i18n) and localization (l10n)](https://godoc.org/golang.org/x/text)
 
 ## Images
 
-[caire - Content aware image resize library](https://github.com/esimov/caire)
+- [caire - Content aware image resize library](https://github.com/esimov/caire)
 
 ## Error handling
 
-[cockroachdb/errors](https://github.com/cockroachdb/errors)
+- [cockroachdb/errors](https://github.com/cockroachdb/errors)
 
 ## Desktop and mobile
 
