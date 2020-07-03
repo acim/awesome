@@ -65,6 +65,7 @@
 - [Permission Manager is a project that brings sanity to Kubernetes RBAC and Users management](https://github.com/sighupio/permission-manager)
 - [KubeCarrier - open source system for managing applications and services across multiple Kubernetes Clusters](https://github.com/kubermatic/kubecarrier)
 - [Kubeapps - web-based UI for deploying and managing applications in Kubernetes clusters](https://github.com/kubeapps/kubeapps)
+- [Delete stale feature branches in your Kubernetes cluster](https://github.com/dmytrostriletskyi/stale-feature-branch-operator)
 
 ## CI & CD
 
@@ -105,8 +106,10 @@
 - [Awesome Helm](https://github.com/cdwv/awesome-helm)
 - [Helm Chart starter - better Helm chart boilerplate](https://github.com/sitewards/helm-chart)
 - [Creating a better chart](https://medium.com/sitewards/deploying-on-kubernetes-2-scaffolding-6a54e5d181fb)
+- [helm-docs - generates automatic documentation from helm charts into a markdown file](https://github.com/norwoodj/helm-docs)
+- [Frigate - documentation generation tool for Kubernetes Helm Charts](https://medium.com/rapids-ai/introducing-frigate-a-documentation-generation-tool-for-kubernetes-1791854031a1)
 
-## Custom Resource Definitions and Development
+## Custom Resource Definitions and Development of Kubernetes Applications
 
 - [Accessing Kubernetes CRDs from client-go package](https://www.martin-helmich.de/en/blog/kubernetes-crd-client.html)
 - [Extending Kubernetes APIs with Custom Resource Definitions](https://medium.com/velotio-perspectives/extending-kubernetes-apis-with-custom-resource-definitions-crds-139c99ed3477)
