@@ -66,6 +66,7 @@
 - [KubeCarrier - open source system for managing applications and services across multiple Kubernetes Clusters](https://github.com/kubermatic/kubecarrier)
 - [Kubeapps - web-based UI for deploying and managing applications in Kubernetes clusters](https://github.com/kubeapps/kubeapps)
 - [Delete stale feature branches in your Kubernetes cluster](https://github.com/dmytrostriletskyi/stale-feature-branch-operator)
+- [Kyverno - Kubernetes Native Policy Management](https://github.com/nirmata/kyverno)
 
 ## CI & CD
 
