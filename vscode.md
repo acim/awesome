@@ -97,7 +97,6 @@
 ```json
 "streetsidesoftware.code-spell-checker",
 "davidanson.vscode-markdownlint",
-"christian-kohler.path-intellisense",
 "richie5um2.vscode-sort-json",
 "tyriar.sort-lines",
 "wayou.vscode-todo-highlight",
