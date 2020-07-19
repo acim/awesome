@@ -197,6 +197,7 @@
 - [httpexpect - Concise, declarative, and easy to use end-to-end HTTP and REST API testing for Go](https://github.com/gavv/httpexpect)
 - [Testing with golden files in Go](https://medium.com/soon-london/testing-with-golden-files-in-go-7fccc71c43d3)
 - [copyist - Mocking your SQL database in Go tests has never been easier](https://github.com/cockroachdb/copyist)
+- [Testcontainers - friendly API to run Docker container, designed to create runtime environment for automatic tests](https://github.com/testcontainers/testcontainers-go)
 
 ## Public API's
 
