@@ -74,6 +74,24 @@
 
 ## Recommended Extensions
 
+### General
+
+```json
+"streetsidesoftware.code-spell-checker",
+"davidanson.vscode-markdownlint",
+"richie5um2.vscode-sort-json",
+"tyriar.sort-lines",
+"wayou.vscode-todo-highlight",
+"humao.rest-client",
+```
+
+### Themes
+
+```json
+"sdras.night-owl",
+"pkief.material-icon-theme",
+```
+
 ### Go
 
 ```json
@@ -92,17 +110,6 @@
 ```json
 "dbaeumer.vscode-eslint",
 "svelte.svelte-vscode",
-```
-
-### General
-
-```json
-"streetsidesoftware.code-spell-checker",
-"davidanson.vscode-markdownlint",
-"richie5um2.vscode-sort-json",
-"tyriar.sort-lines",
-"wayou.vscode-todo-highlight",
-"humao.rest-client",
 ```
 
 ### Docker & Kubernetes
