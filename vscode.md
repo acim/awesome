@@ -21,7 +21,7 @@
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "[svelte]": {
-    "editor.defaultFormatter": "JamesBirtles.svelte-vscode"
+    "editor.defaultFormatter": "svelte.svelte-vscode"
   },
   "[yaml]": {
     "editor.defaultFormatter": "redhat.vscode-yaml"
@@ -39,9 +39,14 @@
   "editor.formatOnPaste": true,
   "editor.formatOnSave": true,
   "editor.minimap.enabled": false,
-  "editor.rulers": [120],
+  "editor.rulers": [
+    120
+  ],
   "eslint.enable": true,
-  "eslint.validate": ["javascript", "svelte"],
+  "eslint.validate": [
+    "javascript",
+    "svelte"
+  ],
   "files.autoSave": "onFocusChange",
   "files.insertFinalNewline": true,
   "files.trimTrailingWhitespace": true,
@@ -72,24 +77,21 @@
 ### Go
 
 ```json
-"ms-vscode.go",
+"golang.go",
 ```
 
 ### HTML & CSS
 
 ```json
-"formulahendry.auto-rename-tag",
 "esbenp.prettier-vscode",
 "ritwickdey.liveserver",
-"mrmlnc.vscode-autoprefixer",
 ```
 
 ### JavaScript
 
 ```json
 "dbaeumer.vscode-eslint",
-"jamesbirtles.svelte-vscode",
-"eg2.vscode-npm-script",
+"svelte.svelte-vscode",
 ```
 
 ### General
@@ -100,8 +102,6 @@
 "richie5um2.vscode-sort-json",
 "tyriar.sort-lines",
 "wayou.vscode-todo-highlight",
-"ms-vsliveshare.vsliveshare",
-"quicktype.quicktype",
 "humao.rest-client",
 ```
 
@@ -111,7 +111,6 @@
 "ms-azuretools.vscode-docker",
 "ms-kubernetes-tools.vscode-kubernetes-tools",
 "redhat.vscode-yaml",
-"pascalreitermann93.vscode-yaml-sort",
 ```
 
 ### Git
