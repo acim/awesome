@@ -36,6 +36,7 @@
 - [GE.TT - Share files](http://ge.tt/)
 - [Send password, secret message or private link](https://onetimesecret.com/)
 - [Reactive Resume - Free and Open-Source Resume Builder That Respects Your Privacy](https://rxresu.me/)
+- [Get notified on new image tags](https://docker-notify.com/)
 
 ## Standards
 
