@@ -46,6 +46,7 @@
 - [Svelte bindings for frappe-charts - Modern, Open Source SVG Charts](https://github.com/himynameisdave/svelte-frappe-charts)
 - [pancake - responsive charts](https://pancake-charts.surge.sh/)
 - [Layer Cake](https://layercake.graphics/)
+- [Svelte wrapper for chart.xkcd](https://github.com/peopledrivemecrazy/chart.xkcd-svelte)
 
 ## Routing
 
