@@ -59,7 +59,8 @@
 - [IcoMoon](https://icomoon.io/app/#/select)
 - [Genericons](https://github.com/Automattic/genericons-neue)
 - [Social Logos](https://github.com/Automattic/social-logos)
-- [Linea Icon](https://linea.io/)
+- [Linea Icon](https://linea.io)
+- [Free SVG icons for popular brands](https://simpleicons.org)
 
 ## Fonts
 
