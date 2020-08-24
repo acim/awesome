@@ -479,6 +479,22 @@ This happens because a wrapping block element collapses when all inside block el
 object-fit: cover;
 ```
 
+### Push footer to the page bottom
+
+On a short page, html actually may not occupy the whole viewport height so when using percentages, it is important to use them for html element as well. Using percentages in this case gives better compatibility with smaller devices compared to wh.
+
+```css
+html {
+  height: 100%;
+}
+body {
+  min-height: 100%;
+}
+footer {
+  margin-top: auto;
+}
+```
+
 ### Common bootstrap
 
 ```css
