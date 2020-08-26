@@ -20,6 +20,9 @@
   "[json]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
   "[svelte]": {
     "editor.defaultFormatter": "svelte.svelte-vscode"
   },
@@ -39,14 +42,9 @@
   "editor.formatOnPaste": true,
   "editor.formatOnSave": true,
   "editor.minimap.enabled": false,
-  "editor.rulers": [
-    120
-  ],
+  "editor.rulers": [120],
   "eslint.enable": true,
-  "eslint.validate": [
-    "javascript",
-    "svelte"
-  ],
+  "eslint.validate": ["javascript", "svelte"],
   "files.autoSave": "onFocusChange",
   "files.insertFinalNewline": true,
   "files.trimTrailingWhitespace": true,
@@ -68,7 +66,9 @@
   "window.zoomLevel": 0,
   "workbench.colorTheme": "Night Owl",
   "workbench.startupEditor": "newUntitledFile",
-  "yaml.format.bracketSpacing": false
+  "yaml.format.bracketSpacing": false,
+  "workbench.iconTheme": "material-icon-theme",
+  "svelte.language-server.runtime": "/usr/bin/node"
 }
 ```
 
