@@ -26,8 +26,11 @@
   "[svelte]": {
     "editor.defaultFormatter": "svelte.svelte-vscode"
   },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
   "[yaml]": {
-    "editor.defaultFormatter": "redhat.vscode-yaml"
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "breadcrumbs.enabled": true,
   "diffEditor.ignoreTrimWhitespace": true,
@@ -58,6 +61,8 @@
   ],
   "go.lintTool": "revive",
   "go.useLanguageServer": true,
+  "prettier.bracketSpacing": false,
+  "svelte.language-server.runtime": "/usr/bin/node",
   "terminal.integrated.fontSize": 16,
   "terraform.languageServer": {
     "enabled": true,
@@ -65,10 +70,8 @@
   },
   "window.zoomLevel": 0,
   "workbench.colorTheme": "Night Owl",
-  "workbench.startupEditor": "newUntitledFile",
-  "yaml.format.bracketSpacing": false,
   "workbench.iconTheme": "material-icon-theme",
-  "svelte.language-server.runtime": "/usr/bin/node"
+  "workbench.startupEditor": "newUntitledFile"
 }
 ```
 
