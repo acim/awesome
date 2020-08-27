@@ -19,6 +19,7 @@
 - [MVP repo to just start collecting recipes for Svelte Community](https://github.com/svelte-society/recipes-mvp)
 - [Svelte Community](https://svelte-community.netlify.app/)
 - [Data Fetching](https://www.youtube.com/watch?v=_K7LRy6IP_4&t=2s)
+- [Adding Environment Variables to Svelte TypeScript Project](https://dev.to/jancassio/adding-environment-variables-to-svelte-typscript-project-4phk)
 
 ## Blogs
 
@@ -93,7 +94,7 @@
 
 ## Desktop
 
-- [Building a Desktop App using Svelte and Electron](https://joshuaj.co.uk/blog/building-desktop-app-svelte-electron)
+- [Building a desktop application using Svelte and Electron](https://joshuaj.co.uk/blog/building-desktop-app-svelte-electron)
 
 ## Testing
 
