@@ -45,3 +45,19 @@
 ## Graph databases
 
 - [Nebula](https://github.com/vesoft-inc/nebula)
+
+## Mail server
+
+- [Maddy Mail Server - replaces Postfix, Dovecot, OpenDKIM, OpenSPF, OpenDMARC and more](https://github.com/foxcpp/maddy)
+- [Run a Postfix mailserver with TLS and SPF in Kubernetes](https://www.tauceti.blog/post/run-postfix-in-kubernetes/)
+- [Kubernetes Postfix](https://github.com/githubixx/kubernetes-postfix)
+- [mailcow - mailserver suite](https://mailcow.email/)
+- [Mailu - simple yet full-featured mail server as a set of Docker images](https://github.com/Mailu/Mailu)
+- [Mailu documentation](https://mailu.io/master/kubernetes/mailu/)
+- [docker-mailserver - fullstack simple mail server](https://github.com/funkypenguin/docker-mailserver)
+- [docker-mailserver helm chart](https://hub.helm.sh/charts/funkypenguin/docker-mailserver)
+- [How to Easily Set up a Full-Fledged Mail Server on Ubuntu 20.04 with iRedMail](https://www.linuxbabe.com/mail-server/ubuntu-16-04-iredmail-server-installation)
+- [7 Effective Tips for Blocking Email Spam with Postfix SMTP Server](https://www.linuxbabe.com/mail-server/block-email-spam-postfix)
+- [Own mail server based on Dovecot, Postfix, MySQL, Rspamd and Debian 9 Stretch](https://thomas-leister.de/en/mailserver-debian-stretch/)
+- [Rspamd - Fast, free and open-source spam filtering system](https://rspamd.com/)
+- [Email with Postfix, Dovecot and MySQL](https://www.linode.com/docs/email/postfix/email-with-postfix-dovecot-and-mysql/)
