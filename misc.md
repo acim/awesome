@@ -41,3 +41,7 @@
 ## Standards
 
 - [JSON Resume - open source initiative to create a JSON-based standard for resumes](https://jsonresume.org/)
+
+## Graph databases
+
+- [Nebula](https://github.com/vesoft-inc/nebula)
