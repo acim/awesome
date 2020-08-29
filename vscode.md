@@ -61,7 +61,6 @@
   ],
   "go.lintTool": "revive",
   "go.useLanguageServer": true,
-  "prettier.bracketSpacing": false,
   "svelte.language-server.runtime": "/usr/bin/node",
   "terminal.integrated.fontSize": 16,
   "terraform.languageServer": {
