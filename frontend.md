@@ -26,10 +26,18 @@
 - [ColorSpace](https://mycolor.space/)
 - [0to255](https://www.0to255.com/)
 - [colors.lol](https://colors.lol/)
-- [ColorMind](http://colormind.io/)
+- [ColorMind - color scheme generator](http://colormind.io/)
 - [dribbble - design showcases](https://dribbble.com/)
 - [Behance - design showcases](https://www.behance.net/)
 - [Gradient Magic - Free Gallery of Fantastic and Unique CSS Gradients](https://www.gradientmagic.com/)
+- [SVG Backgrounds](https://www.svgbackgrounds.com/)
+- [freepik Background Collection](https://www.freepik.com/free-photos-vectors/svg-background)
+- [Hero Patterns - collection of repeatable SVG background patterns](https://www.heropatterns.com/)
+- [flaticon - design background of icons](https://www.flaticon.com/pattern/)
+- [Loading Patterns](https://loading.io/pattern/)
+- [khroma - design with colors you love](http://khroma.co/)
+- [coolors - super fast color schemes generator](https://coolors.co/)
+- [Get Waves - create SVG waves](https://getwaves.io/)
 
 ## Illustrations
 
