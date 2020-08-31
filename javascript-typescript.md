@@ -1,5 +1,30 @@
 # JavaScript & TypeScript
 
+## npm tricks
+
+### Run multiple commands at once
+
+```json
+"scripts": {
+    "start:build": "tsc -w",
+    "start:run": "nodemon build/index.js",
+    "start": "concurrently npm:start:*"
+}
+```
+
+## npm packages
+
+- [nodemon - monitor for any changes in your node.js application and automatically restart the server](https://github.com/remy/nodemon)
+- [concurrently - run commands concurrently](https://github.com/kimmobrunfeldt/concurrently)
+
+## TypeScript tricks
+
+### Initialize (generate tsconfig.json file)
+
+```sh
+tsc --init
+```
+
 ## Libraries
 
 - [particles.js - A lightweight JavaScript library for creating particles](https://github.com/VincentGarreau/particles.js/)
