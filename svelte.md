@@ -111,6 +111,7 @@
 - [RealWorld](https://github.com/sveltejs/realworld)
 - [Sapper Notes](https://github.com/imsamtar/sapper-notes)
 - [svelte-travel-transitions](https://github.com/pngwn/svelte-travel-transitions)
+- [Svelte Todo](https://github.com/mvolkmann/svelte-todo)
 
 ## Modules
 

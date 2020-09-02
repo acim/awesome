@@ -67,6 +67,7 @@
 - [Kubeapps - web-based UI for deploying and managing applications in Kubernetes clusters](https://github.com/kubeapps/kubeapps)
 - [Delete stale feature branches in your Kubernetes cluster](https://github.com/dmytrostriletskyi/stale-feature-branch-operator)
 - [Kyverno - Kubernetes Native Policy Management](https://github.com/nirmata/kyverno)
+- [KubiScan - tool to scan Kubernetes cluster for risky permissions](https://github.com/cyberark/KubiScan)
 
 ## CI & CD
 
@@ -170,15 +171,3 @@ echo "source <(kubectl completion bash)" >> ~/.bashrc
 alias k=kubectl
 complete -F __start_kubectl k
 ```
-
-## Reboot cluster
-
-- stop kupe-apiserver on master
-- stop kube-scheduler on master
-- stop kube-controller on master
-- stop kubelet on master (if applicable)
-- kube-proxy on master (if applicable)
-- stop federation-apiserver on master (if applicable)
-- backup etcd
-- stop etcd
-- for each node stop kubelet and kube-proxy
