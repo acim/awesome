@@ -46,6 +46,10 @@
 
 - [Nebula](https://github.com/vesoft-inc/nebula)
 
+## Key-Value stores
+
+- [TiKV - Distributed transactional key-value database](https://github.com/tikv/tikv)
+
 ## Mail server
 
 - [Maddy Mail Server - replaces Postfix, Dovecot, OpenDKIM, OpenSPF, OpenDMARC and more](https://github.com/foxcpp/maddy)

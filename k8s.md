@@ -2,6 +2,8 @@
 
 ## [ConfigMaps and Secrets as volumes](k8s-volumes.md)
 
+## Documentation
+
 - [Kubernetes by example](http://kubernetesbyexample.com/)
 - [Istio](https://www.youtube.com/watch?v=s4qasWn_mFc)
 - [Using NodeSelector to Schedule Deployments with large volumes of Stateful Data on Kubernetes](https://medium.com/@jmarhee/using-nodeselector-to-schedule-deployments-with-large-volumes-of-stateful-data-on-kubernetes-46bd3ac6059d)
@@ -23,6 +25,8 @@
 - [10 most important differences between OpenShift and Kubernetes](https://cloudowski.com/articles/10-differences-between-openshift-and-kubernetes)
 - [Copy files from Kubernetes to S3 and back](https://medium.com/nuvo-group-tech/copy-files-and-directories-between-kubernetes-and-s3-d290ded9a5e0)
 - [Kubernetes shared storage with S3 backend](https://icicimov.github.io/blog/virtualization/Kubernetes-shared-storage-with-S3-backend/)
+- [Kubernetes Examples - Minimal self-contained examples of standard Kubernetes features and patterns in YAML](https://github.com/ContainerSolutions/kubernetes-examples)
+- [AWS Controllers for Kubernetes (ACK) - project enabling you to manage AWS services from Kubernetes](https://github.com/aws/aws-controllers-k8s)
 
 ## Blogs
 
@@ -132,6 +136,7 @@
 - [Sealed Secrets](https://github.com/bitnami-labs/sealed-secrets)
 - [Vault](https://www.vaultproject.io/)
 - [Advanced Persistence Threats: The Future of Kubernetes Attacks](https://www.youtube.com/watch?v=CH7S5rE3j8w)
+- [Rego policies collection](https://github.com/redhat-cop/rego-policies)
 
 ## Hetzner Cloud
 
