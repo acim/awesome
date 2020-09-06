@@ -85,6 +85,7 @@
 - [Font style matcher](https://meowni.ca/font-style-matcher/)
 - [FontSpark allows you to discover your next favorite font](https://fontspark.app/)
 - [Web Safe Fonts](https://www.cssfontstack.com/)
+- [Nunito](https://fonts.google.com/specimen/Nunito)
 
 ## Security
 
