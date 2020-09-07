@@ -1,8 +1,5 @@
 # Misc
 
-- [Minio - Open source object storage server compatible with Amazon S3 API](https://github.com/minio/minio)
-- [LocalStack - A fully functional local AWS cloud stack](https://github.com/localstack/localstack/)
-- [SeaweedFS - simple and highly scalable distributed file system](https://github.com/chrislusf/seaweedfs)
 - [The Missing Shell Scripting Crash Course](https://dev.to/godcrampy/the-missing-shell-scripting-crash-course-37mk)
 - [explainshell - write down a command-line to see the help text that matches each argument](https://explainshell.com/)
 - [Ghost](https://github.com/helm/charts/tree/master/stable/ghost)
@@ -21,7 +18,7 @@
 - [WebRTC SFU Load Testing](https://webrtchacks.com/sfu-load-testing/)
 - [How To Create A Video Chat App With WebRTC](https://www.youtube.com/watch?v=DvlyzDZDEq4)
 
-## Free and Interesting Services
+## Free Interesting Services and Software
 
 - [Github Pages](https://pages.github.com)
 - [Netlify - host SPA for free](https://www.netlify.com/)Render - https://render.com
@@ -39,6 +36,10 @@
 - [Get notified on new image tags](https://docker-notify.com/)
 - [Jobify - Job Board WordPress Theme](https://themeforest.net/item/jobify-wordpress-job-board-theme/5247604)
 - [Kazam - Linux screen recorder](https://itsfoss.com/kazam-screen-recorder/)
+- [Minio - Open source object storage server compatible with Amazon S3 API](https://github.com/minio/minio)
+- [LocalStack - A fully functional local AWS cloud stack](https://github.com/localstack/localstack/)
+- [SeaweedFS - simple and highly scalable distributed file system](https://github.com/chrislusf/seaweedfs)
+- [RainLoop](https://mail.rainloop.net/#/mailbox/INBOX)
 
 ## Standards
 
