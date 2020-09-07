@@ -186,3 +186,5 @@
 ```
 
 ## [Fix missing extenstions](https://github.com/VSCodium/vscodium/issues/418#issuecomment-643664182)
+
+## [429 Too Many Requests](https://gitlab.com/paulcarroty/vscodium-deb-rpm-repo/-/issues/36#note_395793123)
