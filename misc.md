@@ -37,6 +37,8 @@
 - [Send password, secret message or private link](https://onetimesecret.com/)
 - [Reactive Resume - Free and Open-Source Resume Builder That Respects Your Privacy](https://rxresu.me/)
 - [Get notified on new image tags](https://docker-notify.com/)
+- [Jobify - Job Board WordPress Theme](https://themeforest.net/item/jobify-wordpress-job-board-theme/5247604)
+- [Kazam - Linux screen recorder](https://itsfoss.com/kazam-screen-recorder/)
 
 ## Standards
 
@@ -53,6 +55,7 @@
 ## Mail server
 
 - [Maddy Mail Server - replaces Postfix, Dovecot, OpenDKIM, OpenSPF, OpenDMARC and more](https://github.com/foxcpp/maddy)
+- [listmonk - standalone, self-hosted, newsletter and mailing list manager](https://github.com/knadh/listmonk)
 - [Run a Postfix mailserver with TLS and SPF in Kubernetes](https://www.tauceti.blog/post/run-postfix-in-kubernetes/)
 - [Kubernetes Postfix](https://github.com/githubixx/kubernetes-postfix)
 - [mailcow - mailserver suite](https://mailcow.email/)
