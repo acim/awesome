@@ -155,6 +155,11 @@
 - [Vitess - database clustering system for horizontal scaling of MySQL](https://vitess.io/)
 - [Nap - library that abstracts access to master-slave physical SQL servers](https://github.com/tsenart/nap)
 
+## GraphQL
+
+- [Using GraphQL in Golang](https://dev.to/stevensunflash/using-graphql-in-golang-3gg0)
+- [gqlgen - Go library for building GraphQL servers](https://github.com/99designs/gqlgen)
+
 ## Microservices
 
 - [Distributed tracing in 10 minutes](https://medium.com/opentracing/distributed-tracing-in-10-minutes-51b378ee40f1)
