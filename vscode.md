@@ -98,6 +98,7 @@
 
 ```json
 "golang.go",
+"zxh404.vscode-proto3",
 ```
 
 ### HTML & CSS
