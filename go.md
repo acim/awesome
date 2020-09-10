@@ -216,6 +216,8 @@
 - [How to develop gRPC microservice - Part 1](https://medium.com/@amsokol.com/tutorial-how-to-develop-go-grpc-microservice-with-http-rest-endpoint-middleware-kubernetes-daebb36a97e9)
 - [How to develop gRPC microservice - Part 2: HTTP/REST endpoint](https://medium.com/@amsokol.com/tutorial-how-to-develop-go-grpc-microservice-with-http-rest-endpoint-middleware-kubernetes-af1fff81aeb2)
 - [How to develop gRPC microservice - Part 3: Middleware](https://medium.com/@amsokol.com/tutorial-part-3-how-to-develop-go-grpc-microservice-with-http-rest-endpoint-middleware-739aac8f1d7e)
+- [protoc-gen-mock - Plugin to generate gRPC mock services from protobuf specifications](https://github.com/carvalhorr/protoc-gen-mock)
+- [Awesome gRPC](https://github.com/grpc-ecosystem/awesome-grpc#go)
 
 ## E-Mail
 
