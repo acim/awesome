@@ -56,6 +56,7 @@
 ## HTTP server
 
 - [Fiber - Express-inspired web framework using Fasthttp](https://gofiber.io/)
+- [Goyave - progressive and accessible web application framework](https://github.com/System-Glitch/goyave)
 - [chi](https://github.com/go-chi/chi)
 - [Gocraft](https://github.com/gocraft/web)
 - [Creating the V in MVC](https://www.calhoun.io/intro-to-templates-p4-v-in-mvc/)
@@ -249,3 +250,9 @@
 ## Desktop and mobile
 
 - [fyne - Cross platform GUI](https://github.com/fyne-io/fyne)
+
+## Vanity import
+
+- [Vanity import paths in Go](https://sagikazarmark.hu/blog/vanity-import-paths-in-go/)
+- [Vanity Go Import Paths](https://blog.bramp.net/post/2017/10/02/vanity-go-import-paths/)
+- `wget https://mvdan.cc/gofumpt`
