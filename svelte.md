@@ -20,6 +20,7 @@
 - [Svelte Community](https://svelte-community.netlify.app/)
 - [Data Fetching](https://www.youtube.com/watch?v=_K7LRy6IP_4&t=2s)
 - [Adding Environment Variables to Svelte TypeScript Project](https://dev.to/jancassio/adding-environment-variables-to-svelte-typscript-project-4phk)
+- [Building A Web App With Go & Svelte](https://m.youtube.com/watch?v=4YnzS14UYcQ)
 
 ## Blogs
 
