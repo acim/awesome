@@ -18,6 +18,7 @@
 - [Easing funtions](https://easings.net/en)
 - [Browser Default Styles](https://browserdefaultstyles.com/)
 - [Spread Syntax Three-dots - Tricks You Can Use Now](https://dev.to/girlie_mac/spread-syntax-three-dots-tricks-you-can-use-now-aob)
+- [When to use SVG and when to use Canvas](https://css-tricks.com/when-to-use-svg-vs-when-to-use-canvas/)
 
 ## Design
 
@@ -43,6 +44,7 @@
 - [khroma - design with colors you love](http://khroma.co/)
 - [coolors - super fast color schemes generator](https://coolors.co/)
 - [Get Waves - create SVG waves](https://getwaves.io/)
+- [Gradient Hunt - platform for color inspiration with thousands of trendy hand-made color gradients](https://gradienthunt.com/)
 
 ## Illustrations
 

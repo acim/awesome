@@ -38,6 +38,10 @@
 - [backface-visibility property - rotate an element so what we think of as the front of an element no longer faces the screen](https://css-tricks.com/almanac/properties/b/backface-visibility/)
 - [Cascading image using position sticky](https://codepen.io/drnaia100/full/LvbxNj)
 
+## Gradients
+
+- [Fun ways to animate CSS gradients](https://www.youtube.com/watch?v=f3mwKLXpOLk)
+
 ## Tips & Tricks
 
 ### CSS Variables

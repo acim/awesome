@@ -39,3 +39,7 @@ tsc --init
 - [Anime.js - animates using CSS properties, SVG, DOM attributes and JavaScript](https://animejs.com/)
 - [Masonry - Cascading grid layout library](https://masonry.desandro.com/)
 - [chart.xkcd - chart library that plots "sketchy", "cartoony" or "hand-drawn" styled charts](https://github.com/timqian/chart.xkcd)
+
+## Canvas
+
+[Canvas arc with linear gradient](https://codepen.io/fiatuno/pen/QWWMONE)
