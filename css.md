@@ -42,6 +42,10 @@
 
 - [Fun ways to animate CSS gradients](https://www.youtube.com/watch?v=f3mwKLXpOLk)
 
+## Patterns
+
+- [css-doodle - Web component for drawing patterns with CSS](https://css-doodle.com/)
+
 ## Tips & Tricks
 
 ### CSS Variables
