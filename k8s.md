@@ -137,6 +137,7 @@
 - [Vault](https://www.vaultproject.io/)
 - [Advanced Persistence Threats: The Future of Kubernetes Attacks](https://www.youtube.com/watch?v=CH7S5rE3j8w)
 - [Rego policies collection](https://github.com/redhat-cop/rego-policies)
+- [Kubernetes secrets store CSI driver](https://github.com/kubernetes-sigs/secrets-store-csi-driver/)
 
 ## Hetzner Cloud
 

@@ -256,3 +256,9 @@
 - [Vanity import paths in Go](https://sagikazarmark.hu/blog/vanity-import-paths-in-go/)
 - [Vanity Go Import Paths](https://blog.bramp.net/post/2017/10/02/vanity-go-import-paths/)
 - `wget https://mvdan.cc/gofumpt`
+
+## Kubernetes
+
+- [Sample controller](https://github.com/kubernetes/sample-controller)
+- [Testing controllers](https://github.com/kubernetes/client-go/blob/master/examples/fake-client/main_test.go)
+- [Testing examples](https://github.com/profefe/kube-profefe/blob/master/pkg/kubeutil/kube_test.go)
