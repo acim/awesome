@@ -16,11 +16,12 @@
 - [Tree component: - Recursion using "svelte:self"](https://www.youtube.com/watch?v=-EwKiLZtnUs&t=278s)
 - [Custom Youtube Component](https://www.youtube.com/watch?v=Ank3IdQHOuE)
 - [How to Create a Package for Svelte](https://medium.com/better-programming/creating-a-package-for-svelte-f44fccbc886b)
-- [MVP repo to just start collecting recipes for Svelte Community](https://github.com/svelte-society/recipes-mvp)
 - [Svelte Community](https://svelte-community.netlify.app/)
 - [Data Fetching](https://www.youtube.com/watch?v=_K7LRy6IP_4&t=2s)
 - [Adding Environment Variables to Svelte TypeScript Project](https://dev.to/jancassio/adding-environment-variables-to-svelte-typscript-project-4phk)
 - [Building A Web App With Go & Svelte](https://m.youtube.com/watch?v=4YnzS14UYcQ)
+- [Svelte Society Recipes and Components](https://sveltesociety.dev/)
+- [Recipes GitHub Repository](https://github.com/svelte-society/sveltesociety.dev/tree/master/src/pages/recipes)
 
 ## Blogs
 
