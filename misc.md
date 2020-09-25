@@ -10,6 +10,7 @@
 - [DevHints - Cheatsheets](https://devhints.io/)
 - [GetTerms - Generates a Privacy Policy and Terms of Service](https://getterms.io/)
 - [Opensource Builders - Open-source alternatives](https://opensource.builders/)
+- [Mouthful - self-hosted alternative to Disqus](https://github.com/vkuznecovas/mouthful)
 
 ## WebRTC Conferencing
 
