@@ -37,6 +37,9 @@
 - [perspective property - gives an element a 3D-space by affecting the distance between the Z plane and the user](https://css-tricks.com/almanac/properties/p/perspective/)
 - [backface-visibility property - rotate an element so what we think of as the front of an element no longer faces the screen](https://css-tricks.com/almanac/properties/b/backface-visibility/)
 - [Cascading image using position sticky](https://codepen.io/drnaia100/full/LvbxNj)
+- [:target pseudo selector - matches when the hash in the URL and the id of an element are the same](https://css-tricks.com/on-target/)
+- [100% Pure HTML/CSS Page Navigation - :target](https://dev.to/hakash/100-pure-htmlcss-page-navigation---no-javascript-required-2em5)
+- [How to Create Image Slider Using HTML and CSS](https://www.youtube.com/watch?v=FZrHoAUkHpE)
 
 ## Gradients
 
@@ -57,7 +60,7 @@
 }
 html {
   font-family: Arial, Helvetica, sans-serif;
-  color: var(--primary)
+  color: var(--primary);
 }
 ```
 
@@ -67,7 +70,9 @@ html {
 html {
   box-sizing: border-box;
 }
-*, *:before, *:after {
+*,
+*:before,
+*:after {
   box-sizing: inherit;
 }
 ```
@@ -126,7 +131,8 @@ body {
 
 ```css
 .section-with-bg-image {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url(img/bg.jpg);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)),
+    url(img/bg.jpg);
   background-size: cover;
   color: white;
   background-attachment: fixed;
@@ -169,10 +175,10 @@ h1.image {
 
 ```css
 body {
-    height: 100vh;
-    display: flex;
-    justify-content: center;
-    align-items: center;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 ```
 
@@ -188,7 +194,7 @@ img {
 
 ```css
 :root {
-  font-size: calc(1vw + 1vh + .5vmin);
+  font-size: calc(1vw + 1vh + 0.5vmin);
 }
 ```
 
@@ -219,15 +225,16 @@ img {
 
 ```css
 .logo {
-  position:relative;
-  height:50px;
-  width:50px;
-  overflow:hidden;}
+  position: relative;
+  height: 50px;
+  width: 50px;
+  overflow: hidden;
+}
 .logo:after {
-  content:url(logo.jpg);
-  position:absolute;
-  top:0;
-  left:0;
+  content: url(logo.jpg);
+  position: absolute;
+  top: 0;
+  left: 0;
 }
 ```
 
@@ -315,7 +322,7 @@ footer {
 ```css
 @import url(//cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css);
 
-:root  {
+:root {
   font-size: calc(1vw + 1vh + 0.5vmin);
 }
 
