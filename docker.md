@@ -39,4 +39,4 @@ apt-get install docker-ce="18.06.0~ce~3-0~ubuntu"
 
 - [Vulnerability Static Analysis for Containers](https://github.com/coreos/clair)
 - [trivy - Simple and Comprehensive Vulnerability Scanner for Containers](https://github.com/aquasecurity/trivy)
-- [Banyan Collector - framework for static analysis of Docker images]
+- [Banyan Collector - framework for static analysis of Docker images](https://github.com/banyanops/collector)
