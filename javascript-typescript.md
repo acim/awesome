@@ -1,5 +1,7 @@
 # JavaScript & TypeScript
 
+- [Using data attributes](https://developer.mozilla.org/en-US/docs/Learn/HTML/Howto/Use_data_attributes)
+
 ## npm tricks
 
 ### Run multiple commands at once
