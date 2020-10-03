@@ -65,8 +65,8 @@
   "svelte.language-server.runtime": "/usr/bin/node",
   "terminal.integrated.fontSize": 16,
   "terraform.languageServer": {
-    "enabled": true,
-    "args": []
+    "external": true,
+    "args": ["serve"]
   },
   "window.zoomLevel": 0,
   "workbench.colorTheme": "Night Owl",
