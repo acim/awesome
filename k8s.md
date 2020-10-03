@@ -72,6 +72,7 @@
 - [Delete stale feature branches in your Kubernetes cluster](https://github.com/dmytrostriletskyi/stale-feature-branch-operator)
 - [Kyverno - Kubernetes Native Policy Management](https://github.com/nirmata/kyverno)
 - [KubiScan - tool to scan Kubernetes cluster for risky permissions](https://github.com/cyberark/KubiScan)
+- [version-checker - Kubernetes utility for observing the current versions of images running in the cluster](https://github.com/jetstack/version-checker)
 
 ## CI & CD
 
