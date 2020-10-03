@@ -43,6 +43,7 @@
 - [Svelte-select: a select component for Svelte apps](https://github.com/rob-balfre/svelte-select)
 - [Svelte-Awesome - Font-Awesome icons components](https://github.com/RobBrazier/svelte-awesome)
 - [Svelte image - preprocessor which automates image optimization](https://github.com/matyunya/svelte-image)
+- [svelte-dnd-action - action based drag and drop container](https://github.com/isaacHagoel/svelte-dnd-action)
 
 ## Charts
 
