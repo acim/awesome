@@ -137,6 +137,7 @@ Link:
 ## HTML5
 
 - [20 Days of HTML](https://dev.to/theindiancodinggrl/20-days-of-html-learn-20-amazing-things-about-html-part-1-2p99)
+- [<summary> and <details> - Creates a disclosure widget in which information is visible only when the widget is toggled into an "open" state](https://www.w3schools.com/tags/tag_summary.asp)
 
 ### Components
 
