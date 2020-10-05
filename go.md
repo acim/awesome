@@ -69,6 +69,7 @@
 - [Expose Go on the Internet](https://blog.cloudflare.com/exposing-go-on-the-internet/)
 - [GO_REUSEPORT](https://github.com/kavu/go_reuseport)
 - [API Design Cheat Sheet](https://github.com/RestCheatSheet/api-cheat-sheet)
+- [Create Secure Clients and Servers in Golang Using HTTPS](https://medium.com/better-programming/create-secure-clients-and-servers-in-golang-using-https-aa970ba36a13)
 
 ## Auth
 
