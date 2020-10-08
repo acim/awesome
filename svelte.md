@@ -108,6 +108,7 @@
 - [Deploying multiple service workers](https://sapper.svelte.dev/docs#Deploying_service_workers)
 - [Content Security Policy (CSP)](https://sapper.svelte.dev/docs#Content_Security_Policy_CSP)
 - [Bug related to CSP implementation from above](https://github.com/sveltejs/sapper/issues/343)
+- [Working CSP](https://github.com/sveltejs/sapper/issues/1361#issuecomment-705527620)
 
 ### Example projects
 
