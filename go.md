@@ -264,3 +264,97 @@
 - [Sample controller](https://github.com/kubernetes/sample-controller)
 - [Testing controllers](https://github.com/kubernetes/client-go/blob/master/examples/fake-client/main_test.go)
 - [Testing examples](https://github.com/profefe/kube-profefe/blob/master/pkg/kubeutil/kube_test.go)
+
+## Test tasks
+
+https://play.golang.org/p/n3iH7H11Uoe
+
+```go
+package main
+
+const N = 3
+
+func main() {
+	m := make(map[int]*int)
+
+	for i := 0; i < N; i++ {
+		m[i] = &i //A
+	}
+
+	for _, v := range m {
+		print(*v)
+	}
+}
+```
+
+https://play.golang.org/p/BW0lY5dW7ZJ
+
+```go
+package main
+
+import (
+	"io/ioutil"
+	"os"
+)
+
+func main() {
+	f, err := os.Open("file")
+	defer f.Close()
+	if err != nil {
+		return
+	}
+
+	b, err := ioutil.ReadAll(f)
+	println(string(b))
+}
+```
+
+https://play.golang.org/p/zgSTwr035YQ
+
+```go
+package main
+
+import (
+	"sync"
+)
+
+const N = 10
+
+func main() {
+	m := make(map[int]int)
+
+	wg := &sync.WaitGroup{}
+	mu := &sync.Mutex{}
+	wg.Add(N)
+	for i := 0; i < N; i++ {
+		go func() {
+			defer wg.Done()
+			mu.Lock()
+			m[i] = i
+			mu.Unlock()
+		}()
+	}
+	wg.Wait()
+	println(len(m))
+}
+```
+
+https://play.golang.org/p/6bzWYtdAh9K
+
+```go
+package main
+
+func main() {
+	s := "123"
+	ps := &s
+	b := []byte(*ps)
+	pb := &b
+
+	s += "4"
+	*ps += "5"
+	b[1] = '0'
+
+	println(*ps)
+	println(string(*pb))
+}
+```
