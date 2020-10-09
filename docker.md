@@ -11,6 +11,7 @@
 - [Watchtower - process for automating Docker container base image updates](https://github.com/containrrr/watchtower)
 - [5 Docker Utilities You Should Know](https://blog.xebialabs.com/2017/05/18/5-docker-utilities-you-should-know/)
 - [DockerSlim - Minify and Secure Docker containers](https://github.com/docker-slim/docker-slim)
+- [Container Structure Tests - provide a powerful framework to validate the structure of a container image](https://github.com/GoogleContainerTools/container-structure-test)
 
 ## Utilities to be used inside containers
 
