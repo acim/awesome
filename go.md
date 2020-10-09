@@ -240,6 +240,7 @@
 - [File type discovery using magic numbers](https://github.com/h2non/filetype)
 - [v8go - Execute JavaScript from Go](https://github.com/rogchap/v8go)
 - [x/text - packages related to internationalization (i18n) and localization (l10n)](https://godoc.org/golang.org/x/text)
+- [MTProto - Full-native implementation of MTProto (Telegram) protocol](https://github.com/xelaj/mtproto)
 
 ## Images
 
