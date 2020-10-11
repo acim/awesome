@@ -68,5 +68,6 @@
 - [How to Easily Set up a Full-Fledged Mail Server on Ubuntu 20.04 with iRedMail](https://www.linuxbabe.com/mail-server/ubuntu-16-04-iredmail-server-installation)
 - [7 Effective Tips for Blocking Email Spam with Postfix SMTP Server](https://www.linuxbabe.com/mail-server/block-email-spam-postfix)
 - [Own mail server based on Dovecot, Postfix, MySQL, Rspamd and Debian 9 Stretch](https://thomas-leister.de/en/mailserver-debian-stretch/)
+- [Mailserver mit Dovecot, Postfix, MySQL und Rspamd unter Debian 10 Buster](https://thomas-leister.de/mailserver-debian-buster/)
 - [Rspamd - Fast, free and open-source spam filtering system](https://rspamd.com/)
 - [Email with Postfix, Dovecot and MySQL](https://www.linode.com/docs/email/postfix/email-with-postfix-dovecot-and-mysql/)
