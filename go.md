@@ -265,6 +265,7 @@
 - [Sample controller](https://github.com/kubernetes/sample-controller)
 - [Testing controllers](https://github.com/kubernetes/client-go/blob/master/examples/fake-client/main_test.go)
 - [Testing examples](https://github.com/profefe/kube-profefe/blob/master/pkg/kubeutil/kube_test.go)
+- [Leader Election Example](https://github.com/kubernetes/kubernetes/tree/323f34858de18b862d43c40b2cced65ad8e24052/staging/src/k8s.io/client-go/examples/leader-election)
 
 ## Test tasks
 
