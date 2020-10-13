@@ -62,18 +62,18 @@
   "go.lintTool": "revive",
   "go.useLanguageServer": true,
   "prettier.semi": false,
+  "prettier.singleQuote": true,
   "svelte.language-server.runtime": "/usr/bin/node",
   "terminal.integrated.fontSize": 16,
   "terraform.languageServer": {
     "external": true,
     "args": ["serve"]
   },
+  "typescript.updateImportsOnFileMove.enabled": "always",
   "window.zoomLevel": 0,
   "workbench.colorTheme": "Night Owl",
   "workbench.iconTheme": "material-icon-theme",
-  "workbench.startupEditor": "newUntitledFile",
-  "typescript.updateImportsOnFileMove.enabled": "always",
-  "prettier.singleQuote": true
+  "workbench.startupEditor": "newUntitledFile"
 }
 ```
 
