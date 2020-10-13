@@ -71,7 +71,9 @@
   "window.zoomLevel": 0,
   "workbench.colorTheme": "Night Owl",
   "workbench.iconTheme": "material-icon-theme",
-  "workbench.startupEditor": "newUntitledFile"
+  "workbench.startupEditor": "newUntitledFile",
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "prettier.singleQuote": true
 }
 ```
 
