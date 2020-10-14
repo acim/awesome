@@ -146,7 +146,7 @@ Link:
 ## SEO
 
 - [Open Graph protocol enables any web page to become a rich object in a social graph (Facebook)](https://ogp.me/)
-- [Open Graph Validator](https://www.opengraph.xyz/)
+- [Facebook and Twitter Cards Validator](https://www.opengraph.xyz/)
 - [Twitter Card](https://developer.twitter.com/en/docs/tweets/optimize-with-cards/guides/getting-started)
 - [Twitter Card Validator](https://cards-dev.twitter.com/validator)
 - [iframely - Meta Validator](http://debug.iframely.com/)
