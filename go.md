@@ -27,6 +27,7 @@
 - [Thanos Coding Style Guide](https://www.bwplotka.dev/2020/how-thanos-would-program-in-go/)
 - [Four Steps to Daemonize Your Go Programs](https://ieftimov.com/post/four-steps-daemonize-your-golang-programs/)
 - [Ultimate Go - notes on work with Go](https://github.com/betty200744/ultimate-go)
+- [Implementing Clean Arhitecture in Go - DDD](https://dormoshe.io/trending-news/implementing-clean-architecture-in-go-14502)
 
 ## Blogs
 
