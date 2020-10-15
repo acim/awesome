@@ -86,9 +86,7 @@
 
 ```json
 "streetsidesoftware.code-spell-checker",
-"davidanson.vscode-markdownlint",
-"richie5um2.vscode-sort-json",
-"tyriar.sort-lines",
+"yzhang.markdown-all-in-one",
 "wayou.vscode-todo-highlight",
 "humao.rest-client",
 ```
@@ -132,7 +130,6 @@
 ### Git
 
 ```json
-"donjayamanne.githistory",
 "codezombiech.gitignore",
 "eamodio.gitlens",
 ```
