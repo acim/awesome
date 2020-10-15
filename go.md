@@ -28,6 +28,7 @@
 - [Four Steps to Daemonize Your Go Programs](https://ieftimov.com/post/four-steps-daemonize-your-golang-programs/)
 - [Ultimate Go - notes on work with Go](https://github.com/betty200744/ultimate-go)
 - [Implementing Clean Arhitecture in Go - DDD](https://dormoshe.io/trending-news/implementing-clean-architecture-in-go-14502)
+- [From 0 to Insight with OpenTelemetry in Go](https://www.honeycomb.io/blog/from-0-to-insight-with-opentelemetry-in-go/)
 
 ## Blogs
 
@@ -235,6 +236,10 @@
 
 - [konfig - composable, observable and performant config handling for Go for the distributed processing era](https://github.com/lalamove/konfig)
 - [A clean way to pass configs](https://dev.to/ilyakaznacheev/a-clean-way-to-pass-configs-in-a-go-application-1g64)
+
+## Command line parsers
+
+- [Kong](https://github.com/alecthomas/kong)
 
 ## Miscellaneous
 
