@@ -189,6 +189,13 @@
 }
 ```
 
+## Fonts
+
+- [Fira Code](https://github.com/tonsky/FiraCode)
+- [JuliaMono](https://cormullion.github.io/pages/2020-07-26-JuliaMono/)
+- [Operator Mono](https://www.typography.com/fonts/operator/styles)
+- [Dank Mono](https://gumroad.com/l/dank-mono)
+
 ## [Fix missing extenstions](https://github.com/VSCodium/vscodium/issues/418#issuecomment-643664182)
 
 ## [429 Too Many Requests](https://gitlab.com/paulcarroty/vscodium-deb-rpm-repo/-/issues/36#note_395793123)
