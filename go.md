@@ -78,6 +78,7 @@
 - [JWT auth in Go](https://medium.com/monstar-lab-bangladesh-engineering/jwt-auth-in-go-dde432440924)
 - [JWT auth in Go Part 2 — Refresh Tokens](https://medium.com/monstar-lab-bangladesh-engineering/jwt-auth-in-go-part-2-refresh-tokens-d334777ca8a0)
 - [An SWT based API for managing users and issuing SWT tokens](https://github.com/netlify/gotrue)
+- [Go password validator](https://github.com/lane-c-wagner/go-password-validator)
 
 ## Authz
 
@@ -92,6 +93,8 @@
 - [Transport for http.Client that will cache responses according to the HTTP RFC](https://github.com/gregjones/httpcache)
 - [Ferret - web scraper](https://github.com/MontFerret/ferret)
 - [Colly - Lightning Fast and Elegant Scraping Framework](https://github.com/gocolly/colly)
+- [How to customize Go's HTTP client](https://rafallorenz.com/go/customize-http-client/)
+- [Gohalt - Throttler library & client rate limiter](https://github.com/1pkg/gohalt)
 
 ## Websocket
 
