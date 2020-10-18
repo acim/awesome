@@ -41,6 +41,7 @@
 - [LocalStack - A fully functional local AWS cloud stack](https://github.com/localstack/localstack/)
 - [SeaweedFS - simple and highly scalable distributed file system](https://github.com/chrislusf/seaweedfs)
 - [RainLoop](https://mail.rainloop.net/#/mailbox/INBOX)
+- [Benthos - Stream processor to transfer data between two points with mutations and transformations](https://www.benthos.dev)
 
 ## Standards
 
@@ -62,6 +63,7 @@
 - [Kubernetes Postfix](https://github.com/githubixx/kubernetes-postfix)
 - [mailcow - mailserver suite](https://mailcow.email/)
 - [Mailu - simple yet full-featured mail server as a set of Docker images](https://github.com/Mailu/Mailu)
+- [Kubernetes Mail Server ](https://github.com/kubernetes-mail-server)
 - [Mailu documentation](https://mailu.io/master/kubernetes/mailu/)
 - [docker-mailserver - fullstack simple mail server](https://github.com/funkypenguin/docker-mailserver)
 - [docker-mailserver helm chart](https://hub.helm.sh/charts/funkypenguin/docker-mailserver)
