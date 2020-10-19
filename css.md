@@ -40,6 +40,7 @@
 - [:target pseudo selector - matches when the hash in the URL and the id of an element are the same](https://css-tricks.com/on-target/)
 - [100% Pure HTML/CSS Page Navigation - :target](https://dev.to/hakash/100-pure-htmlcss-page-navigation---no-javascript-required-2em5)
 - [How to Create Image Slider Using HTML and CSS](https://www.youtube.com/watch?v=FZrHoAUkHpE)
+- [CSS Card Tricks - Cool transition cards and CSS-Tricks like avatars](https://www.youtube.com/watch?v=29deL9MFfWc)
 
 ## Gradients
 
