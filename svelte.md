@@ -22,6 +22,7 @@
 - [Building A Web App With Go & Svelte](https://m.youtube.com/watch?v=4YnzS14UYcQ)
 - [Svelte Society Recipes and Components](https://sveltesociety.dev/)
 - [Recipes GitHub Repository](https://github.com/svelte-society/sveltesociety.dev/tree/master/src/pages/recipes)
+- [Modern fetch in Svelte using stores](https://www.youtube.com/watch?v=IUHkSoBxyLM)
 
 ## Blogs
 
@@ -116,6 +117,7 @@
 - [Sapper Notes](https://github.com/imsamtar/sapper-notes)
 - [svelte-travel-transitions](https://github.com/pngwn/svelte-travel-transitions)
 - [Svelte Todo](https://github.com/mvolkmann/svelte-todo)
+- [markushatvan.com Blog](https://github.com/mhatvan/markushatvan.com)
 
 ## Modules
 
