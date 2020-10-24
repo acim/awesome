@@ -198,3 +198,4 @@ Link:
 
 - [GTmetrix](https://gtmetrix.com/)
 - [Google PageSpeed Insights](https://developers.google.com/speed/pagespeed/insights/)
+- [Lighthouse](https://developers.google.com/web/tools/lighthouse)
