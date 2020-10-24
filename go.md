@@ -196,6 +196,7 @@
 - [profefe continuously collects profiling data](https://github.com/profefe/kube-profefe)
 - [vssh - library to handle tens of thousands SSH connections and execute the command(s)](https://github.com/yahoo/vssh)
 - [fgprof - profiler that allows you to analyze On-CPU as well as Off-CPU (e.g. I/O) time together](https://github.com/felixge/fgprof)
+- [Chronos - static race detector](https://github.com/amit-davidson/Chronos)
 
 ## Raspberry PI
 
