@@ -232,10 +232,6 @@
 
 - [Hermes - Clean, responsive HTML e-mails](https://github.com/matcornic/hermes)
 
-## Logging
-
-- [ripzap - The fastest structured, leveled JSON logger](https://github.com/bloom42/rz-go)
-
 ## Config
 
 - [konfig - composable, observable and performant config handling for Go for the distributed processing era](https://github.com/lalamove/konfig)
