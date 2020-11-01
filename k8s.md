@@ -115,6 +115,8 @@
 - [Creating a better chart](https://medium.com/sitewards/deploying-on-kubernetes-2-scaffolding-6a54e5d181fb)
 - [helm-docs - generates automatic documentation from helm charts into a markdown file](https://github.com/norwoodj/helm-docs)
 - [Frigate - documentation generation tool for Kubernetes Helm Charts](https://medium.com/rapids-ai/introducing-frigate-a-documentation-generation-tool-for-kubernetes-1791854031a1)
+- [How to host your Helm chart repository on GitHub](https://dev.to/jamiemagee/how-to-host-your-helm-chart-repository-on-github-3kd)
+- [Using custom domain for GitHub pages](https://medium.com/@hossainkhan/using-custom-domain-for-github-pages-86b303d3918a)
 
 ## Custom Resource Definitions and Development of Kubernetes Applications
 
