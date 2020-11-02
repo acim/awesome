@@ -29,6 +29,7 @@
 - [Ultimate Go - notes on work with Go](https://github.com/betty200744/ultimate-go)
 - [Implementing Clean Arhitecture in Go - DDD](https://dormoshe.io/trending-news/implementing-clean-architecture-in-go-14502)
 - [From 0 to Insight with OpenTelemetry in Go](https://www.honeycomb.io/blog/from-0-to-insight-with-opentelemetry-in-go/)
+- [Working with Errors in Go 1.13](https://blog.golang.org/go1.13-errors)
 
 ## Blogs
 
@@ -103,12 +104,7 @@
 ## Docker
 
 - [Docker powered development environment for your web app](https://medium.com/developers-writing/docker-powered-development-environment-for-your-go-app-6185d043ea35)
-- [Live reloading server in Docker container](https://github.com/ntboes/docker-golang-gin)
-- [Building minimal docker containers](https://blog.codeship.com/building-minimal-docker-containers-for-go-applications/)
-
-## Mongo
-
-- [How to build microservice with mongoDB](http://goinbigdata.com/how-to-build-microservice-with-mongodb-in-golang/)
+- [Live reloading server in Docker container](https://github.comhttps://blog.golang.org/go1.13-errorsm/how-to-build-microservice-with-mongodb-in-golang/)
 - [Mocking Mongo](http://thylong.com/golang/2016/mocking-mongo-in-golang/)
 - [Writing integration tests with mongoDB support](https://medium.com/@mvmaasakkers/writing-integration-tests-with-mongodb-support-231580a566cd)
 
