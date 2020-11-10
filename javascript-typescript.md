@@ -1,6 +1,7 @@
 # JavaScript & TypeScript
 
 - [Using data attributes](https://developer.mozilla.org/en-US/docs/Learn/HTML/Howto/Use_data_attributes)
+- [Level up your JavaScript browser logs with these console.log() tips](https://dev.to/ackshaey/level-up-your-javascript-browser-logs-with-these-console-log-tips-55o2)
 
 ## npm tricks
 
