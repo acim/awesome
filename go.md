@@ -157,6 +157,8 @@
 - [kingshard - high-performance proxy for MySQL](https://github.com/flike/kingshard)
 - [Vitess - database clustering system for horizontal scaling of MySQL](https://vitess.io/)
 - [Nap - library that abstracts access to master-slave physical SQL servers](https://github.com/tsenart/nap)
+- [goose - database migration tool](https://github.com/pressly/goose)
+- [migrate - database migrations written in Go](https://github.com/golang-migrate/migrate)
 
 ## GraphQL
 
