@@ -227,6 +227,7 @@
 - [How to develop gRPC microservice - Part 3: Middleware](https://medium.com/@amsokol.com/tutorial-part-3-how-to-develop-go-grpc-microservice-with-http-rest-endpoint-middleware-739aac8f1d7e)
 - [protoc-gen-mock - Plugin to generate gRPC mock services from protobuf specifications](https://github.com/carvalhorr/protoc-gen-mock)
 - [Awesome gRPC](https://github.com/grpc-ecosystem/awesome-grpc#go)
+- [Wombat - Cross platform gRPC client (can be used to test gRPC servers)](https://github.com/rogchap/wombat)
 
 ## E-Mail
 
@@ -247,6 +248,7 @@
 - [v8go - Execute JavaScript from Go](https://github.com/rogchap/v8go)
 - [x/text - packages related to internationalization (i18n) and localization (l10n)](https://godoc.org/golang.org/x/text)
 - [MTProto - Full-native implementation of MTProto (Telegram) protocol](https://github.com/xelaj/mtproto)
+- [Mux Go - Official Mux API wrapper for golang projects, supporting both Mux Data and Mux Video](https://github.com/muxinc/mux-go)
 
 ## Images
 
