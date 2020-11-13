@@ -196,6 +196,7 @@
 - [fgprof - profiler that allows you to analyze On-CPU as well as Off-CPU (e.g. I/O) time together](https://github.com/felixge/fgprof)
 - [Chronos - static race detector](https://github.com/amit-davidson/Chronos)
 - [structslop - checks if struct's fields can be re-arranged to get optimal struct size](https://github.com/orijtech/structslop)
+- [goreadme - generates readme markdown file from go doc - contains github action as well](goreadme)
 
 ## Raspberry PI
 
@@ -249,6 +250,7 @@
 - [x/text - packages related to internationalization (i18n) and localization (l10n)](https://godoc.org/golang.org/x/text)
 - [MTProto - Full-native implementation of MTProto (Telegram) protocol](https://github.com/xelaj/mtproto)
 - [Mux Go - Official Mux API wrapper for golang projects, supporting both Mux Data and Mux Video](https://github.com/muxinc/mux-go)
+- [Pigo - pure Go face detection](https://github.com/esimov/pigo)
 
 ## Images
 
