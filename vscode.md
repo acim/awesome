@@ -23,9 +23,6 @@
   "[jsonc]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
-  "[markdown]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
-  },
   "[svelte]": {
     "editor.defaultFormatter": "svelte.svelte-vscode"
   },
