@@ -193,6 +193,7 @@ Link:
 - [Webframe - Thousands of design inspiration based on real websites](https://webframe.xyz/)
 - [Remove BG - Delete the background from your images](https://www.remove.bg/)
 - [Unscreen - remove.bg for gifs and videos](https://www.unscreen.com/)
+- [Muffet - performant website link checker](https://github.com/raviqqe/muffet)
 
 ## Performance
 
