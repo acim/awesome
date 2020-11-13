@@ -195,6 +195,7 @@
 - [vssh - library to handle tens of thousands SSH connections and execute the command(s)](https://github.com/yahoo/vssh)
 - [fgprof - profiler that allows you to analyze On-CPU as well as Off-CPU (e.g. I/O) time together](https://github.com/felixge/fgprof)
 - [Chronos - static race detector](https://github.com/amit-davidson/Chronos)
+- [structslop - checks if struct's fields can be re-arranged to get optimal struct size](https://github.com/orijtech/structslop)
 
 ## Raspberry PI
 
