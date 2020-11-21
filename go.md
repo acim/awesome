@@ -159,6 +159,7 @@
 - [Nap - library that abstracts access to master-slave physical SQL servers](https://github.com/tsenart/nap)
 - [goose - database migration tool](https://github.com/pressly/goose)
 - [migrate - database migrations written in Go](https://github.com/golang-migrate/migrate)
+- [sqlc generates fully type-safe idiomatic Go code from SQL](https://github.com/kyleconroy/sqlc)
 
 ## GraphQL
 
@@ -214,6 +215,8 @@
 - [Testcontainers - friendly API to run Docker container, designed to create runtime environment for automatic tests](https://github.com/testcontainers/testcontainers-go)
 - [Go advanced testing tips & tricks](https://povilasv.me/go-advanced-testing-tips-tricks/)
 - [aceptadora - boilerplate to orchestrate the containers for an acceptance test](https://github.com/cabify/aceptadora)
+- [Mock DB for testing HTTP API in Go and achieve 100% coverage](https://dev.to/techschoolguru/mock-db-for-testing-http-api-in-go-and-achieve-100-coverage-4pa9)
+- [gomock - mocking framework](https://github.com/golang/mock)
 
 ## Public API's
 
