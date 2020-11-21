@@ -62,6 +62,11 @@
 - [yrv](https://github.com/pateketrueke/yrv)
 - [Setting up Routing In Svelte with Page.js](https://jackwhiting.co.uk/posts/setting-up-routing-in-svelte-with-pagejs)
 
+## Hot module reload
+
+- [Snowpach Svelte template](https://github.com/snowpackjs/snowpack/tree/master/create-snowpack-app/app-template-svelte)
+- [svite - svelte integration for vite](https://github.com/dominikg/svite)
+
 ## SEO
 
 - [migrating to Sapper - SEO, Twitter Cards, OpenGraph](https://lacourt.dev/2019/06/16)
