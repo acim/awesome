@@ -48,6 +48,7 @@
 - [Common concurrent programming mistakes](https://go101.org/article/concurrent-common-mistakes.html)
 - [Channel use cases](https://go101.org/article/channel-use-cases.html)
 - [Load balancer](https://medium.com/@owlwalks/load-balancer-at-your-fingertips-golang-ea23d7aaee82)
+- [Go Concurrency Patterns: Pipelines and cancellation](https://blog.golang.org/pipelines)
 
 ## Syncing goroutines
 
@@ -232,7 +233,9 @@
 - [protoc-gen-mock - Plugin to generate gRPC mock services from protobuf specifications](https://github.com/carvalhorr/protoc-gen-mock)
 - [Awesome gRPC](https://github.com/grpc-ecosystem/awesome-grpc#go)
 - [Wombat - Cross platform gRPC client (can be used to test gRPC servers)](https://github.com/rogchap/wombat)
+- [Evans - expressive universal gRPC CLI client ](https://github.com/ktr0731/evans)
 - [Unit testing Golang gRPC client and server application with bufconn package](http://www.inanzzz.com/index.php/post/w9qr/unit-testing-golang-grpc-client-and-server-application-with-bufconn-package)
+- [Server reflection service](https://github.com/grpc/grpc-go/tree/master/reflection)
 
 ## E-Mail
 
