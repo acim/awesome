@@ -58,11 +58,8 @@
   "git.enableSmartCommit": true,
   "go.autocompleteUnimportedPackages": true,
   "go.buildOnSave": "off",
-  "go.lintFlags": [
-    "-exclude=vendor/...",
-    "-config=${workspaceFolder}/config.toml"
-  ],
-  "go.lintTool": "revive",
+  "go.lintFlags": ["--fast"],
+  "go.lintTool": "golangci-lint",
   "go.useLanguageServer": true,
   "prettier.semi": false,
   "prettier.singleQuote": true,
