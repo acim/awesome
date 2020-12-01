@@ -49,6 +49,7 @@
 - [Channel use cases](https://go101.org/article/channel-use-cases.html)
 - [Load balancer](https://medium.com/@owlwalks/load-balancer-at-your-fingertips-golang-ea23d7aaee82)
 - [Go Concurrency Patterns: Pipelines and cancellation](https://blog.golang.org/pipelines)
+- [Principles of designing Go APIs with channels](https://inconshreveable.com/07-08-2014/principles-of-designing-go-apis-with-channels/)
 
 ## Syncing goroutines
 
