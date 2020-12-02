@@ -208,7 +208,7 @@ img {
 }
 /* new way */
 .clearfix::after {
-  content: "";
+  content: '';
   clear: both;
   display: table;
 }
@@ -357,4 +357,30 @@ body {
 ```css
 <link rel="stylesheet" type="text/css" href="print.css" media="print">
 <link rel="stylesheet" type="text/css" href="mobile.css" media="screen and (max-width: 768)">
+```
+
+### Smooth Scroll-to-top Button
+
+```css
+html {
+  scroll-behavior: smooth;
+
+  @media (prefers-reduced-motion: reduce) {
+    scroll-behavior: auto;
+  }
+}
+```
+
+```html
+<button
+  onClick={() => {
+    window.scrollTo(0, 0);
+
+    // focus management
+    const title = document.getElementById('article-title');
+    title.focus();
+  }}
+>
+  Scroll to top
+</button>
 ```
