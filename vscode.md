@@ -11,11 +11,24 @@
 
 ```json
 {
+  "[go]": {
+    "editor.codeActionsOnSave": {
+      "source.organizeImports": true
+    }
+  },
+  "[go.mod]": {
+    "editor.codeActionsOnSave": {
+      "source.organizeImports": true
+    }
+  },
   "[html]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "[javascript]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true
+    }
   },
   "[json]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
@@ -30,16 +43,16 @@
     "editor.defaultFormatter": "svelte.svelte-vscode"
   },
   "[typescript]": {
-    "editor.defaultFormatter": "esbenp.prettier-vscode"
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.codeActionsOnSave": {
+      "source.fixAll.eslint": true
+    }
   },
   "[yaml]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "breadcrumbs.enabled": true,
   "diffEditor.ignoreTrimWhitespace": true,
-  "editor.codeActionsOnSave": {
-    "source.fixAll.eslint": true
-  },
   "editor.cursorBlinking": "phase",
   "editor.find.addExtraSpaceOnTop": false,
   "editor.fontFamily": "'Operator Mono Book','Fira Code'",
@@ -58,9 +71,13 @@
   "git.enableSmartCommit": true,
   "go.autocompleteUnimportedPackages": true,
   "go.buildOnSave": "off",
+  "go.formatTool": "gofumports",
   "go.lintFlags": ["--fast"],
   "go.lintTool": "golangci-lint",
   "go.useLanguageServer": true,
+  "gopls": {
+    "gofumpt": true
+  },
   "prettier.semi": false,
   "prettier.singleQuote": true,
   "svelte.language-server.runtime": "/usr/bin/node",
