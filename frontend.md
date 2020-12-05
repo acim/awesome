@@ -78,6 +78,7 @@
 - [Social Logos](https://github.com/Automattic/social-logos)
 - [Linea Icon](https://linea.io)
 - [Free SVG icons for popular brands](https://simpleicons.org)
+- [SVGBox - copy and paste icons](https://svgbox.net/iconsets/)
 
 ## Fonts
 
