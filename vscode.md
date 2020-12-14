@@ -71,6 +71,8 @@
   "git.enableSmartCommit": true,
   "go.autocompleteUnimportedPackages": true,
   "go.buildOnSave": "off",
+  "go.coverOnSingleTest": true,
+  "go.coverOnSingleTestFile": true,
   "go.formatTool": "gofumports",
   "go.lintFlags": ["--fast"],
   "go.lintTool": "golangci-lint",
