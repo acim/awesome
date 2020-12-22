@@ -17,6 +17,7 @@ A curated list of delightful developers resources.
 - [MySQL](mysql.md)
 - [Node.js](node.md)
 - [Raspberry Pi](pi.md)
+- [Rust](rust.md)
 - [Svelte & Sapper](svelte.md)
 - [Visual Studio Code](vscode.md)
 - [Vue & NUXT](vue.md)
