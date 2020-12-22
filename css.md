@@ -4,7 +4,7 @@
 - [Material Components for the Web Codelabs](https://github.com/material-components/material-components-web-codelabs)
 - [Creating Non-Rectangular Headers](https://css-tricks.com/creating-non-rectangular-headers/)
 - [CSS clip-path maker](https://bennettfeely.com/clippy/)
-- [List Animations](https://codepen.io/designcourse/pen/YzPmJxo?__cf_chl_captcha_tk__=370595f2962c005184faae9d2ac651b6a6d3aec0-1580777046-0-ATFGeZ4BUojWZTDZUCW-kquMaQErlT2Tvm5G2M8jDLiEMusy4qIzLKrb7BNGhhnfu2YK112LvqDRXp4pKCzYs-cdd58C2OMSszcpbu7SfLv6YHtoAHn3y8cK3uTK5FZB8ThwRzM-NxAUoA5W5mXKdDHbD-Au9IXi77jgzgxfQjKGEzVnazRK3GLUyk3BauhrHstvlIIiLIg-Fe6eZn7k5e6Mo4JjGZK6V4Y9w9TIOHZZaKWTCLjWxAXyI2sOYidj0OKNkjwHdO9rBP3H-AboTclhObwFelnr5veP1H_-JLzP3FvhKfFA6ltsyuYcFJBomVQr2AhMfOUgzP6Lnh9xoTnWNpEB90DWvzARs3RjdcVK7o6cz6jYJA8_NvFy8waIsAGpZF95nt4ErgSDf_qGW-8)
+- [List Animations](https://codepen.io/designcourse/pen/YzPmJxo)
 - [Staggered Animations with CSS Custom Properties](https://cloudfour.com/thinks/staggered-animations-with-css-custom-properties/)
 - [CSS Tricks](https://css-tricks.com/)
 - [CSS Reference](http://tympanus.net/codrops/css_reference)
@@ -41,6 +41,7 @@
 - [100% Pure HTML/CSS Page Navigation - :target](https://dev.to/hakash/100-pure-htmlcss-page-navigation---no-javascript-required-2em5)
 - [How to Create Image Slider Using HTML and CSS](https://www.youtube.com/watch?v=FZrHoAUkHpE)
 - [CSS Card Tricks - Cool transition cards and CSS-Tricks like avatars](https://www.youtube.com/watch?v=29deL9MFfWc)
+- [CSS Frosted glass credit card](https://dev.to/dailydevtips1/css-frosted-glass-credit-card-3lak)
 
 ## Gradients
 
