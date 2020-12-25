@@ -5,6 +5,7 @@
 ## Books
 
 - [The Rust Programming Language](https://doc.rust-lang.org/book/)
+- [Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/)
 - [Engineering Rust Web Applications](https://erwabook.com/)
 - [Zero To Production In Rust](https://www.zero2prod.com/)
 
