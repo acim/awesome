@@ -1,5 +1,7 @@
 # Rust
 
+- [Dual licensing](https://github.com/sfackler/rust-postgres-macros/issues/19)
+
 ## Books
 
 - [The Rust Programming Language](https://doc.rust-lang.org/book/)
@@ -21,3 +23,7 @@
 ## Tools
 
 - [Rustup - installer for the systems programming language Rust](https://rustup.rs/)
+
+## Container images
+
+- [distroless](https://github.com/GoogleContainerTools/distroless/blob/master/examples/rust/Dockerfile)
