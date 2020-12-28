@@ -183,6 +183,13 @@
 
 ## Custom settings
 
+### Rust
+
+```json
+"crates.latestDecorator": "🚨 Latest: ${version}",
+"crates.upToDateDecorator": "",
+```
+
 ### Ansible
 
 ```json
