@@ -101,17 +101,28 @@
 ### General
 
 ```json
-"streetsidesoftware.code-spell-checker",
-"yzhang.markdown-all-in-one",
-"wayou.vscode-todo-highlight",
+"esbenp.prettier-vscode",
 "humao.rest-client",
+"streetsidesoftware.code-spell-checker",
+"wayou.vscode-todo-highlight",
+"yzhang.markdown-all-in-one",
 ```
 
 ### Themes
 
 ```json
-"sdras.night-owl",
 "pkief.material-icon-theme",
+"sdras.night-owl",
+```
+
+### Rust
+
+```json
+"bungcip.better-toml",
+"matklad.rust-analyzer",
+"rust-lang.rust",
+"serayuzgur.crates",
+"vadimcn.vscode-lldb",
 ```
 
 ### Go
@@ -124,7 +135,6 @@
 ### HTML & CSS
 
 ```json
-"esbenp.prettier-vscode",
 "ritwickdey.liveserver",
 ```
 
@@ -153,8 +163,8 @@
 ### Jenkins
 
 ```json
-"secanis.jenkinsfile-support",
 "janjoerke.jenkins-pipeline-linter-connector",
+"secanis.jenkinsfile-support",
 ```
 
 ### Terraform
@@ -166,12 +176,14 @@
 ### Azure
 
 ```json
+"ms-azuretools.vscode-azureterraform",
 "ms-vscode.azure-account",
 "ms-vscode.azurecli",
-"ms-azuretools.vscode-azureterraform",
 ```
 
-## Ansible
+## Custom settings
+
+### Ansible
 
 ```json
 {
