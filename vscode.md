@@ -52,6 +52,7 @@
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
   "breadcrumbs.enabled": true,
+  "crates.listPreReleases": true,
   "diffEditor.ignoreTrimWhitespace": true,
   "editor.cursorBlinking": "phase",
   "editor.find.addExtraSpaceOnTop": false,
@@ -82,6 +83,7 @@
   },
   "prettier.semi": false,
   "prettier.singleQuote": true,
+  "rust-analyzer.inlayHints.enable": false,
   "svelte.language-server.runtime": "/usr/bin/node",
   "terminal.integrated.fontSize": 16,
   "terraform.languageServer": {
