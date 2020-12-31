@@ -1,6 +1,7 @@
 # Rust
 
 - [Dual licensing](https://github.com/sfackler/rust-postgres-macros/issues/19)
+- [Procedural macros workshop](https://github.com/dtolnay/proc-macro-workshop)
 
 ## Books
 
