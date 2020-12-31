@@ -56,7 +56,7 @@
   "diffEditor.ignoreTrimWhitespace": true,
   "editor.cursorBlinking": "phase",
   "editor.find.addExtraSpaceOnTop": false,
-  "editor.fontFamily": "'Operator Mono Book','Fira Code'",
+  "editor.fontFamily": "'Fira Code'",
   "editor.fontLigatures": true,
   "editor.fontSize": 16,
   "editor.formatOnPaste": true,
@@ -86,6 +86,7 @@
   "rust-analyzer.inlayHints.enable": false,
   "svelte.language-server.runtime": "/usr/bin/node",
   "terminal.integrated.fontSize": 16,
+  "terminal.integrated.fontLigatures": true,
   "terraform.languageServer": {
     "external": true,
     "args": ["serve"]
