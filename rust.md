@@ -28,3 +28,14 @@
 ## Container images
 
 - [distroless](https://github.com/GoogleContainerTools/distroless/blob/master/examples/rust/Dockerfile)
+
+## Trait bounds
+
+```rust
+fn notify(item: impl Summary) -> String {}
+
+fn notify<T: Summary>(item: T) -> String {}
+
+fn notify<T> Summary(item: T) -> String
+    where T: Summary {}
+```
