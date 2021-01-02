@@ -134,3 +134,44 @@ fn main() => Result<(), Box<dyn Error>> {
     Ok(s)
 }
 ```
+
+## Iterator over struct fields
+
+```rust
+use std::iter::once;
+
+struct Color {
+    r: u8,
+    g: u8,
+    b: u8,
+}
+
+impl Color {
+    fn iter(&self) -> impl Iterator<Item = u8> {
+        once(self.r).chain(once(self.g)).chain(once(self.b))
+    }
+}
+
+fn main() {
+    let color = Color {
+        r: 100,
+        g: 0,
+        b: 150,
+    };
+    for v in color.iter() {
+        println!("{}", v);
+    }
+}
+```
+
+## Cast to std::any::Any
+
+```rust
+Box::new(Foo { data: 32 }) as Box<dyn Any>
+```
+
+## View create documentation skipping dependencies
+
+```sh
+cargo doc --no-deps --open
+```
