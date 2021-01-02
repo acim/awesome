@@ -114,74 +114,94 @@
 ### Themes
 
 ```json
-"pkief.material-icon-theme",
-"sdras.night-owl",
+{
+  "pkief.material-icon-theme",
+  "sdras.night-owl",
+}
 ```
 
 ### Rust
 
 ```json
-"bungcip.better-toml",
-"matklad.rust-analyzer",
-"rust-lang.rust",
-"serayuzgur.crates",
-"vadimcn.vscode-lldb",
+{
+  "bungcip.better-toml",
+  "matklad.rust-analyzer",
+  "rust-lang.rust",
+  "serayuzgur.crates",
+  "vadimcn.vscode-lldb",
+}
 ```
 
 ### Go
 
 ```json
-"golang.go",
-"zxh404.vscode-proto3",
+{
+  "golang.go",
+  "zxh404.vscode-proto3",
+}
 ```
 
 ### HTML & CSS
 
 ```json
-"ritwickdey.liveserver",
+{
+  "ritwickdey.liveserver",
+}
 ```
 
 ### JavaScript
 
 ```json
-"dbaeumer.vscode-eslint",
-"svelte.svelte-vscode",
+{
+  "dbaeumer.vscode-eslint",
+  "svelte.svelte-vscode",
+}
 ```
 
 ### Docker & Kubernetes
 
 ```json
-"ms-azuretools.vscode-docker",
-"ms-kubernetes-tools.vscode-kubernetes-tools",
-"redhat.vscode-yaml",
+{
+  "ms-azuretools.vscode-docker",
+  "ms-kubernetes-tools.vscode-kubernetes-tools",
+  "redhat.vscode-yaml",
+}
 ```
 
 ### Git
 
 ```json
-"codezombiech.gitignore",
-"eamodio.gitlens",
+{
+  "codezombiech.gitignore",
+  "eamodio.gitlens",
+}
 ```
 
 ### Jenkins
 
 ```json
-"janjoerke.jenkins-pipeline-linter-connector",
-"secanis.jenkinsfile-support",
+{
+  "janjoerke.jenkins-pipeline-linter-connector",
+  "secanis.jenkinsfile-support",
+}
 ```
 
 ### Terraform
 
 ```json
-"hashicorp.terraform",
+{
+  "hashicorp.terraform",
+}
 ```
 
 ### Azure
 
 ```json
-"ms-azuretools.vscode-azureterraform",
-"ms-vscode.azure-account",
-"ms-vscode.azurecli",
+{
+  "ms-azuretools.vscode-azureterraform",
+  "ms-vscode.azure-account",
+  "ms-vscode.azurecli",
+}
 ```
 
 ## Custom settings
@@ -196,7 +216,7 @@
 }
 ```
 
-## Vue.js and NUXT
+### Vue.js and NUXT
 
 ```json
 {
@@ -217,6 +237,37 @@
   "eslint.autoFixOnSave": true,
   "editor.formatOnSave": false,
   "vetur.validation.template": false
+}
+```
+
+### Multiple vertical rulers
+
+```json
+{
+  "editor.rulers": [
+    {
+      "column": 80, // spacing of 1st column from left
+      "color": "#ff9900" // orange, Go Vols!
+    },
+    100, // 2nd ruler with no color option
+    {
+      "column": 120, // third ruler
+      "color": "#9f0af5" // purple, go Pirates!
+    }
+  ]
+}
+```
+
+```json
+{
+  "[rust]": {
+    "editor.rulers": [
+      {
+        "column": 100,
+        "color": "#00ff22"
+      }
+    ]
+  }
 }
 ```
 
