@@ -39,6 +39,9 @@
   "[markdown]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
   },
+  "[rust]": {
+    "editor.rulers": [100]
+  },
   "[svelte]": {
     "editor.defaultFormatter": "svelte.svelte-vscode"
   },
