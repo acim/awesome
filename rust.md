@@ -181,7 +181,7 @@ cargo doc --no-deps --open
 ## Stricter compiler lints
 
 ```rust
-#![warn(missing_debug_implementations, rust-2018-idioms, missing-docs)]
+#![warn(missing_debug_implementations, rust_2018_idioms, missing_docs)]
 ```
 
 ## List all compiler lints
