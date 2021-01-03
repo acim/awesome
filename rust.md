@@ -4,6 +4,7 @@
 - [Procedural macros workshop](https://github.com/dtolnay/proc-macro-workshop)
 - [Building distributed GraphQL backend using Rust and Apollo Federation](https://dev.to/rkudryashov/building-distributed-graphql-backend-using-rust-and-apollo-federation-50bm)
 - [On Generics and Associated Types](https://blog.thomasheartman.com/posts/on-generics-and-associated-types)
+- [Allowed and denied lints](https://doc.rust-lang.org/rustc/lints/listing/allowed-by-default.html)
 
 ## Books
 
@@ -175,4 +176,16 @@ Box::new(Foo { data: 32 }) as Box<dyn Any>
 
 ```sh
 cargo doc --no-deps --open
+```
+
+## Stricter compiler lints
+
+```rust
+#![warn(missing_debug_implementations, rust-2018-idioms, missing-docs)]
+```
+
+## List all compiler lints
+
+```sh
+rustc -W help
 ```
