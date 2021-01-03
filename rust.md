@@ -3,6 +3,7 @@
 - [Dual licensing](https://github.com/sfackler/rust-postgres-macros/issues/19)
 - [Procedural macros workshop](https://github.com/dtolnay/proc-macro-workshop)
 - [Building distributed GraphQL backend using Rust and Apollo Federation](https://dev.to/rkudryashov/building-distributed-graphql-backend-using-rust-and-apollo-federation-50bm)
+- [On Generics and Associated Types](https://blog.thomasheartman.com/posts/on-generics-and-associated-types)
 
 ## Books
 
