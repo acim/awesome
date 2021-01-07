@@ -73,6 +73,8 @@
 - [Kyverno - Kubernetes Native Policy Management](https://github.com/nirmata/kyverno)
 - [KubiScan - tool to scan Kubernetes cluster for risky permissions](https://github.com/cyberark/KubiScan)
 - [version-checker - Kubernetes utility for observing the current versions of images running in the cluster](https://github.com/jetstack/version-checker)
+- [kubeval - tool for validating a Kubernetes YAML file](https://github.com/instrumenta/kubeval)
+- [conftest uses the Rego language from Open Policy Agent for writing assertions](https://github.com/open-policy-agent/conftest)
 
 ## CI & CD
 
@@ -117,6 +119,8 @@
 - [Frigate - documentation generation tool for Kubernetes Helm Charts](https://medium.com/rapids-ai/introducing-frigate-a-documentation-generation-tool-for-kubernetes-1791854031a1)
 - [How to host your Helm chart repository on GitHub](https://dev.to/jamiemagee/how-to-host-your-helm-chart-repository-on-github-3kd)
 - [Using custom domain for GitHub pages](https://medium.com/@hossainkhan/using-custom-domain-for-github-pages-86b303d3918a)
+- [kubeval - plugin for validating Helm charts against the Kubernetes schemas using kubeval](https://github.com/instrumenta/helm-kubeval)
+- [conftest - plugin for testing Helm charts with Open Policy Agent using conftest](https://github.com/instrumenta/helm-conftest)
 
 ## Custom Resource Definitions and Development of Kubernetes Applications
 
