@@ -1,5 +1,6 @@
 # Rust
 
+- [Awesome Rust](https://github.com/rust-unofficial/awesome-rust)
 - [Dual licensing](https://github.com/sfackler/rust-postgres-macros/issues/19)
 - [Procedural macros workshop](https://github.com/dtolnay/proc-macro-workshop)
 - [Building distributed GraphQL backend using Rust and Apollo Federation](https://dev.to/rkudryashov/building-distributed-graphql-backend-using-rust-and-apollo-federation-50bm)
@@ -9,6 +10,7 @@
 - [Building a runtime reflection system for Rust 2/3: dyn Attribute](https://www.osohq.com/post/runtime-reflection-pt-2)
 - [Building a runtime reflection system for Rust 2/3: dyn Method](https://www.osohq.com/post/runtime-reflection-pt-3)
 - [Closures in Rust: Capture by Immutable Borrow, by Mutable Borrow, by Move, by Unique Immutable Borrow](https://zhauniarovich.com/post/2020/2020-12-closures-in-rust)
+- [Recursive iterators in Rust](https://fasterthanli.me/articles/recursive-iterators-rust)
 
 ## Books
 
@@ -16,6 +18,8 @@
 - [Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/)
 - [Engineering Rust Web Applications](https://erwabook.com/)
 - [Zero To Production In Rust](https://www.zero2prod.com/)
+- [Rust Design Patterns](https://rust-unofficial.github.io/patterns/)
+- [Learn Rust by writing Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists)
 
 ## Traits
 
@@ -29,6 +33,9 @@
 - [Image - basic image processing functions and methods for converting to and from various image formats](https://github.com/image-rs/image)
 - [clap - Command Line Argument Parser](https://github.com/clap-rs/clap)
 - [kadabra - tool that makes data sharing between terminal windows easy](https://crates.io/crates/kadabra)
+- [mdBook - utility to create modern online books from Markdown files](https://crates.io/crates/mdbook)
+- [Yew - modern Rust framework for creating multi-threaded front-end web apps with WebAssembly](https://github.com/yewstack/yew)
+- [nom - parser combinators library written in Rust.](https://github.com/Geal/nom)
 
 ## Concurrency and parallelism
 
@@ -38,6 +45,10 @@
 - [Concurrency in modern programming languages: Rust 1/2](https://dev.to/deepu105/concurrency-in-modern-programming-languages-introduction-ckk)
 - [Concurrency in modern programming languages: Rust 2/2](https://dev.to/deepu105/concurrency-in-modern-programming-languages-rust-19co)
 
+## Kubernetes
+
+- [Writing a Kubernetes CRD Controller in Rust](http://technosophos.com/2019/08/07/writing-a-kubernetes-controller-in-rust.html)
+
 ## GUI
 
 - [Creating a GTK/Glade based GUI for a Rust application](https://dev.to/henrybarreto/creating-a-gui-for-a-rust-application-2h1g)
@@ -45,6 +56,7 @@
 ## Tools
 
 - [Rustup - installer for the systems programming language Rust](https://rustup.rs/)
+- [Rust Search Browser Extension](https://rust.extension.sh/)
 
 ## Container images
 
@@ -79,6 +91,10 @@ fn is_first(data: Test) -> bool {
     matches!(data, Test::FIRST)
 }
 ```
+
+### unimplemented!
+
+When a function is not implemented, use unimplemented! macro inside the body.
 
 ## Error handling
 
