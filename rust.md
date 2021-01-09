@@ -5,6 +5,10 @@
 - [Building distributed GraphQL backend using Rust and Apollo Federation](https://dev.to/rkudryashov/building-distributed-graphql-backend-using-rust-and-apollo-federation-50bm)
 - [On Generics and Associated Types](https://blog.thomasheartman.com/posts/on-generics-and-associated-types)
 - [Allowed and denied lints](https://doc.rust-lang.org/rustc/lints/listing/allowed-by-default.html)
+- [Building a runtime reflection system for Rust 1/3: dyn Class](https://www.osohq.com/post/rust-reflection-pt-1)
+- [Building a runtime reflection system for Rust 2/3: dyn Attribute](https://www.osohq.com/post/runtime-reflection-pt-2)
+- [Building a runtime reflection system for Rust 2/3: dyn Method](https://www.osohq.com/post/runtime-reflection-pt-3)
+- [Closures in Rust: Capture by Immutable Borrow, by Mutable Borrow, by Move, by Unique Immutable Borrow](https://zhauniarovich.com/post/2020/2020-12-closures-in-rust)
 
 ## Books
 
@@ -13,11 +17,18 @@
 - [Engineering Rust Web Applications](https://erwabook.com/)
 - [Zero To Production In Rust](https://www.zero2prod.com/)
 
+## Traits
+
+- [Fn - used for closures](https://doc.rust-lang.org/std/ops/trait.Fn.html)
+- [FnMut - used for closures](https://doc.rust-lang.org/std/ops/trait.FnMut.html)
+- [FnOnce - used for closures](https://doc.rust-lang.org/std/ops/trait.FnOnce.html)
+
 ## Libraries
 
 - [The Rust Standard Library](https://doc.rust-lang.org/std/)
 - [Image - basic image processing functions and methods for converting to and from various image formats](https://github.com/image-rs/image)
 - [clap - Command Line Argument Parser](https://github.com/clap-rs/clap)
+- [kadabra - tool that makes data sharing between terminal windows easy](https://crates.io/crates/kadabra)
 
 ## Concurrency and parallelism
 
@@ -26,6 +37,10 @@
 - [Crossbeam - set of tools for concurrent programming](https://github.com/crossbeam-rs/crossbeam)
 - [Concurrency in modern programming languages: Rust 1/2](https://dev.to/deepu105/concurrency-in-modern-programming-languages-introduction-ckk)
 - [Concurrency in modern programming languages: Rust 2/2](https://dev.to/deepu105/concurrency-in-modern-programming-languages-rust-19co)
+
+## GUI
+
+- [Creating a GTK/Glade based GUI for a Rust application](https://dev.to/henrybarreto/creating-a-gui-for-a-rust-application-2h1g)
 
 ## Tools
 
@@ -188,4 +203,10 @@ cargo doc --no-deps --open
 
 ```sh
 rustc -W help
+```
+
+## Update Rust toolchain
+
+```sh
+rustup update stable
 ```
