@@ -30,6 +30,9 @@
 - [Implementing Clean Arhitecture in Go - DDD](https://dormoshe.io/trending-news/implementing-clean-architecture-in-go-14502)
 - [From 0 to Insight with OpenTelemetry in Go](https://www.honeycomb.io/blog/from-0-to-insight-with-opentelemetry-in-go/)
 - [Working with Errors in Go 1.13](https://blog.golang.org/go1.13-errors)
+- [Elegant HTTP error handling](https://thingsthatkeepmeupatnight.dev/posts/golang-http-handler-errors/)
+- [How to Structure a Go Command-Line Project](https://bencane.com/2020/12/29/how-to-structure-a-golang-cli-project/)
+- [Why Go’s Cmd.Run fails without /dev/null](https://rohitpaulk.com/articles/cmd-run-dev-null)
 
 ## Blogs
 
