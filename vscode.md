@@ -243,6 +243,24 @@
 }
 ```
 
+### Delve
+
+```json
+{
+  "go.delveConfig": {
+    "dlvLoadConfig": {
+      "followPointers": true,
+      "maxVariableRecurse": 3,
+      "maxStringLen": 120,
+      "maxArrayValues": 120,
+      "maxStructFields": -1
+    },
+    "apiVersion": 2,
+    "showGlobalVariables": true
+  }
+}
+```
+
 ### Multiple vertical rulers
 
 ```json
