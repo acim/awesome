@@ -11,6 +11,7 @@
 - [Building a runtime reflection system for Rust 2/3: dyn Method](https://www.osohq.com/post/runtime-reflection-pt-3)
 - [Closures in Rust: Capture by Immutable Borrow, by Mutable Borrow, by Move, by Unique Immutable Borrow](https://zhauniarovich.com/post/2020/2020-12-closures-in-rust)
 - [Recursive iterators in Rust](https://fasterthanli.me/articles/recursive-iterators-rust)
+- [Rust Traits and Trait Objects](https://joshleeb.com/posts/rust-traits-trait-objects.html)
 
 ## Books
 
