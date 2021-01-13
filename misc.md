@@ -43,6 +43,7 @@
 - [SeaweedFS - simple and highly scalable distributed file system](https://github.com/chrislusf/seaweedfs)
 - [RainLoop](https://mail.rainloop.net/#/mailbox/INBOX)
 - [Benthos - Stream processor to transfer data between two points with mutations and transformations](https://www.benthos.dev)
+- [HIDE.me - Free Anonymous Proxy Browser](https://hide.me/en/proxy)
 
 ## Standards
 
