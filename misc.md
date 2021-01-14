@@ -44,6 +44,7 @@
 - [RainLoop](https://mail.rainloop.net/#/mailbox/INBOX)
 - [Benthos - Stream processor to transfer data between two points with mutations and transformations](https://www.benthos.dev)
 - [HIDE.me - Free Anonymous Proxy Browser](https://hide.me/en/proxy)
+- [AWS Vault - tool to securely store and access AWS credentials in a development environment](https://github.com/99designs/aws-vault)
 
 ## Standards
 
