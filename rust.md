@@ -20,7 +20,9 @@
 - [Engineering Rust Web Applications](https://erwabook.com/)
 - [Zero To Production In Rust](https://www.zero2prod.com/)
 - [Rust Design Patterns](https://rust-unofficial.github.io/patterns/)
+- [The Little Book of Rust Books](https://lborb.github.io/book/title-page.html)
 - [Learn Rust by writing Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists)
+- [Rust Language Cheat Sheet](https://cheats.rs/)
 
 ## Traits
 
