@@ -33,6 +33,7 @@
 - [Elegant HTTP error handling](https://thingsthatkeepmeupatnight.dev/posts/golang-http-handler-errors/)
 - [How to Structure a Go Command-Line Project](https://bencane.com/2020/12/29/how-to-structure-a-golang-cli-project/)
 - [Why Go’s Cmd.Run fails without /dev/null](https://rohitpaulk.com/articles/cmd-run-dev-null)
+- [Rosetta Code](http://rosettacode.org/wiki/Category:Go)
 
 ## Blogs
 

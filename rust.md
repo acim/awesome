@@ -15,6 +15,7 @@
 - [Rust Language Cheat Sheet](https://cheats.rs/)
 - [Programming idioms - Go vs Rust](https://programming-idioms.org/cheatsheet/Go/Rust)
 - [rust-learning - bunch of links to blog posts, articles, videos, etc for learning Rust](https://github.com/ctjhoa/rust-learning)
+- [Rosetta Code](http://rosettacode.org/wiki/Category:Rust)
 
 ## Books
 
