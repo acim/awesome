@@ -12,6 +12,9 @@
 - [Closures in Rust: Capture by Immutable Borrow, by Mutable Borrow, by Move, by Unique Immutable Borrow](https://zhauniarovich.com/post/2020/2020-12-closures-in-rust)
 - [Recursive iterators in Rust](https://fasterthanli.me/articles/recursive-iterators-rust)
 - [Rust Traits and Trait Objects](https://joshleeb.com/posts/rust-traits-trait-objects.html)
+- [Rust Language Cheat Sheet](https://cheats.rs/)
+- [Programming idioms - Go vs Rust](https://programming-idioms.org/cheatsheet/Go/Rust)
+- [rust-learning - bunch of links to blog posts, articles, videos, etc for learning Rust](https://github.com/ctjhoa/rust-learning)
 
 ## Books
 
@@ -22,7 +25,6 @@
 - [Rust Design Patterns](https://rust-unofficial.github.io/patterns/)
 - [The Little Book of Rust Books](https://lborb.github.io/book/title-page.html)
 - [Learn Rust by writing Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists)
-- [Rust Language Cheat Sheet](https://cheats.rs/)
 
 ## Traits
 
