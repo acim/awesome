@@ -12,6 +12,7 @@
 - [Opensource Builders - Open-source alternatives](https://opensource.builders/)
 - [Mouthful - self-hosted alternative to Disqus](https://github.com/vkuznecovas/mouthful)
 - [carbon - Create and share beautiful images of your source code](https://carbon.now.sh/)
+- [gitignore.io - create useful .gitignore files for your project](https://www.toptal.com/developers/gitignore)
 
 ## WebRTC Conferencing
 
