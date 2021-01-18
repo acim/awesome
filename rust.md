@@ -59,6 +59,10 @@
 
 - [Creating a GTK/Glade based GUI for a Rust application](https://dev.to/henrybarreto/creating-a-gui-for-a-rust-application-2h1g)
 
+## HTTP server
+
+- [tide example app - fully fledged backend application built with Rust and tide including CRUD operations, authentication, routing, pagination, and more](https://github.com/colinbankier/realworld-tide)
+
 ## Tools
 
 - [Rustup - installer for the systems programming language Rust](https://rustup.rs/)

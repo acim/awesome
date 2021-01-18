@@ -225,6 +225,7 @@
 - [gomock - mocking framework](https://github.com/golang/mock)
 - [Testcontainers - friendly API to run Docker container, designed to create runtime environment for automatic tests](https://github.com/testcontainers/testcontainers-go)
 - [Gnomock - integration and e2e testing toolkit using Docker temporary containers](https://github.com/orlangure/gnomock)
+- [strikememongo - package that spins up a real MongoDB server, backed by in-memory storage, for use in testing and mocking during development](https://github.com/strikesecurity/strikememongo)
 
 ## Public API's
 
