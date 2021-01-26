@@ -16,6 +16,11 @@
 - [Programming idioms - Go vs Rust](https://programming-idioms.org/cheatsheet/Go/Rust)
 - [rust-learning - bunch of links to blog posts, articles, videos, etc for learning Rust](https://github.com/ctjhoa/rust-learning)
 - [Rosetta Code](http://rosettacode.org/wiki/Category:Rust)
+- [Rust Programming Techniques](https://www.youtube.com/watch?v=vqavdUGKeb4)
+
+## YouTube channels
+
+- [David Pedersen](https://www.youtube.com/channel/UCDmSWx6SK0zCU2NqPJ0VmDQ/videos)
 
 ## Books
 
@@ -32,6 +37,14 @@
 - [Fn - used for closures](https://doc.rust-lang.org/std/ops/trait.Fn.html)
 - [FnMut - used for closures](https://doc.rust-lang.org/std/ops/trait.FnMut.html)
 - [FnOnce - used for closures](https://doc.rust-lang.org/std/ops/trait.FnOnce.html)
+- Forms of syntax when used as type:
+
+```rust
+&dyn Trait
+&Trait
+Box<Trait>
+Box<dyn Trait>
+```
 
 ## Libraries
 
@@ -108,6 +121,34 @@ When a function is not implemented, use unimplemented! macro inside the body.
 
 ## Error handling
 
+### [failure crate - handle multiple error types, chain errors](https://docs.rs/failure/0.1.8/failure/)
+
+```rust
+#[derive(Fail)]
+pub enum MyError {
+    Server(u8)
+    User(String)
+    Connection,
+}
+```
+
+### Mutex poison to custom error conversion
+
+```rust
+#[derive(Debug)]
+enum MyError {
+    Lock,
+}
+
+impl<T> From<PoisonError<T>> for MyError {
+    fn from(_: PoisonError<T>) -> MyError {
+        MyError::Lock
+    }
+}
+
+fn main() -> Result<(), MyError> {}
+```
+
 ### Do not unwind stack on panic
 
 ```rust
@@ -178,7 +219,11 @@ fn main() => Result<(), Box<dyn Error>> {
 }
 ```
 
-## Iterator over struct fields
+## Iterators
+
+- [Iteration patterns for Result & Option](http://xion.io/post/code/rust-iter-patterns.html)
+
+### Iterator over struct fields
 
 ```rust
 use std::iter::once;

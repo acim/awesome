@@ -10,6 +10,7 @@
         "microservices",
         "minikube",
         "multithreading",
+        "mutex",
         "nuxt",
         "provisioner",
         "rbac",
