@@ -23,6 +23,7 @@
 - [Svelte Society Recipes and Components](https://sveltesociety.dev/)
 - [Recipes GitHub Repository](https://github.com/svelte-society/sveltesociety.dev/tree/master/src/pages/recipes)
 - [Modern fetch in Svelte using stores](https://www.youtube.com/watch?v=IUHkSoBxyLM)
+- [Cheat Sheet](https://sveltesociety.dev/cheatsheet)
 
 ## Blogs
 
