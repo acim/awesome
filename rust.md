@@ -81,6 +81,10 @@ Box<dyn Trait>
 - [Rustup - installer for the systems programming language Rust](https://rustup.rs/)
 - [Rust Search Browser Extension](https://rust.extension.sh/)
 
+## Performance
+
+- [Automatic Flamegraphs for Benchmarks in Rust](https://www.jibbow.com/posts/criterion-flamegraphs/)
+
 ## Container images
 
 - [distroless](https://github.com/GoogleContainerTools/distroless/blob/master/examples/rust/Dockerfile)
@@ -120,6 +124,8 @@ fn is_first(data: Test) -> bool {
 When a function is not implemented, use unimplemented! macro inside the body.
 
 ## Error handling
+
+- [Wrapping errors in Rust](https://edgarluque.com/blog/wrapping-errors-in-rust)
 
 ### [failure crate - handle multiple error types, chain errors](https://docs.rs/failure/0.1.8/failure/)
 
