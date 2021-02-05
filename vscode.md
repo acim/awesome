@@ -77,13 +77,8 @@
   "go.buildOnSave": "off",
   "go.coverOnSingleTest": true,
   "go.coverOnSingleTestFile": true,
-  "go.formatTool": "gofumports",
   "go.lintFlags": ["--fast"],
   "go.lintTool": "golangci-lint",
-  "go.useLanguageServer": true,
-  "gopls": {
-    "gofumpt": true
-  },
   "prettier.semi": false,
   "prettier.singleQuote": true,
   "rust-analyzer.inlayHints.enable": false,
@@ -95,7 +90,6 @@
     "args": ["serve"]
   },
   "typescript.updateImportsOnFileMove.enabled": "always",
-  "window.zoomLevel": 0,
   "workbench.colorTheme": "Night Owl",
   "workbench.iconTheme": "material-icon-theme",
   "workbench.startupEditor": "newUntitledFile"
