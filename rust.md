@@ -17,10 +17,17 @@
 - [rust-learning - bunch of links to blog posts, articles, videos, etc for learning Rust](https://github.com/ctjhoa/rust-learning)
 - [Rosetta Code](http://rosettacode.org/wiki/Category:Rust)
 - [Rust Programming Techniques](https://www.youtube.com/watch?v=vqavdUGKeb4)
+- [From Go to Rust - JSON and YAML](http://technosophos.com/2018/06/12/from-go-to-rust-json-and-yaml.html)
+- [From Go to Rust - Unit Testing](http://technosophos.com/2018/07/07/from-go-to-rust-testing.html)
+- [From Go To Rust - Advanced Testing](http://technosophos.com/2018/07/25/from-go-to-rust-advanced-testing.html)
 
 ## YouTube channels
 
 - [David Pedersen](https://www.youtube.com/channel/UCDmSWx6SK0zCU2NqPJ0VmDQ/videos)
+
+## Blogs
+
+- [Sven Assmann](https://www.d34dl0ck.me/)
 
 ## Books
 
@@ -34,6 +41,7 @@
 
 ## Traits
 
+- [3 Things to Try When You Can't Make a Trait Object](https://www.possiblerust.com/pattern/3-things-to-try-when-you-can-t-make-a-trait-object)
 - [Fn - used for closures](https://doc.rust-lang.org/std/ops/trait.Fn.html)
 - [FnMut - used for closures](https://doc.rust-lang.org/std/ops/trait.FnMut.html)
 - [FnOnce - used for closures](https://doc.rust-lang.org/std/ops/trait.FnOnce.html)
@@ -101,6 +109,8 @@ fn notify<T> Summary(item: T) -> String
 ```
 
 ## Macros
+
+- [Macros in Rust: A tutorial with examples](https://blog.logrocket.com/macros-in-rust-a-tutorial-with-examples/)
 
 ### matches!
 
@@ -228,6 +238,7 @@ fn main() => Result<(), Box<dyn Error>> {
 ## Iterators
 
 - [Iteration patterns for Result & Option](http://xion.io/post/code/rust-iter-patterns.html)
+- [Returning Rust Iterators](https://depth-first.com/articles/2020/06/22/returning-rust-iterators/)
 
 ### Iterator over struct fields
 
