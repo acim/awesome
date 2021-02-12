@@ -63,6 +63,7 @@ Box<dyn Trait>
 - [mdBook - utility to create modern online books from Markdown files](https://crates.io/crates/mdbook)
 - [Yew - modern Rust framework for creating multi-threaded front-end web apps with WebAssembly](https://github.com/yewstack/yew)
 - [nom - parser combinators library written in Rust.](https://github.com/Geal/nom)
+- [libp2p - protocols, specifications and libraries for peer-to-peer network applications](https://github.com/libp2p/rust-libp2p)
 
 ## Concurrency and parallelism
 

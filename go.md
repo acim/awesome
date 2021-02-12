@@ -104,6 +104,10 @@
 - [http.Handler wrapper technique](https://medium.com/@matryer/the-http-handler-wrapper-technique-in-golang-updated-bc7fbcffa702)
 - [Serve local files](https://github.com/syntaqx/serve)
 - [Swagger Generator, UI, and Validation](https://keccikun.medium.com/top-10-framework-golang-library-to-build-microservice-391a2bb4c2cb)
+- [REST Servers in Go 1/4: standard library ](https://eli.thegreenplace.net/2021/rest-servers-in-go-part-1-standard-library/)
+- [REST Servers in Go 2/4: using a router package ](https://eli.thegreenplace.net/2021/rest-servers-in-go-part-2-using-a-router-package/)
+- [REST Servers in Go 3/4: using a web framework](https://eli.thegreenplace.net/2021/rest-servers-in-go-part-3-using-a-web-framework/)
+- [REST Servers in Go 4/4: using OpenAPI and Swagger ](https://eli.thegreenplace.net/2021/rest-servers-in-go-part-4-using-openapi-and-swagger/)
 
 ## Auth
 
@@ -291,6 +295,8 @@
 - [MTProto - Full-native implementation of MTProto (Telegram) protocol](https://github.com/xelaj/mtproto)
 - [Mux Go - Official Mux API wrapper for golang projects, supporting both Mux Data and Mux Video](https://github.com/muxinc/mux-go)
 - [Pigo - pure Go face detection](https://github.com/esimov/pigo)
+- [libp2p - protocols, specifications and libraries for peer-to-peer network applications](https://github.com/libp2p/go-libp2p)
+- [Execute JavaScript from Go](https://github.com/rogchap/v8go)
 
 ## Images
 
