@@ -324,7 +324,14 @@
 - [Testing examples](https://github.com/profefe/kube-profefe/blob/master/pkg/kubeutil/kube_test.go)
 - [Leader Election Example](https://github.com/kubernetes/kubernetes/tree/323f34858de18b862d43c40b2cced65ad8e24052/staging/src/k8s.io/client-go/examples/leader-election)
 
-## Test tasks
+## Find out unused code
+
+```sh
+env GO111MODULE=on go get honnef.co/go/tools/cmd/staticcheck@v0.0.1-2020.1.4
+staticcheck --unused.whole-program=true -- ./...
+```
+
+## Job interview questions (find out the problem)
 
 https://play.golang.org/p/n3iH7H11Uoe
 
