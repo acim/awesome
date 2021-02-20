@@ -12,6 +12,8 @@
 - [Opensource Builders - Open-source alternatives](https://opensource.builders/)
 - [Mouthful - self-hosted alternative to Disqus](https://github.com/vkuznecovas/mouthful)
 - [carbon - Create and share beautiful images of your source code](https://carbon.now.sh/)
+- [gitignore.io - create useful .gitignore files for your project](https://www.toptal.com/developers/gitignore)
+- [DevDocs combines multiple API documentations in a fast, organized, and searchable interface](https://devdocs.io/)
 - [pgCenter - command-line admin tool for observing and troubleshooting Postgres](https://github.com/lesovsky/pgcenter)
 
 ## WebRTC Conferencing
@@ -44,6 +46,8 @@
 - [SeaweedFS - simple and highly scalable distributed file system](https://github.com/chrislusf/seaweedfs)
 - [RainLoop](https://mail.rainloop.net/#/mailbox/INBOX)
 - [Benthos - Stream processor to transfer data between two points with mutations and transformations](https://www.benthos.dev)
+- [HIDE.me - Free Anonymous Proxy Browser](https://hide.me/en/proxy)
+- [AWS Vault - tool to securely store and access AWS credentials in a development environment](https://github.com/99designs/aws-vault)
 
 ## Standards
 

@@ -35,6 +35,10 @@
 - [Cloud Native Architect Blog](https://cloudowski.com/)
 - [Igor Cicimov](https://icicimov.github.io/blog/)
 
+## Debug Pods
+
+![Debug Pods](images/debug-pods.jpg)
+
 ## Administration
 
 - [Adding a name or IP to the Kubernetes API Server certificate](https://blog.scottlowe.org/2019/07/30/adding-a-name-to-kubernetes-api-server-certificate/)

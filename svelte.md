@@ -23,6 +23,7 @@
 - [Svelte Society Recipes and Components](https://sveltesociety.dev/)
 - [Recipes GitHub Repository](https://github.com/svelte-society/sveltesociety.dev/tree/master/src/pages/recipes)
 - [Modern fetch in Svelte using stores](https://www.youtube.com/watch?v=IUHkSoBxyLM)
+- [Cheat Sheet](https://sveltesociety.dev/cheatsheet)
 
 ## Blogs
 
@@ -45,6 +46,7 @@
 - [Svelte-Awesome - Font-Awesome icons components](https://github.com/RobBrazier/svelte-awesome)
 - [Svelte image - preprocessor which automates image optimization](https://github.com/matyunya/svelte-image)
 - [svelte-dnd-action - action based drag and drop container](https://github.com/isaacHagoel/svelte-dnd-action)
+- [appwrite]https://github.com/appwrite/sdk-for-svelte
 
 ## Charts
 

@@ -1,10 +1,33 @@
 # Rust
 
+- [Awesome Rust](https://github.com/rust-unofficial/awesome-rust)
 - [Dual licensing](https://github.com/sfackler/rust-postgres-macros/issues/19)
 - [Procedural macros workshop](https://github.com/dtolnay/proc-macro-workshop)
 - [Building distributed GraphQL backend using Rust and Apollo Federation](https://dev.to/rkudryashov/building-distributed-graphql-backend-using-rust-and-apollo-federation-50bm)
 - [On Generics and Associated Types](https://blog.thomasheartman.com/posts/on-generics-and-associated-types)
 - [Allowed and denied lints](https://doc.rust-lang.org/rustc/lints/listing/allowed-by-default.html)
+- [Building a runtime reflection system for Rust 1/3: dyn Class](https://www.osohq.com/post/rust-reflection-pt-1)
+- [Building a runtime reflection system for Rust 2/3: dyn Attribute](https://www.osohq.com/post/runtime-reflection-pt-2)
+- [Building a runtime reflection system for Rust 2/3: dyn Method](https://www.osohq.com/post/runtime-reflection-pt-3)
+- [Closures in Rust: Capture by Immutable Borrow, by Mutable Borrow, by Move, by Unique Immutable Borrow](https://zhauniarovich.com/post/2020/2020-12-closures-in-rust)
+- [Recursive iterators in Rust](https://fasterthanli.me/articles/recursive-iterators-rust)
+- [Rust Traits and Trait Objects](https://joshleeb.com/posts/rust-traits-trait-objects.html)
+- [Rust Language Cheat Sheet](https://cheats.rs/)
+- [Programming idioms - Go vs Rust](https://programming-idioms.org/cheatsheet/Go/Rust)
+- [rust-learning - bunch of links to blog posts, articles, videos, etc for learning Rust](https://github.com/ctjhoa/rust-learning)
+- [Rosetta Code](http://rosettacode.org/wiki/Category:Rust)
+- [Rust Programming Techniques](https://www.youtube.com/watch?v=vqavdUGKeb4)
+- [From Go to Rust - JSON and YAML](http://technosophos.com/2018/06/12/from-go-to-rust-json-and-yaml.html)
+- [From Go to Rust - Unit Testing](http://technosophos.com/2018/07/07/from-go-to-rust-testing.html)
+- [From Go To Rust - Advanced Testing](http://technosophos.com/2018/07/25/from-go-to-rust-advanced-testing.html)
+
+## YouTube channels
+
+- [David Pedersen](https://www.youtube.com/channel/UCDmSWx6SK0zCU2NqPJ0VmDQ/videos)
+
+## Blogs
+
+- [Sven Assmann](https://www.d34dl0ck.me/)
 
 ## Books
 
@@ -12,12 +35,36 @@
 - [Rust Cookbook](https://rust-lang-nursery.github.io/rust-cookbook/)
 - [Engineering Rust Web Applications](https://erwabook.com/)
 - [Zero To Production In Rust](https://www.zero2prod.com/)
+- [Rust Design Patterns](https://rust-unofficial.github.io/patterns/)
+- [The Little Book of Rust Books](https://lborb.github.io/book/title-page.html)
+- [Learn Rust by writing Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists)
+- [Rust API Guidelines](https://rust-lang.github.io/api-guidelines/)
+
+## Traits
+
+- [3 Things to Try When You Can't Make a Trait Object](https://www.possiblerust.com/pattern/3-things-to-try-when-you-can-t-make-a-trait-object)
+- [Fn - used for closures](https://doc.rust-lang.org/std/ops/trait.Fn.html)
+- [FnMut - used for closures](https://doc.rust-lang.org/std/ops/trait.FnMut.html)
+- [FnOnce - used for closures](https://doc.rust-lang.org/std/ops/trait.FnOnce.html)
+- Forms of syntax when used as type:
+
+```rust
+&dyn Trait
+&Trait
+Box<Trait>
+Box<dyn Trait>
+```
 
 ## Libraries
 
 - [The Rust Standard Library](https://doc.rust-lang.org/std/)
 - [Image - basic image processing functions and methods for converting to and from various image formats](https://github.com/image-rs/image)
 - [clap - Command Line Argument Parser](https://github.com/clap-rs/clap)
+- [kadabra - tool that makes data sharing between terminal windows easy](https://crates.io/crates/kadabra)
+- [mdBook - utility to create modern online books from Markdown files](https://crates.io/crates/mdbook)
+- [Yew - modern Rust framework for creating multi-threaded front-end web apps with WebAssembly](https://github.com/yewstack/yew)
+- [nom - parser combinators library written in Rust.](https://github.com/Geal/nom)
+- [libp2p - protocols, specifications and libraries for peer-to-peer network applications](https://github.com/libp2p/rust-libp2p)
 
 ## Concurrency and parallelism
 
@@ -27,9 +74,26 @@
 - [Concurrency in modern programming languages: Rust 1/2](https://dev.to/deepu105/concurrency-in-modern-programming-languages-introduction-ckk)
 - [Concurrency in modern programming languages: Rust 2/2](https://dev.to/deepu105/concurrency-in-modern-programming-languages-rust-19co)
 
+## Kubernetes
+
+- [Writing a Kubernetes CRD Controller in Rust](http://technosophos.com/2019/08/07/writing-a-kubernetes-controller-in-rust.html)
+
+## GUI
+
+- [Creating a GTK/Glade based GUI for a Rust application](https://dev.to/henrybarreto/creating-a-gui-for-a-rust-application-2h1g)
+
+## HTTP server
+
+- [tide example app - fully fledged backend application built with Rust and tide including CRUD operations, authentication, routing, pagination, and more](https://github.com/colinbankier/realworld-tide)
+
 ## Tools
 
 - [Rustup - installer for the systems programming language Rust](https://rustup.rs/)
+- [Rust Search Browser Extension](https://rust.extension.sh/)
+
+## Performance
+
+- [Automatic Flamegraphs for Benchmarks in Rust](https://www.jibbow.com/posts/criterion-flamegraphs/)
 
 ## Container images
 
@@ -48,6 +112,8 @@ fn notify<T> Summary(item: T) -> String
 
 ## Macros
 
+- [Macros in Rust: A tutorial with examples](https://blog.logrocket.com/macros-in-rust-a-tutorial-with-examples/)
+
 ### matches!
 
 ```rust
@@ -65,7 +131,41 @@ fn is_first(data: Test) -> bool {
 }
 ```
 
+### unimplemented!
+
+When a function is not implemented, use unimplemented! macro inside the body.
+
 ## Error handling
+
+- [Wrapping errors in Rust](https://edgarluque.com/blog/wrapping-errors-in-rust)
+
+### [failure crate - handle multiple error types, chain errors](https://docs.rs/failure/0.1.8/failure/)
+
+```rust
+#[derive(Fail)]
+pub enum MyError {
+    Server(u8)
+    User(String)
+    Connection,
+}
+```
+
+### Mutex poison to custom error conversion
+
+```rust
+#[derive(Debug)]
+enum MyError {
+    Lock,
+}
+
+impl<T> From<PoisonError<T>> for MyError {
+    fn from(_: PoisonError<T>) -> MyError {
+        MyError::Lock
+    }
+}
+
+fn main() -> Result<(), MyError> {}
+```
 
 ### Do not unwind stack on panic
 
@@ -137,7 +237,12 @@ fn main() => Result<(), Box<dyn Error>> {
 }
 ```
 
-## Iterator over struct fields
+## Iterators
+
+- [Iteration patterns for Result & Option](http://xion.io/post/code/rust-iter-patterns.html)
+- [Returning Rust Iterators](https://depth-first.com/articles/2020/06/22/returning-rust-iterators/)
+
+### Iterator over struct fields
 
 ```rust
 use std::iter::once;
@@ -188,4 +293,10 @@ cargo doc --no-deps --open
 
 ```sh
 rustc -W help
+```
+
+## Update Rust toolchain
+
+```sh
+rustup update stable
 ```
