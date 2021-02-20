@@ -65,6 +65,7 @@ Box<dyn Trait>
 - [Yew - modern Rust framework for creating multi-threaded front-end web apps with WebAssembly](https://github.com/yewstack/yew)
 - [nom - parser combinators library written in Rust.](https://github.com/Geal/nom)
 - [libp2p - protocols, specifications and libraries for peer-to-peer network applications](https://github.com/libp2p/rust-libp2p)
+- [SQLx - async SQL crate featuring compile-time checked queries](https://github.com/launchbadge/sqlx)
 
 ## Concurrency and parallelism
 
@@ -73,6 +74,7 @@ Box<dyn Trait>
 - [Crossbeam - set of tools for concurrent programming](https://github.com/crossbeam-rs/crossbeam)
 - [Concurrency in modern programming languages: Rust 1/2](https://dev.to/deepu105/concurrency-in-modern-programming-languages-introduction-ckk)
 - [Concurrency in modern programming languages: Rust 2/2](https://dev.to/deepu105/concurrency-in-modern-programming-languages-rust-19co)
+- [Actors with Tokio](https://ryhl.io/blog/actors-with-tokio/)
 
 ## Kubernetes
 
@@ -85,6 +87,7 @@ Box<dyn Trait>
 ## HTTP server
 
 - [tide example app - fully fledged backend application built with Rust and tide including CRUD operations, authentication, routing, pagination, and more](https://github.com/colinbankier/realworld-tide)
+- [Validating JSON input in Rust web services](https://dev.to/vinted/validating-json-input-in-rust-web-services-5gp0)
 
 ## Tools
 

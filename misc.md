@@ -52,6 +52,8 @@
 ## Standards
 
 - [JSON Resume - open source initiative to create a JSON-based standard for resumes](https://jsonresume.org/)
+- [xdg - interoperability and shared base technology for free software desktop environments for Linux](https://pub.dev/packages/xdg_directories)
+- [xdg-utils](https://www.freedesktop.org/wiki/Software/xdg-utils/)
 
 ## Graph databases
 
