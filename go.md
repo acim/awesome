@@ -195,9 +195,7 @@
 - [Find outdated dependencies](https://github.com/psampaz/go-mod-outdated)
 - [Using Makefiles for Go](https://danishpraka.sh/2019/12/07/using-makefiles-for-go.html)
 - [ko - tool for building and deploying Golang applications to Kubernetes](https://github.com/google/ko)
-- [profefe continuously collects profiling data](https://github.com/profefe/kube-profefe)
 - [vssh - library to handle tens of thousands SSH connections and execute the command(s)](https://github.com/yahoo/vssh)
-- [fgprof - profiler that allows you to analyze On-CPU as well as Off-CPU (e.g. I/O) time together](https://github.com/felixge/fgprof)
 - [Chronos - static race detector](https://github.com/amit-davidson/Chronos)
 - [structslop - checks if struct's fields can be re-arranged to get optimal struct size](https://github.com/orijtech/structslop)
 - [goreadme - generates readme markdown file from go doc - contains github action as well](goreadme)
@@ -221,6 +219,12 @@
 - [gomock - mocking framework](https://github.com/golang/mock)
 - [Testcontainers - friendly API to run Docker container, designed to create runtime environment for automatic tests](https://github.com/testcontainers/testcontainers-go)
 - [Gnomock - integration and e2e testing toolkit using Docker temporary containers](https://github.com/orlangure/gnomock)
+
+## Profiling
+
+- [fgprof - profiler that allows you to analyze On-CPU as well as Off-CPU (e.g. I/O) time together](https://github.com/felixge/fgprof)
+- [profefe continuously collects profiling data](https://github.com/profefe/kube-profefe)
+- [Block Profiling in Go](https://github.com/DataDog/go-profiler-notes/blob/main/block.md)
 
 ## Public API's
 
