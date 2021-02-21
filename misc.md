@@ -81,3 +81,8 @@
 - [Mailserver mit Dovecot, Postfix, MySQL und Rspamd unter Debian 10 Buster](https://thomas-leister.de/mailserver-debian-buster/)
 - [Rspamd - Fast, free and open-source spam filtering system](https://rspamd.com/)
 - [Email with Postfix, Dovecot and MySQL](https://www.linode.com/docs/email/postfix/email-with-postfix-dovecot-and-mysql/)
+
+## Licenses
+
+- [BSD+Patent](https://opensource.org/licenses/BSDplusPatent)
+- [Apache 2.0 with LLVM Exceptions](https://foundation.llvm.org/relicensing/LICENSE.txt)
