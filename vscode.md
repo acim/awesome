@@ -59,7 +59,7 @@
   "diffEditor.ignoreTrimWhitespace": true,
   "editor.cursorBlinking": "phase",
   "editor.find.addExtraSpaceOnTop": false,
-  "editor.fontFamily": "'Fira Code'",
+  "editor.fontFamily": "'JetBrains Mono'",
   "editor.fontLigatures": true,
   "editor.fontSize": 16,
   "editor.formatOnPaste": true,
