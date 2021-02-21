@@ -188,3 +188,35 @@ echo "source <(kubectl completion bash)" >> ~/.bashrc
 alias k=kubectl
 complete -F __start_kubectl k
 ```
+
+## Signing Helm charts
+
+```sh
+gpg --gen-key
+gpg --export-secret-keys > ~/.gnupg/pubring.gpg
+helm package --sign --key 'John Doe' chart
+curl -u "username:password" -F "chart=@chart-0.2.7.tgz" -F "prov=@chart-0.2.7.tgz.prov" https://your-charts-repo.domain/api/charts
+```
+
+## Use GPG signing key in GitHub Actions
+
+`cat > ~/.gnupg/pubring.gpg | base64 > private.key`
+
+Create GPG_SIGNING_KEY secret in GitHub and paste the contents of the private.key.
+
+Add step:
+
+```yaml
+- name: Configure GPG key
+  env:
+    GPG_SIGNING_KEY: ${{ secrets.GPG_SIGNING_KEY }}
+  run: |
+    mkdir -p ~/.gnupg/
+    printf "${GPG_SIGNING_KEY}" | base64 -d > ~/.gnupg/pubring.gpg
+```
+
+You may or may not want to also add the following line:
+
+`gpg --import ~/.gnupg/pubring.gpg`
+
+However, this is not needed for Helm signing.
