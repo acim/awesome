@@ -86,3 +86,7 @@
 
 - [BSD+Patent](https://opensource.org/licenses/BSDplusPatent)
 - [Apache 2.0 with LLVM Exceptions](https://foundation.llvm.org/relicensing/LICENSE.txt)
+
+## Terminal fonts
+
+- [Nerd fonts](https://www.nerdfonts.com/font-downloads)
