@@ -59,9 +59,9 @@
   "diffEditor.ignoreTrimWhitespace": true,
   "editor.cursorBlinking": "phase",
   "editor.find.addExtraSpaceOnTop": false,
-  "editor.fontFamily": "'JetBrains Mono'",
+  "editor.fontFamily": "'JetBrainsMono Nerd Font'",
   "editor.fontLigatures": true,
-  "editor.fontSize": 16,
+  "editor.fontSize": 13,
   "editor.formatOnPaste": true,
   "editor.formatOnSave": true,
   "editor.minimap.enabled": false,
@@ -83,13 +83,14 @@
   "prettier.singleQuote": true,
   "rust-analyzer.inlayHints.enable": false,
   "svelte.language-server.runtime": "/usr/bin/node",
-  "terminal.integrated.fontSize": 16,
+  "terminal.integrated.fontSize": 13,
   "terminal.integrated.fontLigatures": true,
   "terraform.languageServer": {
     "external": true,
     "args": ["serve"]
   },
   "typescript.updateImportsOnFileMove.enabled": "always",
+  "window.zoomLevel": 2,
   "workbench.colorTheme": "Night Owl",
   "workbench.iconTheme": "material-icon-theme",
   "workbench.startupEditor": "newUntitledFile"
@@ -288,11 +289,5 @@
 
 ## Fonts
 
-- [Fira Code](https://github.com/tonsky/FiraCode)
+- [Nerd fonts](https://www.nerdfonts.com/font-downloads)
 - [JuliaMono](https://cormullion.github.io/pages/2020-07-26-JuliaMono/)
-- [Operator Mono](https://www.typography.com/fonts/operator/styles)
-- [Dank Mono](https://gumroad.com/l/dank-mono)
-
-## [Fix missing extenstions](https://github.com/VSCodium/vscodium/issues/418#issuecomment-643664182)
-
-## [429 Too Many Requests](https://gitlab.com/paulcarroty/vscodium-deb-rpm-repo/-/issues/36#note_395793123)
