@@ -61,7 +61,7 @@
   "editor.find.addExtraSpaceOnTop": false,
   "editor.fontFamily": "'JetBrainsMono Nerd Font'",
   "editor.fontLigatures": true,
-  "editor.fontSize": 13,
+  "editor.fontSize": 14,
   "editor.formatOnPaste": true,
   "editor.formatOnSave": true,
   "editor.minimap.enabled": false,
@@ -83,14 +83,12 @@
   "prettier.singleQuote": true,
   "rust-analyzer.inlayHints.enable": false,
   "svelte.language-server.runtime": "/usr/bin/node",
-  "terminal.integrated.fontSize": 13,
-  "terminal.integrated.fontLigatures": true,
+  "terminal.integrated.fontSize": 14,
   "terraform.languageServer": {
     "external": true,
     "args": ["serve"]
   },
   "typescript.updateImportsOnFileMove.enabled": "always",
-  "window.zoomLevel": 2,
   "workbench.colorTheme": "Night Owl",
   "workbench.iconTheme": "material-icon-theme",
   "workbench.startupEditor": "newUntitledFile"
