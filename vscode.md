@@ -90,6 +90,7 @@
     "args": ["serve"]
   },
   "typescript.updateImportsOnFileMove.enabled": "always",
+  "window.titleBarStyle": "native",
   "window.zoomLevel": 2,
   "workbench.colorTheme": "Night Owl",
   "workbench.iconTheme": "material-icon-theme",
