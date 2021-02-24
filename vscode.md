@@ -171,7 +171,9 @@
 ```json
 {
   "codezombiech.gitignore",
+  "donjayamanne.githistory",
   "eamodio.gitlens",
+  "mhutchie.git-graph",
 }
 ```
 
