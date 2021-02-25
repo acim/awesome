@@ -108,6 +108,7 @@
 - [REST Servers in Go 2/4: using a router package ](https://eli.thegreenplace.net/2021/rest-servers-in-go-part-2-using-a-router-package/)
 - [REST Servers in Go 3/4: using a web framework](https://eli.thegreenplace.net/2021/rest-servers-in-go-part-3-using-a-web-framework/)
 - [REST Servers in Go 4/4: using OpenAPI and Swagger ](https://eli.thegreenplace.net/2021/rest-servers-in-go-part-4-using-openapi-and-swagger/)
+- [Example SSE server](https://gist.github.com/ismasan/3fb75381cd2deb6bfa9c)
 
 ## Auth
 
