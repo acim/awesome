@@ -149,6 +149,10 @@
 - [Advanced Persistence Threats: The Future of Kubernetes Attacks](https://www.youtube.com/watch?v=CH7S5rE3j8w)
 - [Rego policies collection](https://github.com/redhat-cop/rego-policies)
 - [Kubernetes secrets store CSI driver](https://github.com/kubernetes-sigs/secrets-store-csi-driver/)
+- [Prevent access to metadata - AWS](https://docs.aws.amazon.com/AWSEC2/latest/UserGuide/instancedata-data-retrieval.html)
+- [Prevent access to metadata - Hetzner Cloud](https://docs.hetzner.cloud/#server-metadata)
+- [kube-bench](https://github.com/aquasecurity/kube-bench)
+- [Using Kubelet Client to Attack the Kubernetes Cluster](https://www.cyberark.com/resources/threat-research-blog/using-kubelet-client-to-attack-the-kubernetes-cluster)
 
 ## Hetzner Cloud
 
@@ -162,6 +166,7 @@
 - [Install Cilium](https://cilium.readthedocs.io/en/stable/gettingstarted/k8s-install-default/)
 - [Kubernetes without kube-proxy](https://docs.cilium.io/en/stable/gettingstarted/kubeproxy-free/)
 - [hcloud-k8s - Ansible playbook to install Kubernetes on Hetzner Cloud](https://github.com/gammpamm/hcloud-k8s)
+- [IP Address Range](https://ipinfo.io/AS24940)
 
 ## kubectl commands
 
@@ -220,3 +225,20 @@ You may or may not want to also add the following line:
 `gpg --import ~/.gnupg/pubring.gpg`
 
 However, this is not needed for Helm signing.
+
+## CKS
+
+- setup firewall on the instance
+- prevent access to instance metadata
+- introduce network policy to allow just necessary traffic
+- run kube-bench and fix all problems
+
+### Generate TLS certificate
+
+`openssl req -x509 -newkey rsa:4096 -keyout key.pem -out cert.pem -days 365 -nodes`
+
+### Check HTTPS service using fake host
+
+`curl https://secure-ingress.com:31047/service2 -kv --resolve secure-ingress.com:31047:34.105.246.174`
+
+#
