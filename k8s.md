@@ -259,3 +259,62 @@ spec:
             except:
               - 169.254.169.254/32
 ```
+
+### Create user
+
+Create CertificateSigningRequest:
+
+```sh
+openssl genrsa -out jane.key 2048
+openssl req -new -key jane.key -out jane.csr # set only Common Name = jane
+
+cat <<EOF | kubectl apply -f -
+apiVersion: certificates.k8s.io/v1
+kind: CertificateSigningRequest
+metadata:
+  name: jane
+spec:
+  groups:
+  - system:authenticated
+  request: $(cat jane.csr | base64 -w 0)
+  signerName: kubernetes.io/kube-apiserver-client
+  usages:
+  - client auth
+EOF
+```
+
+Configure KUBECONFIG for user jane:
+
+```sh
+kubectl config set-credentials jane --client-key=jane.key --client-certificate=jane.crt
+kubectl config set-context jane --cluster=kubernetes --user=jane
+kubectl config view
+kubectl config get-contexts
+kubectl config use-context jane
+```
+
+### Connect from inside a pod to kube-apiserver
+
+`curl https://kubernetes.default -k -H "Authorization: Bearer $(cat /run/secrets/kubernetes.io/serviceaccount/token)"`
+
+[Disable access](https://kubernetes.io/docs/tasks/configure-pod-container/configure-service-account):
+
+```yaml
+apiVersion: v1
+kind: ServiceAccount
+metadata:
+  name: build-robot
+automountServiceAccountToken: false
+```
+
+or:
+
+```yaml
+apiVersion: v1
+kind: Pod
+metadata:
+  name: my-pod
+spec:
+  serviceAccountName: build-robot
+  automountServiceAccountToken: false
+```
