@@ -318,3 +318,10 @@ spec:
   serviceAccountName: build-robot
   automountServiceAccountToken: false
 ```
+
+### Inspect apiserver cert
+
+```sh
+cd /etc/kubernetes/pki
+openssl x509 -in apiserver.crt -text
+```
