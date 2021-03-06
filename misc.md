@@ -16,6 +16,7 @@
 - [DevDocs combines multiple API documentations in a fast, organized, and searchable interface](https://devdocs.io/)
 - [pgCenter - command-line admin tool for observing and troubleshooting Postgres](https://github.com/lesovsky/pgcenter)
 - [i3 - tiling window manager](https://i3wm.org/)
+- [Algorithms and Stuff](http://blog.ivank.net/)
 
 ## WebRTC Conferencing
 

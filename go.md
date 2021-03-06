@@ -305,6 +305,7 @@
 ## Images
 
 - [caire - Content aware image resize library](https://github.com/esimov/caire)
+- [gg - library for rendering 2D graphics](https://github.com/fogleman/gg)
 
 ## Error handling
 
