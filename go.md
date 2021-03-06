@@ -121,6 +121,7 @@
 - [Casbin custom functions](https://casbin.org/docs/en/function#how-to-add-a-customized-function)
 - [Casbin custom functions](https://github.com/casbin/casbin/issues/33)
 - [How to implement RBAC custom function which has to read information from database?](https://github.com/casbin/casbin/issues/326#issuecomment-552875116)
+- [Oso - policy engine for authorization](https://github.com/osohq/oso)
 
 ## HTTP client
 
