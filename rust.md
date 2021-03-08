@@ -304,3 +304,18 @@ rustc -W help
 ```sh
 rustup update stable
 ```
+
+## _use_ can be used inside functions
+
+```rust
+fn print_power_action(state: PowerState) {
+    use PowerState::*;
+    match state {
+        Off,
+        Sleep,
+        Reboot,
+        Shutdown,
+        Hibernate,
+    }
+}
+```
