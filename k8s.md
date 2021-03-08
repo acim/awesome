@@ -326,6 +326,8 @@ cd /etc/kubernetes/pki
 openssl x509 -in apiserver.crt -text
 ```
 
+### [Cluster upgrade](https://kubernetes.io/docs/tasks/administer-cluster/kubeadm/kubeadm-upgrade)
+
 ### Allowed websites
 
 - [Docs](https://kubernetes.io/docs/)
