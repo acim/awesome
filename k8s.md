@@ -325,3 +325,13 @@ spec:
 cd /etc/kubernetes/pki
 openssl x509 -in apiserver.crt -text
 ```
+
+### Allowed websites
+
+- [Docs](https://kubernetes.io/docs/)
+- [Source](https://github.com/kubernetes/)
+- [Blog](https://kubernetes.io/blog/)
+- [Trivy](https://github.com/aquasecurity/trivy)
+- [Sysdig](https://docs.sysdig.com/)
+- [Falco](https://falco.org/docs/)
+- [App Armor](https://gitlab.com/apparmor/apparmor/-/wikis/Documentation)
