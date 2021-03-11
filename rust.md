@@ -22,6 +22,7 @@
 - [From Go To Rust - Advanced Testing](http://technosophos.com/2018/07/25/from-go-to-rust-advanced-testing.html)
 - [Procedural Macros](https://www.youtube.com/watch?v=9IbYBl48eTQ)
 - [Generic `impl` blocks are kinda like macros](https://dev.to/somedood/generic-impl-blocks-are-kinda-like-macros-1aa0)
+- [Hello Hyper!](https://www.fpcomplete.com/blog/captures-closures-async/)
 
 ## YouTube channels
 
