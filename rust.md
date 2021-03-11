@@ -79,6 +79,7 @@ Box<dyn Trait>
 ## Kubernetes
 
 - [Writing a Kubernetes CRD Controller in Rust](http://technosophos.com/2019/08/07/writing-a-kubernetes-controller-in-rust.html)
+- [Evolution of kube](https://clux.github.io/probes/post/2021-02-28-kube-evolution/)
 
 ## GUI
 

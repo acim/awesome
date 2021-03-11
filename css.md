@@ -43,6 +43,8 @@
 - [CSS Card Tricks - Cool transition cards and CSS-Tricks like avatars](https://www.youtube.com/watch?v=29deL9MFfWc)
 - [CSS Frosted glass credit card](https://dev.to/dailydevtips1/css-frosted-glass-credit-card-3lak)
 - [:is() pseudo class](https://css-tricks.com/almanac/selectors/i/is/)
+- [display: flow-root - replacement for clearfix](https://css-tricks.com/display-flow-root/)
+- [shape-outside - wrap text in circle, ellipse or other shape](https://css-tricks.com/almanac/properties/s/shape-outside/)
 
 ## Gradients
 
