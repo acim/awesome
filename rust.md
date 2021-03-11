@@ -20,6 +20,7 @@
 - [From Go to Rust - JSON and YAML](http://technosophos.com/2018/06/12/from-go-to-rust-json-and-yaml.html)
 - [From Go to Rust - Unit Testing](http://technosophos.com/2018/07/07/from-go-to-rust-testing.html)
 - [From Go To Rust - Advanced Testing](http://technosophos.com/2018/07/25/from-go-to-rust-advanced-testing.html)
+- [Procedural Macros](https://www.youtube.com/watch?v=9IbYBl48eTQ)
 
 ## YouTube channels
 
