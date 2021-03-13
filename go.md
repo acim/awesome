@@ -278,6 +278,7 @@
 - [Evans - expressive universal gRPC CLI client ](https://github.com/ktr0731/evans)
 - [Unit testing Golang gRPC client and server application with bufconn package](http://www.inanzzz.com/index.php/post/w9qr/unit-testing-golang-grpc-client-and-server-application-with-bufconn-package)
 - [Server reflection service](https://github.com/grpc/grpc-go/tree/master/reflection)
+- [gRPC Long-lived Streaming](https://dev.bitolog.com/grpc-long-lived-streaming/)
 
 ## E-Mail
 
