@@ -249,6 +249,7 @@ fn main() => Result<(), Box<dyn Error>> {
 
 - [Iteration patterns for Result & Option](http://xion.io/post/code/rust-iter-patterns.html)
 - [Returning Rust Iterators](https://depth-first.com/articles/2020/06/22/returning-rust-iterators/)
+- [Creating an Iterator in Rust](https://aloso.github.io/2021/03/09/creating-an-iterator)
 
 ### Iterator over struct fields
 
