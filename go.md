@@ -13,7 +13,6 @@
 - [Elegant HTTP error handling](https://thingsthatkeepmeupatnight.dev/posts/golang-http-handler-errors/)
 - [Error handling](https://blog.golang.org/error-handling-and-go#TOC_3)
 - [Four Steps to Daemonize Your Go Programs](https://ieftimov.com/post/four-steps-daemonize-your-golang-programs/)
-- [From 0 to Insight with OpenTelemetry in Go](https://www.honeycomb.io/blog/from-0-to-insight-with-opentelemetry-in-go/)
 - [Functional Options - Implementing clean APIs](https://github.com/tmrts/go-patterns/blob/master/idiom/functional-options.md)
 - [Go by Example](https://gobyexample.com/)
 - [Go Web Examples](https://gowebexamples.com/)
@@ -133,9 +132,19 @@
 - [How to customize Go's HTTP client](https://rafallorenz.com/go/customize-http-client/)
 - [Gohalt - Throttler library & client rate limiter](https://github.com/1pkg/gohalt)
 
+## Metrics
+
+- [From 0 to Insight with OpenTelemetry in Go](https://www.honeycomb.io/blog/from-0-to-insight-with-opentelemetry-in-go/)
+- [Golang Application monitoring using Prometheus](https://gabrieltanner.org/blog/collecting-prometheus-metrics-in-golang)
+
 ## Websocket
 
 - [Minimal and idiomatic WebSocket library](https://github.com/nhooyr/websocket)
+
+## CLI
+
+- [GChalk - Terminal string styling](https://github.com/jwalton/gchalk)
+- [Glow - Render markdown on the CLI](https://github.com/charmbracelet/glow)
 
 ## Docker
 
@@ -181,11 +190,12 @@
 
 - [Face Detection using OpenCV and MachineBox](https://www.youtube.com/watch?v=rbZeZNVA-Q4)
 
-## JSON
+## JSON & YAML
 
 - [JSON and struct composition](https://attilaolah.eu/2014/09/10/json-and-struct-composition-in-go/)
 - [JSON decoding](https://attilaolah.eu/2013/11/29/json-decoding-in-go/)
 - [Custom JSON marshalling](http://choly.ca/post/go-json-marshalling/)
+- [YAML marshaling and unmarshaling (used in Kubernetes)](https://github.com/ghodss/yaml)
 
 ## SQL
 
@@ -197,6 +207,7 @@
 - [goose - database migration tool](https://github.com/pressly/goose)
 - [migrate - database migrations written in Go](https://github.com/golang-migrate/migrate)
 - [sqlc generates fully type-safe idiomatic Go code from SQL](https://github.com/kyleconroy/sqlc)
+- [SQLBoiler - tool to generate a Go ORM tailored to your database schema](https://github.com/volatiletech/sqlboiler)
 
 ## GraphQL
 
