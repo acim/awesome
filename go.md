@@ -290,6 +290,7 @@
 - [Unit testing Golang gRPC client and server application with bufconn package](http://www.inanzzz.com/index.php/post/w9qr/unit-testing-golang-grpc-client-and-server-application-with-bufconn-package)
 - [Server reflection service](https://github.com/grpc/grpc-go/tree/master/reflection)
 - [gRPC Long-lived Streaming](https://dev.bitolog.com/grpc-long-lived-streaming/)
+- [Generate a fully-working Go gRPC server in two minutes with Ent](https://entgo.io/blog/2021/03/18/generating-a-grpc-server-with-ent/)
 
 ## E-Mail
 
