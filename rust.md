@@ -147,6 +147,7 @@ When a function is not implemented, use unimplemented! macro inside the body.
 ## Error handling
 
 - [Wrapping errors in Rust](https://edgarluque.com/blog/wrapping-errors-in-rust)
+- [Ergonomic error handling with Rust](https://dev.to/senyeezus/ergonomic-error-handling-with-rust-13bj)
 
 ### [failure crate - handle multiple error types, chain errors](https://docs.rs/failure/0.1.8/failure/)
 
