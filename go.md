@@ -145,6 +145,8 @@
 
 - [GChalk - Terminal string styling](https://github.com/jwalton/gchalk)
 - [Glow - Render markdown on the CLI](https://github.com/charmbracelet/glow)
+- [PTerm - Pretty Terminal Printer](https://github.com/pterm/pterm)
+- [Lip Gloss - Style definitions for nice terminal layouts](https://github.com/charmbracelet/lipgloss)
 
 ## Docker
 
