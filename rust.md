@@ -80,6 +80,10 @@ Box<dyn Trait>
 - [Concurrency in modern programming languages: Rust 2/2](https://dev.to/deepu105/concurrency-in-modern-programming-languages-rust-19co)
 - [Actors with Tokio](https://ryhl.io/blog/actors-with-tokio/)
 
+## Container images
+
+- [How to create small Docker images for Rust](https://kerkour.com/blog/rust-small-docker-image/)
+
 ## Kubernetes
 
 - [Writing a Kubernetes CRD Controller in Rust](http://technosophos.com/2019/08/07/writing-a-kubernetes-controller-in-rust.html)
@@ -148,6 +152,7 @@ When a function is not implemented, use unimplemented! macro inside the body.
 
 - [Wrapping errors in Rust](https://edgarluque.com/blog/wrapping-errors-in-rust)
 - [Ergonomic error handling with Rust](https://dev.to/senyeezus/ergonomic-error-handling-with-rust-13bj)
+- [A Beginner's Guide to Handling Errors in Rust](https://dev.to/seanchen1991/a-beginner-s-guide-to-handling-errors-in-rust-40k2)
 
 ### [failure crate - handle multiple error types, chain errors](https://docs.rs/failure/0.1.8/failure/)
 
