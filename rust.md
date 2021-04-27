@@ -47,6 +47,7 @@
 ## Traits
 
 - [3 Things to Try When You Can't Make a Trait Object](https://www.possiblerust.com/pattern/3-things-to-try-when-you-can-t-make-a-trait-object)
+- [Tour of Rust's Standard Library Traits](https://github.com/pretzelhammer/rust-blog/blob/master/posts/tour-of-rusts-standard-library-traits.md)
 - [Fn - used for closures](https://doc.rust-lang.org/std/ops/trait.Fn.html)
 - [FnMut - used for closures](https://doc.rust-lang.org/std/ops/trait.FnMut.html)
 - [FnOnce - used for closures](https://doc.rust-lang.org/std/ops/trait.FnOnce.html)
