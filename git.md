@@ -47,3 +47,7 @@ git show main:README.md
 ```sh
 git rev-list –all | xargs git grep -F 'something'
 ```
+
+## GitHub
+
+- [Automate Your GitHub Profile README with Go and GitHub Actions](https://dev.to/charly3pins/automate-your-github-profile-readme-with-go-and-github-actions-2lmo)
