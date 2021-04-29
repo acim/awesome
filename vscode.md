@@ -127,6 +127,7 @@
   "rust-lang.rust",
   "serayuzgur.crates",
   "vadimcn.vscode-lldb",
+  "rangav.vscode-thunder-client"
 }
 ```
 
@@ -136,6 +137,7 @@
 {
   "golang.go",
   "zxh404.vscode-proto3",
+  "rangav.vscode-thunder-client",
 }
 ```
 
