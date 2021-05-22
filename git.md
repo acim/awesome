@@ -51,3 +51,4 @@ git rev-list –all | xargs git grep -F 'something'
 ## GitHub
 
 - [Automate Your GitHub Profile README with Go and GitHub Actions](https://dev.to/charly3pins/automate-your-github-profile-readme-with-go-and-github-actions-2lmo)
+- [Go Package CI/CD with GitHub Actions](https://dev.to/jidicula/go-package-ci-cd-with-github-actions-350o)
