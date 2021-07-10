@@ -223,11 +223,13 @@
 - [Microservices](http://callistaenterprise.se/blogg/teknik/2017/02/17/go-blog-series-part1/)
 - [Microservices example](https://github.com/wizelineacademy/GoWorkshop)
 - [Automatically set GOMAXPROCS to match Linux container CPU quota](https://github.com/uber-go/automaxprocs)
+- [Kratos - microservice oriented governance framework](https://github.com/go-kratos/kratos)
 
 ## CI & CD
 
 - [How to do Continuous Integration like a boss](https://medium.com/pantomath/go-tools-gitlab-how-to-do-continuous-integration-like-a-boss-941a3a9ad0b6)
 - [Building a CI system with Jenkins](https://medium.com/@zarkopafilis/building-a-ci-system-for-go-with-jenkins-4ab04d4bacd0)
+- [Go recipes - handy commands to run in Go projects](https://github.com/nikolaydubina/go-recipes)
 
 ## Tools
 
