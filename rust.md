@@ -44,6 +44,11 @@
 - [Learn Rust by writing Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists)
 - [Rust API Guidelines](https://rust-lang.github.io/api-guidelines/)
 
+## Desktop Applications
+
+- [How I Built a Cross-Platform Desktop Application with Svelte, Redis, and Rust](https://css-tricks.com/how-i-built-a-cross-platform-desktop-application-with-svelte-redis-and-rust/)
+- [Tauri - Build smaller, faster, and more secure desktop applications with a web frontend](https://tauri.studio/en/)
+
 ## Traits
 
 - [3 Things to Try When You Can't Make a Trait Object](https://www.possiblerust.com/pattern/3-things-to-try-when-you-can-t-make-a-trait-object)
@@ -104,6 +109,8 @@ Box<dyn Trait>
 
 - [Rustup - installer for the systems programming language Rust](https://rustup.rs/)
 - [Rust Search Browser Extension](https://rust.extension.sh/)
+- [cargo-outdated - cargo subcommand for displaying when Rust dependencies are out of date](https://github.com/kbknapp/cargo-outdated)
+- [cargo-audit - audit Cargo.lock files for crates with security vulnerabilities](https://github.com/RustSec/rustsec/tree/main/cargo-audit)
 
 ## Performance
 
