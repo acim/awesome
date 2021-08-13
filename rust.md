@@ -48,6 +48,7 @@
 
 - [How I Built a Cross-Platform Desktop Application with Svelte, Redis, and Rust](https://css-tricks.com/how-i-built-a-cross-platform-desktop-application-with-svelte-redis-and-rust/)
 - [Tauri - Build smaller, faster, and more secure desktop applications with a web frontend](https://tauri.studio/en/)
+- [Tauri with Standard Svelte or SvelteKit](https://medium.com/@cazanator/tauri-with-standard-svelte-or-sveltekit-ad7f103c37e7)
 
 ## Traits
 

@@ -1,5 +1,9 @@
 # CI/CD
 
+- [Codebeat - get instant feedback on your code](https://codebeat.co/)
+- [Coveralls - code test coverage](https://coveralls.io/)
+- [Codecov - code test coverage](https://about.codecov.io/)
+
 ## Drone
 
 - [Build and deploy applications using Drone CI, Docker and Ansible](https://blog.maqpie.com/2017/03/21/build-and-deploy-applications-using-drone-ci-docker-and-ansible/)
@@ -79,8 +83,8 @@ spec:
 tasks:
   - name: build-backend
     conditions:
-      - conditionRef: "is-python-runtime"
+      - conditionRef: 'is-python-runtime'
   - name: build-frontend
     conditions:
-      - conditionRef: "is-nodejs-runtime"
+      - conditionRef: 'is-nodejs-runtime'
 ```
