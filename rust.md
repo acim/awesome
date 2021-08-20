@@ -55,6 +55,7 @@
 ## CLI
 
 - [Learning Rust by building a CLI tool](https://saidvandeklundert.net/learn/2021-08-06-rust-ssh-cli-tool/)
+- [Ferris fetches Go gopher postcards](https://dev.to/uggla/rust-cli-example-ferris-fetches-go-gopher-postcards-3gb5)
 
 ## Traits
 
