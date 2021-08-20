@@ -24,6 +24,7 @@
 - [Generic `impl` blocks are kinda like macros](https://dev.to/somedood/generic-impl-blocks-are-kinda-like-macros-1aa0)
 - [Hello Hyper!](https://www.fpcomplete.com/blog/captures-closures-async/)
 - [Making Great Docs with Rustdoc](https://www.tangramvision.com/blog/making-great-docs-with-rustdoc)
+- [Slice Patterns](https://adventures.michaelfbryan.com/posts/daily/slice-patterns/)
 
 ## YouTube channels
 
@@ -44,11 +45,16 @@
 - [Learn Rust by writing Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists)
 - [Rust API Guidelines](https://rust-lang.github.io/api-guidelines/)
 
-## Desktop Applications
+## Desktop / GUI
 
 - [How I Built a Cross-Platform Desktop Application with Svelte, Redis, and Rust](https://css-tricks.com/how-i-built-a-cross-platform-desktop-application-with-svelte-redis-and-rust/)
 - [Tauri - Build smaller, faster, and more secure desktop applications with a web frontend](https://tauri.studio/en/)
 - [Tauri with Standard Svelte or SvelteKit](https://medium.com/@cazanator/tauri-with-standard-svelte-or-sveltekit-ad7f103c37e7)
+- [Creating a GTK/Glade based GUI for a Rust application](https://dev.to/henrybarreto/creating-a-gui-for-a-rust-application-2h1g)
+
+## CLI
+
+- [Learning Rust by building a CLI tool](https://saidvandeklundert.net/learn/2021-08-06-rust-ssh-cli-tool/)
 
 ## Traits
 
@@ -86,6 +92,7 @@ Box<dyn Trait>
 - [Concurrency in modern programming languages: Rust 1/2](https://dev.to/deepu105/concurrency-in-modern-programming-languages-introduction-ckk)
 - [Concurrency in modern programming languages: Rust 2/2](https://dev.to/deepu105/concurrency-in-modern-programming-languages-rust-19co)
 - [Actors with Tokio](https://ryhl.io/blog/actors-with-tokio/)
+- [for_each_concurrent](https://docs.rs/futures/0.3.16/futures/stream/trait.StreamExt.html#method.for_each_concurrent)
 
 ## Container images
 
@@ -96,15 +103,15 @@ Box<dyn Trait>
 - [Writing a Kubernetes CRD Controller in Rust](http://technosophos.com/2019/08/07/writing-a-kubernetes-controller-in-rust.html)
 - [Evolution of kube](https://clux.github.io/probes/post/2021-02-28-kube-evolution/)
 
-## GUI
-
-- [Creating a GTK/Glade based GUI for a Rust application](https://dev.to/henrybarreto/creating-a-gui-for-a-rust-application-2h1g)
-
 ## HTTP server
 
 - [tide example app - fully fledged backend application built with Rust and tide including CRUD operations, authentication, routing, pagination, and more](https://github.com/colinbankier/realworld-tide)
 - [Validating JSON input in Rust web services](https://dev.to/vinted/validating-json-input-in-rust-web-services-5gp0)
 - [Building Powerful GraphQL Servers with Rust](https://dev.to/open-graphql/building-powerful-graphql-servers-with-rust-3gla)
+
+## HTTP Client
+
+- [reqwest-middleware - crate implementing a wrapper around reqwest to allow for client middleware chains](https://github.com/truelayer/reqwest-middleware)
 
 ## Tools
 
@@ -118,6 +125,7 @@ Box<dyn Trait>
 - [Automatic Flamegraphs for Benchmarks in Rust](https://www.jibbow.com/posts/criterion-flamegraphs/)
 - [Criterion.rs - statistics-driven micro-benchmarking tool](https://bheisler.github.io/criterion.rs/book/)
 - [Achieving warp speed with Rust](https://gist.github.com/jFransham/369a86eff00e5f280ed25121454acec1)
+- [The Rust Performance Book](https://nnethercote.github.io/perf-book/)
 
 ## Container images
 
