@@ -98,6 +98,7 @@ Box<dyn Trait>
 ## Container images
 
 - [How to create small Docker images for Rust](https://kerkour.com/blog/rust-small-docker-image/)
+- [distroless](https://github.com/GoogleContainerTools/distroless/blob/master/examples/rust/Dockerfile)
 
 ## Kubernetes
 
@@ -127,10 +128,6 @@ Box<dyn Trait>
 - [Criterion.rs - statistics-driven micro-benchmarking tool](https://bheisler.github.io/criterion.rs/book/)
 - [Achieving warp speed with Rust](https://gist.github.com/jFransham/369a86eff00e5f280ed25121454acec1)
 - [The Rust Performance Book](https://nnethercote.github.io/perf-book/)
-
-## Container images
-
-- [distroless](https://github.com/GoogleContainerTools/distroless/blob/master/examples/rust/Dockerfile)
 
 ## Trait bounds
 
@@ -167,6 +164,10 @@ fn is_first(data: Test) -> bool {
 ### unimplemented!
 
 When a function is not implemented, use unimplemented! macro inside the body.
+
+### [todo!](https://doc.rust-lang.org/std/macro.todo.html)
+
+Useful if you are prototyping and are just looking to have your code typecheck.
 
 ## Error handling
 
