@@ -107,6 +107,7 @@
 - [REST Servers in Go 3/4: using a web framework](https://eli.thegreenplace.net/2021/rest-servers-in-go-part-3-using-a-web-framework/)
 - [REST Servers in Go 4/4: using OpenAPI and Swagger ](https://eli.thegreenplace.net/2021/rest-servers-in-go-part-4-using-openapi-and-swagger/)
 - [Example SSE server](https://gist.github.com/ismasan/3fb75381cd2deb6bfa9c)
+- [Coraza - Web Application Firewall](https://github.com/jptosso/coraza-waf)
 
 ## Auth
 
@@ -248,6 +249,7 @@
 - [Chronos - static race detector](https://github.com/amit-davidson/Chronos)
 - [structslop - checks if struct's fields can be re-arranged to get optimal struct size](https://github.com/orijtech/structslop)
 - [goreadme - generates readme markdown file from go doc - contains github action as well](goreadme)
+- [GoKart - Go Security Static Analysis](https://github.com/praetorian-inc/gokart)
 
 ## Raspberry PI
 
