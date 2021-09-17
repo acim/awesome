@@ -18,8 +18,6 @@
 - [Rosetta Code](http://rosettacode.org/wiki/Category:Rust)
 - [Rust Programming Techniques](https://www.youtube.com/watch?v=vqavdUGKeb4)
 - [From Go to Rust - JSON and YAML](http://technosophos.com/2018/06/12/from-go-to-rust-json-and-yaml.html)
-- [From Go to Rust - Unit Testing](http://technosophos.com/2018/07/07/from-go-to-rust-testing.html)
-- [From Go To Rust - Advanced Testing](http://technosophos.com/2018/07/25/from-go-to-rust-advanced-testing.html)
 - [Procedural Macros](https://www.youtube.com/watch?v=9IbYBl48eTQ)
 - [Generic `impl` blocks are kinda like macros](https://dev.to/somedood/generic-impl-blocks-are-kinda-like-macros-1aa0)
 - [Hello Hyper!](https://www.fpcomplete.com/blog/captures-closures-async/)
@@ -94,6 +92,12 @@ Box<dyn Trait>
 - [Concurrency in modern programming languages: Rust 2/2](https://dev.to/deepu105/concurrency-in-modern-programming-languages-rust-19co)
 - [Actors with Tokio](https://ryhl.io/blog/actors-with-tokio/)
 - [for_each_concurrent](https://docs.rs/futures/0.3.16/futures/stream/trait.StreamExt.html#method.for_each_concurrent)
+
+## Testing
+
+- [From Go to Rust - Unit Testing](http://technosophos.com/2018/07/07/from-go-to-rust-testing.html)
+- [From Go To Rust - Advanced Testing](http://technosophos.com/2018/07/25/from-go-to-rust-advanced-testing.html)
+- [Test Cases in Rust are simple to write](https://blog.knoldus.com/test-cases-in-rust-are-simple-to-write/)
 
 ## Container images
 
@@ -174,6 +178,7 @@ Useful if you are prototyping and are just looking to have your code typecheck.
 - [Wrapping errors in Rust](https://edgarluque.com/blog/wrapping-errors-in-rust)
 - [Ergonomic error handling with Rust](https://dev.to/senyeezus/ergonomic-error-handling-with-rust-13bj)
 - [A Beginner's Guide to Handling Errors in Rust](https://dev.to/seanchen1991/a-beginner-s-guide-to-handling-errors-in-rust-40k2)
+- [How to Tackle Error in Rust Programming](https://blog.knoldus.com/how-to-tackle-error-in-rust-programming/)
 
 ### [failure crate - handle multiple error types, chain errors](https://docs.rs/failure/0.1.8/failure/)
 
