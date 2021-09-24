@@ -76,6 +76,7 @@
 - [Load balancer](https://medium.com/@owlwalks/load-balancer-at-your-fingertips-golang-ea23d7aaee82)
 - [Multithreading](https://pragmacoders.com/multithreading-go-tutorial/)
 - [Principles of designing Go APIs with channels](https://inconshreveable.com/07-08-2014/principles-of-designing-go-apis-with-channels/)
+- [Applying Modern Go Concurrency Patterns to Data Pipelines](https://medium.com/amboss/applying-modern-go-concurrency-patterns-to-data-pipelines-b3b5327908d4)
 
 ## Syncing goroutines
 
@@ -132,11 +133,13 @@
 - [Colly - Lightning Fast and Elegant Scraping Framework](https://github.com/gocolly/colly)
 - [How to customize Go's HTTP client](https://rafallorenz.com/go/customize-http-client/)
 - [Gohalt - Throttler library & client rate limiter](https://github.com/1pkg/gohalt)
+- [gobreaker implements Circuit Breaker patter](https://github.com/sony/gobreaker)
 
 ## Metrics
 
 - [From 0 to Insight with OpenTelemetry in Go](https://www.honeycomb.io/blog/from-0-to-insight-with-opentelemetry-in-go/)
 - [Golang Application monitoring using Prometheus](https://gabrieltanner.org/blog/collecting-prometheus-metrics-in-golang)
+- [OpenTelemetry-Go](https://github.com/open-telemetry/opentelemetry-go)
 
 ## Websocket
 
@@ -321,6 +324,7 @@
 - [Pigo - pure Go face detection](https://github.com/esimov/pigo)
 - [libp2p - protocols, specifications and libraries for peer-to-peer network applications](https://github.com/libp2p/go-libp2p)
 - [Execute JavaScript from Go](https://github.com/rogchap/v8go)
+- [WebAssembly Powered Go Playground](https://go-playground-wasm.vercel.app/)
 
 ## Images
 
