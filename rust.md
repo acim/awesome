@@ -23,6 +23,7 @@
 - [Hello Hyper!](https://www.fpcomplete.com/blog/captures-closures-async/)
 - [Making Great Docs with Rustdoc](https://www.tangramvision.com/blog/making-great-docs-with-rustdoc)
 - [Slice Patterns](https://adventures.michaelfbryan.com/posts/daily/slice-patterns/)
+- [Rust for the Polyglot Programmer](https://www.chiark.greenend.org.uk/~ianmdlvl/rust-polyglot/index.html)
 
 ## YouTube channels
 
