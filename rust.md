@@ -104,6 +104,7 @@ Box<dyn Trait>
 
 - [How to create small Docker images for Rust](https://kerkour.com/blog/rust-small-docker-image/)
 - [distroless](https://github.com/GoogleContainerTools/distroless/blob/master/examples/rust/Dockerfile)
+- [Fast + Small Docker Image Builds (Alpine, compile against musl)](https://shaneutt.com/blog/rust-fast-small-docker-image-builds/)
 
 ## Kubernetes
 
