@@ -43,6 +43,7 @@
 - [The Little Book of Rust Books](https://lborb.github.io/book/title-page.html)
 - [Learn Rust by writing Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists)
 - [Rust API Guidelines](https://rust-lang.github.io/api-guidelines/)
+- [Asynchronous Programming in Rust](https://rust-lang.github.io/async-book/)
 
 ## Desktop / GUI
 
