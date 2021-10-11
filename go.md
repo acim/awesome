@@ -254,6 +254,7 @@
 - [structslop - checks if struct's fields can be re-arranged to get optimal struct size](https://github.com/orijtech/structslop)
 - [goreadme - generates readme markdown file from go doc - contains github action as well](goreadme)
 - [GoKart - Go Security Static Analysis](https://github.com/praetorian-inc/gokart)
+- [nancy - tool to check for dependencies' vulnerabilities](https://github.com/sonatype-nexus-community/nancy)
 
 ## Raspberry PI
 
