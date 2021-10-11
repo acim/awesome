@@ -129,6 +129,7 @@ Box<dyn Trait>
 - [Rust Search Browser Extension](https://rust.extension.sh/)
 - [cargo-outdated - cargo subcommand for displaying when Rust dependencies are out of date](https://github.com/kbknapp/cargo-outdated)
 - [cargo-audit - audit Cargo.lock files for crates with security vulnerabilities](https://github.com/RustSec/rustsec/tree/main/cargo-audit)
+- [cargo-pants - cargo subcommand to check vulnerabilities found in dependencies](https://github.com/sonatype-nexus-community/cargo-pants)
 
 ## Performance
 
