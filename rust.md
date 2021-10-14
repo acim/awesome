@@ -29,10 +29,6 @@
 
 - [David Pedersen](https://www.youtube.com/channel/UCDmSWx6SK0zCU2NqPJ0VmDQ/videos)
 
-## Blogs
-
-- [Sven Assmann](https://www.d34dl0ck.me/)
-
 ## Books
 
 - [The Rust Programming Language](https://doc.rust-lang.org/book/)
