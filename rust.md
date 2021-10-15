@@ -24,6 +24,7 @@
 - [Making Great Docs with Rustdoc](https://www.tangramvision.com/blog/making-great-docs-with-rustdoc)
 - [Slice Patterns](https://adventures.michaelfbryan.com/posts/daily/slice-patterns/)
 - [Rust for the Polyglot Programmer](https://www.chiark.greenend.org.uk/~ianmdlvl/rust-polyglot/index.html)
+- [Phantom Types in Rust](https://www.greyblake.com/blog/2021-10-11-phantom-types-in-rust/)
 
 ## YouTube channels
 
@@ -90,6 +91,8 @@ Box<dyn Trait>
 - [Concurrency in modern programming languages: Rust 2/2](https://dev.to/deepu105/concurrency-in-modern-programming-languages-rust-19co)
 - [Actors with Tokio](https://ryhl.io/blog/actors-with-tokio/)
 - [for_each_concurrent](https://docs.rs/futures/0.3.16/futures/stream/trait.StreamExt.html#method.for_each_concurrent)
+- [A practical guide to async in Rust](https://blog.logrocket.com/a-practical-guide-to-async-in-rust/)
+- [Multithreading in Rust](https://nickymeuleman.netlify.app/blog/multithreading-rust)
 
 ## Testing
 
