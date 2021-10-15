@@ -45,9 +45,17 @@ apt-get install docker-ce="18.06.0~ce~3-0~ubuntu"
 - [Banyan Collector - framework for static analysis of Docker images](https://github.com/banyanops/collector)
 - [Docker Bench](https://github.com/docker/docker-bench-security)
 
+## Content trust
+
+`export DOCKER_CONTENT_TRUST=1`
+
+## [BuildKit Dockerfile syntax](https://github.com/moby/buildkit/blob/master/frontend/dockerfile/docs/syntax.md)
+
 ## Go
 
-### Two stage build from alpine to scratch
+`export DOCKER_BUILDKIT=1`
+
+### Two stage build from alpine and scratch
 
 ```
 # syntax = docker/dockerfile:experimental
@@ -78,7 +86,7 @@ USER 65534:65534
 ENTRYPOINT ["app"]
 ```
 
-### Second stage to distroless
+### Second stage from distroless
 
 ```
 FROM gcr.io/distroless/static
@@ -89,3 +97,5 @@ USER nonroot:nonroot
 
 ENTRYPOINT ["/app"]
 ```
+
+Use :debug tag which providers busybox sh.
