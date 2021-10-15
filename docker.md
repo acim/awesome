@@ -58,7 +58,7 @@ apt-get install docker-ce="18.06.0~ce~3-0~ubuntu"
 ### Two stage build from alpine and scratch
 
 ```
-# syntax = docker/dockerfile:experimental
+# syntax=docker/dockerfile:1.3
 ARG GO_VERSION=1.17.2
 
 FROM golang:${GO_VERSION}-alpine AS builder
