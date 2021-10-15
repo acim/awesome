@@ -1,21 +1,23 @@
 {
-    "cSpell.words": [
-        "dockerfile",
-        "dockerfiles",
-        "istio",
-        "kubectl",
-        "kubernetes",
-        "kubespray",
-        "microservice",
-        "microservices",
-        "minikube",
-        "multithreading",
-        "mutex",
-        "nuxt",
-        "provisioner",
-        "rbac",
-        "serverless",
-        "solr",
-        "struct"
-    ]
+  "cSpell.words": [
+    "dockerfile",
+    "dockerfiles",
+    "goroutine",
+    "goroutines",
+    "istio",
+    "kubectl",
+    "kubernetes",
+    "kubespray",
+    "microservice",
+    "microservices",
+    "minikube",
+    "multithreading",
+    "mutex",
+    "nuxt",
+    "provisioner",
+    "rbac",
+    "serverless",
+    "solr",
+    "struct"
+  ]
 }
