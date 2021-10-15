@@ -100,6 +100,10 @@ Box<dyn Trait>
 - [From Go To Rust - Advanced Testing](http://technosophos.com/2018/07/25/from-go-to-rust-advanced-testing.html)
 - [Test Cases in Rust are simple to write](https://blog.knoldus.com/test-cases-in-rust-are-simple-to-write/)
 
+### Test response status
+
+`assert_eq!(res.status(), 200);`
+
 ## Container images
 
 - [How to create small Docker images for Rust](https://kerkour.com/blog/rust-small-docker-image/)
@@ -280,6 +284,11 @@ fn main() => Result<(), Box<dyn Error>> {
     let f File::open("file.txt")?;
     Ok(s)
 }
+```
+
+```rust
+#[tokio::main]
+async fn main() -> Result<(), Box<dyn std::error::Error + Send + Sync>> {}
 ```
 
 ## Iterators

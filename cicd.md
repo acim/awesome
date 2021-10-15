@@ -24,6 +24,19 @@
 - [drone-convert-starlark - Drone Official](https://github.com/drone/drone-convert-starlark)
 - [Conversion plugin - Drone Official](https://github.com/drone/drone-go/tree/master/plugin/converter)
 
+### Use BuildKit
+
+```yaml
+steps:
+  - name: docker-buildkit
+    pull: always
+    image: plugins/docker:linux-amd64
+    environment:
+      DOCKER_BUILDKIT: 1
+    settings:
+      daemon_off: false
+```
+
 ## Tekton Pipelines
 
 ### [Conditional build if directory modified](https://github.com/tektoncd/pipeline/issues/1922)

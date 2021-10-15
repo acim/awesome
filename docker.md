@@ -13,6 +13,7 @@
 - [DockerSlim - Minify and Secure Docker containers](https://github.com/docker-slim/docker-slim)
 - [Container Structure Tests - provide a powerful framework to validate the structure of a container image](https://github.com/GoogleContainerTools/container-structure-test)
 - [cosign - Container Signing, Verification and Storage in an OCI registry](https://github.com/sigstore/cosign)
+- [dive - tool for exploring container image layers' contents](https://github.com/wagoodman/dive)
 
 ## Utilities to be used inside containers
 
@@ -43,3 +44,48 @@ apt-get install docker-ce="18.06.0~ce~3-0~ubuntu"
 - [trivy - Simple and Comprehensive Vulnerability Scanner for Containers](https://github.com/aquasecurity/trivy)
 - [Banyan Collector - framework for static analysis of Docker images](https://github.com/banyanops/collector)
 - [Docker Bench](https://github.com/docker/docker-bench-security)
+
+## Go
+
+### Two stage build from alpine to scratch
+
+```
+# syntax = docker/dockerfile:experimental
+ARG GO_VERSION=1.17.2
+
+FROM golang:${GO_VERSION}-alpine AS builder
+
+RUN --mount=type=cache,target=/var/cache/apk apk add -U ca-certificates tzdata upx
+
+WORKDIR /app
+COPY go.mod go.sum ./
+RUN --mount=type=cache,target=/go/pkg/mod go mod tidy
+
+COPY . .
+RUN --mount=type=cache,target=/go/pkg/mod --mount=type=cache,target=/root/.cache/go-build CGO_ENABLED=0 go build -a -installsuffix cgo -ldflags='-s -w -extldflags "-static"' -o /app/app . && \
+  upx /app/app
+
+FROM scratch
+
+COPY --from=builder /usr/share/zoneinfo /usr/share/zoneinfo
+COPY --from=builder /etc/ssl/certs/ca-certificates.crt /etc/ssl/certs/
+COPY --from=builder /etc/passwd /etc/passwd
+COPY --from=builder /etc/group /etc/group
+COPY --from=builder /app/app /usr/bin/app
+
+USER 65534:65534
+
+ENTRYPOINT ["app"]
+```
+
+### Second stage to distroless
+
+```
+FROM gcr.io/distroless/static
+
+COPY --from=builder /app/app /app
+
+USER nonroot:nonroot
+
+ENTRYPOINT ["/app"]
+```
