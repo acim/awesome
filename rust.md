@@ -25,6 +25,7 @@
 - [Slice Patterns](https://adventures.michaelfbryan.com/posts/daily/slice-patterns/)
 - [Rust for the Polyglot Programmer](https://www.chiark.greenend.org.uk/~ianmdlvl/rust-polyglot/index.html)
 - [Phantom Types in Rust](https://www.greyblake.com/blog/2021-10-11-phantom-types-in-rust/)
+- [Allocating Less: Really Thin Rust Cloud Apps](https://www.youtube.com/watch?v=FAz0qSclLss)
 
 ## YouTube channels
 
@@ -53,6 +54,7 @@
 
 - [Learning Rust by building a CLI tool](https://saidvandeklundert.net/learn/2021-08-06-rust-ssh-cli-tool/)
 - [Ferris fetches Go gopher postcards](https://dev.to/uggla/rust-cli-example-ferris-fetches-go-gopher-postcards-3gb5)
+- [cargo-chef - cache dependencies speed up your Docker builds](https://github.com/LukeMathWalker/cargo-chef)
 
 ## Traits
 
@@ -93,6 +95,7 @@ Box<dyn Trait>
 - [for_each_concurrent](https://docs.rs/futures/0.3.16/futures/stream/trait.StreamExt.html#method.for_each_concurrent)
 - [A practical guide to async in Rust](https://blog.logrocket.com/a-practical-guide-to-async-in-rust/)
 - [Multithreading in Rust](https://nickymeuleman.netlify.app/blog/multithreading-rust)
+- [Creating a chat server with async Rust and Tokio](https://www.youtube.com/watch?v=4DqP57BHaXI&t=14s)
 
 ## Testing
 
