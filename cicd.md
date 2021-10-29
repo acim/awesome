@@ -11,13 +11,9 @@
 - [The ultimate Drone CI caching guide](https://laszlo.cloud/the-ultimate-droneci-caching-guide)
 - [Drone Environment Variables](https://laszlo.cloud/drone-environment-variables-three-tips)
 - [Using Drone CI/CD to build, test your images and deploy to Kubernetes with Helm](https://vitobotta.com/2019/10/09/ci-cd-with-drone-for-deployment-to-kubernetes-with-helm/)
-- [Painless Github releases with Drone and GoReleaser](https://dev.to/mstrsobserver/painless-github-releases-with-drone-and-goreleaser-45b7)
-
-### [Parameters substitution](https://github.com/drone/docs/blob/master/content/usage/config/substitution.md)
 
 ### Conditional build if directory modified
 
-- [Report files changed to limit testing scope](https://github.com/drone/drone/issues/1021)
 - [Drone Config Plugin - Changeset Conditional](https://github.com/microadam/drone-config-changeset-conditional)
 - [Drone Config Plugin - Pipeline](https://github.com/microadam/drone-config-plugin-pipeline)
 - [boilr-config - Drone Official](https://github.com/drone/boilr-config)

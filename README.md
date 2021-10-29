@@ -19,3 +19,7 @@ A curated list of delightful developers resources.
 - [Svelte & Sapper](svelte.md)
 - [Visual Studio Code](vscode.md)
 - [Vue & NUXT](vue.md)
+
+## Check broken links
+
+`cat *.md | grep -Eo "(http|https)://[a-zA-Z0-9./?=_%:-]*" | parallel --gnu "wget --spider --no-verbose {}"`

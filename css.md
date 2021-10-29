@@ -28,7 +28,6 @@
 - [Social Media Accordion With CSS3 Transitions](https://www.youtube.com/watch?v=4M6qPoFWIxI)
 - [Animista - Create CSS Animations](https://animista.net/)
 - [Pattern.css - CSS Patterns](https://bansal.io/pattern-css)
-- [CSSeffectsSnippets - CSS Animations](https://emilkowalski.github.io/css-effects-snippets/)
 - [98.css - Windows 98 Style UI](https://jdan.github.io/98.css/)
 - [Guide to Responsive-Friendly CSS Columns](https://css-tricks.com/guide-responsive-friendly-css-columns/)
 - [What CSS to prefix?](http://shouldiprefix.com/)

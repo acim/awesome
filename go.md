@@ -76,7 +76,6 @@
 - [Handling 1 million requests per minute](http://marcio.io/2015/07/handling-1-million-requests-per-minute-with-golang/)
 - [Interesting ways of using channels](http://nomad.uk.net/articles/interesting-ways-of-using-go-channels.html)
 - [Load balancer](https://medium.com/@owlwalks/load-balancer-at-your-fingertips-golang-ea23d7aaee82)
-- [Multithreading](https://pragmacoders.com/multithreading-go-tutorial/)
 - [Principles of designing Go APIs with channels](https://inconshreveable.com/07-08-2014/principles-of-designing-go-apis-with-channels/)
 - [Applying Modern Go Concurrency Patterns to Data Pipelines](https://medium.com/amboss/applying-modern-go-concurrency-patterns-to-data-pipelines-b3b5327908d4)
 - [broadcast - library that allows sending repeated notifications to multiple goroutines with guaranteed delivery](https://github.com/teivah/broadcast)
