@@ -54,20 +54,6 @@
 - [Layer Cake](https://layercake.graphics/)
 - [Svelte wrapper for chart.xkcd](https://github.com/peopledrivemecrazy/chart.xkcd-svelte)
 
-## Routing
-
-- [Svelte Routing](https://github.com/EmilTholin/svelte-routing)
-- [svero](https://github.com/kazzkiq/svero)
-- [Svelte SPA Router](https://github.com/ItalyPaleAle/svelte-spa-router)
-- [routify - Automated Svelte routes](https://github.com/sveltech/routify)
-- [yrv](https://github.com/pateketrueke/yrv)
-- [Setting up Routing In Svelte with Page.js](https://jackwhiting.co.uk/posts/setting-up-routing-in-svelte-with-pagejs)
-
-## Hot module reload
-
-- [Snowpach Svelte template](https://github.com/snowpackjs/snowpack/tree/master/create-snowpack-app/app-template-svelte)
-- [svite - svelte integration for vite](https://github.com/dominikg/svite)
-
 ## i18n
 
 - [How to Localize a Svelte App with svelte-i18n](https://phrase.com/blog/posts/how-to-localize-a-svelte-app-with-svelte-i18n/)
