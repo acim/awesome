@@ -1,4 +1,4 @@
-# Svelte & Sapper
+# Svelte
 
 - [made with Svelte](https://madewithsvelte.com/)
 - [How to add environment variables](https://linguinecode.com/post/how-to-add-environment-variables-to-your-svelte-js-app)
@@ -7,7 +7,6 @@
 - [Drag and Drop box using Svelte](https://www.youtube.com/watch?v=AFXmANgkipw)
 - [Creating an inline editable component in Svelte and publishing to NPM](https://medium.com/@ukchukx/creating-an-inline-input-component-in-svelte-and-publishing-to-npm-84274be1aa73)
 - [Lets Create: A Data Visualization using Svelte](https://joshuaj.co.uk/blog/lets-create-data-vis-svelte)
-- [Svelte / Sapper with Sass!](https://medium.com/@sean_27490/svelte-sapper-with-sass-271fff662da9)
 - [Lazy Loading Images in Svelte](https://dev.to/collardeau/lazy-loading-images-in-svelte-1mk6)
 - [Load component when it becomes visible using IntersectionObserver API](https://spiffy.tech/blog/a-lazy-loading-higher-order-component-for-svelte)
 - [RealWorld example application including auth](https://github.com/sveltejs/realworld)
@@ -69,10 +68,6 @@
 - [Snowpach Svelte template](https://github.com/snowpackjs/snowpack/tree/master/create-snowpack-app/app-template-svelte)
 - [svite - svelte integration for vite](https://github.com/dominikg/svite)
 
-## SEO
-
-- [migrating to Sapper - SEO, Twitter Cards, OpenGraph](https://lacourt.dev/2019/06/16)
-
 ## i18n
 
 - [How to Localize a Svelte App with svelte-i18n](https://phrase.com/blog/posts/how-to-localize-a-svelte-app-with-svelte-i18n/)
@@ -90,12 +85,9 @@
 ## Auth
 
 - [Signup Form with HTML5 Validation in Svelte](https://www.nielsvandermolen.com/signup-form-html5-validation-svelte/)
-- [A good authentication example, Sapper sessions, Svelte Store](https://www.nielsvandermolen.com/authentication-example-svelte-sapper/)
 - [John Smilga - Svelte Store Project - Login](https://github.com/john-smilga/svelte-store-project/blob/master/src/pages/Login.svelte)
 - [Svelte: Google Sign In/Out](https://dev.to/safaiyeh/svelte-google-sign-in-out-3n1n)
 - [JWT token management and session persistence across page refreshes](https://www.youtube.com/watch?v=QYy4kkJVo4o&t=690)
-- [Firebase SSR-Auth + Sapper/Svelte](https://m.youtube.com/watch?v=9hCdGJ9GvL4)
-- [express-session - middleware to use with Sapper for authentication](https://github.com/expressjs/session)
 - [Passport - Simple, unobtrusive authentication](http://www.passportjs.org/)
 
 ## Tools
@@ -111,17 +103,9 @@
 
 - [Cypress - End to End Testing Framework](https://dev.to/bushraalam/cypress-end-to-end-testing-framework-3naa)
 
-## Sapper
-
-- [Deploying multiple service workers](https://sapper.svelte.dev/docs#Deploying_service_workers)
-- [Content Security Policy (CSP)](https://sapper.svelte.dev/docs#Content_Security_Policy_CSP)
-- [Bug related to CSP implementation from above](https://github.com/sveltejs/sapper/issues/343)
-- [Working CSP](https://github.com/sveltejs/sapper/issues/1361#issuecomment-705527620)
-
 ### Example projects
 
 - [RealWorld](https://github.com/sveltejs/realworld)
-- [Sapper Notes](https://github.com/imsamtar/sapper-notes)
 - [svelte-travel-transitions](https://github.com/pngwn/svelte-travel-transitions)
 - [Svelte Todo](https://github.com/mvolkmann/svelte-todo)
 - [markushatvan.com Blog](https://github.com/mhatvan/markushatvan.com)
