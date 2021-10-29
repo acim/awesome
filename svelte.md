@@ -8,7 +8,6 @@
 - [Creating an inline editable component in Svelte and publishing to NPM](https://medium.com/@ukchukx/creating-an-inline-input-component-in-svelte-and-publishing-to-npm-84274be1aa73)
 - [Lets Create: A Data Visualization using Svelte](https://joshuaj.co.uk/blog/lets-create-data-vis-svelte)
 - [Lazy Loading Images in Svelte](https://dev.to/collardeau/lazy-loading-images-in-svelte-1mk6)
-- [Load component when it becomes visible using IntersectionObserver API](https://spiffy.tech/blog/a-lazy-loading-higher-order-component-for-svelte)
 - [RealWorld example application including auth](https://github.com/sveltejs/realworld)
 - [How to Setup Svelte with GraphQL, TypeScript and Material-UI](https://motion-software.com/blog/setup-svelte-with-graphql-typescript-and-material-ui/)
 - [Fixing memory leaks in web applications](https://nolanlawson.com/2020/02/19/fixing-memory-leaks-in-web-applications/)
@@ -20,14 +19,12 @@
 - [Adding Environment Variables to Svelte TypeScript Project](https://dev.to/jancassio/adding-environment-variables-to-svelte-typscript-project-4phk)
 - [Building A Web App With Go & Svelte](https://m.youtube.com/watch?v=4YnzS14UYcQ)
 - [Svelte Society Recipes and Components](https://sveltesociety.dev/)
-- [Recipes GitHub Repository](https://github.com/svelte-society/sveltesociety.dev/tree/master/src/pages/recipes)
 - [Modern fetch in Svelte using stores](https://www.youtube.com/watch?v=IUHkSoBxyLM)
 - [Cheat Sheet](https://sveltesociety.dev/cheatsheet)
 
 ## Blogs
 
 - [Niels van der Molen - Svelte Blog](https://www.nielsvandermolen.com/category/svelte/)
-- [Valentino Gagliardi - Svelte Blog](https://www.valentinog.com/blog/svelte/)
 - [David Lacourt - Svelte Blog](https://lacourt.dev/)
 - [svelte-chota](https://github.com/AlexxNB/svelte-chota)
 

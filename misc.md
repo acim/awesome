@@ -75,7 +75,6 @@
 - [Kubernetes Mail Server ](https://github.com/kubernetes-mail-server)
 - [Mailu documentation](https://mailu.io/master/kubernetes/mailu/)
 - [docker-mailserver - fullstack simple mail server](https://github.com/funkypenguin/docker-mailserver)
-- [docker-mailserver helm chart](https://hub.helm.sh/charts/funkypenguin/docker-mailserver)
 - [How to Easily Set up a Full-Fledged Mail Server on Ubuntu 20.04 with iRedMail](https://www.linuxbabe.com/mail-server/ubuntu-16-04-iredmail-server-installation)
 - [7 Effective Tips for Blocking Email Spam with Postfix SMTP Server](https://www.linuxbabe.com/mail-server/block-email-spam-postfix)
 - [Own mail server based on Dovecot, Postfix, MySQL, Rspamd and Debian 9 Stretch](https://thomas-leister.de/en/mailserver-debian-stretch/)
