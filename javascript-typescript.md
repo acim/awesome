@@ -18,7 +18,6 @@
 ## npm packages
 
 - [nodemon - monitor for any changes in your node.js application and automatically restart the server](https://github.com/remy/nodemon)
-- [concurrently - run commands concurrently](https://github.com/kimmobrunfeldt/concurrently)
 
 ## TypeScript tricks
 

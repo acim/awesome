@@ -56,16 +56,13 @@
 
 ## Tools
 
-- [JenkinsX - Continuous delivery for Kubernetes](https://jenkins-x.io/demos/devoxx-uk-2018/)
 - [Kompose - translate docker-compose files to Kubernetes resources](https://github.com/kubernetes/kompose)
 - [kuberhealthy - synthetic testing](https://github.com/Comcast/kuberhealthy)
-- [Keel - Kubernetes Operator to automate Helm, DaemonSet, StatefulSet & Deployment updates](https://github.com/keel-hq/keel)
-- [Keel webhooks](https://keel.sh/v1/guide/documentation.html#Triggers)
+- [Keel - Kubernetes Operator to automate Helm, DaemonSet, StatefulSet & Deployment updates](https://keel.sh)
 - [M3 - Uber’s large-scale metrics platform for Prometheus](https://eng.uber.com/m3/)
 - [kubectx & kubens - Switch faster between clusters and namespaces](https://github.com/ahmetb/kubectx)
 - [kubeone - Lifecycle management tool for highly available Kubernetes clusters](https://github.com/kubermatic/kubeone)
 - [TK8 - Multi-cloud, multi-cluster Kubernetes platform installation and integration tool](https://github.com/kubernauts/tk8)
-- [Kontemplate - Simple Kubernetes templater](https://github.com/tazjin/kontemplate)
 - [webkubectl - kubectl in web browser](https://github.com/webkubectl/webkubectl)
 - [Skbn - tool for copying files and directories between Kubernetes and cloud storage providers](https://github.com/maorfr/skbn)
 - [kubenav - desktop and mobile navigator for your Kubernetes clusters](https://github.com/kubenav/kubenav)
