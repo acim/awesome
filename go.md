@@ -154,7 +154,6 @@
 ## Docker
 
 - [Docker powered development environment for your web app](https://medium.com/developers-writing/docker-powered-development-environment-for-your-go-app-6185d043ea35)
-- [Live reloading server in Docker container](https://github.comhttps://blog.golang.org/go1.13-errorsm/how-to-build-microservice-with-mongodb-in-golang/)
 - [Mocking Mongo](http://thylong.com/golang/2016/mocking-mongo-in-golang/)
 - [Writing integration tests with mongoDB support](https://medium.com/@mvmaasakkers/writing-integration-tests-with-mongodb-support-231580a566cd)
 - [Build and Push Docker Images with Go](https://www.loginradius.com/blog/async/build-push-docker-images-golang/)
@@ -238,8 +237,6 @@
 
 - [GoConvey - automatic web UI for testing](https://github.com/smartystreets/goconvey)
 - [Collection of tools and libraries including linters and static analysis](https://github.com/dominikh/go-tools)
-- [Concurrently run lint tools and normalize their output](https://github.com/alecthomas/gometalinter)
-- [A curated list of awesome linters (more than 60 linters and tools)](https://github.com/golangci/awesome-go-linters)
 - [GopherCI helps you maintain high-quality Go projects by checking each GitHub pull request](https://github.com/bradleyfalzon/gopherci)
 - [SonarQube](https://medium.com/red6-es/go-for-sonarqube-ffff5b74f33a)
 - [Overview of tooling](https://www.alexedwards.net/blog/an-overview-of-go-tooling)
@@ -333,6 +330,7 @@
 ## Error handling
 
 - [cockroachdb/errors](https://github.com/cockroachdb/errors)
+- [Working with Errors in Go 1.13](https://go.dev/blog/go1.13-errors)
 
 ## Desktop and mobile
 
