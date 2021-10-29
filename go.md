@@ -84,15 +84,12 @@
 
 - [errgroup](https://godoc.org/golang.org/x/sync/errgroup)
 - [oklog/run](https://github.com/oklog/run)
-- [tomb v1](https://github.com/go-tomb/tomb)
-- [tomb v2](https://github.com/go-tomb/tomb/tree/v2)
 
 ## HTTP server
 
 - [aah - a secure, flexible, rapid Go web framework](https://aahframework.org/)
 - [API Design Cheat Sheet](https://github.com/RestCheatSheet/api-cheat-sheet)
 - [Authenticate a Go API with JSON web tokens](https://www.thepolyglotdeveloper.com/2017/03/authenticate-a-golang-api-with-json-web-tokens/)
-- [CertMagic - automagic TLS](https://github.com/mholt/certmagic)
 - [chi](https://github.com/go-chi/chi)
 - [Create Secure Clients and Servers in Golang Using HTTPS](https://medium.com/better-programming/create-secure-clients-and-servers-in-golang-using-https-aa970ba36a13)
 - [Creating the V in MVC](https://www.calhoun.io/intro-to-templates-p4-v-in-mvc/)

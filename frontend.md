@@ -85,7 +85,7 @@
 - [Google Fonts](https://fonts.google.com/)
 - [Overpass](http://overpassfont.org/)
 - [Overpass Cyrillic](https://github.com/AlexxNB/overpass-font-cyrillic)
-- [glyphhanger - subsets web fonts](https://github.com/filamentgroup/glyphhanger)
+- [glyphhanger - subsets web fonts](https://github.com/zachleat/glyphhanger)
 - [Font style matcher](https://meowni.ca/font-style-matcher/)
 - [FontSpark allows you to discover your next favorite font](https://fontspark.app/)
 - [Web Safe Fonts](https://www.cssfontstack.com/)
