@@ -1,7 +1,6 @@
 # CSS
 
 - [Material Design Components](https://material.io/develop/web/components/animation/)
-- [Material Components for the Web Codelabs](https://github.com/material-components/material-components-web-codelabs)
 - [Creating Non-Rectangular Headers](https://css-tricks.com/creating-non-rectangular-headers/)
 - [CSS clip-path maker](https://bennettfeely.com/clippy/)
 - [List Animations](https://codepen.io/designcourse/pen/YzPmJxo)
