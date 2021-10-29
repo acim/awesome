@@ -26,6 +26,7 @@
 - [Rust for the Polyglot Programmer](https://www.chiark.greenend.org.uk/~ianmdlvl/rust-polyglot/index.html)
 - [Phantom Types in Rust](https://www.greyblake.com/blog/2021-10-11-phantom-types-in-rust/)
 - [Allocating Less: Really Thin Rust Cloud Apps](https://www.youtube.com/watch?v=FAz0qSclLss)
+- [Builder with typestate](https://www.greyblake.com/blog/2021-10-25-builder-with-typestate-in-rust/)
 
 ## YouTube channels
 
@@ -54,7 +55,6 @@
 
 - [Learning Rust by building a CLI tool](https://saidvandeklundert.net/learn/2021-08-06-rust-ssh-cli-tool/)
 - [Ferris fetches Go gopher postcards](https://dev.to/uggla/rust-cli-example-ferris-fetches-go-gopher-postcards-3gb5)
-- [cargo-chef - cache dependencies speed up your Docker builds](https://github.com/LukeMathWalker/cargo-chef)
 
 ## Traits
 
@@ -72,7 +72,7 @@ Box<Trait>
 Box<dyn Trait>
 ```
 
-## Libraries
+## Crates
 
 - [The Rust Standard Library](https://doc.rust-lang.org/std/)
 - [Image - basic image processing functions and methods for converting to and from various image formats](https://github.com/image-rs/image)
@@ -113,6 +113,8 @@ Box<dyn Trait>
 - [distroless](https://github.com/GoogleContainerTools/distroless/blob/master/examples/rust/Dockerfile)
 - [Fast + Small Docker Image Builds (Alpine, compile against musl)](https://shaneutt.com/blog/rust-fast-small-docker-image-builds/)
 - [Writing dockerfile in rust project](https://windsoilder.github.io/writing_dockerfile_in_rust_project.html)
+- [cargo-chef - cache dependencies speed up your Docker builds](https://github.com/LukeMathWalker/cargo-chef)
+- [Faster builds combining sccache and BuildKit](https://github.com/benmarten/sccache-docker-test)
 
 ## Kubernetes
 
@@ -136,6 +138,7 @@ Box<dyn Trait>
 - [cargo-outdated - cargo subcommand for displaying when Rust dependencies are out of date](https://github.com/kbknapp/cargo-outdated)
 - [cargo-audit - audit Cargo.lock files for crates with security vulnerabilities](https://github.com/RustSec/rustsec/tree/main/cargo-audit)
 - [cargo-pants - cargo subcommand to check vulnerabilities found in dependencies](https://github.com/sonatype-nexus-community/cargo-pants)
+- [cargo-crev - cryptographically verifiable code review system](https://web.crev.dev/rust-reviews/)
 
 ## Performance
 

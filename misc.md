@@ -84,6 +84,10 @@
 - [Rspamd - Fast, free and open-source spam filtering system](https://rspamd.com/)
 - [Email with Postfix, Dovecot and MySQL](https://www.linode.com/docs/email/postfix/email-with-postfix-dovecot-and-mysql/)
 
+## Messenger API's
+
+- [Dockerized Signal Messenger REST API](https://github.com/bbernhard/signal-cli-rest-api)
+
 ## Licenses
 
 - [BSD+Patent](https://opensource.org/licenses/BSDplusPatent)
