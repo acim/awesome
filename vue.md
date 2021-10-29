@@ -21,10 +21,6 @@
 - [Introduction to Vue.js and the Quasar Framework](https://www.sitepoint.com/vue-js-quasar-framework/)
 - [Creating Quasar Framework project with Typescript support](https://dev.to/xkonti/creating-quasar-framework-project-with-typescript-support-51ge)
 
-## Editors
-
-- [Vue Mobiledoc Editor](https://github.com/alidcastano/vue-mobiledoc-editor)
-
 ## Libraries
 
 - [A Vue.js particles animation background component](https://github.com/lindelof/particles-bg-vue)

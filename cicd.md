@@ -17,7 +17,6 @@
 - [Drone Config Plugin - Changeset Conditional](https://github.com/microadam/drone-config-changeset-conditional)
 - [Drone Config Plugin - Pipeline](https://github.com/microadam/drone-config-plugin-pipeline)
 - [boilr-config - Drone Official](https://github.com/drone/boilr-config)
-- [drone-convert-starlark - Drone Official](https://github.com/drone/drone-convert-starlark)
 - [Conversion plugin - Drone Official](https://github.com/drone/drone-go/tree/master/plugin/converter)
 
 ### Use BuildKit

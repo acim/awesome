@@ -22,4 +22,4 @@ A curated list of delightful developers resources.
 
 ## Check broken links
 
-`cat *.md | grep -Eo "(http|https)://[a-zA-Z0-9./?=_%:-]*" | parallel --gnu "wget --spider --no-verbose {}"`
+`cat *.md | grep -Eo "(http|https)://[a-zA-Z0-9./?=_%:-]*" | parallel --gnu "wget --spider --no-verbose --timeout 10 {}"`
