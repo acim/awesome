@@ -27,7 +27,6 @@
 - [Phantom Types in Rust](https://www.greyblake.com/blog/2021-10-11-phantom-types-in-rust/)
 - [Allocating Less: Really Thin Rust Cloud Apps](https://www.youtube.com/watch?v=FAz0qSclLss)
 - [Builder with typestate](https://www.greyblake.com/blog/2021-10-25-builder-with-typestate-in-rust/)
-- [The ref pattern](https://doc.rust-lang.org/rust-by-example/scope/borrow/ref.html)
 
 ## YouTube channels
 
@@ -400,6 +399,14 @@ fn print_power_action(state: PowerState) {
     }
 }
 ```
+
+## [The ref pattern](https://doc.rust-lang.org/rust-by-example/scope/borrow/ref.html)
+
+`let ref mut remainder = self.remainder?; // self.remainder: Option<&str>`
+
+is equal to
+
+`let remainder = &mut self.remainder?;`
 
 ## PostgreSQL mTLS connection
 
