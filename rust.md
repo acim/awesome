@@ -27,6 +27,7 @@
 - [Phantom Types in Rust](https://www.greyblake.com/blog/2021-10-11-phantom-types-in-rust/)
 - [Allocating Less: Really Thin Rust Cloud Apps](https://www.youtube.com/watch?v=FAz0qSclLss)
 - [Builder with typestate](https://www.greyblake.com/blog/2021-10-25-builder-with-typestate-in-rust/)
+- [The ref pattern](https://doc.rust-lang.org/rust-by-example/scope/borrow/ref.html)
 
 ## YouTube channels
 
@@ -43,6 +44,7 @@
 - [Learn Rust by writing Entirely Too Many Linked Lists](https://rust-unofficial.github.io/too-many-lists)
 - [Rust API Guidelines](https://rust-lang.github.io/api-guidelines/)
 - [Asynchronous Programming in Rust](https://rust-lang.github.io/async-book/)
+- [Rust by Example](https://doc.rust-lang.org/rust-by-example)
 
 ## Desktop / GUI
 
