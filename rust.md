@@ -406,7 +406,7 @@ fn print_power_action(state: PowerState) {
 
 is equal to
 
-`let remainder = &mut self.remainder?;`
+`let remainder = self.remainder.as_must()?;`
 
 ## PostgreSQL mTLS connection
 
