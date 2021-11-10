@@ -3,16 +3,15 @@
 A curated list of delightful developers resources.
 
 - [CSS](css.md)
+- [Databases - MySQL, PostgreSQL, MongoDB](db.md)
 - [Docker](docker.md)
 - [Drone, Tekton Pipelines, etc.](cicd.md)
 - [Frontend - JavaScript, HTML5, CSS3, etc.](frontend.md)
 - [Git](git.md)
 - [Go](go.md)
-- [JavaScript & TypeScript](javascript-typescript.md)
+- [JavaScript & TypeScript](js-ts.md)
 - [Kubernetes](k8s.md)
 - [Miscellaneous](misc.md)
-- [MongoDB](mongodb.md)
-- [MySQL](mysql.md)
 - [Node.js](node.md)
 - [Raspberry Pi](pi.md)
 - [Rust](rust.md)
