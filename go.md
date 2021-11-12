@@ -147,6 +147,10 @@
 - [Glow - Render markdown on the CLI](https://github.com/charmbracelet/glow)
 - [PTerm - Pretty Terminal Printer](https://github.com/pterm/pterm)
 - [Lip Gloss - Style definitions for nice terminal layouts](https://github.com/charmbracelet/lipgloss)
+- [konfig - composable, observable and performant config handling for Go for the distributed processing era](https://github.com/lalamove/konfig)
+- [A clean way to pass configs](https://dev.to/ilyakaznacheev/a-clean-way-to-pass-configs-in-a-go-application-1g64)
+- [Kong](https://github.com/alecthomas/kong)
+- [promptui - interactive prompt for command-line applications](https://github.com/manifoldco/promptui)
 
 ## Docker
 
@@ -298,15 +302,6 @@
 
 - [Hermes - Clean, responsive HTML e-mails](https://github.com/matcornic/hermes)
 
-## Config
-
-- [konfig - composable, observable and performant config handling for Go for the distributed processing era](https://github.com/lalamove/konfig)
-- [A clean way to pass configs](https://dev.to/ilyakaznacheev/a-clean-way-to-pass-configs-in-a-go-application-1g64)
-
-## Command line parsers
-
-- [Kong](https://github.com/alecthomas/kong)
-
 ## Miscellaneous
 
 - [File type discovery using magic numbers](https://github.com/h2non/filetype)
@@ -333,12 +328,6 @@
 
 - [fyne - Cross platform GUI](https://github.com/fyne-io/fyne)
 - [MacDriver - Native Mac APIs for Golang](https://github.com/progrium/macdriver)
-
-## Vanity import
-
-- [Vanity import paths in Go](https://sagikazarmark.hu/blog/vanity-import-paths-in-go/)
-- [Vanity Go Import Paths](https://blog.bramp.net/post/2017/10/02/vanity-go-import-paths/)
-- `wget https://mvdan.cc/gofumpt`
 
 ## Kubernetes
 
