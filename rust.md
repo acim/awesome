@@ -52,6 +52,7 @@
 - [Tauri - Build smaller, faster, and more secure desktop applications with a web frontend](https://tauri.studio/en/)
 - [Tauri with Standard Svelte or SvelteKit](https://medium.com/@cazanator/tauri-with-standard-svelte-or-sveltekit-ad7f103c37e7)
 - [Creating a GTK/Glade based GUI for a Rust application](https://dev.to/henrybarreto/creating-a-gui-for-a-rust-application-2h1g)
+- [SixtyFPS - toolkit to efficiently develop fluid graphical user interfaces for any display](https://github.com/sixtyfpsui/sixtyfps)
 
 ## CLI
 
@@ -449,3 +450,7 @@ fn main() {
     }
 }
 ```
+
+## SixtyFPS
+
+`apt-get install cmake libfontconfig1-dev libxcb1-dev libxcb-render0-dev libxcb-shape0-dev libxcb-xfixes0-dev libxkbcommon-dev`
