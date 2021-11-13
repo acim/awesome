@@ -86,6 +86,10 @@
 
 - [Dockerized Signal Messenger REST API](https://github.com/bbernhard/signal-cli-rest-api)
 
+## Backup
+
+- [restic - backup program that is fast, efficient and secure](https://github.com/restic/restic)
+
 ## Licenses
 
 - [BSD+Patent](https://opensource.org/licenses/BSDplusPatent)
