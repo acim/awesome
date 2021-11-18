@@ -129,6 +129,7 @@ Box<dyn Trait>
 - [tide example app - fully fledged backend application built with Rust and tide including CRUD operations, authentication, routing, pagination, and more](https://github.com/colinbankier/realworld-tide)
 - [Validating JSON input in Rust web services](https://dev.to/vinted/validating-json-input-in-rust-web-services-5gp0)
 - [Building Powerful GraphQL Servers with Rust](https://dev.to/open-graphql/building-powerful-graphql-servers-with-rust-3gla)
+- [rweb - yet another web server framework](https://github.com/kdy1/rweb)
 
 ## HTTP Client
 

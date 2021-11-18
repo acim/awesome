@@ -82,7 +82,7 @@
 - [errgroup](https://godoc.org/golang.org/x/sync/errgroup)
 - [Pipelines and cancellation](https://go.dev/blog/pipelines)
 
-## HTTP server
+## HTTP Server
 
 - [aah - a secure, flexible, rapid Go web framework](https://aahframework.org/)
 - [API Design Cheat Sheet](https://github.com/RestCheatSheet/api-cheat-sheet)
@@ -120,7 +120,7 @@
 - [How to implement RBAC custom function which has to read information from database?](https://github.com/casbin/casbin/issues/326#issuecomment-552875116)
 - [Oso - policy engine for authorization](https://github.com/osohq/oso)
 
-## HTTP client
+## HTTP Client
 
 - [Don’t use default HTTP client in production](https://medium.com/@nate510/don-t-use-go-s-default-http-client-4804cb19f779)
 - [Resty - imple HTTP and REST client library](https://github.com/go-resty/resty/)
