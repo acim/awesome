@@ -99,6 +99,7 @@ Box<dyn Trait>
 - [A practical guide to async in Rust](https://blog.logrocket.com/a-practical-guide-to-async-in-rust/)
 - [Multithreading in Rust](https://nickymeuleman.netlify.app/blog/multithreading-rust)
 - [Creating a chat server with async Rust and Tokio](https://www.youtube.com/watch?v=4DqP57BHaXI&t=14s)
+- [smol - small and fast async runtime](https://github.com/smol-rs/smol)
 
 ## Testing
 
@@ -130,6 +131,7 @@ Box<dyn Trait>
 - [Validating JSON input in Rust web services](https://dev.to/vinted/validating-json-input-in-rust-web-services-5gp0)
 - [Building Powerful GraphQL Servers with Rust](https://dev.to/open-graphql/building-powerful-graphql-servers-with-rust-3gla)
 - [rweb - yet another web server framework](https://github.com/kdy1/rweb)
+- [hRPC - simple RPC system for user-facing APIs](https://dev.to/harmonydevelopment/introducing-hrpc-a-simple-rpc-system-for-user-facing-apis-16ge)
 
 ## HTTP Client
 

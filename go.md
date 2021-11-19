@@ -65,6 +65,7 @@
 - [Tit Petric](https://scene-si.org/)
 - [TutorialEdge](https://tutorialedge.net/course/golang/)
 - [WanderingThoughts](https://utcc.utoronto.ca/~cks/space/blog/__TopicGo)
+- [Eli Bendersky - Go and Rust articles](https://eli.thegreenplace.net/)
 
 ## Concurrency
 
