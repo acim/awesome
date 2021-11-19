@@ -120,6 +120,11 @@ Box<dyn Trait>
 - [cargo-chef - cache dependencies speed up your Docker builds](https://github.com/LukeMathWalker/cargo-chef)
 - [Faster builds combining sccache and BuildKit](https://github.com/benmarten/sccache-docker-test)
 
+## Auto recompile
+
+- [cargo watch - watches over project source for changes and recompiles](https://github.com/watchexec/cargo-watch)
+- `cargo watch -q -c -w src/ -w run`
+
 ## Kubernetes
 
 - [Writing a Kubernetes CRD Controller in Rust](http://technosophos.com/2019/08/07/writing-a-kubernetes-controller-in-rust.html)
