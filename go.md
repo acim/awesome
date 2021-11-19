@@ -82,6 +82,7 @@
 - [broadcast - library that allows sending repeated notifications to multiple goroutines with guaranteed delivery](https://github.com/teivah/broadcast)
 - [errgroup](https://godoc.org/golang.org/x/sync/errgroup)
 - [Pipelines and cancellation](https://go.dev/blog/pipelines)
+- [Implementing graceful shutdown](https://rudderstack.com/blog/implementing-graceful-shutdown-in-go/)
 
 ## HTTP Server
 
@@ -106,6 +107,7 @@
 - [REST Servers in Go 4/4: using OpenAPI and Swagger ](https://eli.thegreenplace.net/2021/rest-servers-in-go-part-4-using-openapi-and-swagger/)
 - [Example SSE server](https://gist.github.com/ismasan/3fb75381cd2deb6bfa9c)
 - [Coraza - Web Application Firewall](https://github.com/jptosso/coraza-waf)
+- [Limiter - dead simple rate limit middleware](https://github.com/ulule/limiter)
 
 ## Auth
 
