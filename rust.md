@@ -45,6 +45,7 @@
 - [Rust API Guidelines](https://rust-lang.github.io/api-guidelines/)
 - [Asynchronous Programming in Rust](https://rust-lang.github.io/async-book/)
 - [Rust by Example](https://doc.rust-lang.org/rust-by-example)
+- [The Little Book of Rust Macros](https://danielkeep.github.io/tlborm/book/README.html)
 
 ## Desktop / GUI
 
