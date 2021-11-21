@@ -43,6 +43,7 @@
 - [:is() pseudo class](https://css-tricks.com/almanac/selectors/i/is/)
 - [display: flow-root - replacement for clearfix](https://css-tricks.com/display-flow-root/)
 - [shape-outside - wrap text in circle, ellipse or other shape](https://css-tricks.com/almanac/properties/s/shape-outside/)
+- [1-Line Layouts](https://1linelayouts.glitch.me/)
 
 ## Gradients
 
