@@ -165,8 +165,12 @@
 
 ## NATS
 
-- [Introducing NATS](https://medium.com/@shijuvar/introducing-nats-to-go-developers-3cfcb98c21d0)
-- [Building distributed systems and microservices NATS Streaming](https://medium.com/@shijuvar/building-distributed-systems-and-microservices-in-go-with-nats-streaming-d8b4baa633a2)
+- [Building Distributed Event Streaming Systems In Go With NATS JetStream](https://shijuvar.medium.com/building-distributed-event-streaming-systems-in-go-with-nats-jetstream-3938e6dc7a13)
+- [NATS Surveyor - NATS monitoring, simplified](https://github.com/nats-io/nats-surveyor)
+- [Streams](https://docs.nats.io/jetstream/administration/streams)
+- [Queue Subscriptions](https://docs.nats.io/developing-with-nats/receiving/queues)
+- [Draining Messages Before Disconnect](https://docs.nats.io/developing-with-nats/receiving/drain)
+- [Tutorials](https://docs.nats.io/developing-with-nats/tutorials)
 
 ## RabbitMQ
 
