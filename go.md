@@ -209,6 +209,8 @@
 - [JSON decoding](https://attilaolah.eu/2013/11/29/json-decoding-in-go/)
 - [Custom JSON marshalling](http://choly.ca/post/go-json-marshalling/)
 - [YAML marshaling and unmarshaling (used in Kubernetes)](https://github.com/ghodss/yaml)
+- [Sonic - blazingly fast JSON serializing & deserializing library](https://github.com/bytedance/sonic)
+- [fastjson - fast JSON parser and validator](https://github.com/valyala/fastjson)
 
 ## SQL
 
