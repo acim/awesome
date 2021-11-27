@@ -44,6 +44,7 @@
 - [display: flow-root - replacement for clearfix](https://css-tricks.com/display-flow-root/)
 - [shape-outside - wrap text in circle, ellipse or other shape](https://css-tricks.com/almanac/properties/s/shape-outside/)
 - [1-Line Layouts](https://1linelayouts.glitch.me/)
+- [My Custom CSS Reset](https://www.joshwcomeau.com/css/custom-css-reset/)
 
 ## Gradients
 
