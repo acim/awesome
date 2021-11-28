@@ -2,6 +2,7 @@
 
 - [Best practices for writing Dockerfiles](https://docs.docker.com/engine/userguide/eng-image/dockerfile_best-practices/)
 - [Using Kaniko for Container Builds on Kubernetes](https://harthoover.com/using-kaniko-for-container-builds-on-kubernetes/)
+- [Control startup and shutdown order in Compose](https://docs.docker.com/compose/startup-order/)
 
 ## Tools
 
@@ -51,9 +52,9 @@ apt-get install docker-ce="18.06.0~ce~3-0~ubuntu"
 
 ## [BuildKit Dockerfile syntax](https://github.com/moby/buildkit/blob/master/frontend/dockerfile/docs/syntax.md)
 
-## Go
-
 `export DOCKER_BUILDKIT=1`
+
+## Go
 
 ### Two stage build from alpine and scratch
 
