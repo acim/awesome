@@ -79,6 +79,7 @@
 - [Linea Icon](https://linea.io)
 - [Free SVG icons for popular brands](https://simpleicons.org)
 - [SVGBox - copy and paste icons](https://svgbox.net/iconsets/)
+- [SVG Silh - free SVG images & icons](https://svgsilh.com/)
 
 ## Fonts
 
