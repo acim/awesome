@@ -17,6 +17,9 @@
 - [pgCenter - command-line admin tool for observing and troubleshooting Postgres](https://github.com/lesovsky/pgcenter)
 - [i3 - tiling window manager](https://i3wm.org/)
 - [Algorithms and Stuff](http://blog.ivank.net/)
+- [Oh My Zsh - framework for managing zsh configuration](https://github.com/ohmyzsh/ohmyzsh)
+- [NGINXConfig - the easiest way to configure a performant, secure, and stable NGINX server](https://www.digitalocean.com/community/tools/nginx)
+- [SSL Configuration Generator - configure AWS Dovecot, Go, MySQL, nginx, Postfix, PostgresQL and much more](https://ssl-config.mozilla.org/)
 
 ## WebRTC Conferencing
 
@@ -49,6 +52,7 @@
 - [Benthos - Stream processor to transfer data between two points with mutations and transformations](https://www.benthos.dev)
 - [HIDE.me - Free Anonymous Proxy Browser](https://hide.me/en/proxy)
 - [AWS Vault - tool to securely store and access AWS credentials in a development environment](https://github.com/99designs/aws-vault)
+- [Commento - platform that you can embed in your website to allow your readers to add comments](https://github.com/adtac/commento)
 
 ## Standards
 
@@ -81,6 +85,9 @@
 - [Mailserver mit Dovecot, Postfix, MySQL und Rspamd unter Debian 10 Buster](https://thomas-leister.de/mailserver-debian-buster/)
 - [Rspamd - Fast, free and open-source spam filtering system](https://rspamd.com/)
 - [Email with Postfix, Dovecot and MySQL](https://www.linode.com/docs/email/postfix/email-with-postfix-dovecot-and-mysql/)
+- Forward spam e-mail with headers to spam@uce.gov to get blacklisted
+- [Dovecot SSL Configuration Generator](https://ssl-config.mozilla.org/#server=dovecot&version=2.3.9&config=modern&openssl=1.1.1k&guideline=5.6)
+- [Postfix SSL Configuration Generator](https://ssl-config.mozilla.org/#server=postfix&version=3.4.8&config=modern&openssl=1.1.1k&guideline=5.6)
 
 ## Messenger API's
 

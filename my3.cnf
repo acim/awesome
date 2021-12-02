@@ -1,0 +1,58 @@
+### Tweak innodb_buffer_pool, open-files and eventually innodb_compression_level
+[mysqld]
+datadir=/var/lib/mysql
+socket=/var/lib/mysql/mysql.sock
+symbolic-links=0
+pid-file=/var/run/mysqld/mysqld.pid
+log-error=/var/log/mysqld.log
+
+#skip-grant-tables
+#innodb_force_recovery=3
+
+performance_schema=off
+sql_mode=""
+innodb_buffer_pool_size = 80G
+innodb_buffer_pool_instances = 4
+innodb_log_file_size = 1G
+innodb_log_files_in_group=2
+innodb_log_buffer_size = 64M
+innodb_flush_log_at_trx_commit = 0
+innodb_flush_log_at_timeout = 10
+innodb_file_per_table=1
+innodb_fast_shutdown=1
+innodb_max_dirty_pages_pct=80
+innodb_flush_method=O_DIRECT
+innodb_use_native_aio = 1
+innodb_doublewrite = 0
+innodb_file_format=barracuda
+innodb_lru_scan_depth=25000
+innodb_io_capacity=25000
+innodb_io_capacity_max=35000
+innodb_flush_neighbors=0
+#innodb_adaptive_checkpoint=keep_average
+innodb_adaptive_flushing=1
+innodb_compression_level = 6
+
+
+join_buffer_size = 32M
+sort_buffer_size = 2M
+read_rnd_buffer_size = 2M
+open_files_limit = 650000
+bind_address = 10.0.1.2
+max-connections = 500
+
+query_cache_type=off
+query_cache_size=0
+
+transaction-isolation=READ-COMMITTED
+skip-name-resolve
+innodb-open-files=50000
+table_open_cache=300000
+table_open_cache_instances=8
+
+max_allowed_packet=1G
+
+
+[mysqld_safe]
+log-error=/var/log/mysqld.log
+pid-file=/var/run/mysqld/mysqld.pid

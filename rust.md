@@ -142,6 +142,7 @@ Box<dyn Trait>
 ## HTTP Client
 
 - [reqwest-middleware - crate implementing a wrapper around reqwest to allow for client middleware chains](https://github.com/truelayer/reqwest-middleware)
+- [JSON to Serde](https://transform.tools/json-to-go)
 
 ## Tools
 

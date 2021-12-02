@@ -83,6 +83,8 @@
 - [errgroup](https://godoc.org/golang.org/x/sync/errgroup)
 - [Pipelines and cancellation](https://go.dev/blog/pipelines)
 - [Implementing graceful shutdown](https://rudderstack.com/blog/implementing-graceful-shutdown-in-go/)
+- [Behavior Of channels](https://www.youtube.com/watch?v=zDCKZn4-dck)
+- [The Behavior Of Channels](https://www.ardanlabs.com/blog/2017/10/the-behavior-of-channels.html)
 
 ## HTTP Server
 
@@ -108,6 +110,9 @@
 - [Example SSE server](https://gist.github.com/ismasan/3fb75381cd2deb6bfa9c)
 - [Coraza - Web Application Firewall](https://github.com/jptosso/coraza-waf)
 - [Limiter - dead simple rate limit middleware](https://github.com/ulule/limiter)
+- [Writing a Server Sent Events server](https://thoughtbot.com/blog/writing-a-server-sent-events-server-in-go)
+- [Things to know about HTTP](https://scene-si.org/2017/09/27/things-to-know-about-http-in-go/)
+- [SSL Configuration Generator](https://ssl-config.mozilla.org/#server=go&version=1.14.4&config=modern&guideline=5.6)
 
 ## Auth
 
@@ -144,6 +149,7 @@
 ## Websocket
 
 - [Minimal and idiomatic WebSocket library](https://github.com/nhooyr/websocket)
+- [A Million WebSockets](https://www.freecodecamp.org/news/million-websockets-and-go-cc58418460bb/)
 
 ## CLI
 
@@ -155,6 +161,7 @@
 - [A clean way to pass configs](https://dev.to/ilyakaznacheev/a-clean-way-to-pass-configs-in-a-go-application-1g64)
 - [Kong](https://github.com/alecthomas/kong)
 - [promptui - interactive prompt for command-line applications](https://github.com/manifoldco/promptui)
+- [tview - terminal UI library with rich, interactive widgets](https://github.com/rivo/tview)
 
 ## Docker
 
@@ -211,6 +218,7 @@
 - [YAML marshaling and unmarshaling (used in Kubernetes)](https://github.com/ghodss/yaml)
 - [Sonic - blazingly fast JSON serializing & deserializing library](https://github.com/bytedance/sonic)
 - [fastjson - fast JSON parser and validator](https://github.com/valyala/fastjson)
+- [JSON to Go](https://transform.tools/json-to-go)
 
 ## SQL
 
@@ -260,6 +268,7 @@
 - [goreadme - generates readme markdown file from go doc - contains github action as well](goreadme)
 - [GoKart - Go Security Static Analysis](https://github.com/praetorian-inc/gokart)
 - [nancy - tool to check for dependencies' vulnerabilities](https://github.com/sonatype-nexus-community/nancy)
+- [Don’t afraid of makefiles](https://sohlich.github.io/post/go_makefile/)
 
 ## Raspberry PI
 
@@ -311,6 +320,7 @@
 ## E-Mail
 
 - [Hermes - Clean, responsive HTML e-mails](https://github.com/matcornic/hermes)
+- [Trumail - email validation/verification system](https://github.com/trumail/trumail)
 
 ## Miscellaneous
 
@@ -323,6 +333,8 @@
 - [libp2p - protocols, specifications and libraries for peer-to-peer network applications](https://github.com/libp2p/go-libp2p)
 - [Execute JavaScript from Go](https://github.com/rogchap/v8go)
 - [WebAssembly Powered Go Playground](https://go-playground-wasm.vercel.app/)
+- [Reading files](http://kgrz.io/reading-files-in-go-an-overview.html)
+- [Ultimate Visual Guide to Go Enums and iota](https://blog.learngoprogramming.com/golang-const-type-enums-iota-bc4befd096d3)
 
 ## Images
 

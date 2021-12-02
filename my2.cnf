@@ -1,0 +1,119 @@
+[mysqld]
+# Basic configuration
+datadir   = /mysql/fav/data
+tmpdir    = ../tmp
+socket    = mysql.sock
+server_id = 187205006 ### each server must have own ID
+
+# Binlog configuration
+log-bin          = ../log/binlog ### this is mistake - don't use relative paths
+binlog_format    = ROW
+sync_binlog      = 1  ### if there is no UPS or RAM without parity check
+expire_logs_days = 3
+log_slave_updates
+# End Binlog configuration
+relay_log = ../log/relaylog
+
+# Logging
+general_log         = OFF
+general_log_file    = ../log/query.log
+slow_query_log      = 1
+slow_query_log_file = ../log/slowlog
+long_query_time     = 3
+log_queries_not_using_indexes = 0
+min_examined_row_limit = 10000
+# End Logging
+
+character_set_server = utf8
+concurrent_insert = AUTO
+default_storage_engine = InnoDB
+group_concat_max_len = 1048576
+init_connect = 'SET NAMES utf8'
+key_buffer_size = 768M
+max_allowed_packet = 16M
+max_connections = 3000
+max_connect_errors = 1500
+max_heap_table_size = 64M
+myisam_repair_threads = 1
+myisam_sort_buffer_size = 64M
+open_files_limit = 20000
+query_cache_size = 0
+query_cache_type = 0
+
+# Per thread settings - start (fix this later to include all required variables)
+read_buffer_size = 4M
+sort_buffer_size = 4M
+# Per thread settings - end
+
+table_definition_cache = 3000
+table_open_cache = 3000
+thread_cache_size = 500
+tmp_table_size = 64M
+wait_timeout = 300
+
+# MySQL 5.5/5.6 Variables
+# innodb_change_buffering: http://bugs.mysql.com/bug.php?id=61104
+innodb_change_buffering = INSERTS
+innodb_purge_threads = 1
+performance_schema = 1
+myisam_recover_options = FORCE,BACKUP
+# End 5.5/5.6 specific variables
+
+# Additional application/host specific variables
+# Extra Options
+innodb_adaptive_hash_index = 0
+innodb_purge_batch_size = 300 # Lower overhead, easier to keep up
+# End Additional application/host specific variables
+
+# InnoDB configuration
+innodb_adaptive_flushing = 1
+innodb_stats_on_metadata = 0
+innodb_file_per_table
+innodb_file_format = Barracuda
+innodb_flush_log_at_trx_commit = 1
+# This must be enabled when binlogging is enabled.
+# See: http://dev.mysql.com/doc/refman/5.5/en/innodb-parameters.html#sysvar_innodb_support_xa
+innodb_support_xa = 1
+innodb_io_capacity = 2000
+innodb_lock_wait_timeout = 50
+innodb_log_buffer_size = 32M
+# innodb_buffer_pool_size defined from memorysize = 188.92 GB
+innodb_buffer_pool_size = 161G
+innodb_buffer_pool_instances = 64
+innodb_log_files_in_group = 2
+innodb_log_file_size = 512M
+innodb_max_dirty_pages_pct = 80
+innodb_open_files = 3000
+innodb_thread_concurrency = 999
+
+[mysqld_safe]
+log-error = /var/log/mysqld.log
+pid_file = /mysql/fav/data/mc201fav1mdb-01.lhr4.prod.booking.com.pid
+core-file-size = unlimited
+# See: SR 3-2971863471: Linux server swapping with apparently
+# plenty of free memory.
+# - path to our site script directory
+ledir = /usr/local/booking-mysql
+# - our wrapper around mysqld.
+mysqld = mysqld_using_numactl
+
+[mysqldump]
+quick
+max_allowed_packet = 16M
+
+[mysql]
+no-auto-rehash
+default_character_set = utf8
+prompt = \u@mc201fav1mdb-01 [\d]>\_
+
+[myisamchk]
+key_buffer_size = 768M
+sort_buffer_size = 256M
+read_buffer_size = 2M
+write_buffer = 2M
+
+[mysqlhotcopy]
+interactive-timeout
+
+[client]
+socket = /mysql/fav/data/mysql.sock

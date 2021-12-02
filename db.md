@@ -3,13 +3,23 @@
 ## MySQL
 
 - [17 Key MySQL Config File Settings](http://www.speedemy.com/17-key-mysql-config-file-settings-mysql-5-7-proof/)
-- [Example configuration](my.cnf)
+- [Example configuration 1](my1.cnf)
+- [Example configuration 2](my2.cnf)
+- [Example configuration 2](my3.cnf)
+- [Semi-sync example master](my-master.cnf)
+- [Semi-sync example slave](my-slave.cnf)
+- [SSL Configuration Generator](https://ssl-config.mozilla.org/#server=mysql&version=8.0.19&config=modern&openssl=1.1.1k&guideline=5.6)
 
 ## PostgreSQL
 
 - [Lesser Known PostgreSQL Features](https://hakibenita.com/postgresql-unknown-features)
+- [SSL Configuration Generator](https://ssl-config.mozilla.org/#server=postgresql&version=12.1&config=modern&openssl=1.1.1k&guideline=5.6)
 
 ## MongoDB
 
 - [Managing schema changes with MongoDB](https://derickrethans.nl/managing-schema-changes.html)
 - [mongodump, mongorestore, mongoimport, mongoexport and other tools](https://github.com/mongodb/mongo-tools/)
+
+## Redis
+
+- [SSL Configuration Generator](https://ssl-config.mozilla.org/#server=redis&version=6.0&config=modern&openssl=1.1.1k&guideline=5.6)
