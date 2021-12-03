@@ -21,6 +21,22 @@
 - [NGINXConfig - the easiest way to configure a performant, secure, and stable NGINX server](https://www.digitalocean.com/community/tools/nginx)
 - [SSL Configuration Generator - configure AWS Dovecot, Go, MySQL, nginx, Postfix, PostgresQL and much more](https://ssl-config.mozilla.org/)
 
+## Linux
+
+[How to optimize your SSD for Linux Mint and Ubuntu](https://easylinuxtipsproject.blogspot.com/p/ssd.html)
+[blk-mq](https://yarondar.wordpress.com/2018/07/29/have-you-tried-blk-mq/)
+
+### How to use Synology DSM 6 with backintime over SSH
+
+```sh
+sudo add-apt-repository ppa:bit-team/stable
+sudo apt-get update
+sudo apt-get install backintime-qt4
+```
+
+- [How to use Synology DSM 6 with BIT over SSH](https://github.com/bit-team/backintime/wiki/Hardware-Specific-Setups#how-to-use-synology-dsm-6-with-bit-over-ssh)
+- Enable rsync service (Control Panel / File Service / rsync)
+
 ## WebRTC Conferencing
 
 - [mediasoup - Cutting Edge WebRTC Video Conferencing](https://github.com/versatica/mediasoup)
