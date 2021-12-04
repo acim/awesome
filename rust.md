@@ -120,6 +120,7 @@ Box<dyn Trait>
 - [Writing dockerfile in rust project](https://windsoilder.github.io/writing_dockerfile_in_rust_project.html)
 - [cargo-chef - cache dependencies speed up your Docker builds](https://github.com/LukeMathWalker/cargo-chef)
 - [Faster builds combining sccache and BuildKit](https://github.com/benmarten/sccache-docker-test)
+- [cachepot - shared compilation cache](https://github.com/paritytech/cachepot)
 
 ## Auto recompile
 
