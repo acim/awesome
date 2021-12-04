@@ -220,7 +220,11 @@
 - [fastjson - fast JSON parser and validator](https://github.com/valyala/fastjson)
 - [JSON to Go](https://transform.tools/json-to-go)
 
-## SQL
+## PDF
+
+- [pdfcpu - PDF processor](https://github.com/pdfcpu/pdfcpu)
+
+## Databases
 
 - [SQLX - extensions on top of database/sql package](https://jmoiron.github.io/sqlx/)
 - [Grimoire ORM](https://github.com/Fs02/grimoire)
@@ -236,6 +240,7 @@
 - [Tern - standalone migration tool for PostgreSQL](https://github.com/jackc/tern)
 - [scany - library for scanning data from a database into Go structs](https://github.com/georgysavva/scany)
 - [pgtools - code and infrastructure for working more effectively with PostgreSQL and Go using pgx, tern, and scany](https://github.com/hatch-studio/pgtools)
+- [FerretDB - proxy converting the MongoDB wire protocol queries to SQL using PostgreSQL as a database engine](https://github.com/FerretDB/FerretDB)
 
 ## GraphQL
 
@@ -365,6 +370,10 @@
 - [Leader Election Example](https://github.com/kubernetes/kubernetes/tree/323f34858de18b862d43c40b2cced65ad8e24052/staging/src/k8s.io/client-go/examples/leader-election)
 - [Writing a Kubernetes Admission Controller](https://dev.to/fdns/writing-a-kubernetes-admission-controller-4eko)
 - [Build a Highly Available Kubernetes Operator](https://betterprogramming.pub/building-a-highly-available-kubernetes-operator-using-golang-fe4a44c395c2)
+
+## Geo location
+
+- [geodist - compute the distance between two geographic latitude and longitude coordinates](https://github.com/jftuga/geodist)
 
 ## Find out unused code
 
