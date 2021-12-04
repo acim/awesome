@@ -139,6 +139,7 @@ Box<dyn Trait>
 - [Building Powerful GraphQL Servers with Rust](https://dev.to/open-graphql/building-powerful-graphql-servers-with-rust-3gla)
 - [rweb - yet another web server framework](https://github.com/kdy1/rweb)
 - [hRPC - simple RPC system for user-facing APIs](https://dev.to/harmonydevelopment/introducing-hrpc-a-simple-rpc-system-for-user-facing-apis-16ge)
+- [Poem Framework -fully featured web framework based on Tokio with OpenAPI specification generation](https://github.com/poem-web/poem)
 
 ## HTTP Client
 

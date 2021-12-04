@@ -18,6 +18,7 @@
     "rbac",
     "serverless",
     "solr",
-    "struct"
+    "struct",
+    "structs"
   ]
 }

@@ -109,6 +109,10 @@ sudo apt-get install backintime-qt4
 
 - [Dockerized Signal Messenger REST API](https://github.com/bbernhard/signal-cli-rest-api)
 
+## Open Data
+
+- [Rapid7 - internet-wide surveys to gain insights into global exposure to common vulnerabilities](https://opendata.rapid7.com/)
+
 ## Backup
 
 - [restic - backup program that is fast, efficient and secure](https://github.com/restic/restic)

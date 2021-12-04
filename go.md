@@ -231,6 +231,11 @@
 - [migrate - database migrations written in Go](https://github.com/golang-migrate/migrate)
 - [sqlc generates fully type-safe idiomatic Go code from SQL](https://github.com/kyleconroy/sqlc)
 - [SQLBoiler - tool to generate a Go ORM tailored to your database schema](https://github.com/volatiletech/sqlboiler)
+- [Writing an application using Go and PostgreSQL](https://henvic.dev/posts/go-postgres/)
+- [pgxtutorial](https://github.com/henvic/pgxtutorial)
+- [Tern - standalone migration tool for PostgreSQL](https://github.com/jackc/tern)
+- [scany - library for scanning data from a database into Go structs](https://github.com/georgysavva/scany)
+- [pgtools - code and infrastructure for working more effectively with PostgreSQL and Go using pgx, tern, and scany](https://github.com/hatch-studio/pgtools)
 
 ## GraphQL
 
@@ -290,6 +295,7 @@
 - [Testcontainers - friendly API to run Docker container, designed to create runtime environment for automatic tests](https://github.com/testcontainers/testcontainers-go)
 - [Gnomock - integration and e2e testing toolkit using Docker temporary containers](https://github.com/orlangure/gnomock)
 - [strikememongo - package that spins up a real MongoDB server, backed by in-memory storage, for use in testing and mocking during development](https://github.com/strikesecurity/strikememongo)
+- [go-cmp - package for equality of Go values](https://github.com/google/go-cmp)
 
 ## Profiling
 
