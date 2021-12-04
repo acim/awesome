@@ -153,6 +153,7 @@ Box<dyn Trait>
 - [cargo-audit - audit Cargo.lock files for crates with security vulnerabilities](https://github.com/RustSec/rustsec/tree/main/cargo-audit)
 - [cargo-pants - cargo subcommand to check vulnerabilities found in dependencies](https://github.com/sonatype-nexus-community/cargo-pants)
 - [cargo-crev - cryptographically verifiable code review system](https://web.crev.dev/rust-reviews/)
+- [cargo-udeps - find unused dependencies](https://github.com/est31/cargo-udeps)
 
 ## Performance
 
