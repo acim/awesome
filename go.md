@@ -37,6 +37,7 @@
 - [Working with Errors in Go 1.13](https://blog.golang.org/go1.13-errors)
 - [awesome-go-style - collection of style guides](https://github.com/dgryski/awesome-go-style)
 - [How to Implement Domain-Driven Design in Go](https://towardsdatascience.com/how-to-implement-domain-driven-design-ddd-in-golang-2e2139beb09d)
+- [Go Code Review Comments](https://github.com/golang/go/wiki/CodeReviewComments)
 
 ## Blogs
 
