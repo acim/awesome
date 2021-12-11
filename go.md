@@ -179,6 +179,7 @@
 - [Queue Subscriptions](https://docs.nats.io/developing-with-nats/receiving/queues)
 - [Draining Messages Before Disconnect](https://docs.nats.io/developing-with-nats/receiving/drain)
 - [Tutorials](https://docs.nats.io/developing-with-nats/tutorials)
+- [plumber - CLI devtool for inspecting, piping, massaging and redirecting data in message systems](https://github.com/batchcorp/plumber)
 
 ## RabbitMQ
 
@@ -224,6 +225,7 @@
 ## PDF
 
 - [pdfcpu - PDF processor](https://github.com/pdfcpu/pdfcpu)
+- [Gotenberg - Docker-powered stateless API for PDF files](https://github.com/gotenberg/gotenberg)
 
 ## Databases
 
