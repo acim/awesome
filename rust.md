@@ -27,6 +27,7 @@
 - [Phantom Types in Rust](https://www.greyblake.com/blog/2021-10-11-phantom-types-in-rust/)
 - [Allocating Less: Really Thin Rust Cloud Apps](https://www.youtube.com/watch?v=FAz0qSclLss)
 - [Builder with typestate](https://www.greyblake.com/blog/2021-10-25-builder-with-typestate-in-rust/)
+- [A better cargo-readme](https://scrabsha.github.io/abcr-issue-0)
 
 ## YouTube channels
 
@@ -54,6 +55,7 @@
 - [Tauri with Standard Svelte or SvelteKit](https://medium.com/@cazanator/tauri-with-standard-svelte-or-sveltekit-ad7f103c37e7)
 - [Creating a GTK/Glade based GUI for a Rust application](https://dev.to/henrybarreto/creating-a-gui-for-a-rust-application-2h1g)
 - [SixtyFPS - toolkit to efficiently develop fluid graphical user interfaces for any display](https://github.com/sixtyfpsui/sixtyfps)
+- [Speedrunning GUI development in Rust](https://aaronerhardt.github.io/blog/posts/gui_speedrun)
 
 ## CLI
 
@@ -155,6 +157,7 @@ Box<dyn Trait>
 - [cargo-pants - cargo subcommand to check vulnerabilities found in dependencies](https://github.com/sonatype-nexus-community/cargo-pants)
 - [cargo-crev - cryptographically verifiable code review system](https://web.crev.dev/rust-reviews/)
 - [cargo-udeps - find unused dependencies](https://github.com/est31/cargo-udeps)
+- [cargo-readme - generate README.md from doc comments](https://github.com/livioribeiro/cargo-readme)
 
 ## Performance
 
@@ -467,3 +470,19 @@ fn main() {
 ## SixtyFPS
 
 `apt-get install cmake libfontconfig1-dev libxcb1-dev libxcb-render0-dev libxcb-shape0-dev libxcb-xfixes0-dev libxkbcommon-dev`
+
+## Dependencies
+
+### git dependency
+
+```toml
+[dependencies]
+winit = { git = "https://github.com/project/crate", branch = "branch-name" }
+```
+
+### Overriding dependency
+
+```toml
+[patch.crates-io]
+winit = { git = "https://github.com/project/crate", branch = "branch-name" }
+```
