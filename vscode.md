@@ -75,14 +75,17 @@
   "files.trimTrailingWhitespace": true,
   "git.autofetch": true,
   "git.enableSmartCommit": true,
+  "gitlens.defaultDateFormat": "DD.MM.YYYY HH:mm:ss",
   "go.autocompleteUnimportedPackages": true,
   "go.buildOnSave": "off",
   "go.coverOnSingleTest": true,
   "go.coverOnSingleTestFile": true,
   "go.lintFlags": ["--fast"],
   "go.lintTool": "golangci-lint",
+  "go.toolsManagement.autoUpdate": true,
   "prettier.semi": false,
   "prettier.singleQuote": true,
+  "rust-analyzer.checkOnSave.command": "clippy",
   "rust-analyzer.inlayHints.enable": false,
   "svelte.language-server.runtime": "/usr/bin/node",
   "terminal.integrated.fontSize": 14,
@@ -104,6 +107,7 @@
 ```json
 "esbenp.prettier-vscode",
 "humao.rest-client",
+"rangav.vscode-thunder-client",
 "streetsidesoftware.code-spell-checker",
 "wayou.vscode-todo-highlight",
 "yzhang.markdown-all-in-one",
@@ -126,8 +130,7 @@
   "matklad.rust-analyzer",
   "rust-lang.rust",
   "serayuzgur.crates",
-  "vadimcn.vscode-lldb",
-  "rangav.vscode-thunder-client"
+  "vadimcn.vscode-lldb".
 }
 ```
 
@@ -137,7 +140,6 @@
 {
   "golang.go",
   "zxh404.vscode-proto3",
-  "rangav.vscode-thunder-client",
 }
 ```
 
