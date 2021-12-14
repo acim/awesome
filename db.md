@@ -14,6 +14,7 @@
 
 - [Lesser Known PostgreSQL Features](https://hakibenita.com/postgresql-unknown-features)
 - [SSL Configuration Generator](https://ssl-config.mozilla.org/#server=postgresql&version=12.1&config=modern&openssl=1.1.1k&guideline=5.6)
+- [UUID, serial or identity columns for PostgreSQL auto-generated primary keys](https://www.cybertec-postgresql.com/en/uuid-serial-or-identity-columns-for-postgresql-auto-generated-primary-keys/)
 
 ## MongoDB
 
