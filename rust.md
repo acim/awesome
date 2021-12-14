@@ -103,6 +103,7 @@ Box<dyn Trait>
 - [Multithreading in Rust](https://nickymeuleman.netlify.app/blog/multithreading-rust)
 - [Creating a chat server with async Rust and Tokio](https://www.youtube.com/watch?v=4DqP57BHaXI&t=14s)
 - [smol - small and fast async runtime](https://github.com/smol-rs/smol)
+- [A Rusty Go at Channels](https://gsquire.github.io/static/post/a-rusty-go-at-channels/)
 
 ## Testing
 
