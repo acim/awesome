@@ -76,14 +76,6 @@ sudo apt-get install backintime-qt4
 - [xdg - interoperability and shared base technology for free software desktop environments for Linux](https://pub.dev/packages/xdg_directories)
 - [xdg-utils](https://www.freedesktop.org/wiki/Software/xdg-utils/)
 
-## Graph databases
-
-- [Nebula](https://github.com/vesoft-inc/nebula)
-
-## Key-Value stores
-
-- [TiKV - Distributed transactional key-value database](https://github.com/tikv/tikv)
-
 ## Mail server
 
 - [Maddy Mail Server - replaces Postfix, Dovecot, OpenDKIM, OpenSPF, OpenDMARC and more](https://github.com/foxcpp/maddy)
@@ -105,7 +97,9 @@ sudo apt-get install backintime-qt4
 - [Dovecot SSL Configuration Generator](https://ssl-config.mozilla.org/#server=dovecot&version=2.3.9&config=modern&openssl=1.1.1k&guideline=5.6)
 - [Postfix SSL Configuration Generator](https://ssl-config.mozilla.org/#server=postfix&version=3.4.8&config=modern&openssl=1.1.1k&guideline=5.6)
 
-## Messenger API's
+## [Public APIs](https://github.com/public-apis/public-apis)
+
+### Messenger API's
 
 - [Dockerized Signal Messenger REST API](https://github.com/bbernhard/signal-cli-rest-api)
 

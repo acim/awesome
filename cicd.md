@@ -101,3 +101,7 @@ tasks:
 
 - [metadata-action - metadata from Git reference and events useful for Build Push action to tag and label Docker images](https://github.com/docker/metadata-action)
 - [Creating PostgreSQL service containers](https://docs.github.com/en/actions/using-containerized-services/creating-postgresql-service-containers)
+
+## Infrastructure as code
+
+- [Crossplane - enables platform teams to assemble infrastructure from multiple vendors](https://github.com/crossplane/crossplane)

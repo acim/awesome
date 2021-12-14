@@ -23,3 +23,11 @@
 ## Redis
 
 - [SSL Configuration Generator](https://ssl-config.mozilla.org/#server=redis&version=6.0&config=modern&openssl=1.1.1k&guideline=5.6)
+
+## Graph databases
+
+- [Nebula](https://github.com/vesoft-inc/nebula)
+
+## Key-Value stores
+
+- [TiKV - Distributed transactional key-value database](https://github.com/tikv/tikv)
