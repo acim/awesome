@@ -86,6 +86,7 @@
 - [Implementing graceful shutdown](https://rudderstack.com/blog/implementing-graceful-shutdown-in-go/)
 - [Behavior Of channels](https://www.youtube.com/watch?v=zDCKZn4-dck)
 - [The Behavior Of Channels](https://www.ardanlabs.com/blog/2017/10/the-behavior-of-channels.html)
+- [signal.NotifyContext - handling cancelation with Unix signals using context](https://henvic.dev/posts/signal-notify-context/)
 
 ## HTTP Server
 
