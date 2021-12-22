@@ -20,6 +20,7 @@
 - [Oh My Zsh - framework for managing zsh configuration](https://github.com/ohmyzsh/ohmyzsh)
 - [NGINXConfig - the easiest way to configure a performant, secure, and stable NGINX server](https://www.digitalocean.com/community/tools/nginx)
 - [SSL Configuration Generator - configure AWS Dovecot, Go, MySQL, nginx, Postfix, PostgresQL and much more](https://ssl-config.mozilla.org/)
+- [Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know)
 
 ## Linux
 
