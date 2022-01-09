@@ -17,6 +17,12 @@
 - [UUID, serial or identity columns for PostgreSQL auto-generated primary keys](https://www.cybertec-postgresql.com/en/uuid-serial-or-identity-columns-for-postgresql-auto-generated-primary-keys/)
 - [Everything I've seen on optimizing Postgres on ZFS](https://vadosware.io/post/everything-ive-seen-on-optimizing-postgres-on-zfs-on-linux/#dead-end-ulimit)
 
+### Tips & tricks
+
+- ALTER DATABASE db SET statement_timeout = '60s';
+- CREATE EXTENSION pg_stat_statements;
+- ALTER DATABASE db SET log_min_duration_statement = '100ms';
+
 ## MongoDB
 
 - [Managing schema changes with MongoDB](https://derickrethans.nl/managing-schema-changes.html)
