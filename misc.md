@@ -97,6 +97,7 @@ sudo apt-get install backintime-qt4
 - Forward spam e-mail with headers to spam@uce.gov to get blacklisted
 - [Dovecot SSL Configuration Generator](https://ssl-config.mozilla.org/#server=dovecot&version=2.3.9&config=modern&openssl=1.1.1k&guideline=5.6)
 - [Postfix SSL Configuration Generator](https://ssl-config.mozilla.org/#server=postfix&version=3.4.8&config=modern&openssl=1.1.1k&guideline=5.6)
+- [Learn and Test DMARC](https://www.learndmarc.com/)
 
 ## [Public APIs](https://github.com/public-apis/public-apis)
 
