@@ -17,6 +17,7 @@
 - [UUID, serial or identity columns for PostgreSQL auto-generated primary keys](https://www.cybertec-postgresql.com/en/uuid-serial-or-identity-columns-for-postgresql-auto-generated-primary-keys/)
 - [Everything I've seen on optimizing Postgres on ZFS](https://vadosware.io/post/everything-ive-seen-on-optimizing-postgres-on-zfs-on-linux/#dead-end-ulimit)
 - [Keep Storage and Backups when Dropping Cluster with PGO](https://blog.crunchydata.com/blog/keep-storage-and-backups-when-dropping-cluster-with-pgo)
+- [Five Easy to Miss PostgreSQL Query Performance Bottlenecks](https://pawelurbanek.com/postgresql-query-bottleneck)
 
 ### Tips & tricks
 
