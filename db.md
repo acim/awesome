@@ -19,6 +19,7 @@
 - [Keep Storage and Backups when Dropping Cluster with PGO](https://blog.crunchydata.com/blog/keep-storage-and-backups-when-dropping-cluster-with-pgo)
 - [Five Easy to Miss PostgreSQL Query Performance Bottlenecks](https://pawelurbanek.com/postgresql-query-bottleneck)
 - [PostgreSQL execution plan visualizer](https://explain.dalibo.com/)
+- [Blazing-fast cloning of PostgreSQL databases](https://github.com/postgres-ai/database-lab-engine)
 
 ### Tips & tricks
 
