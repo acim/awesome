@@ -20,6 +20,9 @@
 - [Five Easy to Miss PostgreSQL Query Performance Bottlenecks](https://pawelurbanek.com/postgresql-query-bottleneck)
 - [PostgreSQL execution plan visualizer](https://explain.dalibo.com/)
 - [Blazing-fast cloning of PostgreSQL databases](https://github.com/postgres-ai/database-lab-engine)
+- [Postgres indexes for newbies](https://blog.crunchydata.com/blog/postgres-indexes-for-newbies)
+- [Read-only mode for PostgreSQL](https://www.jkatz05.com/post/postgres/postgres-read-only/)
+- [Reshape - easy-to-use, zero-downtime schema migration tool for Postgres](https://github.com/fabianlindfors/reshape)
 
 ### Tips & tricks
 
