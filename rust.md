@@ -28,6 +28,7 @@
 - [Allocating Less: Really Thin Rust Cloud Apps](https://www.youtube.com/watch?v=FAz0qSclLss)
 - [Builder with typestate](https://www.greyblake.com/blog/2021-10-25-builder-with-typestate-in-rust/)
 - [A better cargo-readme](https://scrabsha.github.io/abcr-issue-0)
+- [Publishing to crates.io](https://www.printlnhello.world/blog/publishing-to-crates-io/)
 
 ## YouTube channels
 
@@ -47,6 +48,8 @@
 - [Asynchronous Programming in Rust](https://rust-lang.github.io/async-book/)
 - [Rust by Example](https://doc.rust-lang.org/rust-by-example)
 - [The Little Book of Rust Macros](https://danielkeep.github.io/tlborm/book/README.html)
+- [Command Line Applications in Rust](https://rust-cli.github.io/book/index.html)
+- [Rain's Rust CLI recommendations](https://rust-cli-recommendations.sunshowers.io/)
 
 ## Desktop / GUI
 
