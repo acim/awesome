@@ -130,6 +130,7 @@
 - [How to implement RBAC custom function which has to read information from database?](https://github.com/casbin/casbin/issues/326#issuecomment-552875116)
 - [Oso - policy engine for authorization](https://github.com/osohq/oso)
 - [Basic Role-Based HTTP Authorization in Go with Casbin](https://www.zupzup.org/casbin-http-role-auth/)
+- [SpiceDB - database system for managing security-critical application permissions](https://github.com/authzed/spicedb)
 
 ## HTTP Client
 
