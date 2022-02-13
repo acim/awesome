@@ -216,6 +216,7 @@ Useful if you are prototyping and are just looking to have your code typecheck.
 - [Ergonomic error handling with Rust](https://dev.to/senyeezus/ergonomic-error-handling-with-rust-13bj)
 - [A Beginner's Guide to Handling Errors in Rust](https://dev.to/seanchen1991/a-beginner-s-guide-to-handling-errors-in-rust-40k2)
 - [How to Tackle Error in Rust Programming](https://blog.knoldus.com/how-to-tackle-error-in-rust-programming/)
+- [The simplest guide to error handling in Rust](https://kerkour.com/rust-error-handling/)
 
 ### [failure crate - handle multiple error types, chain errors](https://docs.rs/failure/0.1.8/failure/)
 

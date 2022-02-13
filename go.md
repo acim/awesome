@@ -88,6 +88,10 @@
 - [The Behavior Of Channels](https://www.ardanlabs.com/blog/2017/10/the-behavior-of-channels.html)
 - [signal.NotifyContext - handling cancelation with Unix signals using context](https://henvic.dev/posts/signal-notify-context/)
 
+## Generics
+
+- [go generics for the busy gopher](https://sethops1.net/post/go-generics-for-the-busy-gopher/)
+
 ## HTTP Server
 
 - [aah - a secure, flexible, rapid Go web framework](https://aahframework.org/)

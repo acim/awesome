@@ -102,6 +102,7 @@ tasks:
 - [metadata-action - metadata from Git reference and events useful for Build Push action to tag and label Docker images](https://github.com/docker/metadata-action)
 - [Creating PostgreSQL service containers](https://docs.github.com/en/actions/using-containerized-services/creating-postgresql-service-containers)
 - [GitHub Actions by Example](https://www.actionsbyexample.com/)
+- [How We Write GitHub Actions in Go](https://full-stack.blend.com/how-we-write-github-actions-in-go.html)
 
 ## Infrastructure as code
 
