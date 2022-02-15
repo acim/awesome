@@ -25,6 +25,7 @@
 - [Reshape - easy-to-use, zero-downtime schema migration tool for Postgres](https://github.com/fabianlindfors/reshape)
 - [Vacuuming update-heavy tables](https://dataegret.com/2022/02/vacuuming-update-heavy-tables/)
 - [PostgreSQL's Powerful New Join Type: LATERAL](https://heap.io/blog/postgresqls-powerful-new-join-type-lateral)
+- [Hubert Lubaczewski's Blog, explain analyze tool](https://www.depesz.com/)
 
 ### Tips & tricks
 
