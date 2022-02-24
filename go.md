@@ -9,7 +9,6 @@
 - [Best practice for accessing database in HTTP handlers](http://www.alexedwards.net/blog/organising-database-access)
 - [Best practices for writing high-performance code](https://github.com/dgryski/go-perfbook/blob/master/performance.md)
 - [Build your own web framework](https://www.nicolasmerouze.com/build-web-framework-golang/)
-- [Code snippets](snippets.go)
 - [Elegant HTTP error handling](https://thingsthatkeepmeupatnight.dev/posts/golang-http-handler-errors/)
 - [Error handling](https://blog.golang.org/error-handling-and-go#TOC_3)
 - [Four Steps to Daemonize Your Go Programs](https://ieftimov.com/post/four-steps-daemonize-your-golang-programs/)

@@ -18,7 +18,6 @@
 - [i3 - tiling window manager](https://i3wm.org/)
 - [Algorithms and Stuff](http://blog.ivank.net/)
 - [Oh My Zsh - framework for managing zsh configuration](https://github.com/ohmyzsh/ohmyzsh)
-- [NGINXConfig - the easiest way to configure a performant, secure, and stable NGINX server](https://www.digitalocean.com/community/tools/nginx)
 - [SSL Configuration Generator - configure AWS Dovecot, Go, MySQL, nginx, Postfix, PostgresQL and much more](https://ssl-config.mozilla.org/)
 - [Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know)
 
@@ -27,7 +26,12 @@
 [How to optimize your SSD for Linux Mint and Ubuntu](https://easylinuxtipsproject.blogspot.com/p/ssd.html)
 [blk-mq](https://yarondar.wordpress.com/2018/07/29/have-you-tried-blk-mq/)
 
-### How to use Synology DSM 6 with backintime over SSH
+## nginx
+
+- [NGINXConfig - the easiest way to configure a performant, secure, and stable NGINX server](https://www.digitalocean.com/community/tools/nginx)
+- [Avoiding the Top 10 NGINX Configuration Mistakes](https://www.nginx.com/blog/avoiding-top-10-nginx-configuration-mistakes/)
+
+## How to use Synology DSM 6 with backintime over SSH
 
 ```sh
 sudo add-apt-repository ppa:bit-team/stable
