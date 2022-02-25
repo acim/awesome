@@ -113,6 +113,7 @@ Box<dyn Trait>
 - [From Go to Rust - Unit Testing](http://technosophos.com/2018/07/07/from-go-to-rust-testing.html)
 - [From Go To Rust - Advanced Testing](http://technosophos.com/2018/07/25/from-go-to-rust-advanced-testing.html)
 - [Test Cases in Rust are simple to write](https://blog.knoldus.com/test-cases-in-rust-are-simple-to-write/)
+- [cargo-nextest -next generation test runner for Rust projects](https://nexte.st/)
 
 ### Test response status
 
@@ -146,6 +147,7 @@ Box<dyn Trait>
 - [rweb - yet another web server framework](https://github.com/kdy1/rweb)
 - [hRPC - simple RPC system for user-facing APIs](https://dev.to/harmonydevelopment/introducing-hrpc-a-simple-rpc-system-for-user-facing-apis-16ge)
 - [Poem Framework -fully featured web framework based on Tokio with OpenAPI specification generation](https://github.com/poem-web/poem)
+- [axum - web application framework that focuses on ergonomics and modularity](https://github.com/tokio-rs/axum/)
 
 ## HTTP Client
 
