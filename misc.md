@@ -130,3 +130,4 @@ sudo apt-get install backintime-qt4
 # GDPR
 
 - [Violating GDPR?](https://www.violating-gdpr.com/)
+- [2GDPR - check cookies and data transfer for GDPR compliance](https://2gdpr.com/)
