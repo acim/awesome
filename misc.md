@@ -20,6 +20,7 @@
 - [Oh My Zsh - framework for managing zsh configuration](https://github.com/ohmyzsh/ohmyzsh)
 - [SSL Configuration Generator - configure AWS Dovecot, Go, MySQL, nginx, Postfix, PostgresQL and much more](https://ssl-config.mozilla.org/)
 - [Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know)
+- [Sourcegraph - find answers faster with code search across multiple repos and commits](https://sourcegraph.com/search)
 
 ## Linux
 
@@ -74,6 +75,7 @@ sudo apt-get install backintime-qt4
 - [HIDE.me - Free Anonymous Proxy Browser](https://hide.me/en/proxy)
 - [AWS Vault - tool to securely store and access AWS credentials in a development environment](https://github.com/99designs/aws-vault)
 - [Commento - platform that you can embed in your website to allow your readers to add comments](https://github.com/adtac/commento)
+- [Awesome open-source alternatives to SaaS](https://github.com/RunaCapital/awesome-oss-alternatives)
 
 ## Standards
 
