@@ -26,6 +26,8 @@
 - [Vacuuming update-heavy tables](https://dataegret.com/2022/02/vacuuming-update-heavy-tables/)
 - [PostgreSQL's Powerful New Join Type: LATERAL](https://heap.io/blog/postgresqls-powerful-new-join-type-lateral)
 - [Hubert Lubaczewski's Blog, explain analyze tool](https://www.depesz.com/)
+- [OrioleDB – modern cloud-native storage engine](https://github.com/orioledb/orioledb)
+- [pgwatch2 - flexible self-contained PostgreSQL metrics monitoring solution](https://github.com/cybertec-postgresql/pgwatch2)
 
 ### Tips & tricks
 
