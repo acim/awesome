@@ -28,6 +28,7 @@
 - [Hubert Lubaczewski's Blog, explain analyze tool](https://www.depesz.com/)
 - [OrioleDB – modern cloud-native storage engine](https://github.com/orioledb/orioledb)
 - [pgwatch2 - flexible self-contained PostgreSQL metrics monitoring solution](https://github.com/cybertec-postgresql/pgwatch2)
+- [pg_back - dump tool for PostgreSQL](https://github.com/orgrim/pg_back)
 
 ### Tips & tricks
 
