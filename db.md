@@ -29,6 +29,7 @@
 - [OrioleDB – modern cloud-native storage engine](https://github.com/orioledb/orioledb)
 - [pgwatch2 - flexible self-contained PostgreSQL metrics monitoring solution](https://github.com/cybertec-postgresql/pgwatch2)
 - [pg_back - dump tool for PostgreSQL](https://github.com/orgrim/pg_back)
+- [How to build a job queue with Rust and PostgreSQL](https://kerkour.com/rust-job-queue-with-postgresql)
 
 ### Tips & tricks
 
