@@ -12,6 +12,7 @@
 
 ## PostgreSQL
 
+- [Awesome Postgres](https://github.com/dhamaniasad/awesome-postgres)
 - [Lesser Known PostgreSQL Features](https://hakibenita.com/postgresql-unknown-features)
 - [SSL Configuration Generator](https://ssl-config.mozilla.org/#server=postgresql&version=12.1&config=modern&openssl=1.1.1k&guideline=5.6)
 - [UUID, serial or identity columns for PostgreSQL auto-generated primary keys](https://www.cybertec-postgresql.com/en/uuid-serial-or-identity-columns-for-postgresql-auto-generated-primary-keys/)
@@ -30,6 +31,7 @@
 - [pgwatch2 - flexible self-contained PostgreSQL metrics monitoring solution](https://github.com/cybertec-postgresql/pgwatch2)
 - [pg_back - dump tool for PostgreSQL](https://github.com/orgrim/pg_back)
 - [How to build a job queue with Rust and PostgreSQL](https://kerkour.com/rust-job-queue-with-postgresql)
+- [How we optimized PostgreSQL queries 100x](https://towardsdatascience.com/how-we-optimized-postgresql-queries-100x-ff52555eabe)
 
 ### Tips & tricks
 
