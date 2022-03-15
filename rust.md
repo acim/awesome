@@ -29,6 +29,7 @@
 - [Builder with typestate](https://www.greyblake.com/blog/2021-10-25-builder-with-typestate-in-rust/)
 - [A better cargo-readme](https://scrabsha.github.io/abcr-issue-0)
 - [Publishing to crates.io](https://www.printlnhello.world/blog/publishing-to-crates-io/)
+- [Safe pin projections through view types](https://blog.yoshuawuyts.com/safe-pin-projections-through-view-types/)
 
 ## YouTube channels
 
@@ -50,6 +51,7 @@
 - [The Little Book of Rust Macros](https://danielkeep.github.io/tlborm/book/README.html)
 - [Command Line Applications in Rust](https://rust-cli.github.io/book/index.html)
 - [Rain's Rust CLI recommendations](https://rust-cli-recommendations.sunshowers.io/)
+- [Effective Rust](https://www.lurklurk.org/effective-rust/)
 
 ## Desktop / GUI
 

@@ -76,6 +76,7 @@ sudo apt-get install backintime-qt4
 - [AWS Vault - tool to securely store and access AWS credentials in a development environment](https://github.com/99designs/aws-vault)
 - [Commento - platform that you can embed in your website to allow your readers to add comments](https://github.com/adtac/commento)
 - [Awesome open-source alternatives to SaaS](https://github.com/RunaCapital/awesome-oss-alternatives)
+- [Convert curl commands to Python, JavaScript, PHP, R, Go, Rust, Elixir, Java, MATLAB, Ansible URI, Strest, Dart or JSON](https://curlconverter.com/)
 
 ## Standards
 
