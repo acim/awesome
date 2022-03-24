@@ -77,6 +77,7 @@ sudo apt-get install backintime-qt4
 - [Commento - platform that you can embed in your website to allow your readers to add comments](https://github.com/adtac/commento)
 - [Awesome open-source alternatives to SaaS](https://github.com/RunaCapital/awesome-oss-alternatives)
 - [Convert curl commands to Python, JavaScript, PHP, R, Go, Rust, Elixir, Java, MATLAB, Ansible URI, Strest, Dart or JSON](https://curlconverter.com/)
+- [Awesome-Selfhosted - the practice of hosting and managing applications on your own server(s) instead of consuming from SaaSS providers](https://github.com/awesome-selfhosted/awesome-selfhosted)
 
 ## Standards
 
