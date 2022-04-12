@@ -32,6 +32,8 @@
 - [pg_back - dump tool for PostgreSQL](https://github.com/orgrim/pg_back)
 - [How to build a job queue with Rust and PostgreSQL](https://kerkour.com/rust-job-queue-with-postgresql)
 - [How we optimized PostgreSQL queries 100x](https://towardsdatascience.com/how-we-optimized-postgresql-queries-100x-ff52555eabe)
+- [Optimize PostgreSQL Server Performance Through Configuration](https://blog.crunchydata.com/blog/optimize-postgresql-server-performance)
+- [PGTune - tool for postgresql.conf generation with optimal parameters](https://pgtune.leopard.in.ua/#/)
 
 ### Tips & tricks
 
