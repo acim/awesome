@@ -26,14 +26,25 @@
 - [Reshape - easy-to-use, zero-downtime schema migration tool for Postgres](https://github.com/fabianlindfors/reshape)
 - [Vacuuming update-heavy tables](https://dataegret.com/2022/02/vacuuming-update-heavy-tables/)
 - [PostgreSQL's Powerful New Join Type: LATERAL](https://heap.io/blog/postgresqls-powerful-new-join-type-lateral)
-- [Hubert Lubaczewski's Blog, explain analyze tool](https://www.depesz.com/)
+- [Hubert Lubaczewski's Blog](https://www.depesz.com/)
 - [OrioleDB – modern cloud-native storage engine](https://github.com/orioledb/orioledb)
-- [pgwatch2 - flexible self-contained PostgreSQL metrics monitoring solution](https://github.com/cybertec-postgresql/pgwatch2)
-- [pg_back - dump tool for PostgreSQL](https://github.com/orgrim/pg_back)
 - [How to build a job queue with Rust and PostgreSQL](https://kerkour.com/rust-job-queue-with-postgresql)
 - [How we optimized PostgreSQL queries 100x](https://towardsdatascience.com/how-we-optimized-postgresql-queries-100x-ff52555eabe)
 - [Optimize PostgreSQL Server Performance Through Configuration](https://blog.crunchydata.com/blog/optimize-postgresql-server-performance)
+- [Why isn't Postgres using my index?](https://www.pgmustard.com/blog/why-isnt-postgres-using-my-index)
+
+### Tools
+
+- [pgwatch2 - flexible self-contained PostgreSQL metrics monitoring solution](https://github.com/cybertec-postgresql/pgwatch2)
+- [explain.depesz.com - PostgreSQL's explain analyze made readable](https://explain.depesz.com/)
+- [pg_back - dump tool for PostgreSQL](https://github.com/orgrim/pg_back)
 - [PGTune - tool for postgresql.conf generation with optimal parameters](https://pgtune.leopard.in.ua/#/)
+- [pgbadger - fast PostgreSQL log analyzer](https://github.com/darold/pgbadger)
+- [pgcopydb - pg_dump | pg_restore on steroids](https://github.com/dimitri/pgcopydb)
+
+### Video tutorials
+
+- [Citus Con: An Event for Postgres 2022](https://www.youtube.com/playlist?list=PLlrxD0HtieHjSzUZYCMvqffEU5jykfPTd)
 
 ### Tips & tricks
 
