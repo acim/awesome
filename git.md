@@ -52,3 +52,18 @@ git rev-list –all | xargs git grep -F 'something'
 
 - [Automate Your GitHub Profile README with Go and GitHub Actions](https://dev.to/charly3pins/automate-your-github-profile-readme-with-go-and-github-actions-2lmo)
 - [Go Package CI/CD with GitHub Actions](https://dev.to/jidicula/go-package-ci-cd-with-github-actions-350o)
+
+## ~/.gitconfig compatible with Rust cargo
+
+```
+[core]
+	editor = vim
+[url "git@github.com:"]
+	insteadOf = https://github.com/
+[url "git@bitbucket.org:"]
+	insteadOf = https://bitbucket.org/
+[url "https://github.com/RustSec/advisory-db.git"]
+    insteadOf = https://github.com/RustSec/advisory-db.git
+[url "https://github.com/rust-lang/crates.io-index"]
+    insteadOf = https://github.com/rust-lang/crates.io-index
+```
