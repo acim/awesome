@@ -41,6 +41,7 @@
 - [PGTune - tool for postgresql.conf generation with optimal parameters](https://pgtune.leopard.in.ua/#/)
 - [pgbadger - fast PostgreSQL log analyzer](https://github.com/darold/pgbadger)
 - [pgcopydb - pg_dump | pg_restore on steroids](https://github.com/dimitri/pgcopydb)
+- [PGLoader - data loading tool for PostgreSQL using the COPY command](https://github.com/dimitri/pgloader)
 
 ### Video tutorials
 
