@@ -168,7 +168,6 @@
 - [Kong](https://github.com/alecthomas/kong)
 - [promptui - interactive prompt for command-line applications](https://github.com/manifoldco/promptui)
 - [tview - terminal UI library with rich, interactive widgets](https://github.com/rivo/tview)
-- [Format strings in Rust 1.58](https://www.rustnote.com/blog/format_strings.html)
 
 ## Docker
 
