@@ -50,7 +50,7 @@ sudo apt-get install backintime-qt4
 - [WebRTC SFU Load Testing](https://webrtchacks.com/sfu-load-testing/)
 - [How To Create A Video Chat App With WebRTC](https://www.youtube.com/watch?v=DvlyzDZDEq4)
 
-## Free Interesting Services and Software
+## Free Services and Software
 
 - [Github Pages](https://pages.github.com)
 - [Netlify - host SPA for free](https://www.netlify.com/)Render - https://render.com
@@ -78,6 +78,7 @@ sudo apt-get install backintime-qt4
 - [Awesome open-source alternatives to SaaS](https://github.com/RunaCapital/awesome-oss-alternatives)
 - [Convert curl commands to Python, JavaScript, PHP, R, Go, Rust, Elixir, Java, MATLAB, Ansible URI, Strest, Dart or JSON](https://curlconverter.com/)
 - [Awesome-Selfhosted - the practice of hosting and managing applications on your own server(s) instead of consuming from SaaSS providers](https://github.com/awesome-selfhosted/awesome-selfhosted)
+- [free-for.dev - list of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers.](https://github.com/ripienaar/free-for-dev)
 
 ## Standards
 
