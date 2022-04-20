@@ -32,6 +32,10 @@
 - [How we optimized PostgreSQL queries 100x](https://towardsdatascience.com/how-we-optimized-postgresql-queries-100x-ff52555eabe)
 - [Optimize PostgreSQL Server Performance Through Configuration](https://blog.crunchydata.com/blog/optimize-postgresql-server-performance)
 - [Why isn't Postgres using my index?](https://www.pgmustard.com/blog/why-isnt-postgres-using-my-index)
+- [Our Experience with PostgreSQL on ZFS](https://lackofimagination.org/2022/04/our-experience-with-postgresql-on-zfs/)
+- [Generate PostgreSQL credentials with Hashicorp Vault and Go](https://splitmind.dev/posts/generate-creds-postgres-vault-with-golang/)
+- [Use PostgreSQL SSL connection in rust with self-signed certificates](https://dev.to/yugabyte/use-postgresql-ssl-connection-in-rust-with-self-signed-certificates-4k9g)
+- [Find and fix a missing PostgreSQL index](https://www.cybertec-postgresql.com/en/find-and-fix-a-missing-postgresql-index/)
 
 ### Tools
 
