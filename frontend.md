@@ -81,6 +81,7 @@
 - [SVGBox - copy and paste icons](https://svgbox.net/iconsets/)
 - [SVG Silh - free SVG images & icons](https://svgsilh.com/)
 - [Streamline Icons](https://app.streamlinehq.com/icons)
+- [Tabler Icons]([Algorithms for Decision Making](https://tabler-icons.io/))
 
 ## Fonts
 
