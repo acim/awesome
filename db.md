@@ -36,6 +36,7 @@
 - [Generate PostgreSQL credentials with Hashicorp Vault and Go](https://splitmind.dev/posts/generate-creds-postgres-vault-with-golang/)
 - [Use PostgreSQL SSL connection in rust with self-signed certificates](https://dev.to/yugabyte/use-postgresql-ssl-connection-in-rust-with-self-signed-certificates-4k9g)
 - [Find and fix a missing PostgreSQL index](https://www.cybertec-postgresql.com/en/find-and-fix-a-missing-postgresql-index/)
+- [8 Fascinating Things You Probably Didn't Know PostgreSQL Can Do!](https://postgresweekly.com/link/122726/web)
 
 ### Tools
 

@@ -86,6 +86,8 @@
 - [Behavior Of channels](https://www.youtube.com/watch?v=zDCKZn4-dck)
 - [The Behavior Of Channels](https://www.ardanlabs.com/blog/2017/10/the-behavior-of-channels.html)
 - [signal.NotifyContext - handling cancelation with Unix signals using context](https://henvic.dev/posts/signal-notify-context/)
+- [Go, Generics, and Concurrency](https://medium.com/@jon_43067/go-generics-and-concurrency-d0dccab73a73) (with Promise example)
+- [ZenQ - low-latency thread-safe queue implemented using a lock-free ringbuffer](https://github.com/alphadose/ZenQ) (faster than channels)
 
 ## Generics
 
@@ -118,6 +120,7 @@
 - [Writing a Server Sent Events server](https://thoughtbot.com/blog/writing-a-server-sent-events-server-in-go)
 - [Things to know about HTTP](https://scene-si.org/2017/09/27/things-to-know-about-http-in-go/)
 - [SSL Configuration Generator](https://ssl-config.mozilla.org/#server=go&version=1.14.4&config=modern&guideline=5.6)
+- [Validating HTTP JSON Requests](https://tutorialedge.net/golang/validating-http-json-requests/)
 
 ## Auth
 
