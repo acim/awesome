@@ -31,6 +31,7 @@
 - [Publishing to crates.io](https://www.printlnhello.world/blog/publishing-to-crates-io/)
 - [Safe pin projections through view types](https://blog.yoshuawuyts.com/safe-pin-projections-through-view-types/)
 - [Format strings in Rust 1.58](https://www.rustnote.com/blog/format_strings.html)
+- [Building a static site generator in 100 lines of Rust](https://kerkour.com/rust-static-site-generator)
 
 ## YouTube channels
 
