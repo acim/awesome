@@ -32,11 +32,17 @@
 - [Safe pin projections through view types](https://blog.yoshuawuyts.com/safe-pin-projections-through-view-types/)
 - [Format strings in Rust 1.58](https://www.rustnote.com/blog/format_strings.html)
 - [Building a static site generator in 100 lines of Rust](https://kerkour.com/rust-static-site-generator)
+- [Building a crawler in Rust: Implementing the crawler](https://kerkour.com/rust-crawler-implementation)
+- [Building a crawler in Rust: Scraping and Parsing HTML](https://kerkour.com/rust-crawler-scraping-and-parsing-html)
 
 ## YouTube channels
 
 - [David Pedersen](https://www.youtube.com/channel/UCDmSWx6SK0zCU2NqPJ0VmDQ/videos)
 - [Jon Gjengset](https://www.youtube.com/channel/UC_iD0xppBwwsrM9DegC5cQQ)
+
+## Blogs
+
+- [Building a crawler in Rust: Scraping and Parsing HTML](https://kerkour.com/)
 
 ## Books
 
@@ -140,8 +146,10 @@ Box<dyn Trait>
 
 ## Kubernetes
 
-- [Writing a Kubernetes CRD Controller in Rust](http://technosophos.com/2019/08/07/writing-a-kubernetes-controller-in-rust.html)
+- [Writing a Kubernetes CRD Controller](http://technosophos.com/2019/08/07/writing-a-kubernetes-controller-in-rust.html)
 - [Evolution of kube](https://clux.github.io/probes/post/2021-02-28-kube-evolution/)
+- [kubert - Kubernetes runtime helpers](https://github.com/olix0r/kubert)
+- [Roperator - easily write Kubernetes Operators](https://github.com/psFried/roperator)
 
 ## HTTP server
 
