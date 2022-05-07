@@ -34,6 +34,7 @@
 - [Building a static site generator in 100 lines of Rust](https://kerkour.com/rust-static-site-generator)
 - [Building a crawler in Rust: Implementing the crawler](https://kerkour.com/rust-crawler-implementation)
 - [Building a crawler in Rust: Scraping and Parsing HTML](https://kerkour.com/rust-crawler-scraping-and-parsing-html)
+- [Learn Rust Programming Course – Interactive Rust Language Tutorial on Replit](https://www.freecodecamp.org/news/rust-in-replit/)
 
 ## YouTube channels
 
@@ -82,6 +83,7 @@
 - [Fn - used for closures](https://doc.rust-lang.org/std/ops/trait.Fn.html)
 - [FnMut - used for closures](https://doc.rust-lang.org/std/ops/trait.FnMut.html)
 - [FnOnce - used for closures](https://doc.rust-lang.org/std/ops/trait.FnOnce.html)
+- In order that read, write and some other methods to appear, appropriate trait has to be imported (i.e. [std::io::Read](https://doc.rust-lang.org/std/io/trait.Read.html))
 - Forms of syntax when used as type:
 
 ```rust
@@ -160,6 +162,8 @@ Box<dyn Trait>
 - [hRPC - simple RPC system for user-facing APIs](https://dev.to/harmonydevelopment/introducing-hrpc-a-simple-rpc-system-for-user-facing-apis-16ge)
 - [Poem Framework -fully featured web framework based on Tokio with OpenAPI specification generation](https://github.com/poem-web/poem)
 - [axum - web application framework that focuses on ergonomics and modularity](https://github.com/tokio-rs/axum/)
+- [Askama - template rendering engine based on Jinja](https://github.com/djc/askama)
+- [Using Askama with axum](https://github.com/djc/askama/blob/main/book/src/integrations.md)
 
 ## HTTP Client
 
