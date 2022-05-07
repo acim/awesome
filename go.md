@@ -93,6 +93,11 @@
 
 - [go generics for the busy gopher](https://sethops1.net/post/go-generics-for-the-busy-gopher/)
 
+## Generic libraries
+
+- [Juniper - extensions to the Go standard library using generics, including containers, iterators, and streams](https://github.com/bradenaw/juniper)
+- [Generic Data Structures](https://github.com/zyedidia/generic)
+
 ## HTTP Server
 
 - [aah - a secure, flexible, rapid Go web framework](https://aahframework.org/)
@@ -359,7 +364,6 @@
 - [Reading files](http://kgrz.io/reading-files-in-go-an-overview.html)
 - [Ultimate Visual Guide to Go Enums and iota](https://blog.learngoprogramming.com/golang-const-type-enums-iota-bc4befd096d3)
 - [gopkg.in - versioned URLs that offer the proper metadata for redirecting the go tool onto well defined GitHub repositories](https://labix.org/gopkg.in)
-- [Juniper - extensions to the Go standard library using generics, including containers, iterators, and streams](https://github.com/bradenaw/juniper)
 
 ## Images
 
