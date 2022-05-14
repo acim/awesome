@@ -88,13 +88,11 @@
 - [signal.NotifyContext - handling cancelation with Unix signals using context](https://henvic.dev/posts/signal-notify-context/)
 - [Go, Generics, and Concurrency](https://medium.com/@jon_43067/go-generics-and-concurrency-d0dccab73a73) (with Promise example)
 - [ZenQ - low-latency thread-safe queue implemented using a lock-free ringbuffer](https://github.com/alphadose/ZenQ) (faster than channels)
+- [Concurrency Guide](https://github.com/luk4z7/go-concurrency-guide)
 
 ## Generics
 
 - [go generics for the busy gopher](https://sethops1.net/post/go-generics-for-the-busy-gopher/)
-
-## Generic libraries
-
 - [Juniper - extensions to the Go standard library using generics, including containers, iterators, and streams](https://github.com/bradenaw/juniper)
 - [Generic Data Structures](https://github.com/zyedidia/generic)
 
@@ -126,6 +124,7 @@
 - [Things to know about HTTP](https://scene-si.org/2017/09/27/things-to-know-about-http-in-go/)
 - [SSL Configuration Generator](https://ssl-config.mozilla.org/#server=go&version=1.14.4&config=modern&guideline=5.6)
 - [Validating HTTP JSON Requests](https://tutorialedge.net/golang/validating-http-json-requests/)
+- [Bud - Fullstack Go Framework for Prolific Web Developers](https://github.com/livebud/bud)
 
 ## Auth
 
