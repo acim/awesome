@@ -62,8 +62,8 @@ git rev-list –all | xargs git grep -F 'something'
 	insteadOf = https://github.com/
 [url "git@bitbucket.org:"]
 	insteadOf = https://bitbucket.org/
-[url "https://github.com/RustSec/advisory-db.git"]
-    insteadOf = https://github.com/RustSec/advisory-db.git
 [url "https://github.com/rust-lang/crates.io-index"]
     insteadOf = https://github.com/rust-lang/crates.io-index
+[url "https://github.com/rustsec/advisory-db"]
+	insteadOf = https://github.com/rustsec/advisory-db
 ```
