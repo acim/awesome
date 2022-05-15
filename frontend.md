@@ -33,8 +33,6 @@
 - [0to255](https://www.0to255.com/)
 - [colors.lol](https://colors.lol/)
 - [ColorMind - color scheme generator](http://colormind.io/)
-- [dribbble - design showcases](https://dribbble.com/)
-- [Behance - design showcases](https://www.behance.net/)
 - [Gradient Magic - Free Gallery of Fantastic and Unique CSS Gradients](https://www.gradientmagic.com/)
 - [SVG Backgrounds](https://www.svgbackgrounds.com/)
 - [freepik Background Collection](https://www.freepik.com/free-photos-vectors/svg-background)
@@ -45,6 +43,14 @@
 - [coolors - super fast color schemes generator](https://coolors.co/)
 - [Get Waves - create SVG waves](https://getwaves.io/)
 - [Gradient Hunt - platform for color inspiration with thousands of trendy hand-made color gradients](https://gradienthunt.com/)
+
+## Design Showcases
+
+- [dribbble](https://dribbble.com/)
+- [Behance](https://www.behance.net/)
+- [siteinspire](https://www.siteinspire.com/)
+- [awwwards](https://www.awwwards.com/)
+- [Land-book](https://land-book.com/)
 
 ## Illustrations
 
