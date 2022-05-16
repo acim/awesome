@@ -123,6 +123,18 @@ sudo apt-get install backintime-qt4
 
 - [restic - backup program that is fast, efficient and secure](https://github.com/restic/restic)
 
+## Web Analytics
+
+- [Plausible Analytics](https://github.com/plausible/analytics)
+- [Shynet](https://github.com/milesmcc/shynet)
+- [umami](https://github.com/mikecao/umami)
+- [GoatCounter](https://github.com/arp242/goatcounter)
+- [Fathom Lite](https://github.com/usefathom/fathom)
+
+## URL shorteners with statistics
+
+- [Kutt - modern URL shortener and the click rate statistics](https://github.com/thedevs-network/kutt)
+
 ## Licenses
 
 - [BSD+Patent](https://opensource.org/licenses/BSDplusPatent)
