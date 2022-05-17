@@ -61,6 +61,7 @@
 - [Command Line Applications in Rust](https://rust-cli.github.io/book/index.html)
 - [Rain's Rust CLI recommendations](https://rust-cli-recommendations.sunshowers.io/)
 - [Effective Rust](https://www.lurklurk.org/effective-rust/)
+- [Secure Rust Guidelines](https://anssi-fr.github.io/rust-guide)
 
 ## Desktop / GUI
 
