@@ -1,5 +1,7 @@
 # awesome
 
+[![License](https://img.shields.io/badge/license-BSD--2--Clause--Patent-orange.svg)](https://github.com/acim/awesome/blob/main/LICENSE)
+
 A curated list of delightful developers resources.
 
 - [CSS](css.md)
