@@ -135,6 +135,10 @@ sudo apt-get install backintime-qt4
 
 - [Kutt - modern URL shortener and the click rate statistics](https://github.com/thedevs-network/kutt)
 
+## Networking
+
+- [CIDR to IPv4 Conversion](https://www.ipaddressguide.com/cidr)
+
 ## Licenses
 
 - [BSD+Patent](https://opensource.org/licenses/BSDplusPatent)
