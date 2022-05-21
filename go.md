@@ -38,6 +38,10 @@
 - [How to Implement Domain-Driven Design in Go](https://towardsdatascience.com/how-to-implement-domain-driven-design-ddd-in-golang-2e2139beb09d)
 - [Go Code Review Comments](https://github.com/golang/go/wiki/CodeReviewComments)
 
+## Books
+
+- [Learning Go - Chapter 15 - Welcome to the Future: Generics in Go](https://learning-go-book.dev/chapter15_learningGo.pdf)
+
 ## Blogs
 
 - [A Journey With Go](https://medium.com/a-journey-with-go)
