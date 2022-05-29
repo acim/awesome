@@ -136,6 +136,10 @@ sudo apt-get install backintime-qt4
 
 - [Kutt - modern URL shortener and the click rate statistics](https://github.com/thedevs-network/kutt)
 
+## Hardware
+
+- [TinyPilot - turn your Raspberry Pi into a browser-based KVM](https://github.com/tiny-pilot/tinypilot)
+
 ## Networking
 
 - [CIDR to IPv4 Conversion](https://www.ipaddressguide.com/cidr)
