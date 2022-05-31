@@ -67,6 +67,7 @@
 ## Redis
 
 - [SSL Configuration Generator](https://ssl-config.mozilla.org/#server=redis&version=6.0&config=modern&openssl=1.1.1k&guideline=5.6)
+- [Dragonfly - faster Redis and Memcached compatible store](https://github.com/dragonflydb/dragonfly)
 
 ## Graph databases
 
