@@ -81,6 +81,7 @@ sudo apt-get install backintime-qt4
 - [Convert curl commands to Python, JavaScript, PHP, R, Go, Rust, Elixir, Java, MATLAB, Ansible URI, Strest, Dart or JSON](https://curlconverter.com/)
 - [Awesome-Selfhosted - the practice of hosting and managing applications on your own server(s) instead of consuming from SaaSS providers](https://github.com/awesome-selfhosted/awesome-selfhosted)
 - [free-for.dev - list of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers.](https://github.com/ripienaar/free-for-dev)
+- [mdBook - utility to create modern online books from Markdown files](https://github.com/rust-lang/mdBook)
 
 ## Standards
 
