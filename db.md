@@ -48,6 +48,8 @@
 - [pgbadger - fast PostgreSQL log analyzer](https://github.com/darold/pgbadger)
 - [pgcopydb - pg_dump | pg_restore on steroids](https://github.com/dimitri/pgcopydb)
 - [PGLoader - data loading tool for PostgreSQL using the COPY command](https://github.com/dimitri/pgloader)
+- [Transporter - database transformations from one store to another (supports ElasticSearch, MongoDB, PostgreSQL, RabbitMQ, MySQL)](https://github.com/compose/transporter)
+- [pg_rman - online backup and restore tool for PostgreSQL](https://github.com/ossc-db/pg_rman)
 
 ### Video tutorials
 
