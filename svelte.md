@@ -21,20 +21,20 @@
 - [Svelte Society Recipes and Components](https://sveltesociety.dev/)
 - [Modern fetch in Svelte using stores](https://www.youtube.com/watch?v=IUHkSoBxyLM)
 - [Cheat Sheet](https://sveltesociety.dev/cheatsheet)
+- [Adding Tailwind and Daisy UI to SvelteKit](https://dev.to/brewhousedigital/adding-tailwind-and-daisy-ui-to-sveltekit-2hk5)
 
-## Blogs
+## Video tutorials
 
-- [Niels van der Molen - Svelte Blog](https://www.nielsvandermolen.com/category/svelte/)
-- [David Lacourt - Svelte Blog](https://lacourt.dev/)
-- [svelte-chota](https://github.com/AlexxNB/svelte-chota)
+- [SvelteKit crash course with Tailwind CSS and DaisyUI, GraphQL and dynamic routes](https://www.youtube.com/watch?v=zH2qG9YwN3s)
 
 ## UI Libraries
 
-- [sveltestrap - Bootstrap 4](https://github.com/bestguy/sveltestrap)
+- [sveltestrap - Bootstrap 5 components for Svelte](https://github.com/bestguy/sveltestrap)
 - [svelma - Bulma](https://github.com/c0bra/svelma)
 - [Additional Bulma based UI components](https://github.com/elcobvg/svelte-bulma-components)
 - [Svelte Material UI](https://github.com/hperrin/svelte-material-ui)
 - [Smelte - UI framework with material components built with Svelte and Tailwind CSS](https://github.com/matyunya/smelte)
+- [daisyUI - the most popular, free and open-source Tailwind CSS component library](https://daisyui.com/)
 
 ## Components
 
