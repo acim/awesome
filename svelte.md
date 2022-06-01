@@ -25,6 +25,7 @@
 
 ## Video tutorials
 
+- [Svelte setup with Vite, Tailwind, DaisyUI and custom themes](https://www.youtube.com/watch?v=5lF5PxBJoso)
 - [SvelteKit crash course with Tailwind CSS and DaisyUI, GraphQL and dynamic routes](https://www.youtube.com/watch?v=zH2qG9YwN3s)
 
 ## UI Libraries
