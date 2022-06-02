@@ -347,6 +347,7 @@
 - [Server reflection service](https://github.com/grpc/grpc-go/tree/master/reflection)
 - [gRPC Long-lived Streaming](https://dev.bitolog.com/grpc-long-lived-streaming/)
 - [Generate a fully-working Go gRPC server in two minutes with Ent](https://entgo.io/blog/2021/03/18/generating-a-grpc-server-with-ent/)
+- [Connect - slim library for building browser and gRPC-compatible HTTP APIs](https://github.com/bufbuild/connect-go)
 
 ## E-Mail
 
