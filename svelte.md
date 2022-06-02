@@ -44,6 +44,7 @@
 - [Svelte image - preprocessor which automates image optimization](https://github.com/matyunya/svelte-image)
 - [svelte-dnd-action - action based drag and drop container](https://github.com/isaacHagoel/svelte-dnd-action)
 - [appwrite]https://github.com/appwrite/sdk-for-svelte
+- [Svelvet - lightweight component library for building interactive node-based diagrams](https://github.com/oslabs-beta/Svelvet)
 
 ## Charts
 
