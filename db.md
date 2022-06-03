@@ -39,6 +39,11 @@
 - [8 Fascinating Things You Probably Didn't Know PostgreSQL Can Do!](https://postgresweekly.com/link/122726/web)
 - [Storing Network Addresses using PostgreSQL](https://www.compose.com/articles/storing-network-addresses-using-postgresql/)
 
+## Elasticsearch
+
+- [zinc - lightweight alternative to elasticsearch that requires minimal resources](https://github.com/zinclabs/zinc)
+- [sonic - fast, lightweight and schema-less search backend](https://github.com/valeriansaliou/sonic)
+
 ### Tools
 
 - [pgwatch2 - flexible self-contained PostgreSQL metrics monitoring solution](https://github.com/cybertec-postgresql/pgwatch2)

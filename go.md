@@ -299,6 +299,8 @@
 - [GoKart - Go Security Static Analysis](https://github.com/praetorian-inc/gokart)
 - [nancy - tool to check for dependencies' vulnerabilities](https://github.com/sonatype-nexus-community/nancy)
 - [Don’t afraid of makefiles](https://sohlich.github.io/post/go_makefile/)
+- [leaf - general purpose reloader for all projects](https://github.com/vrongmeal/leaf)
+- [Air - live reload for Go apps](https://github.com/cosmtrek/air)
 
 ## Raspberry PI
 

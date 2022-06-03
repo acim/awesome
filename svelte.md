@@ -57,6 +57,9 @@
 
 - [How to Localize a Svelte App with svelte-i18n](https://phrase.com/blog/posts/how-to-localize-a-svelte-app-with-svelte-i18n/)
 - [svelte-i18n](https://github.com/kaisermann/svelte-i18n)
+- [typesafe-i18n - type-safe and lightweight internationalization library](https://github.com/ivanhofer/typesafe-i18n) ([video](https://www.youtube.com/watch?v=C6O5pMMMTG0))
+- [Inlang - localization solution build on top of Mozilla's Fluent](https://github.com/inlang/inlang) ([video](https://www.youtube.com/watch?v=6xzbc6QYzDs))
+- [sveltekit-i18n - tiny library with no external dependencies](https://github.com/sveltekit-i18n/lib)
 
 ## Forms and Validation
 
