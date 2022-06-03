@@ -100,3 +100,40 @@ ENTRYPOINT ["/app"]
 ```
 
 Use :debug tag which providers busybox sh.
+
+## Svelte Kit
+
+### Two stage build
+
+```
+# syntax=docker/dockerfile:1.3
+FROM node:18-alpine
+
+WORKDIR /app
+
+COPY . .
+
+RUN --mount=type=cache,target=~/.npm npm ci && \
+    npm audit fix && \
+    npm run build
+
+
+FROM node:18-alpine
+
+WORKDIR /app
+
+COPY --from=0 /app/package*.json ./
+
+RUN --mount=type=cache,target=~/.npm npm ci --production --ignore-scripts && \
+    npm audit fix
+
+COPY --from=0 /app/build ./
+
+EXPOSE 3000
+
+USER 1000:1000
+
+ENTRYPOINT ["node"]
+
+CMD ["index.js"]
+```
