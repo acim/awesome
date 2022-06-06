@@ -82,6 +82,7 @@ sudo apt-get install backintime-qt4
 - [Awesome-Selfhosted - the practice of hosting and managing applications on your own server(s) instead of consuming from SaaSS providers](https://github.com/awesome-selfhosted/awesome-selfhosted)
 - [free-for.dev - list of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers.](https://github.com/ripienaar/free-for-dev)
 - [mdBook - utility to create modern online books from Markdown files](https://github.com/rust-lang/mdBook)
+- [bore - modern, simple TCP tunnel in Rust that exposes local ports to a remote server bore.pub:<PORT>](https://github.com/ekzhang/bore)
 
 ## Standards
 
