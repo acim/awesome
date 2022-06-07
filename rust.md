@@ -166,6 +166,7 @@ Box<dyn Trait>
 - [Askama - template rendering engine based on Jinja](https://github.com/djc/askama)
 - [Using Askama with axum](https://github.com/djc/askama/blob/main/book/src/integrations.md)
 - [Example of rust-embed files with axum](https://github.com/pyrossh/rust-embed/blob/master/examples/axum.rs)
+- [maud - compile-time HTML templates](https://github.com/lambda-fairy/maud)
 
 ## HTTP Client
 
