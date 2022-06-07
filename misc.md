@@ -133,6 +133,7 @@ sudo apt-get install backintime-qt4
 - [umami](https://github.com/mikecao/umami)
 - [GoatCounter](https://github.com/arp242/goatcounter)
 - [Fathom Lite](https://github.com/usefathom/fathom)
+- [Scale8 - website analytics, JavaScript error tracking and tag manager](https://github.com/scale8/scale8)
 
 ## URL shorteners with statistics
 
