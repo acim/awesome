@@ -93,12 +93,15 @@
 - [Go, Generics, and Concurrency](https://medium.com/@jon_43067/go-generics-and-concurrency-d0dccab73a73) (with Promise example)
 - [ZenQ - low-latency thread-safe queue implemented using a lock-free ringbuffer](https://github.com/alphadose/ZenQ) (faster than channels)
 - [Concurrency Guide](https://github.com/luk4z7/go-concurrency-guide)
+- [ThreadSanitizer - typical data races](https://github.com/google/sanitizers/wiki/ThreadSanitizerGoManual)
+- [Uber data race patterns](https://eng.uber.com/data-race-patterns-in-go/)
 
 ## Generics
 
 - [go generics for the busy gopher](https://sethops1.net/post/go-generics-for-the-busy-gopher/)
 - [Juniper - extensions to the Go standard library using generics, including containers, iterators, and streams](https://github.com/bradenaw/juniper)
 - [Generic Data Structures](https://github.com/zyedidia/generic)
+- [mo - Monads and popular functional programming abstractions, Option, Result, Either, Future](https://github.com/samber/mo)
 
 ## HTTP Server
 
@@ -281,6 +284,7 @@
 - [How to do Continuous Integration like a boss](https://medium.com/pantomath/go-tools-gitlab-how-to-do-continuous-integration-like-a-boss-941a3a9ad0b6)
 - [Building a CI system with Jenkins](https://medium.com/@zarkopafilis/building-a-ci-system-for-go-with-jenkins-4ab04d4bacd0)
 - [Go recipes - handy commands to run in Go projects](https://github.com/nikolaydubina/go-recipes)
+- [gta - monorepo transitive analysis to find packages whose dependencies have changed](https://github.com/digitalocean/gta)
 
 ## Tools
 
@@ -381,10 +385,10 @@
 - [cockroachdb/errors](https://github.com/cockroachdb/errors)
 - [Working with Errors in Go 1.13](https://go.dev/blog/go1.13-errors)
 
-## Desktop and mobile
+## GUI
 
-- [fyne - Cross platform GUI](https://github.com/fyne-io/fyne)
-- [MacDriver - Native Mac APIs for Golang](https://github.com/progrium/macdriver)
+- [fyne - cross platform GUI](https://github.com/fyne-io/fyne) ([docs](https://developer.fyne.io/))
+- [MacDriver - native Mac APIs for Golang](https://github.com/progrium/macdriver)
 
 ## Kubernetes
 
@@ -398,13 +402,6 @@
 ## Geo location
 
 - [geodist - compute the distance between two geographic latitude and longitude coordinates](https://github.com/jftuga/geodist)
-
-## Find out unused code
-
-```sh
-env GO111MODULE=on go get honnef.co/go/tools/cmd/staticcheck@v0.0.1-2020.1.4
-staticcheck --unused.whole-program=true -- ./...
-```
 
 ## Job interview questions (find out the problem)
 

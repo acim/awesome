@@ -67,7 +67,7 @@
 - [Rust Fuzz Book](https://rust-fuzz.github.io/book/)
 - [rulex - new, portable, regular expression language](https://rulex-rs.github.io/docs/)
 
-## Desktop / GUI
+## GUI
 
 - [How I Built a Cross-Platform Desktop Application with Svelte, Redis, and Rust](https://css-tricks.com/how-i-built-a-cross-platform-desktop-application-with-svelte-redis-and-rust/)
 - [Tauri - Build smaller, faster, and more secure desktop applications with a web frontend](https://tauri.studio/en/)

@@ -119,7 +119,7 @@ sudo apt-get install backintime-qt4
 
 ### Messenger API's
 
-- [Dockerized Signal Messenger REST API](https://github.com/bbernhard/signal-cli-rest-api)
+- [Signal Messenger REST API](https://github.com/bbernhard/signal-cli-rest-api)
 
 ## Open Data
 
