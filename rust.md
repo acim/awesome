@@ -38,8 +38,9 @@
 
 ## Video tutorials
 
-- [David Pedersen](https://www.youtube.com/channel/UCDmSWx6SK0zCU2NqPJ0VmDQ/videos)
-- [Jon Gjengset](https://www.youtube.com/channel/UC_iD0xppBwwsrM9DegC5cQQ)
+- [David Pedersen](https://www.youtube.com/channel/UCDmSWx6SK0zCU2NqPJ0VmDQ/featured)
+- [Jon Gjengset](https://www.youtube.com/c/JonGjengset/featured)
+- [Thomas Holloway](https://www.youtube.com/c/nyxtom)
 
 ## Blogs
 
@@ -62,6 +63,7 @@
 - [Rain's Rust CLI recommendations](https://rust-cli-recommendations.sunshowers.io/)
 - [Effective Rust](https://www.lurklurk.org/effective-rust/)
 - [Secure Rust Guidelines](https://anssi-fr.github.io/rust-guide)
+- [Rust Fuzz Book](https://rust-fuzz.github.io/book/)
 
 ## Desktop / GUI
 
@@ -127,6 +129,8 @@ Box<dyn Trait>
 - [From Go To Rust - Advanced Testing](http://technosophos.com/2018/07/25/from-go-to-rust-advanced-testing.html)
 - [Test Cases in Rust are simple to write](https://blog.knoldus.com/test-cases-in-rust-are-simple-to-write/)
 - [cargo-nextest -next generation test runner for Rust projects](https://nexte.st/)
+- [cargo-fuzz - command line helpers for fuzzing](https://github.com/rust-fuzz/cargo-fuzz)
+- [Kani Rust Verifier - bit-precise model checker](https://github.com/model-checking/kani) (similar as fuzzing)
 
 ### Test response status
 
