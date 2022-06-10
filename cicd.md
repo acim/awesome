@@ -108,3 +108,4 @@ tasks:
 ## Infrastructure as code
 
 - [Crossplane - enables platform teams to assemble infrastructure from multiple vendors](https://github.com/crossplane/crossplane)
+- [Terraform generator](https://terragen.dev/)

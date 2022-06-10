@@ -84,6 +84,8 @@ sudo apt-get install backintime-qt4
 - [mdBook - utility to create modern online books from Markdown files](https://github.com/rust-lang/mdBook)
 - [bore - modern, simple TCP tunnel in Rust that exposes local ports to a remote server bore.pub:<PORT>](https://github.com/ekzhang/bore)
 - [Cloudflare - free DDoS protection, fastest DNS resolver, CDN and free SSL certificate](https://www.cloudflare.com/plans/free/)
+- [OBS Studio - free and open source software for live streaming and screen recording](https://github.com/obsproject/obs-studio)
+- [Shotcut - free, open source, cross-platform video editor](https://github.com/mltframework/shotcut)
 
 ## Standards
 
