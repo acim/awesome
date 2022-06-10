@@ -122,6 +122,7 @@ Box<dyn Trait>
 - [Creating a chat server with async Rust and Tokio](https://www.youtube.com/watch?v=4DqP57BHaXI&t=14s)
 - [smol - small and fast async runtime](https://github.com/smol-rs/smol)
 - [A Rusty Go at Channels](https://gsquire.github.io/static/post/a-rusty-go-at-channels/)
+- [Thread pool / Worker pool](https://doc.rust-lang.org/book/ch20-02-multithreaded.html)
 
 ## Testing
 
