@@ -64,6 +64,7 @@
 - [Effective Rust](https://www.lurklurk.org/effective-rust/)
 - [Secure Rust Guidelines](https://anssi-fr.github.io/rust-guide)
 - [Rust Fuzz Book](https://rust-fuzz.github.io/book/)
+- [rulex - new, portable, regular expression language](https://rulex-rs.github.io/docs/)
 
 ## Desktop / GUI
 
@@ -107,6 +108,7 @@ Box<dyn Trait>
 - [nom - parser combinators library written in Rust.](https://github.com/Geal/nom)
 - [libp2p - protocols, specifications and libraries for peer-to-peer network applications](https://github.com/libp2p/rust-libp2p)
 - [SQLx - async SQL crate featuring compile-time checked queries](https://github.com/launchbadge/sqlx)
+- [rulex - new, portable, regular expression language](https://github.com/rulex-rs/rulex)
 
 ## Concurrency and parallelism
 
