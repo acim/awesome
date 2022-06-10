@@ -79,6 +79,7 @@
 - [KDash - fast and simple CLI dashboard](https://github.com/kdash-rs/kdash)
 - [Click - CLI interactive controller made to manage a large number of clusters/objects quickly and efficiently](https://github.com/databricks/click)
 - [Submariner - direct networking between pods and services in different clusters](https://github.com/submariner-io/submariner)
+- [mirrord - easily mirror traffic from your Kubernetes cluster to your development environment](https://github.com/metalbear-co/mirrord)
 
 ## CI & CD
 
