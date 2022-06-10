@@ -19,7 +19,6 @@
 - [Seamless Responsive Photo Grid](https://css-tricks.com/seamless-responsive-photo-grid/)
 - [flex properties](https://css-tricks.com/almanac/properties/f/flex/)
 - [Jonas' Resources for Building Beautiful Websites with HTML5, CSS3 and JavaScript](http://codingheroes.io/resources/)
-- [modern-normalize](https://github.com/sindresorhus/modern-normalize)
 - [Blueprint CSS - A lightweight layout library for building great responsive mobile first UIs that work everywhere](https://blueprintcss.dev/)
 - [Responsive Grid System](http://www.responsivegridsystem.com/)
 - [Fancy CSS Button Hover Animations](https://www.youtube.com/watch?v=cH0TC9gWiAg)
@@ -30,8 +29,6 @@
 - [98.css - Windows 98 Style UI](https://jdan.github.io/98.css/)
 - [Guide to Responsive-Friendly CSS Columns](https://css-tricks.com/guide-responsive-friendly-css-columns/)
 - [What CSS to prefix?](http://shouldiprefix.com/)
-- [all property - resets all of the selected element’s properties](https://css-tricks.com/almanac/properties/a/all/)
-- [Normalize CSS or CSS Reset?! - code to reset most important elements](https://medium.com/@elad/normalize-css-or-css-reset-9d75175c5d1e)
 - [perspective property - gives an element a 3D-space by affecting the distance between the Z plane and the user](https://css-tricks.com/almanac/properties/p/perspective/)
 - [backface-visibility property - rotate an element so what we think of as the front of an element no longer faces the screen](https://css-tricks.com/almanac/properties/b/backface-visibility/)
 - [Cascading image using position sticky](https://codepen.io/drnaia100/full/LvbxNj)
@@ -44,8 +41,15 @@
 - [display: flow-root - replacement for clearfix](https://css-tricks.com/display-flow-root/)
 - [shape-outside - wrap text in circle, ellipse or other shape](https://css-tricks.com/almanac/properties/s/shape-outside/)
 - [1-Line Layouts](https://1linelayouts.glitch.me/)
-- [My Custom CSS Reset](https://www.joshwcomeau.com/css/custom-css-reset/)
 - [aspect-ratio property](https://css-irl.info/aspect-ratio-is-great/)
+
+## Reset
+
+- [modern-normalize](https://github.com/sindresorhus/modern-normalize)
+- [Normalize CSS or CSS Reset?! - code to reset most important elements](https://medium.com/@elad/normalize-css-or-css-reset-9d75175c5d1e)
+- [all property - resets all of the selected element’s properties](https://css-tricks.com/almanac/properties/a/all/)
+- [My Custom CSS Reset](https://www.joshwcomeau.com/css/custom-css-reset/)
+- [CSS Remedy - start your project with a remedy for the technical debt of CSS](https://github.com/jensimmons/cssremedy)
 
 ## Gradients
 
