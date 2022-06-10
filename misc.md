@@ -83,6 +83,7 @@ sudo apt-get install backintime-qt4
 - [free-for.dev - list of software (SaaS, PaaS, IaaS, etc.) and other offerings that have free tiers for developers.](https://github.com/ripienaar/free-for-dev)
 - [mdBook - utility to create modern online books from Markdown files](https://github.com/rust-lang/mdBook)
 - [bore - modern, simple TCP tunnel in Rust that exposes local ports to a remote server bore.pub:<PORT>](https://github.com/ekzhang/bore)
+- [Cloudflare - free DDoS protection, fastest DNS resolver, CDN and free SSL certificate](https://www.cloudflare.com/plans/free/)
 
 ## Standards
 
