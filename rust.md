@@ -41,6 +41,7 @@
 - [David Pedersen](https://www.youtube.com/channel/UCDmSWx6SK0zCU2NqPJ0VmDQ/featured)
 - [Jon Gjengset](https://www.youtube.com/c/JonGjengset/featured)
 - [Thomas Holloway](https://www.youtube.com/c/nyxtom)
+- [Practical Programming with Dr. Xu - wgpu graphics programming](https://www.youtube.com/c/PracticalProgrammingwithDrXu/featured)
 
 ## Blogs
 
@@ -169,11 +170,13 @@ Box<dyn Trait>
 - [rweb - yet another web server framework](https://github.com/kdy1/rweb)
 - [hRPC - simple RPC system for user-facing APIs](https://dev.to/harmonydevelopment/introducing-hrpc-a-simple-rpc-system-for-user-facing-apis-16ge)
 - [Poem Framework -fully featured web framework based on Tokio with OpenAPI specification generation](https://github.com/poem-web/poem)
+- [warp - super-easy, composable, web server framework](https://github.com/seanmonstar/warp)
 - [axum - web application framework that focuses on ergonomics and modularity](https://github.com/tokio-rs/axum/)
 - [Askama - template rendering engine based on Jinja](https://github.com/djc/askama)
 - [Using Askama with axum](https://github.com/djc/askama/blob/main/book/src/integrations.md)
 - [Example of rust-embed files with axum](https://github.com/pyrossh/rust-embed/blob/master/examples/axum.rs)
 - [maud - compile-time HTML templates](https://github.com/lambda-fairy/maud)
+- [Salvo - powerful and simplest web server framework](https://github.com/salvo-rs/salvo)
 
 ## HTTP Client
 
