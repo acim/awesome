@@ -30,7 +30,7 @@
 
 ## nginx
 
-- [NGINXConfig - the easiest way to configure a performant, secure, and stable NGINX server](https://www.digitalocean.com/community/tools/nginx)
+- [NGINX Config - NGINX configuration generator on steroids](https://github.com/digitalocean/nginxconfig.io)
 - [Avoiding the Top 10 NGINX Configuration Mistakes](https://www.nginx.com/blog/avoiding-top-10-nginx-configuration-mistakes/)
 
 ## How to use Synology DSM 6 with backintime over SSH
