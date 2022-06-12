@@ -135,6 +135,7 @@ Box<dyn Trait>
 - [cargo-nextest -next generation test runner for Rust projects](https://nexte.st/)
 - [cargo-fuzz - command line helpers for fuzzing](https://github.com/rust-fuzz/cargo-fuzz)
 - [Kani Rust Verifier - bit-precise model checker](https://github.com/model-checking/kani) (similar as fuzzing)
+- [Nextest - faster test runner with JUnit serializer](https://github.com/nextest-rs/nextest)
 
 ### Test response status
 
