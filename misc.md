@@ -86,6 +86,7 @@ sudo apt-get install backintime-qt4
 - [Cloudflare - free DDoS protection, fastest DNS resolver, CDN and free SSL certificate](https://www.cloudflare.com/plans/free/)
 - [OBS Studio - free and open source software for live streaming and screen recording](https://github.com/obsproject/obs-studio)
 - [Shotcut - free, open source, cross-platform video editor](https://github.com/mltframework/shotcut)
+- [MediaFire - 10GB free storage](https://www.mediafire.com/)
 
 ## Standards
 
