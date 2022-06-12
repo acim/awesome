@@ -87,6 +87,7 @@ sudo apt-get install backintime-qt4
 - [OBS Studio - free and open source software for live streaming and screen recording](https://github.com/obsproject/obs-studio)
 - [Shotcut - free, open source, cross-platform video editor](https://github.com/mltframework/shotcut)
 - [MediaFire - 10GB free storage](https://www.mediafire.com/)
+- [Lemmy - link aggregator / Reddit clone](https://github.com/LemmyNet/lemmy)
 
 ## Standards
 
