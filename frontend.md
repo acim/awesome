@@ -100,6 +100,11 @@
 - [FontSpark allows you to discover your next favorite font](https://fontspark.app/)
 - [Web Safe Fonts](https://www.cssfontstack.com/)
 - [Nunito](https://fonts.google.com/specimen/Nunito)
+- [GDPR Compliant Replacement for Google Fonts](https://fonts.bunny.net/about)
+
+### Replace Google fonts with GDPR compliant mirror
+
+https://fonts.googleapis.com/css -> https://fonts.bunny.net/css
 
 ## Security
 
