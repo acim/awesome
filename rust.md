@@ -42,6 +42,7 @@
 - [Jon Gjengset](https://www.youtube.com/c/JonGjengset/featured)
 - [Thomas Holloway](https://www.youtube.com/c/nyxtom)
 - [Practical Programming with Dr. Xu - wgpu graphics programming](https://www.youtube.com/c/PracticalProgrammingwithDrXu/featured)
+- [Microsoft Beginner's Series to Rust](https://docs.microsoft.com/en-us/shows/beginners-series-to-rust/)
 
 ## Blogs
 
