@@ -38,6 +38,7 @@
 - [Find and fix a missing PostgreSQL index](https://www.cybertec-postgresql.com/en/find-and-fix-a-missing-postgresql-index/)
 - [8 Fascinating Things You Probably Didn't Know PostgreSQL Can Do!](https://postgresweekly.com/link/122726/web)
 - [Storing Network Addresses using PostgreSQL](https://www.compose.com/articles/storing-network-addresses-using-postgresql/)
+- [How to Find and Stop Running Queries on PostgreSQL](https://adamj.eu/tech/2022/06/20/how-to-find-and-stop-running-queries-on-postgresql/)
 
 ## Elasticsearch
 
