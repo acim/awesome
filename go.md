@@ -374,6 +374,7 @@
 - [Reading files](http://kgrz.io/reading-files-in-go-an-overview.html)
 - [Ultimate Visual Guide to Go Enums and iota](https://blog.learngoprogramming.com/golang-const-type-enums-iota-bc4befd096d3)
 - [gopkg.in - versioned URLs that offer the proper metadata for redirecting the go tool onto well defined GitHub repositories](https://labix.org/gopkg.in)
+- [go-nanoid - very fast and efficient unique ID generator](https://github.com/jaevor/go-nanoid)
 
 ## Images
 
