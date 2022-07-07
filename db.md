@@ -53,6 +53,7 @@
 - [pg_rman - online backup and restore tool for PostgreSQL](https://github.com/ossc-db/pg_rman)
 - [Barman - Backup and recovery manager for PostgreSQL](https://github.com/EnterpriseDB/barman)
 - [EverSQL - online SQL query optimization tool](https://www.eversql.com/sql-query-optimizer/)
+- [PGSync - PostgreSQL to Elasticsearch sync](https://github.com/toluaina/pgsync)
 
 ### Video tutorials
 
