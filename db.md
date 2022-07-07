@@ -39,12 +39,6 @@
 - [8 Fascinating Things You Probably Didn't Know PostgreSQL Can Do!](https://postgresweekly.com/link/122726/web)
 - [Storing Network Addresses using PostgreSQL](https://www.compose.com/articles/storing-network-addresses-using-postgresql/)
 - [How to Find and Stop Running Queries on PostgreSQL](https://adamj.eu/tech/2022/06/20/how-to-find-and-stop-running-queries-on-postgresql/)
-- [Barman - Backup and recovery manager for PostgreSQL](https://github.com/EnterpriseDB/barman)
-
-## Elasticsearch
-
-- [zinc - lightweight alternative to elasticsearch that requires minimal resources](https://github.com/zinclabs/zinc)
-- [sonic - fast, lightweight and schema-less search backend](https://github.com/valeriansaliou/sonic)
 
 ### Tools
 
@@ -57,6 +51,8 @@
 - [PGLoader - data loading tool for PostgreSQL using the COPY command](https://github.com/dimitri/pgloader)
 - [Transporter - database transformations from one store to another (supports ElasticSearch, MongoDB, PostgreSQL, RabbitMQ, MySQL)](https://github.com/compose/transporter)
 - [pg_rman - online backup and restore tool for PostgreSQL](https://github.com/ossc-db/pg_rman)
+- [Barman - Backup and recovery manager for PostgreSQL](https://github.com/EnterpriseDB/barman)
+- [EverSQL - online SQL query optimization tool](https://www.eversql.com/sql-query-optimizer/)
 
 ### Video tutorials
 
@@ -67,6 +63,11 @@
 - ALTER DATABASE db SET statement_timeout = '60s';
 - CREATE EXTENSION pg_stat_statements;
 - ALTER DATABASE db SET log_min_duration_statement = '100ms';
+
+## Elasticsearch
+
+- [zinc - lightweight alternative to elasticsearch that requires minimal resources](https://github.com/zinclabs/zinc)
+- [sonic - fast, lightweight and schema-less search backend](https://github.com/valeriansaliou/sonic)
 
 ## MongoDB
 
