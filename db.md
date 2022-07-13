@@ -39,6 +39,7 @@
 - [8 Fascinating Things You Probably Didn't Know PostgreSQL Can Do!](https://postgresweekly.com/link/122726/web)
 - [Storing Network Addresses using PostgreSQL](https://www.compose.com/articles/storing-network-addresses-using-postgresql/)
 - [How to Find and Stop Running Queries on PostgreSQL](https://adamj.eu/tech/2022/06/20/how-to-find-and-stop-running-queries-on-postgresql/)
+- [Enabling and Enforcing SSL/TLS for PostgreSQL Connections](https://www.percona.com/blog/enabling-and-enforcing-ssl-tls-for-postgresql-connections/)
 
 ### Tools
 
