@@ -149,6 +149,7 @@
 - [Oso - policy engine for authorization](https://github.com/osohq/oso)
 - [Basic Role-Based HTTP Authorization in Go with Casbin](https://www.zupzup.org/casbin-http-role-auth/)
 - [SpiceDB - database system for managing security-critical application permissions](https://github.com/authzed/spicedb)
+- [Permify - authorization service & policy engine based on Google Zanzibar](https://github.com/Permify/permify)
 
 ## HTTP Client
 
