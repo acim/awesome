@@ -184,6 +184,7 @@
 - [Kong](https://github.com/alecthomas/kong)
 - [promptui - interactive prompt for command-line applications](https://github.com/manifoldco/promptui)
 - [tview - terminal UI library with rich, interactive widgets](https://github.com/rivo/tview)
+- [gum - tool for glamorous shell scripts](https://github.com/charmbracelet/gum)
 
 ## Docker
 
