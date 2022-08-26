@@ -335,6 +335,7 @@
 - [fgprof - profiler that allows you to analyze On-CPU as well as Off-CPU (e.g. I/O) time together](https://github.com/felixge/fgprof)
 - [profefe continuously collects profiling data](https://github.com/profefe/kube-profefe)
 - [Block Profiling in Go](https://github.com/DataDog/go-profiler-notes/blob/main/block.md)
+- [Fixing Memory Exhaustion Bugs](https://mtlynch.io/notes/picoshare-perf/)
 
 ## Public API's
 
