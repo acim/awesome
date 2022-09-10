@@ -95,6 +95,7 @@
 - [Concurrency Guide](https://github.com/luk4z7/go-concurrency-guide)
 - [ThreadSanitizer - typical data races](https://github.com/google/sanitizers/wiki/ThreadSanitizerGoManual)
 - [Uber data race patterns](https://eng.uber.com/data-race-patterns-in-go/)
+- [goleak - go routine leak detector](https://github.com/uber-go/goleak)
 
 ## Generics
 
@@ -336,6 +337,8 @@
 - [profefe continuously collects profiling data](https://github.com/profefe/kube-profefe)
 - [Block Profiling in Go](https://github.com/DataDog/go-profiler-notes/blob/main/block.md)
 - [Fixing Memory Exhaustion Bugs](https://mtlynch.io/notes/picoshare-perf/)
+- [GopherCon Europe 2022: Bill Kennedy - Practical Memory Profiling](https://www.youtube.com/watch?v=6qAfkJGWsns)
+- [Statsviz - visualise Go program runtime metrics data in real time: heap, objects, goroutines, GC pauses, scheduler, etc. in your browser](https://github.com/arl/statsviz)
 
 ## Public API's
 
