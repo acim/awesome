@@ -40,6 +40,7 @@
 - [Storing Network Addresses using PostgreSQL](https://www.compose.com/articles/storing-network-addresses-using-postgresql/)
 - [How to Find and Stop Running Queries on PostgreSQL](https://adamj.eu/tech/2022/06/20/how-to-find-and-stop-running-queries-on-postgresql/)
 - [Enabling and Enforcing SSL/TLS for PostgreSQL Connections](https://www.percona.com/blog/enabling-and-enforcing-ssl-tls-for-postgresql-connections/)
+- [Choosing a Postgres primary key](https://supabase.com/blog/choosing-a-postgres-primary-key)
 
 ### Tools
 
@@ -55,6 +56,7 @@
 - [Barman - Backup and recovery manager for PostgreSQL](https://github.com/EnterpriseDB/barman)
 - [EverSQL - online SQL query optimization tool](https://www.eversql.com/sql-query-optimizer/)
 - [PGSync - PostgreSQL to Elasticsearch sync](https://github.com/toluaina/pgsync)
+- [pg_netstat - PostgreSQL database network traffic monitor](https://github.com/supabase/pg_netstat)
 
 ### Video tutorials
 
