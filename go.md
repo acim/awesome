@@ -366,6 +366,13 @@
 - [Hermes - Clean, responsive HTML e-mails](https://github.com/matcornic/hermes)
 - [Trumail - email validation/verification system](https://github.com/trumail/trumail)
 
+## Distributed locks using Redis
+
+- [Implementing Redlock on Redis for distributed locks](https://levelup.gitconnected.com/implementing-redlock-on-redis-for-distributed-locks-a3cfe60d4ea4)
+- [Demo Redlock](https://github.com/syafdia/go-exercise/tree/master/src/etc/demo-redlock)
+- [Redsync](https://github.com/go-redsync/redsync)
+- [How to do distributed locking](https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html)
+
 ## Miscellaneous
 
 - [File type discovery using magic numbers](https://github.com/h2non/filetype)
