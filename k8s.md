@@ -125,6 +125,8 @@
 - [Using custom domain for GitHub pages](https://medium.com/@hossainkhan/using-custom-domain-for-github-pages-86b303d3918a)
 - [kubeval - plugin for validating Helm charts against the Kubernetes schemas using kubeval](https://github.com/instrumenta/helm-kubeval)
 - [conftest - plugin for testing Helm charts with Open Policy Agent using conftest](https://github.com/instrumenta/helm-conftest)
+- [Chart Releaser](https://github.com/helm/chart-releaser)
+- [Chart Releaser GitHub Action](https://github.com/helm/chart-releaser-action)
 
 ## Custom Resource Definitions and Development of Kubernetes Applications
 
