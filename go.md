@@ -96,6 +96,7 @@
 - [ThreadSanitizer - typical data races](https://github.com/google/sanitizers/wiki/ThreadSanitizerGoManual)
 - [Uber data race patterns](https://eng.uber.com/data-race-patterns-in-go/)
 - [goleak - go routine leak detector](https://github.com/uber-go/goleak)
+- [xsync - Concurrent data structures - counter, map and queue](https://github.com/puzpuzpuz/xsync)
 
 ## Generics
 
@@ -372,6 +373,10 @@
 - [Demo Redlock](https://github.com/syafdia/go-exercise/tree/master/src/etc/demo-redlock)
 - [Redsync](https://github.com/go-redsync/redsync)
 - [How to do distributed locking](https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html)
+
+## Cache
+
+- [groupcache/lru](https://github.com/golang/groupcache/blob/master/lru/lru.go)
 
 ## Miscellaneous
 
