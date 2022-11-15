@@ -331,6 +331,7 @@
 - [Gnomock - integration and e2e testing toolkit using Docker temporary containers](https://github.com/orlangure/gnomock)
 - [strikememongo - package that spins up a real MongoDB server, backed by in-memory storage, for use in testing and mocking during development](https://github.com/strikesecurity/strikememongo)
 - [go-cmp - package for equality of Go values](https://github.com/google/go-cmp)
+- [embedded-postgres - run a real Postgres database locally as part of another Go application or test](https://github.com/fergusstrange/embedded-postgres)
 
 ## Profiling
 
@@ -367,12 +368,14 @@
 - [Hermes - Clean, responsive HTML e-mails](https://github.com/matcornic/hermes)
 - [Trumail - email validation/verification system](https://github.com/trumail/trumail)
 
-## Distributed locks using Redis
+## Distributed locking
 
 - [Implementing Redlock on Redis for distributed locks](https://levelup.gitconnected.com/implementing-redlock-on-redis-for-distributed-locks-a3cfe60d4ea4)
 - [Demo Redlock](https://github.com/syafdia/go-exercise/tree/master/src/etc/demo-redlock)
 - [Redsync](https://github.com/go-redsync/redsync)
 - [How to do distributed locking](https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html)
+- [redislock - simplified distributed locking implementation using Redis](https://github.com/bsm/redislock)
+- [pglock - PostgreSQL lock client](https://github.com/cirello-io/pglock)
 
 ## Cache
 
