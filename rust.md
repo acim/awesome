@@ -67,6 +67,7 @@
 - [Secure Rust Guidelines](https://anssi-fr.github.io/rust-guide)
 - [Rust Fuzz Book](https://rust-fuzz.github.io/book/)
 - [rulex - new, portable, regular expression language](https://rulex-rs.github.io/docs/)
+- [Error Handling in Rust](https://nrc.github.io/error-docs/)
 
 ## GUI
 
