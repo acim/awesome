@@ -29,14 +29,13 @@
 - [Stripping dependency bloat](https://medium.com/@valyala/stripping-dependency-bloat-in-victoriametrics-docker-image-983fb5912b0d)
 - [Supercronic - crontab-compatible job runner designed to run in containers](https://github.com/aptible/supercronic)
 - [Thanos Coding Style Guide](https://www.bwplotka.dev/2020/how-thanos-would-program-in-go/)
-- [Uber Go style guide](https://github.com/uber-go/guide/blob/master/style.md)
 - [Ultimate Go - notes on work with Go](https://github.com/betty200744/ultimate-go)
 - [Using the Service Object pattern](https://www.calhoun.io/using-the-service-object-pattern-in-go/)
 - [Why Go’s Cmd.Run fails without /dev/null](https://rohitpaulk.com/articles/cmd-run-dev-null)
 - [Working with Errors in Go 1.13](https://blog.golang.org/go1.13-errors)
-- [awesome-go-style - collection of style guides](https://github.com/dgryski/awesome-go-style)
 - [How to Implement Domain-Driven Design in Go](https://towardsdatascience.com/how-to-implement-domain-driven-design-ddd-in-golang-2e2139beb09d)
 - [Go Code Review Comments](https://github.com/golang/go/wiki/CodeReviewComments)
+- [Style Guide](https://google.github.io/styleguide/go/index)
 
 ## Books
 
