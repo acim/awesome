@@ -109,3 +109,4 @@ tasks:
 
 - [Crossplane - enables platform teams to assemble infrastructure from multiple vendors](https://github.com/crossplane/crossplane)
 - [Terraform generator](https://terragen.dev/)
+- [Terraformer - CLI tool that generates tf/json and tfstate files based on existing infrastructure (reverse Terraform)](https://github.com/GoogleCloudPlatform/terraformer)
