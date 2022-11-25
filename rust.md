@@ -196,6 +196,7 @@ Box<dyn Trait>
 - [cargo-crev - cryptographically verifiable code review system](https://web.crev.dev/rust-reviews/)
 - [cargo-udeps - find unused dependencies](https://github.com/est31/cargo-udeps)
 - [cargo-readme - generate README.md from doc comments](https://github.com/livioribeiro/cargo-readme)
+- [Rust and the hidden cargo clippy](https://community.ops.io/navarroaxel/rust-and-the-hidden-cargo-clippy-1cim)
 
 ## Performance
 
@@ -251,6 +252,7 @@ Useful if you are prototyping and are just looking to have your code typecheck.
 - [A Beginner's Guide to Handling Errors in Rust](https://dev.to/seanchen1991/a-beginner-s-guide-to-handling-errors-in-rust-40k2)
 - [How to Tackle Error in Rust Programming](https://blog.knoldus.com/how-to-tackle-error-in-rust-programming/)
 - [The simplest guide to error handling in Rust](https://kerkour.com/rust-error-handling/)
+- [Beginner-Intermediate Rust error handling](https://blog.vashishtha.in/rust-error-handling/)
 
 ### [failure crate - handle multiple error types, chain errors](https://docs.rs/failure/0.1.8/failure/)
 
