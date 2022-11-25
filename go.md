@@ -15,7 +15,6 @@
 - [Functional Options - Implementing clean APIs](https://github.com/tmrts/go-patterns/blob/master/idiom/functional-options.md)
 - [Go by Example](https://gobyexample.com/)
 - [Go Web Examples](https://gowebexamples.com/)
-- [How to create an SSH tunnel](http://elliot.land/post/how-to-create-an-ssh-tunnel-in-go)
 - [How to improve latency by 700% using sync.Pool](http://www.akshaydeo.com/blog/2017/12/23/How-did-I-improve-latency-by-700-percent-using-syncPool/)
 - [How to Structure a Go Command-Line Project](https://bencane.com/2020/12/29/how-to-structure-a-golang-cli-project/)
 - [Implementing Clean Arhitecture in Go - DDD](https://dormoshe.io/trending-news/implementing-clean-architecture-in-go-14502)
@@ -299,7 +298,6 @@
 - [Find outdated dependencies](https://github.com/psampaz/go-mod-outdated)
 - [Using Makefiles for Go](https://danishpraka.sh/2019/12/07/using-makefiles-for-go.html)
 - [ko - tool for building and deploying Golang applications to Kubernetes](https://github.com/google/ko)
-- [vssh - library to handle tens of thousands SSH connections and execute the command(s)](https://github.com/yahoo/vssh)
 - [Chronos - static race detector](https://github.com/amit-davidson/Chronos)
 - [structslop - checks if struct's fields can be re-arranged to get optimal struct size](https://github.com/orijtech/structslop)
 - [goreadme - generates readme markdown file from go doc - contains github action as well](goreadme)
@@ -424,6 +422,12 @@
 ## Geo location
 
 - [geodist - compute the distance between two geographic latitude and longitude coordinates](https://github.com/jftuga/geodist)
+
+## SSH
+
+- [How to create an SSH tunnel](http://elliot.land/post/how-to-create-an-ssh-tunnel-in-go)
+- [vssh - library to handle tens of thousands SSH connections and execute the command(s)](https://github.com/yahoo/vssh)
+- [SSH port forwarding with Go](https://eli.thegreenplace.net/2022/ssh-port-forwarding-with-go/)
 
 ## Job interview questions (find out the problem)
 
