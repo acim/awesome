@@ -104,6 +104,7 @@ tasks:
 - [GitHub Actions by Example](https://www.actionsbyexample.com/)
 - [How We Write GitHub Actions in Go](https://full-stack.blend.com/how-we-write-github-actions-in-go.html)
 - [GitHub Actions best practices for Rust projects](https://www.infinyon.com/blog/2021/04/github-actions-best-practices/)
+- [act - run your GitHub Actions locally](https://github.com/nektos/act)
 
 ## Infrastructure as code
 
