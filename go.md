@@ -93,7 +93,6 @@
 - [Concurrency Guide](https://github.com/luk4z7/go-concurrency-guide)
 - [ThreadSanitizer - typical data races](https://github.com/google/sanitizers/wiki/ThreadSanitizerGoManual)
 - [Uber data race patterns](https://eng.uber.com/data-race-patterns-in-go/)
-- [goleak - go routine leak detector](https://github.com/uber-go/goleak)
 - [xsync - Concurrent data structures - counter, map and queue](https://github.com/puzpuzpuz/xsync)
 
 ## Generics
@@ -330,6 +329,7 @@
 - [strikememongo - package that spins up a real MongoDB server, backed by in-memory storage, for use in testing and mocking during development](https://github.com/strikesecurity/strikememongo)
 - [go-cmp - package for equality of Go values](https://github.com/google/go-cmp)
 - [embedded-postgres - run a real Postgres database locally as part of another Go application or test](https://github.com/fergusstrange/embedded-postgres)
+- [goleak - go routine leak detector](https://github.com/uber-go/goleak)
 
 ## Profiling
 
