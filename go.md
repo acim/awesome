@@ -185,6 +185,7 @@
 - [promptui - interactive prompt for command-line applications](https://github.com/manifoldco/promptui)
 - [tview - terminal UI library with rich, interactive widgets](https://github.com/rivo/tview)
 - [gum - tool for glamorous shell scripts](https://github.com/charmbracelet/gum)
+- [Extending pflag with environment variables](https://scene-si.org/2020/04/28/extending-pflag-with-environment-variables/)
 
 ## Docker
 
