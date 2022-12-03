@@ -127,8 +127,7 @@
 ```json
 {
   "bungcip.better-toml",
-  "matklad.rust-analyzer",
-  "rust-lang.rust",
+  "rust-lang.rust-analyzer",
   "serayuzgur.crates",
   "vadimcn.vscode-lldb".
 }
