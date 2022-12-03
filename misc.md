@@ -90,6 +90,7 @@ sudo apt-get install backintime-qt4
 - [Lemmy - link aggregator / Reddit clone](https://github.com/LemmyNet/lemmy)
 - [Medusa - open-source Shopify alternative](https://github.com/medusajs/medusa)
 - [IPTV - collection of publicly available channels from all over the world](https://github.com/iptv-org/iptv)
+- [Casnode - forum (BBS) software developed by Go and React](https://github.com/casbin/casnode)
 
 ## Standards
 

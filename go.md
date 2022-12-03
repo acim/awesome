@@ -35,6 +35,7 @@
 - [How to Implement Domain-Driven Design in Go](https://towardsdatascience.com/how-to-implement-domain-driven-design-ddd-in-golang-2e2139beb09d)
 - [Go Code Review Comments](https://github.com/golang/go/wiki/CodeReviewComments)
 - [Style Guide](https://google.github.io/styleguide/go/index)
+- [Exploring Network Programming by Building a Toxiproxy Clone](https://www.youtube.com/watch?v=8z6okCgdREo)
 
 ## Books
 
@@ -131,6 +132,8 @@
 - [SSL Configuration Generator](https://ssl-config.mozilla.org/#server=go&version=1.14.4&config=modern&guideline=5.6)
 - [Validating HTTP JSON Requests](https://tutorialedge.net/golang/validating-http-json-requests/)
 - [Bud - Fullstack Go Framework for Prolific Web Developers](https://github.com/livebud/bud)
+- [quicktemplate - fast, powerful and easy to use template engine](https://github.com/valyala/quicktemplate)
+- [Using Server Sent Events to Simplify Real-time Streaming at Scale](https://shopify.engineering/server-sent-events-data-streaming)
 
 ## Auth
 
@@ -395,6 +398,7 @@
 - [gopkg.in - versioned URLs that offer the proper metadata for redirecting the go tool onto well defined GitHub repositories](https://labix.org/gopkg.in)
 - [go-nanoid - very fast and efficient unique ID generator](https://github.com/jaevor/go-nanoid)
 - [zerolog - zero allocation JSON logger](https://github.com/rs/zerolog)
+- [Free Gophers Pack - pack of 100+ gopher pictures and elements](https://github.com/MariaLetta/free-gophers-pack)
 
 ## Images
 
