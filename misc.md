@@ -155,6 +155,10 @@ sudo apt-get install backintime-qt4
 
 - [CIDR to IPv4 Conversion](https://www.ipaddressguide.com/cidr)
 
+# Natural Language Processing
+
+- [Natural Language Processing Demystified](https://www.nlpdemystified.org/)
+
 ## Licenses
 
 - [BSD+Patent](https://opensource.org/licenses/BSDplusPatent)
