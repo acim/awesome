@@ -1,5 +1,7 @@
 # Databases
 
+- [DB Fiddle - PostgreSQL, MySQL and SQLite playground](https://www.db-fiddle.com/)
+
 ## MySQL
 
 - [17 Key MySQL Config File Settings](http://www.speedemy.com/17-key-mysql-config-file-settings-mysql-5-7-proof/)
