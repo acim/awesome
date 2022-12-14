@@ -43,6 +43,7 @@ tsc --init
 - [chart.xkcd - Chart library that plots "sketchy", "cartoony" or "hand-drawn" styled charts](https://github.com/timqian/chart.xkcd)
 - [vanilla-tilt.js - Smooth 3D tilt jlibrary](https://micku7zu.github.io/vanilla-tilt.js/)
 - [dropzone.js - upload files by drag&drop](https://www.dropzonejs.com/)
+- [Unovis - modular data visualization framework for React, Angular and Svelte](https://github.com/f5/unovis)
 
 ## Canvas
 
