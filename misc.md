@@ -166,6 +166,7 @@ sudo apt-get install backintime-qt4
 - [SPDX License List](https://spdx.org/licenses/)
 - [License List Data](https://github.com/spdx/license-list-data/tree/v3.11)
 - [Check License Online](https://tools.spdx.org/app/check_license/)
+- [Apache 2.0 and MIT howto](https://rust-lang.github.io/api-guidelines/necessities.html)
 
 # GDPR
 
