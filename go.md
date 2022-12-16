@@ -95,6 +95,7 @@
 - [ThreadSanitizer - typical data races](https://github.com/google/sanitizers/wiki/ThreadSanitizerGoManual)
 - [Uber data race patterns](https://eng.uber.com/data-race-patterns-in-go/)
 - [xsync - Concurrent data structures - counter, map and queue](https://github.com/puzpuzpuz/xsync)
+- [Data Race Patterns in Go](https://www.uber.com/en-DE/blog/data-race-patterns-in-go/)
 
 ## Generics
 
@@ -102,6 +103,7 @@
 - [Juniper - extensions to the Go standard library using generics, including containers, iterators, and streams](https://github.com/bradenaw/juniper)
 - [Generic Data Structures](https://github.com/zyedidia/generic)
 - [mo - Monads and popular functional programming abstractions, Option, Result, Either, Future](https://github.com/samber/mo)
+- [Crimes with Go Generics](https://xeiaso.net/blog/gonads-2022-04-24)
 
 ## HTTP Server
 
