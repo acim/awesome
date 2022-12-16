@@ -91,6 +91,8 @@ sudo apt-get install backintime-qt4
 - [Medusa - open-source Shopify alternative](https://github.com/medusajs/medusa)
 - [IPTV - collection of publicly available channels from all over the world](https://github.com/iptv-org/iptv)
 - [Casnode - forum (BBS) software developed by Go and React](https://github.com/casbin/casnode)
+- [supabase - Firebase alternative](https://github.com/supabase/supabase)
+- [PocketBase - embedded SQLite database, files and users management, admin UI, REST API](https://github.com/pocketbase/pocketbase)
 
 ## Standards
 

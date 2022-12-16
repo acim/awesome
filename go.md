@@ -392,13 +392,14 @@
 - [Pigo - pure Go face detection](https://github.com/esimov/pigo)
 - [libp2p - protocols, specifications and libraries for peer-to-peer network applications](https://github.com/libp2p/go-libp2p)
 - [Execute JavaScript from Go](https://github.com/rogchap/v8go)
-- [WebAssembly Powered Go Playground](https://go-playground-wasm.vercel.app/)
+- [WebAssembly Powered Go Playground](https://go-playground-wasm.vercel.app)
 - [Reading files](http://kgrz.io/reading-files-in-go-an-overview.html)
 - [Ultimate Visual Guide to Go Enums and iota](https://blog.learngoprogramming.com/golang-const-type-enums-iota-bc4befd096d3)
 - [gopkg.in - versioned URLs that offer the proper metadata for redirecting the go tool onto well defined GitHub repositories](https://labix.org/gopkg.in)
 - [go-nanoid - very fast and efficient unique ID generator](https://github.com/jaevor/go-nanoid)
 - [zerolog - zero allocation JSON logger](https://github.com/rs/zerolog)
 - [Free Gophers Pack - pack of 100+ gopher pictures and elements](https://github.com/MariaLetta/free-gophers-pack)
+- [Better playground](https://goplay.tools/)
 
 ## Images
 
@@ -414,6 +415,7 @@
 
 - [fyne - cross platform GUI](https://github.com/fyne-io/fyne) ([docs](https://developer.fyne.io/))
 - [MacDriver - native Mac APIs for Golang](https://github.com/progrium/macdriver)
+- [wails - create beautiful desktop applications](https://github.com/wailsapp/wails)
 
 ## Kubernetes
 
