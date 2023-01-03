@@ -68,6 +68,7 @@
 - [Rust Fuzz Book](https://rust-fuzz.github.io/book/)
 - [rulex - new, portable, regular expression language](https://rulex-rs.github.io/docs/)
 - [Error Handling in Rust](https://nrc.github.io/error-docs/)
+- [Rust for professionals](https://overexact.com/rust-for-professionals/)
 
 ## GUI
 
