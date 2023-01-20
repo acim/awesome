@@ -43,6 +43,7 @@
 - [How to Find and Stop Running Queries on PostgreSQL](https://adamj.eu/tech/2022/06/20/how-to-find-and-stop-running-queries-on-postgresql/)
 - [Enabling and Enforcing SSL/TLS for PostgreSQL Connections](https://www.percona.com/blog/enabling-and-enforcing-ssl-tls-for-postgresql-connections/)
 - [Choosing a Postgres primary key](https://supabase.com/blog/choosing-a-postgres-primary-key)
+- [How to JSON in PostgreSQ](https://ftisiot.net/postgresqljson/main/)
 
 ### Tools
 
