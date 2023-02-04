@@ -36,6 +36,7 @@
 - [Go Code Review Comments](https://github.com/golang/go/wiki/CodeReviewComments)
 - [Style Guide](https://google.github.io/styleguide/go/index)
 - [Exploring Network Programming by Building a Toxiproxy Clone](https://www.youtube.com/watch?v=8z6okCgdREo)
+- [Designing Go Libraries](https://abhinavg.net/2022/12/06/designing-go-libraries/)
 
 ## Books
 
@@ -402,6 +403,9 @@
 - [zerolog - zero allocation JSON logger](https://github.com/rs/zerolog)
 - [Free Gophers Pack - pack of 100+ gopher pictures and elements](https://github.com/MariaLetta/free-gophers-pack)
 - [Better playground](https://goplay.tools/)
+- [gnet - high-performance, lightweight, non-blocking, event-driven networking framework](https://github.com/panjf2000/gnet)
+- [gnet examples](https://github.com/gnet-io/gnet-examples)
+- [stats - comprehensive statistics library](https://github.com/montanaflynn/stats)
 
 ## Images
 
