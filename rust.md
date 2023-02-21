@@ -69,6 +69,7 @@
 - [rulex - new, portable, regular expression language](https://rulex-rs.github.io/docs/)
 - [Error Handling in Rust](https://nrc.github.io/error-docs/)
 - [Rust for professionals](https://overexact.com/rust-for-professionals/)
+- [The Rust Performance Book](https://nnethercote.github.io/perf-book/#the-rust-performance-book)
 
 ## GUI
 
