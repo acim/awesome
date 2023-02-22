@@ -367,6 +367,7 @@
 - [Generate a fully-working Go gRPC server in two minutes with Ent](https://entgo.io/blog/2021/03/18/generating-a-grpc-server-with-ent/)
 - [Connect - slim library for building browser and gRPC-compatible HTTP APIs](https://github.com/bufbuild/connect-go)
 - [DRPC - drop-in, lightweight gRPC replacement](https://github.com/storj/drpc)
+- [vtprotobuf - Vitess Protocol Buffers compiler](https://github.com/planetscale/vtprotobuf)
 
 ## E-Mail
 
