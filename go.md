@@ -97,6 +97,8 @@
 - [Uber data race patterns](https://eng.uber.com/data-race-patterns-in-go/)
 - [xsync - Concurrent data structures - counter, map and queue](https://github.com/puzpuzpuz/xsync)
 - [Data Race Patterns in Go](https://www.uber.com/en-DE/blog/data-race-patterns-in-go/)
+- [spinlock](https://github.com/julienschmidt/spinlock)
+- [concurrent map (sharded)](https://github.com/orcaman/concurrent-map)
 
 ## Generics
 
