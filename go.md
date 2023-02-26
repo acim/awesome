@@ -386,6 +386,7 @@
 ## Cache
 
 - [groupcache/lru](https://github.com/golang/groupcache/blob/master/lru/lru.go)
+- [Ristretto - fast, concurrent cache library](https://github.com/dgraph-io/ristretto)
 
 ## Miscellaneous
 
