@@ -39,6 +39,14 @@ apt-get install docker-ce="18.06.0~ce~3-0~ubuntu"
 
 - [Distroless Docker Images](https://github.com/GoogleContainerTools/distroless)
 
+## Images
+
+- [linuxserver.io - community images](https://fleet.linuxserver.io/)
+
+## Docker-compose
+
+- [Awesome Docker Compose Examples](https://github.com/Haxxnet/Compose-Examples)
+
 ## Security
 
 - [Vulnerability Static Analysis for Containers](https://github.com/coreos/clair)
