@@ -60,6 +60,7 @@
 - [EverSQL - online SQL query optimization tool](https://www.eversql.com/sql-query-optimizer/)
 - [PGSync - PostgreSQL to Elasticsearch sync](https://github.com/toluaina/pgsync)
 - [pg_netstat - PostgreSQL database network traffic monitor](https://github.com/supabase/pg_netstat)
+- [Pigsty - battery-included free RDS alternative](https://github.com/Vonng/pigsty)
 
 ### Video tutorials
 
