@@ -251,6 +251,9 @@
 - [Sonic - blazingly fast JSON serializing & deserializing library](https://github.com/bytedance/sonic)
 - [fastjson - fast JSON parser and validator](https://github.com/valyala/fastjson)
 - [JSON to Go](https://transform.tools/json-to-go)
+- [jsoniter - high-performance drop-in replacement of encoding/json](https://github.com/json-iterator/go)
+- [ffjson - faster JSON for Go (code generator)](https://github.com/pquerna/ffjson)
+- [pkg/json - alternative JSON decoder for Go](https://github.com/pkg/json)
 
 ## PDF
 
