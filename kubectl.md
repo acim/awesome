@@ -144,5 +144,6 @@ wget -qO - https://packages.cloud.google.com/apt/doc/apt-key.gpg | gpg --dearmor
 
 echo 'deb [ arch=amd64 signed-by=/usr/share/keyrings/kubernetes-archive-keyring.gpg ] http://apt.kubernetes.io/ kubernetes-xenial main' | sudo tee /etc/apt/sources.list.d/kubernetes.list
 
+sudo apt-get update
 sudo apt-get install kubectl
 ```

@@ -79,6 +79,7 @@ wget -qO - https://www.postgresql.org/media/keys/ACCC4CF8.asc | gpg --dearmor | 
 
 echo 'deb [ arch=amd64 signed-by=/usr/share/keyrings/postgresql-archive-keyring.gpg ] http://apt.postgresql.org/pub/repos/apt jammy-pgdg main' | sudo tee /etc/apt/sources.list.d/postgresql.list
 
+sudo apt-get update
 sudo apt-get install postgresql-client
 ```
 

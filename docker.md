@@ -153,6 +153,7 @@ wget -qO - https://download.docker.com/linux/ubuntu/gpg | gpg --dearmor | sudo d
 
 echo 'deb [ arch=amd64 signed-by=/usr/share/keyrings/docker-archive-keyring.gpg ] https://download.docker.com/linux/ubuntu jammy stable' | sudo tee /etc/apt/sources.list.d/docker.list
 
+sudo apt-get update
 sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin docker-compose-plugin
 ```
 
@@ -161,4 +162,15 @@ sudo apt-get install docker-ce docker-ce-cli containerd.io docker-buildx-plugin 
 ```sh
 export DOCKER_BUILDKIT=1
 export BUILDKIT_PROGRESS=plain
+```
+
+## Install trivy from apt
+
+```sh
+wget -qO - https://aquasecurity.github.io/trivy-repo/deb/public.key | gpg --dearmor | sudo dd of=/usr/share/keyrings/trivy-archive-keyring.gpg
+
+echo 'deb [ signed-by=/usr/share/keyrings/trivy-archive-keyring.gpg ] https://aquasecurity.github.io/trivy-repo/deb jammy main' | sudo tee -a /etc/apt/sources.list.d/trivy.list
+
+sudo apt-get update
+sudo apt-get install trivy
 ```
