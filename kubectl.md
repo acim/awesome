@@ -136,3 +136,13 @@ kubectl rollout undo
 ```sh
 kubectl explain --api-version="batch/v1beta1" cronjobs.spec
 ```
+
+## Install from apt
+
+```sh
+wget -qO - https://packages.cloud.google.com/apt/doc/apt-key.gpg | gpg --dearmor | sudo dd of=/usr/share/keyrings/kubernetes-archive-keyring.gpg
+
+echo 'deb [ arch=amd64 signed-by=/usr/share/keyrings/kubernetes-archive-keyring.gpg ] http://apt.kubernetes.io/ kubernetes-xenial main' | sudo tee /etc/apt/sources.list.d/kubernetes.list
+
+sudo apt-get install kubectl
+```

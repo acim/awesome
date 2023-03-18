@@ -72,6 +72,16 @@
 - CREATE EXTENSION pg_stat_statements;
 - ALTER DATABASE db SET log_min_duration_statement = '100ms';
 
+### Install from apt
+
+```sh
+wget -qO - https://www.postgresql.org/media/keys/ACCC4CF8.asc | gpg --dearmor | sudo dd of=/usr/share/keyrings/postgresql-archive-keyring.gpg
+
+echo 'deb [ arch=amd64 signed-by=/usr/share/keyrings/postgresql-archive-keyring.gpg ] http://apt.postgresql.org/pub/repos/apt jammy-pgdg main' | sudo tee /etc/apt/sources.list.d/postgresql.list
+
+sudo apt-get install postgresql-client
+```
+
 ## Elasticsearch
 
 - [zinc - lightweight alternative to elasticsearch that requires minimal resources](https://github.com/zinclabs/zinc)
@@ -94,3 +104,7 @@
 ## Key-Value stores
 
 - [TiKV - Distributed transactional key-value database](https://github.com/tikv/tikv)
+
+```
+
+```
