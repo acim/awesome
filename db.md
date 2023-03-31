@@ -105,7 +105,3 @@ sudo apt-get install postgresql-client
 ## Key-Value stores
 
 - [TiKV - Distributed transactional key-value database](https://github.com/tikv/tikv)
-
-```
-
-```

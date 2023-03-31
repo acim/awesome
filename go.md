@@ -336,11 +336,14 @@
 - [Mock DB for testing HTTP API in Go and achieve 100% coverage](https://dev.to/techschoolguru/mock-db-for-testing-http-api-in-go-and-achieve-100-coverage-4pa9)
 - [gomock - mocking framework](https://github.com/golang/mock)
 - [Testcontainers - friendly API to run Docker container, designed to create runtime environment for automatic tests](https://github.com/testcontainers/testcontainers-go)
+- [dockertest - use Docker to run your Go integration tests against third party services](https://github.com/ory/dockertest)
+- [Go integration tests with Postgres](https://www.storj.io/blog/go-integration-tests-with-postgres)
 - [Gnomock - integration and e2e testing toolkit using Docker temporary containers](https://github.com/orlangure/gnomock)
 - [strikememongo - package that spins up a real MongoDB server, backed by in-memory storage, for use in testing and mocking during development](https://github.com/strikesecurity/strikememongo)
 - [go-cmp - package for equality of Go values](https://github.com/google/go-cmp)
 - [embedded-postgres - run a real Postgres database locally as part of another Go application or test](https://github.com/fergusstrange/embedded-postgres)
 - [goleak - go routine leak detector](https://github.com/uber-go/goleak)
+- [sqlmock - mock library implementing sql/driver](https://github.com/DATA-DOG/go-sqlmock)
 
 ## Profiling
 
@@ -350,6 +353,10 @@
 - [Fixing Memory Exhaustion Bugs](https://mtlynch.io/notes/picoshare-perf/)
 - [GopherCon Europe 2022: Bill Kennedy - Practical Memory Profiling](https://www.youtube.com/watch?v=6qAfkJGWsns)
 - [Statsviz - visualise Go program runtime metrics data in real time: heap, objects, goroutines, GC pauses, scheduler, etc. in your browser](https://github.com/arl/statsviz)
+
+## Debugging
+
+- [Debugging dockerized Go applications with VS Code](https://www.kenaqshal.com/blog/debugging-dockerized-go-applications)
 
 ## Public API's
 
@@ -414,6 +421,8 @@
 - [gnet - high-performance, lightweight, non-blocking, event-driven networking framework](https://github.com/panjf2000/gnet)
 - [gnet examples](https://github.com/gnet-io/gnet-examples)
 - [stats - comprehensive statistics library](https://github.com/montanaflynn/stats)
+- [SwissMap - hash map with fast-hashing and parallel key lookups (faster than map)](https://github.com/dolthub/swiss)
+- [go-nbd - turn a file, byte slice, S3 bucket or other io.ReadWriter into a fully-fledged block device](https://github.com/pojntfx/go-nbd)
 
 ## Images
 
