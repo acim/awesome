@@ -459,6 +459,10 @@
 - [vssh - library to handle tens of thousands SSH connections and execute the command(s)](https://github.com/yahoo/vssh)
 - [SSH port forwarding with Go](https://eli.thegreenplace.net/2022/ssh-port-forwarding-with-go/)
 
+## NLP
+
+- [Cybertron - simple and easy-to-use interface for cutting-edge Natural Language Processing technologies](https://github.com/nlpodyssey/cybertron)
+
 ## Job interview questions (find out the problem)
 
 https://play.golang.org/p/n3iH7H11Uoe
