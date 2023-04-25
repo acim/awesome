@@ -147,6 +147,7 @@
 - [JWT auth in Go](https://medium.com/monstar-lab-bangladesh-engineering/jwt-auth-in-go-dde432440924)
 - [JWT auth in Go Part 2 — Refresh Tokens](https://medium.com/monstar-lab-bangladesh-engineering/jwt-auth-in-go-part-2-refresh-tokens-d334777ca8a0)
 - [jwt - Safe, simple and fast JSON Web Tokens for Go](https://github.com/cristalhq/jwt)
+- [Ory Kratos - security-hardened and battle-tested identity, user management and authentication system](https://github.com/ory/kratos)
 
 ## Authz
 
@@ -277,6 +278,7 @@
 - [scany - library for scanning data from a database into Go structs](https://github.com/georgysavva/scany)
 - [pgtools - code and infrastructure for working more effectively with PostgreSQL and Go using pgx, tern, and scany](https://github.com/hatch-studio/pgtools)
 - [FerretDB - proxy converting the MongoDB wire protocol queries to SQL using PostgreSQL as a database engine](https://github.com/FerretDB/FerretDB)
+- [Jet - SQL builder with code generation and automatic query result data mapping](https://github.com/go-jet/jet)
 
 ## GraphQL
 
@@ -344,6 +346,7 @@
 - [embedded-postgres - run a real Postgres database locally as part of another Go application or test](https://github.com/fergusstrange/embedded-postgres)
 - [goleak - go routine leak detector](https://github.com/uber-go/goleak)
 - [sqlmock - mock library implementing sql/driver](https://github.com/DATA-DOG/go-sqlmock)
+- [ooze - mutation testing](https://github.com/gtramontina/ooze)
 
 ## Profiling
 
@@ -423,6 +426,7 @@
 - [stats - comprehensive statistics library](https://github.com/montanaflynn/stats)
 - [SwissMap - hash map with fast-hashing and parallel key lookups (faster than map)](https://github.com/dolthub/swiss)
 - [go-nbd - turn a file, byte slice, S3 bucket or other io.ReadWriter into a fully-fledged block device](https://github.com/pojntfx/go-nbd)
+- [go2rtc - ultimate camera streaming application](https://github.com/AlexxIT/go2rtc)
 
 ## Images
 
