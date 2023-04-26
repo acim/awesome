@@ -44,6 +44,7 @@
 - [Enabling and Enforcing SSL/TLS for PostgreSQL Connections](https://www.percona.com/blog/enabling-and-enforcing-ssl-tls-for-postgresql-connections/)
 - [Choosing a Postgres primary key](https://supabase.com/blog/choosing-a-postgres-primary-key)
 - [How to JSON in PostgreSQ](https://ftisiot.net/postgresqljson/main/)
+- [Nine ways to shoot yourself in the foot with PostgreSQL](https://philbooth.me/blog/nine-ways-to-shoot-yourself-in-the-foot-with-postgresql)
 
 ### Tools
 
