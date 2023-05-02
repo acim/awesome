@@ -227,6 +227,10 @@
 - [Creating a Lambda function](https://docs.aws.amazon.com/sdk-for-go/v1/developer-guide/lambda-go-example-create-function.html)
 - [Lambda function handler](https://docs.aws.amazon.com/lambda/latest/dg/go-programming-model-handler-types.html)
 
+## Redis
+
+- [rueidis - client with auto pipelining and supports client side caching](https://github.com/redis/rueidis)
+
 ## Aerospike
 
 - [Driver](https://github.com/aerospike/aerospike-client-go)
