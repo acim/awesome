@@ -6,7 +6,6 @@
 
 - [Kubernetes by example](http://kubernetesbyexample.com/)
 - [Istio](https://www.youtube.com/watch?v=s4qasWn_mFc)
-- [Using NodeSelector to Schedule Deployments with large volumes of Stateful Data on Kubernetes](https://medium.com/@jmarhee/using-nodeselector-to-schedule-deployments-with-large-volumes-of-stateful-data-on-kubernetes-46bd3ac6059d)
 - [Scalable microservices with Kubernetes](https://eu.udacity.com/course/scalable-microservices-with-kubernetes--ud615)
 - [Kubernetes cheat sheet](https://codefresh.io/kubernetes-tutorial/kubernetes-cheat-sheet/)
 - [SkyDNS](https://github.com/skynetservices/skydns)
@@ -19,10 +18,8 @@
 - [Ingress basic auth](https://kubernetes.github.io/ingress-nginx/examples/auth/basic/)
 - [Generate RBAC policies based on Kubernetes audit logs](https://github.com/liggitt/audit2rbac)
 - [Awesome Kubernetes](https://github.com/ramitsurana/awesome-kubernetes)
-- [stern - tail multiple pods on Kubernetes and multiple containers within the pod](https://github.com/wercker/stern)
 - [Kubernetes SIG](https://github.com/kubernetes-sigs)
 - [12 Kubernetes configuration best practices](https://www.stackrox.com/post/2019/09/12-kubernetes-configuration-best-practices/)
-- [10 most important differences between OpenShift and Kubernetes](https://cloudowski.com/articles/10-differences-between-openshift-and-kubernetes)
 - [Copy files from Kubernetes to S3 and back](https://medium.com/nuvo-group-tech/copy-files-and-directories-between-kubernetes-and-s3-d290ded9a5e0)
 - [Kubernetes shared storage with S3 backend](https://icicimov.github.io/blog/virtualization/Kubernetes-shared-storage-with-S3-backend/)
 - [Kubernetes Examples - Minimal self-contained examples of standard Kubernetes features and patterns in YAML](https://github.com/ContainerSolutions/kubernetes-examples)
@@ -110,7 +107,6 @@
 - [Plugins](https://docs.helm.sh/related/)
 - [Template developer’s guide](https://helm.sh/docs/chart_template_guide/)
 - [Helmfile - deploy Kubernetes Helm Charts](https://github.com/roboll/helmfile)
-- [Helmfile - chart deployment tool](https://medium.com/@devopseylife/helmfile-aka-helm-chart-deployment-tool-4e3378fad242)
 - [helmfile  -  it’s like a Helm for Helm](https://medium.com/@naseem_60378/helmfile-its-like-a-helm-for-your-helm-74a908581599)
 - [15+ useful Helm Charts tools](https://caylent.com/15-useful-helm-charts-tools/)
 - [ChartMuseum - host your own Helm chart repository](https://github.com/helm/chartmuseum)
@@ -166,8 +162,6 @@
 - [Creating a single control-plane cluster with kubeadm](https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/create-cluster-kubeadm/)
 - [Installing a pod network add-on](https://kubernetes.io/docs/setup/production-environment/tools/kubeadm/create-cluster-kubeadm/#pod-network)
 - [Install Cilium](https://cilium.readthedocs.io/en/stable/gettingstarted/k8s-install-default/)
-- [Kubernetes without kube-proxy](https://docs.cilium.io/en/stable/gettingstarted/kubeproxy-free/)
-- [hcloud-k8s - Ansible playbook to install Kubernetes on Hetzner Cloud](https://github.com/gammpamm/hcloud-k8s)
 - [IP Address Range](https://ipinfo.io/AS24940)
 
 ## kubectl commands
