@@ -24,9 +24,9 @@
 - [Making Great Docs with Rustdoc](https://www.tangramvision.com/blog/making-great-docs-with-rustdoc)
 - [Slice Patterns](https://adventures.michaelfbryan.com/posts/daily/slice-patterns/)
 - [Rust for the Polyglot Programmer](https://www.chiark.greenend.org.uk/~ianmdlvl/rust-polyglot/index.html)
-- [Phantom Types in Rust](https://www.greyblake.com/blog/2021-10-11-phantom-types-in-rust/)
+<!-- - [Phantom Types in Rust](broken-link:https://www.greyblake.com/blog/2021-10-11-phantom-types-in-rust/) -->
 - [Allocating Less: Really Thin Rust Cloud Apps](https://www.youtube.com/watch?v=FAz0qSclLss)
-- [Builder with typestate](https://www.greyblake.com/blog/2021-10-25-builder-with-typestate-in-rust/)
+<!-- - [Builder with typestate](broken-link:https://www.greyblake.com/blog/2021-10-25-builder-with-typestate-in-rust/) -->
 - [A better cargo-readme](https://scrabsha.github.io/abcr-issue-0)
 - [Publishing to crates.io](https://www.printlnhello.world/blog/publishing-to-crates-io/)
 - [Safe pin projections through view types](https://blog.yoshuawuyts.com/safe-pin-projections-through-view-types/)
@@ -66,7 +66,7 @@
 - [Effective Rust](https://www.lurklurk.org/effective-rust/)
 - [Secure Rust Guidelines](https://anssi-fr.github.io/rust-guide)
 - [Rust Fuzz Book](https://rust-fuzz.github.io/book/)
-- [rulex - new, portable, regular expression language](https://rulex-rs.github.io/docs/)
+<!-- - [rulex - new, portable, regular expression language](broken-link:https://rulex-rs.github.io/docs/) -->
 - [Error Handling in Rust](https://nrc.github.io/error-docs/)
 - [Rust for professionals](https://overexact.com/rust-for-professionals/)
 - [The Rust Performance Book](https://nnethercote.github.io/perf-book/#the-rust-performance-book)
@@ -107,8 +107,8 @@ Box<dyn Trait>
 - [The Rust Standard Library](https://doc.rust-lang.org/std/)
 - [Image - basic image processing functions and methods for converting to and from various image formats](https://github.com/image-rs/image)
 - [clap - Command Line Argument Parser](https://github.com/clap-rs/clap)
-- [kadabra - tool that makes data sharing between terminal windows easy](https://crates.io/crates/kadabra)
-- [mdBook - utility to create modern online books from Markdown files](https://crates.io/crates/mdbook)
+<!-- - [kadabra - tool that makes data sharing between terminal windows easy](broken-link:https://crates.io/crates/kadabra) -->
+<!-- - [mdBook - utility to create modern online books from Markdown files](broken-link:https://crates.io/crates/mdbook) -->
 - [Yew - modern Rust framework for creating multi-threaded front-end web apps with WebAssembly](https://github.com/yewstack/yew)
 - [nom - parser combinators library written in Rust.](https://github.com/Geal/nom)
 - [libp2p - protocols, specifications and libraries for peer-to-peer network applications](https://github.com/libp2p/rust-libp2p)

@@ -11,7 +11,7 @@
 - [sanitize.css - CSS library that provides consistent, cross-browser default styling of HTML elements alongside useful defaults](https://github.com/csstools/sanitize.css)
 - [Even more CSS secrets](https://www.youtube.com/watch?v=vs34f9FiHps)
 - [Using @font-face](https://css-tricks.com/snippets/css/using-font-face/)
-- [Hot CSS tips](https://equinusocio.dev/blog/hot-tips-css/)
+<!-- - [Hot CSS tips](broken-link:https://equinusocio.dev/blog/hot-tips-css/) -->
 - [Content CSS property - none, normal, string, image, counter, attr, open-quote](https://developer.mozilla.org/en-US/docs/Web/CSS/content)
 - [:target pseudo selector](https://css-tricks.com/on-target/)
 - [transform-origin property](https://css-tricks.com/almanac/properties/t/transform-origin/)
