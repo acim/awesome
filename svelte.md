@@ -96,7 +96,6 @@
 - [RealWorld](https://github.com/sveltejs/realworld)
 - [svelte-travel-transitions](https://github.com/pngwn/svelte-travel-transitions)
 - [Svelte Todo](https://github.com/mvolkmann/svelte-todo)
-<!-- - [markushatvan.com Blog](broken-link:https://github.com/mhatvan/markushatvan.com) -->
 
 ## Modules
 
