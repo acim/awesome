@@ -245,6 +245,7 @@
 ## AI
 
 - [Face Detection using OpenCV and MachineBox](https://www.youtube.com/watch?v=rbZeZNVA-Q4)
+- [ChatGPT, Wardley and Go](https://blog.owulveryck.info/2023/05/30/chatgpt-wardley-and-go.html)
 
 ## JSON & YAML
 
@@ -430,6 +431,7 @@
 - [SwissMap - hash map with fast-hashing and parallel key lookups (faster than map)](https://github.com/dolthub/swiss)
 - [go-nbd - turn a file, byte slice, S3 bucket or other io.ReadWriter into a fully-fledged block device](https://github.com/pojntfx/go-nbd)
 - [go2rtc - ultimate camera streaming application](https://github.com/AlexxIT/go2rtc)
+- [when - natural language date/time parser with pluggable rules and merge strategies](https://github.com/olebedev/when)
 
 ## Images
 
