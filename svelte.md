@@ -32,10 +32,10 @@
 
 - [sveltestrap - Bootstrap 5 components for Svelte](https://github.com/bestguy/sveltestrap)
 - [svelma - Bulma](https://github.com/c0bra/svelma)
-- [Additional Bulma based UI components](https://github.com/elcobvg/svelte-bulma-components)
+- [daisyUI - the most popular, free and open-source Tailwind CSS component library](https://github.com/saadeghi/daisyui)
 - [Svelte Material UI](https://github.com/hperrin/svelte-material-ui)
-- [Smelte - UI framework with material components built with Svelte and Tailwind CSS](https://github.com/matyunya/smelte)
-- [daisyUI - the most popular, free and open-source Tailwind CSS component library](https://daisyui.com/)
+- [SvelteUI - components, actions, utilities, animations](https://github.com/svelteuidev/svelteui)
+- [Skeleton - UI toolkit for Svelte and Tailwind](https://github.com/skeletonlabs/skeleton)
 
 ## Components
 
@@ -112,7 +112,7 @@
 
 - [svelte-eventbus - use when you need handle events from deeply-nested child components without events forwarding](https://github.com/AlexxNB/svelte-eventbus)
 
-## Skeleton / template projects
+## Template projects
 
 - [Svelte SPA Template](https://github.com/AlexxNB/svelte-template-spa)
 
