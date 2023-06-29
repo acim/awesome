@@ -36,6 +36,9 @@
 - [Svelte Material UI](https://github.com/hperrin/svelte-material-ui)
 - [SvelteUI - components, actions, utilities, animations](https://github.com/svelteuidev/svelteui)
 - [Skeleton - UI toolkit for Svelte and Tailwind](https://github.com/skeletonlabs/skeleton)
+- [Radix Svelte - port of Radix UI for Svelte](https://github.com/radix-svelte/radix-svelte)
+- [melt-ui - set of headless, accessible component builders for Svelte](https://github.com/melt-ui/melt-ui)
+- [shadcn-svelte - shadcn/ui for Svelte](https://github.com/huntabyte/shadcn-svelte)
 
 ## Components
 
