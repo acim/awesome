@@ -408,6 +408,11 @@
 - [groupcache/lru](https://github.com/golang/groupcache/blob/master/lru/lru.go)
 - [Ristretto - fast, concurrent cache library](https://github.com/dgraph-io/ristretto)
 
+## Logging
+
+- [zerolog - zero allocation JSON logger](https://github.com/rs/zerolog)
+- [A Comprehensive Guide to Logging in Go with Slog](https://betterstack.com/community/guides/logging/logging-in-go/)
+
 ## Miscellaneous
 
 - [File type discovery using magic numbers](https://github.com/h2non/filetype)
@@ -423,7 +428,6 @@
 - [Ultimate Visual Guide to Go Enums and iota](https://blog.learngoprogramming.com/golang-const-type-enums-iota-bc4befd096d3)
 - [gopkg.in - versioned URLs that offer the proper metadata for redirecting the go tool onto well defined GitHub repositories](https://labix.org/gopkg.in)
 - [go-nanoid - very fast and efficient unique ID generator](https://github.com/jaevor/go-nanoid)
-- [zerolog - zero allocation JSON logger](https://github.com/rs/zerolog)
 - [Free Gophers Pack - pack of 100+ gopher pictures and elements](https://github.com/MariaLetta/free-gophers-pack)
 - [Better playground](https://goplay.tools/)
 - [gnet - high-performance, lightweight, non-blocking, event-driven networking framework](https://github.com/panjf2000/gnet)
