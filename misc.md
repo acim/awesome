@@ -138,6 +138,10 @@ sudo apt-get install backintime-qt4
 
 - [restic - backup program that is fast, efficient and secure](https://github.com/restic/restic)
 
+## Monitoring
+
+- [highlight.io - fullstack monitoring platform](https://github.com/highlight/highlight)
+
 ## Web Analytics
 
 - [Plausible Analytics](https://github.com/plausible/analytics)
