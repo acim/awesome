@@ -123,6 +123,7 @@ sudo apt-get install backintime-qt4
 - [Learn and Test DMARC](https://www.learndmarc.com/)
 - [Gluon - IMAP server library written in Go by ProtonMail](https://github.com/ProtonMail/gluon)
 - [Mox - modern full-featured secure mail server for low-maintenance self-hosted email](https://github.com/mjl-/mox)
+- [Stalwart - mail server solution with JMAP, IMAP4, and SMTP suppor](https://github.com/stalwartlabs/mail-server)
 
 ## [Public APIs](https://github.com/public-apis/public-apis)
 
