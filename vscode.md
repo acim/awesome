@@ -75,8 +75,6 @@
   "git.autofetch": true,
   "git.enableSmartCommit": true,
   "gitlens.defaultDateFormat": "DD.MM.YYYY HH:mm:ss",
-  "go.autocompleteUnimportedPackages": true,
-  "go.buildOnSave": "off",
   "go.coverOnSingleTest": true,
   "go.coverOnSingleTestFile": true,
   "go.lintFlags": ["--fast"],
