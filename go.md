@@ -99,6 +99,8 @@
 - [Data Race Patterns in Go](https://www.uber.com/en-DE/blog/data-race-patterns-in-go/)
 - [spinlock](https://github.com/julienschmidt/spinlock)
 - [concurrent map (sharded)](https://github.com/orcaman/concurrent-map)
+- [Advanced Go Concurrency (singleflight, bounded concurrency, weighted bounded concurrency)](https://encore.dev/blog/advanced-go-concurrency)
+- [Limit goroutines with buffered channels](https://rednafi.com/go/limit_goroutines_with_buffered_channels/)
 
 ## Generics
 
@@ -149,6 +151,7 @@
 - [Ory Kratos - security-hardened and battle-tested identity, user management and authentication system](https://github.com/ory/kratos)
 - [jwt-go](https://github.com/golang-jwt/jwt)
 - [jwx - JWA/JWE/JWK/JWS/JWT implementations](https://github.com/lestrrat-go/jwx)
+- [Generate TOTP (2FA token)](https://rednafi.com/go/totp_client/)
 
 ## Authz
 
