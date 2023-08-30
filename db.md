@@ -45,6 +45,7 @@
 - [Choosing a Postgres primary key](https://supabase.com/blog/choosing-a-postgres-primary-key)
 - [How to JSON in PostgreSQ](https://ftisiot.net/postgresqljson/main/)
 - [Nine ways to shoot yourself in the foot with PostgreSQL](https://philbooth.me/blog/nine-ways-to-shoot-yourself-in-the-foot-with-postgresql)
+- [The Unexpected Find That Freed 20GB of Unused Index Space](https://hakibenita.com/postgresql-unused-index-size)
 
 ### Tools
 
@@ -62,6 +63,8 @@
 - [PGSync - PostgreSQL to Elasticsearch sync](https://github.com/toluaina/pgsync)
 - [pg_netstat - PostgreSQL database network traffic monitor](https://github.com/supabase/pg_netstat)
 - [Pigsty - battery-included free RDS alternative](https://github.com/Vonng/pigsty)
+- [An early look at HNSW performance with pgvector](https://jkatz05.com/post/postgres/pgvector-hnsw-performance/)
+- [pgvector 0.5.0 feature highlights and howtos](https://jkatz05.com/post/postgres/pgvector-overview-0.5.0/)
 
 ### Video tutorials
 
