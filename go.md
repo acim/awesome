@@ -354,6 +354,7 @@
 - [embedded-postgres - run a real Postgres database locally as part of another Go application or test](https://github.com/fergusstrange/embedded-postgres)
 - [goleak - go routine leak detector](https://github.com/uber-go/goleak)
 - [sqlmock - mock library implementing sql/driver](https://github.com/DATA-DOG/go-sqlmock)
+- [pgx driver mock](https://github.com/pashagolub/pgxmock)
 - [ooze - mutation testing](https://github.com/gtramontina/ooze)
 
 ## Profiling
