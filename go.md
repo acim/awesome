@@ -161,6 +161,7 @@
 - [Basic Role-Based HTTP Authorization in Go with Casbin](https://www.zupzup.org/casbin-http-role-auth/)
 - [SpiceDB - database system for managing security-critical application permissions](https://github.com/authzed/spicedb)
 - [Permify - authorization service & policy engine based on Google Zanzibar](https://github.com/Permify/permify)
+- [Warrant - access control service inspired by Google Zanzibar](https://github.com/warrant-dev/warrant)
 
 ## HTTP Client
 
@@ -480,6 +481,7 @@
 ## NLP
 
 - [Cybertron - simple and easy-to-use interface for cutting-edge Natural Language Processing technologies](https://github.com/nlpodyssey/cybertron)
+- [spaGO - self-contained ML and NLP library](https://github.com/nlpodyssey/spago)
 
 ## Job interview questions (find out the problem)
 
