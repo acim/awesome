@@ -65,6 +65,7 @@
 - [Pigsty - battery-included free RDS alternative](https://github.com/Vonng/pigsty)
 - [An early look at HNSW performance with pgvector](https://jkatz05.com/post/postgres/pgvector-hnsw-performance/)
 - [pgvector 0.5.0 feature highlights and howtos](https://jkatz05.com/post/postgres/pgvector-overview-0.5.0/)
+- [PgHero - performance dashboard for Postgres](https://github.com/ankane/pghero)
 
 ### Video tutorials
 
