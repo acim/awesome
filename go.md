@@ -468,9 +468,10 @@
 - [Writing a Kubernetes Admission Controller](https://dev.to/fdns/writing-a-kubernetes-admission-controller-4eko)
 - [Build a Highly Available Kubernetes Operator](https://betterprogramming.pub/building-a-highly-available-kubernetes-operator-using-golang-fe4a44c395c2)
 
-## Geo location
+## GIS
 
 - [geodist - compute the distance between two geographic latitude and longitude coordinates](https://github.com/jftuga/geodist)
+- [Visualizing map data with Go and Leaflet JS](https://www.ardanlabs.com/blog/2023/11/visualizing-map-data-go.html)
 
 ## SSH
 

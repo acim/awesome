@@ -179,6 +179,7 @@ Link:
 ## Maps
 
 - [Free SVG countries' vector maps](https://mapsvg.com/maps)
+- [Leaflet - mobile-friendly interactive maps](https://github.com/Leaflet/Leaflet)
 
 ## Camera, video and screen streaming
 
