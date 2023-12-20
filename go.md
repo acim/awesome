@@ -101,6 +101,7 @@
 - [concurrent map (sharded)](https://github.com/orcaman/concurrent-map)
 - [Advanced Go Concurrency (singleflight, bounded concurrency, weighted bounded concurrency)](https://encore.dev/blog/advanced-go-concurrency)
 - [Limit goroutines with buffered channels](https://rednafi.com/go/limit_goroutines_with_buffered_channels/)
+- [conc - better structured concurrency for Go](https://github.com/sourcegraph/conc)
 
 ## Generics
 
