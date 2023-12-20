@@ -45,6 +45,10 @@ tsc --init
 - [dropzone.js - upload files by drag&drop](https://www.dropzonejs.com/)
 - [Unovis - modular data visualization framework for React, Angular and Svelte](https://github.com/f5/unovis)
 
+## Tools
+
+- [openapi-generator-cli - generate API client libraries from OpenAPI 3 specifications](https://github.com/OpenAPITools/openapi-generator-cli)
+
 ## Canvas
 
 [Canvas arc with linear gradient](https://codepen.io/fiatuno/pen/QWWMONE)

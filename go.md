@@ -38,10 +38,6 @@
 - [Exploring Network Programming by Building a Toxiproxy Clone](https://www.youtube.com/watch?v=8z6okCgdREo)
 - [Designing Go Libraries](https://abhinavg.net/2022/12/06/designing-go-libraries/)
 
-## Books
-
-- [Learning Go - Chapter 15 - Welcome to the Future: Generics in Go](https://learning-go-book.dev/chapter15_learningGo.pdf)
-
 ## Blogs
 
 - [A Journey With Go](https://medium.com/a-journey-with-go)
@@ -70,6 +66,7 @@
 - [TutorialEdge](https://tutorialedge.net/course/golang/)
 - [WanderingThoughts](https://utcc.utoronto.ca/~cks/space/blog/__TopicGo)
 - [Eli Bendersky - Go and Rust articles](https://eli.thegreenplace.net/)
+- [Three Dots Labs](https://threedots.tech/)
 
 ## Concurrency
 
@@ -110,6 +107,7 @@
 - [Generic Data Structures](https://github.com/zyedidia/generic)
 - [mo - Monads and popular functional programming abstractions, Option, Result, Either, Future](https://github.com/samber/mo)
 - [Crimes with Go Generics](https://xeiaso.net/blog/gonads-2022-04-24)
+- [Learning Go - Chapter 15 - Welcome to the Future: Generics in Go](https://learning-go-book.dev/chapter15_learningGo.pdf)
 
 ## HTTP Server
 
@@ -142,6 +140,10 @@
 - [Bud - Fullstack Go Framework for Prolific Web Developers](https://github.com/livebud/bud)
 - [quicktemplate - fast, powerful and easy to use template engine](https://github.com/valyala/quicktemplate)
 - [Using Server Sent Events to Simplify Real-time Streaming at Scale](https://shopify.engineering/server-sent-events-data-streaming)
+- [OpenAPI code generation example - article](https://threedots.tech/post/serverless-cloud-run-firebase-modern-go-application/#openapi-swagger-client)
+- [OpenAPI code generation example - code](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example/tree/a0a41253db96d46d75e7ff4c7e7f95848f47dcc3/api/openapi)
+- [OpenAPI code generation - example project](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example)
+- [oapi-codegen - generate Go client and server boilerplate from OpenAPI 3 specifications](https://github.com/deepmap/oapi-codegen)
 
 ## Auth
 
@@ -206,6 +208,10 @@
 - [Mocking Mongo](http://thylong.com/golang/2016/mocking-mongo-in-golang/)
 - [Writing integration tests with mongoDB support](https://medium.com/@mvmaasakkers/writing-integration-tests-with-mongodb-support-231580a566cd)
 - [Build and Push Docker Images with Go](https://www.loginradius.com/blog/async/build-push-docker-images-golang/)
+
+## Event drive applications
+
+- [Watermill - library for working efficiently with message streams (event driven applications, event sourcing, RPC over messages, sagas)](https://github.com/ThreeDotsLabs/watermill)
 
 ## NATS
 
@@ -443,6 +449,10 @@
 - [go-nbd - turn a file, byte slice, S3 bucket or other io.ReadWriter into a fully-fledged block device](https://github.com/pojntfx/go-nbd)
 - [go2rtc - ultimate camera streaming application](https://github.com/AlexxIT/go2rtc)
 - [when - natural language date/time parser with pluggable rules and merge strategies](https://github.com/olebedev/when)
+- [lo - iterate over slices, maps, channels](https://github.com/samber/lo)
+- [decimal - arbitrary-precision fixed-point decimal numbers in Go (useful for monetary values)](https://github.com/shopspring/decimal)
+- [golangci-lint example configuration](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example/blob/b519c611e9d1248a149c89db9bcf879fd78b1e35/internal/trainer/.golangci.yml)
+- [Modern Go application - application boilerplate and example applying modern practices](https://github.com/sagikazarmark/modern-go-application)
 
 ## Images
 
