@@ -144,6 +144,7 @@
 - [OpenAPI code generation example - code](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example/tree/a0a41253db96d46d75e7ff4c7e7f95848f47dcc3/api/openapi)
 - [OpenAPI code generation - example project](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example)
 - [oapi-codegen - generate Go client and server boilerplate from OpenAPI 3 specifications](https://github.com/deepmap/oapi-codegen)
+- [FormStream - streaming parser for multipart data primarily used in web form submissions and file uploads](https://github.com/mazrean/formstream)
 
 ## Auth
 
