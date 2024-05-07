@@ -429,13 +429,12 @@
 ## Miscellaneous
 
 - [File type discovery using magic numbers](https://github.com/h2non/filetype)
-- [v8go - Execute JavaScript from Go](https://github.com/rogchap/v8go)
+- [v8go - Execute JavaScript from Go](https://github.com/tommie/v8go)
 - [x/text - packages related to internationalization (i18n) and localization (l10n)](https://godoc.org/golang.org/x/text)
 - [MTProto - Full-native implementation of MTProto (Telegram) protocol](https://github.com/xelaj/mtproto)
 - [Mux Go - Official Mux API wrapper for golang projects, supporting both Mux Data and Mux Video](https://github.com/muxinc/mux-go)
 - [Pigo - pure Go face detection](https://github.com/esimov/pigo)
 - [libp2p - protocols, specifications and libraries for peer-to-peer network applications](https://github.com/libp2p/go-libp2p)
-- [Execute JavaScript from Go](https://github.com/rogchap/v8go)
 - [WebAssembly Powered Go Playground](https://go-playground-wasm.vercel.app)
 - [Reading files](http://kgrz.io/reading-files-in-go-an-overview.html)
 - [Ultimate Visual Guide to Go Enums and iota](https://blog.learngoprogramming.com/golang-const-type-enums-iota-bc4befd096d3)
