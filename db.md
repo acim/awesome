@@ -26,6 +26,7 @@
 - [Postgres indexes for newbies](https://blog.crunchydata.com/blog/postgres-indexes-for-newbies)
 - [Read-only mode for PostgreSQL](https://www.jkatz05.com/post/postgres/postgres-read-only/)
 - [Reshape - easy-to-use, zero-downtime schema migration tool for Postgres](https://github.com/fabianlindfors/reshape)
+- [pgroll - PostgreSQL zero-downtime migrations made easy](https://github.com/xataio/pgroll)
 - [Vacuuming update-heavy tables](https://dataegret.com/2022/02/vacuuming-update-heavy-tables/)
 - [PostgreSQL's Powerful New Join Type: LATERAL](https://heap.io/blog/postgresqls-powerful-new-join-type-lateral)
 - [Hubert Lubaczewski's Blog](https://www.depesz.com/)
