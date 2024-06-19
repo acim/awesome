@@ -37,6 +37,7 @@
 - [Style Guide](https://google.github.io/styleguide/go/index)
 - [Exploring Network Programming by Building a Toxiproxy Clone](https://www.youtube.com/watch?v=8z6okCgdREo)
 - [Designing Go Libraries](https://abhinavg.net/2022/12/06/designing-go-libraries/)
+- [Common Anti-Patterns in Go Web Applications](https://threedots.tech/post/common-anti-patterns-in-go-web-applications/)
 
 ## Blogs
 
