@@ -95,6 +95,7 @@ sudo apt-get install postgresql-client
 - [zinc - lightweight alternative to elasticsearch that requires minimal resources](https://github.com/zinclabs/zinc)
 - [sonic - fast, lightweight and schema-less search backend](https://github.com/valeriansaliou/sonic)
 - [pg_bm25 - Elastic quality full text search inside Postgres](https://github.com/paradedb/paradedb)
+- [bleve - modern text indexing library](https://github.com/blevesearch/bleve)
 
 ## MongoDB
 

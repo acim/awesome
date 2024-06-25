@@ -38,6 +38,9 @@
 - [Exploring Network Programming by Building a Toxiproxy Clone](https://www.youtube.com/watch?v=8z6okCgdREo)
 - [Designing Go Libraries](https://abhinavg.net/2022/12/06/designing-go-libraries/)
 - [Common Anti-Patterns in Go Web Applications](https://threedots.tech/post/common-anti-patterns-in-go-web-applications/)
+- [A pragmatic guide to Go module updates](https://carlosbecker.com/posts/pragmatic-gomod-bump/)
+- [Developing a major version update](https://go.dev/doc/modules/major-version)
+- [7 Common Interface Mistakes in Go](https://medium.com/@andreiboar/7-common-interface-mistakes-in-go-1d3f8e58be60)
 
 ## Blogs
 
