@@ -112,6 +112,7 @@
 - [mo - Monads and popular functional programming abstractions, Option, Result, Either, Future](https://github.com/samber/mo)
 - [Crimes with Go Generics](https://xeiaso.net/blog/gonads-2022-04-24)
 - [Learning Go - Chapter 15 - Welcome to the Future: Generics in Go](https://learning-go-book.dev/chapter15_learningGo.pdf)
+- [Writing generic collection types in Go: the missing documentation](https://www.dolthub.com/blog/2024-07-01-golang-generic-collections/)
 
 ## HTTP Server
 
@@ -369,6 +370,7 @@
 - [sqlmock - mock library implementing sql/driver](https://github.com/DATA-DOG/go-sqlmock)
 - [pgx driver mock](https://github.com/pashagolub/pgxmock)
 - [ooze - mutation testing](https://github.com/gtramontina/ooze)
+- [f-tests as a replacement for table-driven tests in Go](https://valyala.medium.com/f-tests-as-a-replacement-for-table-driven-tests-in-go-8814a8b19e9e)
 
 ## Profiling
 
@@ -457,6 +459,7 @@
 - [decimal - arbitrary-precision fixed-point decimal numbers in Go (useful for monetary values)](https://github.com/shopspring/decimal)
 - [golangci-lint example configuration](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example/blob/b519c611e9d1248a149c89db9bcf879fd78b1e35/internal/trainer/.golangci.yml)
 - [Modern Go application - application boilerplate and example applying modern practices](https://github.com/sagikazarmark/modern-go-application)
+- [River - robust high-performance job processing system with UI dashboard](https://github.com/riverqueue/river)
 
 ## Images
 
