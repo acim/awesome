@@ -114,6 +114,10 @@
 - [Learning Go - Chapter 15 - Welcome to the Future: Generics in Go](https://learning-go-book.dev/chapter15_learningGo.pdf)
 - [Writing generic collection types in Go: the missing documentation](https://www.dolthub.com/blog/2024-07-01-golang-generic-collections/)
 
+## Iterators
+
+- [Go range iterators demystified](https://www.dolthub.com/blog/2024-07-12-golang-range-iters-demystified/)
+
 ## HTTP Server
 
 - [aah - a secure, flexible, rapid Go web framework](https://aahframework.org/)
