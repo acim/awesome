@@ -464,6 +464,7 @@
 - [golangci-lint example configuration](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example/blob/b519c611e9d1248a149c89db9bcf879fd78b1e35/internal/trainer/.golangci.yml)
 - [Modern Go application - application boilerplate and example applying modern practices](https://github.com/sagikazarmark/modern-go-application)
 - [River - robust high-performance job processing system with UI dashboard](https://github.com/riverqueue/river)
+- [notify - simple Go library for sending notifications to various messaging services](https://github.com/nikoksr/notify)
 
 ## Images
 
@@ -480,6 +481,7 @@
 - [fyne - cross platform GUI](https://github.com/fyne-io/fyne) ([docs](https://developer.fyne.io/))
 - [MacDriver - native Mac APIs for Golang](https://github.com/progrium/macdriver)
 - [wails - create beautiful desktop applications](https://github.com/wailsapp/wails)
+- [How I build simple Mac apps using Go](https://dev.to/progrium/how-i-build-simple-mac-apps-using-go-104j)
 
 ## Kubernetes
 
