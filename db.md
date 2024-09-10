@@ -48,6 +48,7 @@
 - [Nine ways to shoot yourself in the foot with PostgreSQL](https://philbooth.me/blog/nine-ways-to-shoot-yourself-in-the-foot-with-postgresql)
 - [The Unexpected Find That Freed 20GB of Unused Index Space](https://hakibenita.com/postgresql-unused-index-size)
 - [How to Get the Most out of Postgres Memory Settings](https://tembo.io/blog/optimizing-memory-usage)
+- [Postgres as a search engine](https://anyblockers.com/posts/postgres-as-a-search-engine)
 
 ### Tools
 
