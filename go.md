@@ -466,6 +466,7 @@
 - [Modern Go application - application boilerplate and example applying modern practices](https://github.com/sagikazarmark/modern-go-application)
 - [River - robust high-performance job processing system with UI dashboard](https://github.com/riverqueue/river)
 - [notify - simple Go library for sending notifications to various messaging services](https://github.com/nikoksr/notify)
+- [ergo - actor-based framework with network transparency for creating event-driven architecture](https://github.com/ergo-services/ergo)
 
 ## Images
 
