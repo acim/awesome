@@ -155,6 +155,7 @@
 - [OpenAPI code generation - example project](https://github.com/ThreeDotsLabs/wild-workouts-go-ddd-example)
 - [oapi-codegen - generate Go client and server boilerplate from OpenAPI 3 specifications](https://github.com/deepmap/oapi-codegen)
 - [FormStream - streaming parser for multipart data primarily used in web form submissions and file uploads](https://github.com/mazrean/formstream)
+- [How to Implement Server-Sent Events in Go](https://www.freecodecamp.org/news/how-to-implement-server-sent-events-in-go/)
 
 ## Auth
 
@@ -269,6 +270,11 @@
 
 - [Face Detection using OpenCV and MachineBox](https://www.youtube.com/watch?v=rbZeZNVA-Q4)
 - [ChatGPT, Wardley and Go](https://blog.owulveryck.info/2023/05/30/chatgpt-wardley-and-go.html)
+- [Building LLM-powered applications in Go](https://go.dev/blog/llmpowered)
+- [LangChain Go - building applications with LLMs](https://github.com/tmc/langchaingo)
+- [Weaviate - robust, fast and scalable cloud-native open source vector database](https://github.com/weaviate/weaviate)
+- [Gemini API client](https://ai.google.dev/)
+- [RAG server example](https://github.com/golang/example/tree/master/ragserver/ragserver-langchaingo)
 
 ## JSON & YAML
 
