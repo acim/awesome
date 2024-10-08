@@ -418,6 +418,7 @@
 - [Connect - slim library for building browser and gRPC-compatible HTTP APIs](https://github.com/bufbuild/connect-go)
 - [DRPC - drop-in, lightweight gRPC replacement](https://github.com/storj/drpc)
 - [vtprotobuf - Vitess Protocol Buffers compiler](https://github.com/planetscale/vtprotobuf)
+- [Securing gRPC Services with JWT Authentication in Go](https://www.bytesizego.com/blog/securing-grpc-golang)
 
 ## E-Mail
 
