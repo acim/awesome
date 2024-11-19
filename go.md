@@ -275,6 +275,7 @@
 - [Weaviate - robust, fast and scalable cloud-native open source vector database](https://github.com/weaviate/weaviate)
 - [Gemini API client](https://ai.google.dev/)
 - [RAG server example](https://github.com/golang/example/tree/master/ragserver/ragserver-langchaingo)
+- [Ollama - run large language models locally](https://github.com/ollama/ollama)
 
 ## JSON & YAML
 

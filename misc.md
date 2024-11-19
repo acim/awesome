@@ -126,6 +126,7 @@ sudo apt-get install backintime-qt4
 - [Stalwart - mail server solution with JMAP, IMAP4, and SMTP suppor](https://github.com/stalwartlabs/mail-server)
 - [Email Alchemy - exploring self-hosted email services](https://synergeticlabs.com/email-alchemy/)
 - [Build Your Own SMTP Server in Go](https://valyent.substack.com/p/build-your-own-smtp-server-in-go)
+- [Mailpit - email testing for developers](https://github.com/axllent/mailpit)
 
 ## [Public APIs](https://github.com/public-apis/public-apis)
 
