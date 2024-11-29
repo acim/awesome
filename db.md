@@ -67,9 +67,16 @@
 - [PGSync - PostgreSQL to Elasticsearch sync](https://github.com/toluaina/pgsync)
 - [pg_netstat - PostgreSQL database network traffic monitor](https://github.com/supabase/pg_netstat)
 - [Pigsty - battery-included free RDS alternative](https://github.com/Vonng/pigsty)
+- [PgHero - performance dashboard for Postgres](https://github.com/ankane/pghero)
+
+### AI
+
 - [An early look at HNSW performance with pgvector](https://jkatz05.com/post/postgres/pgvector-hnsw-performance/)
 - [pgvector 0.5.0 feature highlights and howtos](https://jkatz05.com/post/postgres/pgvector-overview-0.5.0/)
-- [PgHero - performance dashboard for Postgres](https://github.com/ankane/pghero)
+- [pgai - allows you to develop RAG, semantic search, and other AI applications directly in PostgreSQL](https://github.com/timescale/pgai)
+- [pgvectorscale - complement to pgvector for high performance, cost efficient vector search on large workloads](https://github.com/timescale/pgvectorscale)
+- [Timescale - AI and pgvector](https://www.youtube.com/playlist?list=PLsceB9ac9MHR7IL2kSiHN8NUCmXoEEAf8)
+- [Timescale Blog](https://www.timescale.com/blog/tag/ai/)
 
 ### Video tutorials
 
