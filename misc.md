@@ -154,6 +154,7 @@ sudo apt-get install backintime-qt4
 - [GoatCounter](https://github.com/arp242/goatcounter)
 - [Fathom Lite](https://github.com/usefathom/fathom)
 - [Scale8 - website analytics, JavaScript error tracking and tag manager](https://github.com/scale8/scale8)
+- [Vince - self hosted alternative to Google Analytics and drop in replacement for Plausible](https://github.com/vinceanalytics/vince)
 
 ## URL shorteners with statistics
 
