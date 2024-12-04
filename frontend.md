@@ -43,6 +43,7 @@
 - [coolors - super fast color schemes generator](https://coolors.co/)
 - [Get Waves - create SVG waves](https://getwaves.io/)
 - [Gradient Hunt - platform for color inspiration with thousands of trendy hand-made color gradients](https://gradienthunt.com/)
+- [Brad Traversy - curated list of design and UI resources](https://github.com/bradtraversy/design-resources-for-developers)
 
 ## Design Showcases
 
