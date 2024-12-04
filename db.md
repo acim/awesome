@@ -50,6 +50,7 @@
 - [How to Get the Most out of Postgres Memory Settings](https://tembo.io/blog/optimizing-memory-usage)
 - [Postgres as a search engine](https://anyblockers.com/posts/postgres-as-a-search-engine)
 - [Optimizing Postgres table layout for maximum efficiency](https://r.ena.to/blog/optimizing-postgres-table-layout-for-maximum-efficiency/)
+- [What I Wish Someone Told Me About Postgres](https://challahscript.com/what_i_wish_someone_told_me_about_postgres)
 
 ### Tools
 
