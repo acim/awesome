@@ -22,6 +22,7 @@
 - [Every Programmer Should Know](https://github.com/mtdvio/every-programmer-should-know)
 - [Sourcegraph - find answers faster with code search across multiple repos and commits](https://sourcegraph.com/search)
 - [SSH Best Practices using Certificates, 2FA and Bastions](https://goteleport.com/blog/how-to-ssh-properly)
+- [blacksmith - twice as fast GitHub actions](https://www.blacksmith.sh/)
 
 ## Linux
 
