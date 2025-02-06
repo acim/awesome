@@ -501,6 +501,7 @@
 - [Leader Election Example](https://github.com/kubernetes/kubernetes/tree/323f34858de18b862d43c40b2cced65ad8e24052/staging/src/k8s.io/client-go/examples/leader-election)
 - [Writing a Kubernetes Admission Controller](https://dev.to/fdns/writing-a-kubernetes-admission-controller-4eko)
 - [Build a Highly Available Kubernetes Operator](https://betterprogramming.pub/building-a-highly-available-kubernetes-operator-using-golang-fe4a44c395c2)
+- [So you wanna write Kubernetes controllers?](https://ahmet.im/blog/controller-pitfalls/)
 
 ## GIS
 

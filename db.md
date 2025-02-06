@@ -51,6 +51,8 @@
 - [Postgres as a search engine](https://anyblockers.com/posts/postgres-as-a-search-engine)
 - [Optimizing Postgres table layout for maximum efficiency](https://r.ena.to/blog/optimizing-postgres-table-layout-for-maximum-efficiency/)
 - [What I Wish Someone Told Me About Postgres](https://challahscript.com/what_i_wish_someone_told_me_about_postgres)
+- [Just because you’re getting an index scan, doesn't mean you can’t do better](https://www.pgmustard.com/blog/index-scan-doesnt-mean-its-fast)
+- [Debugging deadlocks in Postgres](https://incident.io/blog/debugging-deadlocks-in-postgres)
 
 ### Tools
 
