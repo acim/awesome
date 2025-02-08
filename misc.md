@@ -94,6 +94,7 @@ sudo apt-get install backintime-qt4
 - [Casnode - forum (BBS) software developed by Go and React](https://github.com/casbin/casnode)
 - [supabase - Firebase alternative](https://github.com/supabase/supabase)
 - [PocketBase - embedded SQLite database, files and users management, admin UI, REST API](https://github.com/pocketbase/pocketbase)
+- [Pi-hole - network-wide ad blocking](https://pi-hole.net/)
 
 ## Standards
 
