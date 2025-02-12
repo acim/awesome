@@ -439,6 +439,7 @@
 
 - [groupcache/lru](https://github.com/golang/groupcache/blob/master/lru/lru.go)
 - [Ristretto - fast, concurrent cache library](https://github.com/dgraph-io/ristretto)
+- [EasyCache - simple way to use in-memory cache](https://github.com/hugocarreira/easycache)
 
 ## Logging
 
