@@ -54,6 +54,7 @@
 - [Just because you’re getting an index scan, doesn't mean you can’t do better](https://www.pgmustard.com/blog/index-scan-doesnt-mean-its-fast)
 - [Debugging deadlocks in Postgres](https://incident.io/blog/debugging-deadlocks-in-postgres)
 - [Scaling with PostgreSQL without boiling the ocean](https://www.shayon.dev/post/2025/40/scaling-with-postgresql-without-boiling-the-ocean/)
+- [Important Postgres configuration parameters to understand](https://stormatics.tech/semabs-planet-postgresql/important-postgresql-parameters)
 
 ### Tools
 
