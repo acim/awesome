@@ -95,6 +95,7 @@ sudo apt-get install backintime-qt4
 - [supabase - Firebase alternative](https://github.com/supabase/supabase)
 - [PocketBase - embedded SQLite database, files and users management, admin UI, REST API](https://github.com/pocketbase/pocketbase)
 - [Pi-hole - network-wide ad blocking](https://pi-hole.net/)
+- [fzf - command-line fuzzy finder](https://github.com/junegunn/fzf)
 
 ## Standards
 
