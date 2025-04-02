@@ -42,6 +42,7 @@
 - [Developing a major version update](https://go.dev/doc/modules/major-version)
 - [7 Common Interface Mistakes in Go](https://medium.com/@andreiboar/7-common-interface-mistakes-in-go-1d3f8e58be60)
 - [100 Go Mistakes and How to Avoid Them](https://100go.co/)
+- [Patterns and Techniques for Writing High-Performance Applications with Go](https://goperf.dev/)
 
 ## Blogs
 
