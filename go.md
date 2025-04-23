@@ -43,6 +43,7 @@
 - [7 Common Interface Mistakes in Go](https://medium.com/@andreiboar/7-common-interface-mistakes-in-go-1d3f8e58be60)
 - [100 Go Mistakes and How to Avoid Them](https://100go.co/)
 - [Patterns and Techniques for Writing High-Performance Applications with Go](https://goperf.dev/)
+- [Using Signals With Go](https://www.calhoun.io/using-signals-with-go/)
 
 ## Blogs
 
@@ -106,6 +107,8 @@
 - [Limit goroutines with buffered channels](https://rednafi.com/go/limit_goroutines_with_buffered_channels/)
 - [conc - better structured concurrency for Go](https://github.com/sourcegraph/conc)
 - [Nil channels in Go](https://vishnubharathi.codes/blog/nil-channels-in-go/)
+- [Golang sync.Pool is not a silver bullet](https://wundergraph.com/blog/golang-sync-pool)
+- [Most People Overlook Go’s Concurrency Secrets](https://blog.cubed.run/the-cards-of-concurrency-in-go-0d7582cecb79)
 
 ## Generics
 
@@ -158,6 +161,7 @@
 - [oapi-codegen - generate Go client and server boilerplate from OpenAPI 3 specifications](https://github.com/deepmap/oapi-codegen)
 - [FormStream - streaming parser for multipart data primarily used in web form submissions and file uploads](https://github.com/mazrean/formstream)
 - [How to Implement Server-Sent Events in Go](https://www.freecodecamp.org/news/how-to-implement-server-sent-events-in-go/)
+- [vite - integration of Vite-based frontend with Go-based backend](https://github.com/olivere/vite)
 
 ## Auth
 
