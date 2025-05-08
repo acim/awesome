@@ -90,7 +90,6 @@
 - [broadcast - library that allows sending repeated notifications to multiple goroutines with guaranteed delivery](https://github.com/teivah/broadcast)
 - [errgroup](https://godoc.org/golang.org/x/sync/errgroup)
 - [Pipelines and cancellation](https://go.dev/blog/pipelines)
-- [Implementing graceful shutdown](https://rudderstack.com/blog/implementing-graceful-shutdown-in-go/)
 - [Behavior Of channels](https://www.youtube.com/watch?v=zDCKZn4-dck)
 - [The Behavior Of Channels](https://www.ardanlabs.com/blog/2017/10/the-behavior-of-channels.html)
 - [signal.NotifyContext - handling cancellation with Unix signals using context](https://henvic.dev/posts/signal-notify-context/)
@@ -162,6 +161,8 @@
 - [FormStream - streaming parser for multipart data primarily used in web form submissions and file uploads](https://github.com/mazrean/formstream)
 - [How to Implement Server-Sent Events in Go](https://www.freecodecamp.org/news/how-to-implement-server-sent-events-in-go/)
 - [vite - integration of Vite-based frontend with Go-based backend](https://github.com/olivere/vite)
+- [Implementing graceful shutdown](https://rudderstack.com/blog/implementing-graceful-shutdown-in-go/)
+- [Graceful Shutdown in Go: Practical Patterns](https://victoriametrics.com/blog/go-graceful-shutdown/index.html)
 
 ## Auth
 
