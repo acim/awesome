@@ -73,6 +73,7 @@
 - [pg_netstat - PostgreSQL database network traffic monitor](https://github.com/supabase/pg_netstat)
 - [Pigsty - battery-included free RDS alternative](https://github.com/Vonng/pigsty)
 - [PgHero - performance dashboard for Postgres](https://github.com/ankane/pghero)
+- [squawk - linter for Postgres migrations & SQL](https://github.com/sbdchd/squawk)
 
 ### AI
 

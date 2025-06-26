@@ -163,6 +163,7 @@
 - [vite - integration of Vite-based frontend with Go-based backend](https://github.com/olivere/vite)
 - [Implementing graceful shutdown](https://rudderstack.com/blog/implementing-graceful-shutdown-in-go/)
 - [Graceful Shutdown in Go: Practical Patterns](https://victoriametrics.com/blog/go-graceful-shutdown/index.html)
+- [Routing Enhancements for Go 1.22](https://go.dev/blog/routing-enhancements)
 
 ## Auth
 
