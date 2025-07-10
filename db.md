@@ -55,11 +55,14 @@
 - [Debugging deadlocks in Postgres](https://incident.io/blog/debugging-deadlocks-in-postgres)
 - [Scaling with PostgreSQL without boiling the ocean](https://www.shayon.dev/post/2025/40/scaling-with-postgresql-without-boiling-the-ocean/)
 - [Important Postgres configuration parameters to understand](https://stormatics.tech/semabs-planet-postgresql/important-postgresql-parameters)
+- [Life Altering Postgresql Patterns](https://mccue.dev/pages/3-11-25-life-altering-postgresql-patterns)
+- [Don't Do This](https://wiki.postgresql.org/wiki/Don%27t_Do_This)
 
 ### Tools
 
 - [pgwatch2 - flexible self-contained PostgreSQL metrics monitoring solution](https://github.com/cybertec-postgresql/pgwatch2)
 - [explain.depesz.com - PostgreSQL's explain analyze made readable](https://explain.depesz.com/)
+- [Explain Dalibo](https://explain.dalibo.com/)
 - [pg_back - dump tool for PostgreSQL](https://github.com/orgrim/pg_back)
 - [PGTune - tool for postgresql.conf generation with optimal parameters](https://pgtune.leopard.in.ua/#/)
 - [pgbadger - fast PostgreSQL log analyzer](https://github.com/darold/pgbadger)
@@ -74,6 +77,7 @@
 - [Pigsty - battery-included free RDS alternative](https://github.com/Vonng/pigsty)
 - [PgHero - performance dashboard for Postgres](https://github.com/ankane/pghero)
 - [squawk - linter for Postgres migrations & SQL](https://github.com/sbdchd/squawk)
+- [New IDE for PostgreSQL in VS Code](https://techcommunity.microsoft.com/blog/adforpostgresql/announcing-a-new-ide-for-postgresql-in-vs-code-from-microsoft/4414648)
 
 ### AI
 
