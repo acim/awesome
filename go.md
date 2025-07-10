@@ -185,6 +185,7 @@
 - [SpiceDB - database system for managing security-critical application permissions](https://github.com/authzed/spicedb)
 - [Permify - authorization service & policy engine based on Google Zanzibar](https://github.com/Permify/permify)
 - [Warrant - access control service inspired by Google Zanzibar](https://github.com/warrant-dev/warrant)
+- [OpenFGA - high performance and flexible authorization/permission engine built for developers and inspired by Google Zanzibar](https://github.com/openfga/openfga)
 
 ## HTTP Client
 
@@ -484,6 +485,8 @@
 - [River - robust high-performance job processing system with UI dashboard](https://github.com/riverqueue/river)
 - [notify - simple Go library for sending notifications to various messaging services](https://github.com/nikoksr/notify)
 - [ergo - actor-based framework with network transparency for creating event-driven architecture](https://github.com/ergo-services/ergo)
+- [SeekTune - implementation of Shazam's song recognition algorithm](https://github.com/cgzirim/seek-tune)
+- [yt-dlp - donwload YouTube videos](https://github.com/lrstanley/go-ytdlp)
 
 ## Images
 
