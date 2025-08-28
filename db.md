@@ -57,6 +57,7 @@
 - [Important Postgres configuration parameters to understand](https://stormatics.tech/semabs-planet-postgresql/important-postgresql-parameters)
 - [Life Altering Postgresql Patterns](https://mccue.dev/pages/3-11-25-life-altering-postgresql-patterns)
 - [Don't Do This](https://wiki.postgresql.org/wiki/Don%27t_Do_This)
+- [Basic Cross-Database Operations with Foreign Data Wrappers](https://packagemain.tech/p/mastering-cross-database-operations-with-postgres-fdw)
 
 ### Tools
 
