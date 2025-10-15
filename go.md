@@ -44,6 +44,7 @@
 - [100 Go Mistakes and How to Avoid Them](https://100go.co/)
 - [Patterns and Techniques for Writing High-Performance Applications with Go](https://goperf.dev/)
 - [Using Signals With Go](https://www.calhoun.io/using-signals-with-go/)
+- [15 Go Subtleties You May Not Already Know](https://harrisoncramer.me/15-go-sublteties-you-may-not-already-know/)
 
 ## Blogs
 
@@ -165,6 +166,7 @@
 - [Graceful Shutdown in Go: Practical Patterns](https://victoriametrics.com/blog/go-graceful-shutdown/index.html)
 - [Routing Enhancements for Go 1.22](https://go.dev/blog/routing-enhancements)
 - [CSRF Protection](https://www.calhoun.io/csrf-protection-via-headers-in-go-125/)
+- [A modern approach to preventing CSRF in Go](https://www.alexedwards.net/blog/preventing-csrf-in-go)
 
 ## Auth
 
