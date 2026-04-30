@@ -4,6 +4,7 @@
 
 A curated list of delightful developers resources.
 
+- [AI](ai.md)
 - [CSS](css.md)
 - [Databases - MySQL, PostgreSQL, MongoDB](db.md)
 - [Docker](docker.md)
