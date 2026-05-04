@@ -1,9 +1,15 @@
 # AI
 
+- [GSD 2 - powerful meta-prompting, context engineering and spec-driven development system](https://github.com/gsd-build/gsd-2)
+
 ## Harnesses
 
 - [Pi - minimal terminal coding harness](https://github.com/badlogic/pi-mono/tree/main/packages/coding-agent)
 - [Hermes Agent - self-improving AI agent](https://github.com/nousresearch/hermes-agent)
+
+## Skills
+
+- [Superpowers - agentic skills framework & software development methodology](https://github.com/obra/superpowers)
 
 ## Prompts
 
