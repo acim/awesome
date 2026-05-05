@@ -1,6 +1,7 @@
 # AI
 
 - [GSD 2 - powerful meta-prompting, context engineering and spec-driven development system](https://github.com/gsd-build/gsd-2)
+- [kronk - personal engine for running open source models locally](https://github.com/ardanlabs/kronk)
 
 ## Harnesses
 
