@@ -15,3 +15,7 @@
 ## Prompts
 
 - [Proven prompt to set node project](https://gist.github.com/robinebers/4f81caf1be19b55c62b8be4af35a36ec)
+
+## MCP Servers
+
+- [Awesome MCP Servers](https://mcpservers.org/)
