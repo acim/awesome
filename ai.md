@@ -18,4 +18,11 @@
 
 ## MCP Servers
 
-- [Awesome MCP Servers](https://mcpservers.org/)
+- [Glama](https://glama.ai/)
+- [PulseMCP](https://www.pulsemcp.com/)
+- [Official MCP Registry](https://registry.modelcontextprotocol.io/)
+- [MCP Servers](https://mcpservers.org/)
+- [Awesome MCP Servers](https://github.com/appcypher/awesome-mcp-servers)
+- [Best MCP Servers](https://mcp-awesome.com/)
+- [MCP Server Directory](https://altorlab.com/mcp-servers/)
+- [Best MCP Servers in 2026](https://www.mcpbundles.com/blog/best-mcp-servers)
