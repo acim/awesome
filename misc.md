@@ -97,6 +97,10 @@ sudo apt-get install backintime-qt4
 - [Pi-hole - network-wide ad blocking](https://pi-hole.net/)
 - [fzf - command-line fuzzy finder](https://github.com/junegunn/fzf)
 
+## Services with free tier
+
+- [Render - hosting](https://render.com/)
+
 ## Standards
 
 - [JSON Resume - open source initiative to create a JSON-based standard for resumes](https://jsonresume.org/)
