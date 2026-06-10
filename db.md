@@ -80,6 +80,7 @@
 - [PgHero - performance dashboard for Postgres](https://github.com/ankane/pghero)
 - [squawk - linter for Postgres migrations & SQL](https://github.com/sbdchd/squawk)
 - [New IDE for PostgreSQL in VS Code](https://techcommunity.microsoft.com/blog/adforpostgresql/announcing-a-new-ide-for-postgresql-in-vs-code-from-microsoft/4414648)
+- [EXPLAIN Prettier - Post-Processing Query Plans in Postgres](https://www.pgedge.com/blog/explain-prettier-or-post-processing-query-plans-in-postgres)
 
 ### AI
 
@@ -89,6 +90,7 @@
 - [pgvectorscale - complement to pgvector for high performance, cost efficient vector search on large workloads](https://github.com/timescale/pgvectorscale)
 - [Timescale - AI and pgvector](https://www.youtube.com/playlist?list=PLsceB9ac9MHR7IL2kSiHN8NUCmXoEEAf8)
 - [Timescale Blog](https://www.timescale.com/blog/tag/ai/)
+- [The Postgres Developer's Guide to Vector Index Tradeoffs](https://www.tigerdata.com/blog/the-postgres-developers-guide-to-vector-index-tradeoffs)
 
 ### Video tutorials
 
