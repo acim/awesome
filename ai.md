@@ -35,3 +35,7 @@
 - [Best MCP Servers](https://mcp-awesome.com/)
 - [MCP Server Directory](https://altorlab.com/mcp-servers/)
 - [Best MCP Servers in 2026](https://www.mcpbundles.com/blog/best-mcp-servers)
+
+# Software Development
+
+- [Devin - AI software engineer](https://devin.ai/)
