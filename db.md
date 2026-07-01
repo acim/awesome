@@ -91,6 +91,7 @@
 - [Timescale - AI and pgvector](https://www.youtube.com/playlist?list=PLsceB9ac9MHR7IL2kSiHN8NUCmXoEEAf8)
 - [Timescale Blog](https://www.timescale.com/blog/tag/ai/)
 - [The Postgres Developer's Guide to Vector Index Tradeoffs](https://www.tigerdata.com/blog/the-postgres-developers-guide-to-vector-index-tradeoffs)
+- [Running pgvector in production on Amazon Aurora PostgreSQL](https://aws.amazon.com/blogs/database/running-pgvector-in-production-on-amazon-aurora-postgresql/)
 
 ### Video tutorials
 
