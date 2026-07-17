@@ -96,6 +96,7 @@ sudo apt-get install backintime-qt4
 - [PocketBase - embedded SQLite database, files and users management, admin UI, REST API](https://github.com/pocketbase/pocketbase)
 - [Pi-hole - network-wide ad blocking](https://pi-hole.net/)
 - [fzf - command-line fuzzy finder](https://github.com/junegunn/fzf)
+- [Chatto - fully-featured team and group chat application](https://github.com/chattocorp/chatto)
 
 ## Services with free tier
 
