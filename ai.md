@@ -2,6 +2,9 @@
 
 - [GSD 2 - powerful meta-prompting, context engineering and spec-driven development system](https://github.com/gsd-build/gsd-2)
 - [kronk - personal engine for running open source models locally](https://github.com/ardanlabs/kronk)
+- [New API - unified AI model hub for aggregation & distribution (cross-converting various LLMs into OpenAI-compatible)](https://github.com/QuantumNous/new-api)
+- [CLI Proxy API - wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI / Gemini / Claude / Codex compatible API service](https://github.com/router-for-me/CLIProxyAPI)
+- [Sub2API - all-in-one open-source proxy service that unifies access to subscriptions for Claude, OpenAI, Gemini, and Grok](https://github.com/Wei-Shaw/sub2api)
 
 ## Harnesses
 
@@ -45,3 +48,4 @@
 
 - [Headroom - context compression layer for AI agents](https://github.com/headroomlabs-ai/headroom)
 - [DOX - AGENTS.md framework that gives an AI agent precise project context.](https://github.com/agent0ai/dox)
+- [Multica - open-source managed agents platform (turn coding agents into real teammates)](https://github.com/multica-ai/multica)

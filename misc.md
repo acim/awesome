@@ -97,6 +97,7 @@ sudo apt-get install backintime-qt4
 - [Pi-hole - network-wide ad blocking](https://pi-hole.net/)
 - [fzf - command-line fuzzy finder](https://github.com/junegunn/fzf)
 - [Chatto - fully-featured team and group chat application](https://github.com/chattocorp/chatto)
+- [1Panel - modern, open-source VPS control panel (with native AI agent support, runs Ollama models, deploys OpenClaw agents)](https://github.com/1Panel-dev/1Panel)
 
 ## Services with free tier
 

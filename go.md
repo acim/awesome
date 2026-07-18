@@ -45,6 +45,7 @@
 - [Patterns and Techniques for Writing High-Performance Applications with Go](https://goperf.dev/)
 - [Using Signals With Go](https://www.calhoun.io/using-signals-with-go/)
 - [15 Go Subtleties You May Not Already Know](https://harrisoncramer.me/15-go-sublteties-you-may-not-already-know/)
+- [Top 100 Stars in Go](https://github.com/EvanLi/Github-Ranking/blob/master/Top100/Go.md)
 
 ## Blogs
 
@@ -178,6 +179,7 @@
 - [jwt-go](https://github.com/golang-jwt/jwt)
 - [jwx - JWA/JWE/JWK/JWS/JWT implementations](https://github.com/lestrrat-go/jwx)
 - [Generate TOTP (2FA token)](https://rednafi.com/go/totp_client/)
+- [Tinyauth - the tiniest OpenID certified authorization and authentication server](https://github.com/tinyauthapp/tinyauth)
 
 ## Authz
 
@@ -293,6 +295,7 @@
 - [MCP Go SDK](https://github.com/modelcontextprotocol/go-sdk)
 - [Anthropic Go API Library](https://github.com/anthropics/anthropic-sdk-go)
 - [Microsoft Agent Framework - framework for building, orchestrating and deploying AI agents](https://github.com/microsoft/agent-framework-go)
+- [RAGFlow - leading open-source Retrieval-Augmented Generation (RAG) engine](https://github.com/infiniflow/ragflow)
 
 ## JSON & YAML
 
