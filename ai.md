@@ -5,6 +5,7 @@
 - [New API - unified AI model hub for aggregation & distribution (cross-converting various LLMs into OpenAI-compatible)](https://github.com/QuantumNous/new-api)
 - [CLI Proxy API - wrap Antigravity, ChatGPT Codex, Claude Code, Grok Build as an OpenAI / Gemini / Claude / Codex compatible API service](https://github.com/router-for-me/CLIProxyAPI)
 - [Sub2API - all-in-one open-source proxy service that unifies access to subscriptions for Claude, OpenAI, Gemini, and Grok](https://github.com/Wei-Shaw/sub2api)
+- [Dograh AI - open source voice AI platform](https://github.com/dograh-hq/dograh)
 
 ## Harnesses
 
