@@ -102,6 +102,7 @@ sudo apt-get install backintime-qt4
 ## Services with free tier
 
 - [Render - hosting](https://render.com/)
+- [Infisical - open-source platform for secrets](https://github.com/infisical/infisical)
 
 ## Standards
 
