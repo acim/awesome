@@ -13,6 +13,12 @@
 - [Hermes Agent - self-improving AI agent](https://github.com/nousresearch/hermes-agent)
 - [herdr - agent multiplexer](https://github.com/ogulcancelik/herdr)
 
+## LLM Servers
+
+- [llama.cpp - LLM inference in C/C++](https://github.com/ggml-org/llama.cpp)
+- [Ollama - run large language models locally](https://github.com/ollama/ollama)
+- [oMLX - LLM inference server with continuous batching & SSD caching for Apple Silicon ](https://github.com/jundot/omlx)
+
 ## Skills
 
 - [Superpowers - agentic skills framework & software development methodology](https://github.com/obra/superpowers)

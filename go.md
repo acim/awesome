@@ -289,7 +289,6 @@
 - [Weaviate - robust, fast and scalable cloud-native open source vector database](https://github.com/weaviate/weaviate)
 - [Gemini API client](https://ai.google.dev/)
 - [RAG server example](https://github.com/golang/example/tree/master/ragserver/ragserver-langchaingo)
-- [Ollama - run large language models locally](https://github.com/ollama/ollama)
 - [Bifrost - high-performance AI gateway that unifies access to 15+ providers (OpenAI, Anthropic, AWS Bedrock, Google Vertex) through a single OpenAI-compatible API](https://github.com/maximhq/bifrost)
 - [Agent Development Kit (ADK) for Go](https://github.com/google/adk-go)
 - [MCP Go SDK](https://github.com/modelcontextprotocol/go-sdk)
