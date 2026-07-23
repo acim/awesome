@@ -22,6 +22,7 @@
 ## Skills
 
 - [Superpowers - agentic skills framework & software development methodology](https://github.com/obra/superpowers)
+- [Taste Skill - anti-slop Frontend Framework for AI Agents](https://github.com/Leonxlnx/taste-skill)
 
 ## Prompts
 
@@ -56,3 +57,9 @@
 - [Headroom - context compression layer for AI agents](https://github.com/headroomlabs-ai/headroom)
 - [DOX - AGENTS.md framework that gives an AI agent precise project context.](https://github.com/agent0ai/dox)
 - [Multica - open-source managed agents platform (turn coding agents into real teammates)](https://github.com/multica-ai/multica)
+
+## Design
+
+- [How to Use Codex as a Designer](https://www.youtube.com/watch?v=GOtHFZnagO0)
+- [How To Use Codex To Build Insanely Beautiful Websites Using GPT 5.6 Sol](https://www.youtube.com/watch?v=pHstb0JGGhE)
+- Specially tell in the prompt not to use Sites skill
