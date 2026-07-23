@@ -63,3 +63,4 @@
 - [How to Use Codex as a Designer](https://www.youtube.com/watch?v=GOtHFZnagO0)
 - [How To Use Codex To Build Insanely Beautiful Websites Using GPT 5.6 Sol](https://www.youtube.com/watch?v=pHstb0JGGhE)
 - Specially tell in the prompt not to use Sites skill
+- Create DESIGN.md file
