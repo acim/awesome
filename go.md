@@ -514,6 +514,7 @@
 - [MacDriver - native Mac APIs for Golang](https://github.com/progrium/macdriver)
 - [wails - create beautiful desktop applications](https://github.com/wailsapp/wails)
 - [How I build simple Mac apps using Go](https://dev.to/progrium/how-i-build-simple-mac-apps-using-go-104j)
+- [Shirei - cross-platform GUI framework](https://github.com/hasenj/go-shirei)
 
 ## Mobile
 
