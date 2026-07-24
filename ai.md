@@ -23,6 +23,7 @@
 
 - [Superpowers - agentic skills framework & software development methodology](https://github.com/obra/superpowers)
 - [Taste Skill - anti-slop Frontend Framework for AI Agents](https://github.com/Leonxlnx/taste-skill)
+- [Stitch Design - Skills collection of agent skills and plugins for Google Stitch](https://github.com/google-labs-code/stitch-skills)
 
 ## Prompts
 
