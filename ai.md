@@ -62,6 +62,7 @@
 - [Headroom - context compression layer for AI agents](https://github.com/headroomlabs-ai/headroom)
 - [DOX - AGENTS.md framework that gives an AI agent precise project context.](https://github.com/agent0ai/dox)
 - [Multica - open-source managed agents platform (turn coding agents into real teammates)](https://github.com/multica-ai/multica)
+- [rtk - CLI proxy that reduces LLM token consumption](https://github.com/rtk-ai/rtk)
 
 ## Design
 
