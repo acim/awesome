@@ -293,7 +293,6 @@
 - [Agent Development Kit (ADK) for Go](https://github.com/google/adk-go)
 - [MCP Go SDK](https://github.com/modelcontextprotocol/go-sdk)
 - [Anthropic Go API Library](https://github.com/anthropics/anthropic-sdk-go)
-- [Microsoft Agent Framework - framework for building, orchestrating and deploying AI agents](https://github.com/microsoft/agent-framework-go)
 - [RAGFlow - leading open-source Retrieval-Augmented Generation (RAG) engine](https://github.com/infiniflow/ragflow)
 
 ## JSON & YAML

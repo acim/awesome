@@ -195,6 +195,11 @@ sudo apt-get install backintime-qt4
 
 - [Email encoder](http://wbwip.com/wbw/emailencoder.html)
 
+## Crawling
+
+- [Firecrawl - API to search, scrape, and interact with the web at scale](https://github.com/firecrawl/firecrawl)
+- [Crawl4AI - LLM Friendly Web Crawler & Scraper](https://github.com/unclecode/crawl4AI)
+
 ## Licenses
 
 - [BSD+Patent](https://opensource.org/licenses/BSDplusPatent)

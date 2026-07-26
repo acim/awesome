@@ -7,6 +7,7 @@
 - [Sub2API - all-in-one open-source proxy service that unifies access to subscriptions for Claude, OpenAI, Gemini, and Grok](https://github.com/Wei-Shaw/sub2api)
 - [Dograh AI - open source voice AI platform](https://github.com/dograh-hq/dograh)
 - [How I Stopped Running out of Tokens](https://danielabaron.me/blog/how-i-stopped-running-out-of-tokens/)
+- [Microsoft Agent Framework - framework for building, orchestrating and deploying AI agents](https://github.com/microsoft/agent-framework-go)
 
 ## Harnesses
 
@@ -19,6 +20,8 @@
 - [llama.cpp - LLM inference in C/C++](https://github.com/ggml-org/llama.cpp)
 - [Ollama - run large language models locally](https://github.com/ollama/ollama)
 - [oMLX - LLM inference server with continuous batching & SSD caching for Apple Silicon ](https://github.com/jundot/omlx)
+- [LocalAI - AI engine to run any model, LLMs, vision, voice, image, video on any hardware](https://github.com/mudler/localai)
+- [AnythingLLM - everything you need for a powerful local-first agent experience](https://github.com/Mintplex-Labs/anything-llm)
 
 ## Skills
 
