@@ -53,9 +53,10 @@
 - [MCP Server Directory](https://altorlab.com/mcp-servers/)
 - [Best MCP Servers in 2026](https://www.mcpbundles.com/blog/best-mcp-servers)
 
-## Software Development
+## Agentic Cloud Software Development
 
 - [Devin - AI software engineer](https://devin.ai/)
+- [OpenHands - self-hosted developer control center for coding agents and automations](https://github.com/OpenHands/OpenHands)
 
 ## Tools
 
@@ -63,6 +64,7 @@
 - [DOX - AGENTS.md framework that gives an AI agent precise project context.](https://github.com/agent0ai/dox)
 - [Multica - open-source managed agents platform (turn coding agents into real teammates)](https://github.com/multica-ai/multica)
 - [rtk - CLI proxy that reduces LLM token consumption](https://github.com/rtk-ai/rtk)
+- [repowise - codebase intelligence for AI and humans](https://github.com/repowise-dev/repowise)
 
 ## Design
 
