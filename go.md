@@ -294,6 +294,7 @@
 - [MCP Go SDK](https://github.com/modelcontextprotocol/go-sdk)
 - [Anthropic Go API Library](https://github.com/anthropics/anthropic-sdk-go)
 - [RAGFlow - leading open-source Retrieval-Augmented Generation (RAG) engine](https://github.com/infiniflow/ragflow)
+- [A2A Go SDK - library for running agentic applications as A2A servers](https://github.com/a2aproject/a2a-go)
 
 ## JSON & YAML
 
