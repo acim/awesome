@@ -66,6 +66,7 @@
 - [rtk - CLI proxy that reduces LLM token consumption](https://github.com/rtk-ai/rtk)
 - [tokensave - comprehensive code intelligence MCP server for AI coding agents](https://github.com/aovestdipaperino/tokensave)
 - [repowise - codebase intelligence for AI and humans](https://github.com/repowise-dev/repowise)
+- [Codex Security - security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities](https://github.com/openai/codex-security)
 
 ## Design
 
