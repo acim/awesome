@@ -64,6 +64,7 @@
 - [DOX - AGENTS.md framework that gives an AI agent precise project context.](https://github.com/agent0ai/dox)
 - [Multica - open-source managed agents platform (turn coding agents into real teammates)](https://github.com/multica-ai/multica)
 - [rtk - CLI proxy that reduces LLM token consumption](https://github.com/rtk-ai/rtk)
+- [tokensave - comprehensive code intelligence MCP server for AI coding agents](https://github.com/aovestdipaperino/tokensave)
 - [repowise - codebase intelligence for AI and humans](https://github.com/repowise-dev/repowise)
 
 ## Design
