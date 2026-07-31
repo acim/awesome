@@ -46,6 +46,8 @@
 - [Using Signals With Go](https://www.calhoun.io/using-signals-with-go/)
 - [15 Go Subtleties You May Not Already Know](https://harrisoncramer.me/15-go-sublteties-you-may-not-already-know/)
 - [Top 100 Stars in Go](https://github.com/EvanLi/Github-Ranking/blob/master/Top100/Go.md)
+- [Supervised fire-and-forget in Go](https://rednafi.com/go/supervised-fire-and-forget/)
+- [Wrapping Errors with Defer](https://www.zombiezen.com/blog/2026/07/wrapping-errors-with-defer/)
 
 ## Blogs
 
