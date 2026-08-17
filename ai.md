@@ -8,6 +8,7 @@
 - [Dograh AI - open source voice AI platform](https://github.com/dograh-hq/dograh)
 - [How I Stopped Running out of Tokens](https://danielabaron.me/blog/how-i-stopped-running-out-of-tokens/)
 - [Microsoft Agent Framework - framework for building, orchestrating and deploying AI agents](https://github.com/microsoft/agent-framework-go)
+- [Sintra - AI Employees](https://sintra.ai/)
 
 ## Harnesses
 
@@ -75,3 +76,8 @@
 - [How To Use Codex To Build Insanely Beautiful Websites Using GPT 5.6 Sol](https://www.youtube.com/watch?v=pHstb0JGGhE)
 - Specially tell in the prompt not to use Sites skill
 - Create DESIGN.md file
+
+## Media generators
+
+- [Higgsfield - Video content generation](https://higgsfield.ai/)
+- [Picassoia - NSFW Image Generator](https://picassoia.com/generator/en/ai/nsfw-not-safe-for-work-ai)
