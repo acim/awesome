@@ -9,6 +9,7 @@
 - [How I Stopped Running out of Tokens](https://danielabaron.me/blog/how-i-stopped-running-out-of-tokens/)
 - [Microsoft Agent Framework - framework for building, orchestrating and deploying AI agents](https://github.com/microsoft/agent-framework-go)
 - [Sintra - AI Employees](https://sintra.ai/)
+- [Transformers.js - state-of-the-art Machine Learning for the web - run Transformers directly in your browser](https://github.com/huggingface/transformers.js/)
 
 ## Harnesses
 
