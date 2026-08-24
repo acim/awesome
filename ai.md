@@ -72,6 +72,7 @@
 - [Codex Security - security CLI and TypeScript SDK for finding, validating, and fixing security vulnerabilities](https://github.com/openai/codex-security)
 - [watermarks-remover - agent skill and Python service to strip multi-vendor AI provenance marks from text and files](https://github.com/guillaumemeyer/watermarks-remover)
 - [Summarize any YouTube video in seconds](https://slidespeak.co/free-tools/summarize-youtube-video)
+- [unsloth - GUI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4](https://github.com/unslothai/unsloth)
 
 ## Design
 
