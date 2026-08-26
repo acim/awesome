@@ -84,6 +84,7 @@
 - [squawk - linter for Postgres migrations & SQL](https://github.com/sbdchd/squawk)
 - [New IDE for PostgreSQL in VS Code](https://techcommunity.microsoft.com/blog/adforpostgresql/announcing-a-new-ide-for-postgresql-in-vs-code-from-microsoft/4414648)
 - [EXPLAIN Prettier - Post-Processing Query Plans in Postgres](https://www.pgedge.com/blog/explain-prettier-or-post-processing-query-plans-in-postgres)
+- [pgbot - Postgres intelligence for AI agents & applications](https://github.com/pgrundev/pgbot)
 
 ### AI
 
