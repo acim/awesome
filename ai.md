@@ -56,6 +56,9 @@
 - [Best MCP Servers](https://mcp-awesome.com/)
 - [MCP Server Directory](https://altorlab.com/mcp-servers/)
 - [Best MCP Servers in 2026](https://www.mcpbundles.com/blog/best-mcp-servers)
+- [GitHub MCP Server](https://github.com/github/github-mcp-server)
+- [Playwright MCP Server](https://github.com/microsoft/playwright-mcp)
+- [Context7 Platform - Up-to-date code documentation for LLMs and AI code editors](https://github.com/upstash/context7)
 
 ## Agentic Cloud Software Development
 
@@ -74,6 +77,7 @@
 - [watermarks-remover - agent skill and Python service to strip multi-vendor AI provenance marks from text and files](https://github.com/guillaumemeyer/watermarks-remover)
 - [Summarize any YouTube video in seconds](https://slidespeak.co/free-tools/summarize-youtube-video)
 - [unsloth - GUI to run and train LLMs and diffusion models, including Qwen3.8, Kimi K3, MiniMax-H3, Gemma 4, DeepSeek-V4](https://github.com/unslothai/unsloth)
+- [Graft - faster, cheaper, with contextual understanding specific to your codebase](https://github.com/trailhq/Graft)
 
 ## Design
 
