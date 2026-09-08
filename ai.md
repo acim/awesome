@@ -31,6 +31,7 @@
 - [Taste Skill - anti-slop Frontend Framework for AI Agents](https://github.com/Leonxlnx/taste-skill)
 - [Stitch Design - Skills collection of agent skills and plugins for Google Stitch](https://github.com/google-labs-code/stitch-skills)
 - [Idiomatic Go: The Pragmatic Playbook](https://github.com/spf13/go-skills)
+- [Ponytail - makes your AI agent think like the laziest senior dev in the room](https://github.com/dietrichgebert/ponytail)
 
 ## Prompts
 
