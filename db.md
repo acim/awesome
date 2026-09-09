@@ -62,6 +62,7 @@
 - [TDE Performance in PostgreSQL](https://percona.community/blog/2026/07/20/tde-performance-in-postgresql/)
 - [Your COUNT(DISTINCT) Is Too Slow: Approximations and Sampling in Postgres](https://www.snowflake.com/en/blog/engineering/postgres-count-distinct-approximation/)
 - [How moving one word can speed up a query 10–50x](https://postgres.ai/blog/20260311-not-exists-vs-exists-partial-index)
+- [Kafgres: Embedding a Kafka Broker into Postgres](https://rynr.dev/blog/kafgres/)
 
 ### Tools
 
