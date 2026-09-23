@@ -11,6 +11,10 @@
 - [Sintra - AI Employees](https://sintra.ai/)
 - [Transformers.js - state-of-the-art Machine Learning for the web - run Transformers directly in your browser](https://github.com/huggingface/transformers.js/)
 
+## Models
+
+- [Jev - excels at making lightning-fast, low-cost, structured decisions (categorization, yes/no checks, scoring) without generating text and with no hallucinations](https://typesafe.ai/blog/introducing-system-one-models-and-jev)
+
 ## Harnesses
 
 - [Pi - minimal terminal coding harness](https://github.com/badlogic/pi-mono/tree/main/packages/coding-agent)
