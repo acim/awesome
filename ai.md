@@ -10,6 +10,7 @@
 - [Microsoft Agent Framework - framework for building, orchestrating and deploying AI agents](https://github.com/microsoft/agent-framework-go)
 - [Sintra - AI Employees](https://sintra.ai/)
 - [Transformers.js - state-of-the-art Machine Learning for the web - run Transformers directly in your browser](https://github.com/huggingface/transformers.js/)
+- [Effect - reliable TypeScript for the AI era](https://github.com/Effect-TS/effect)
 
 ## Models
 
