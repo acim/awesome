@@ -64,6 +64,7 @@
 - [GitHub MCP Server](https://github.com/github/github-mcp-server)
 - [Playwright MCP Server](https://github.com/microsoft/playwright-mcp)
 - [Context7 Platform - Up-to-date code documentation for LLMs and AI code editors](https://github.com/upstash/context7)
+- [postgres-mcp - connect your coding agent to PostgreSQL](https://github.com/microsoft/postgres-mcp)
 
 ## Agentic Cloud Software Development
 
