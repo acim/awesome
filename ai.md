@@ -37,6 +37,7 @@
 - [Stitch Design - Skills collection of agent skills and plugins for Google Stitch](https://github.com/google-labs-code/stitch-skills)
 - [Idiomatic Go: The Pragmatic Playbook](https://github.com/spf13/go-skills)
 - [Ponytail - makes your AI agent think like the laziest senior dev in the room](https://github.com/dietrichgebert/ponytail)
+- [Skills For Real Engineers](https://github.com/mattpocock/skills)
 
 ## Prompts
 
