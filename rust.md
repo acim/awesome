@@ -76,6 +76,7 @@
 - [Creating a GTK/Glade based GUI for a Rust application](https://dev.to/henrybarreto/creating-a-gui-for-a-rust-application-2h1g)
 - [SixtyFPS - toolkit to efficiently develop fluid graphical user interfaces for any display](https://github.com/sixtyfpsui/sixtyfps)
 - [Speedrunning GUI development in Rust](https://aaronerhardt.github.io/blog/posts/gui_speedrun)
+- [Glim - macOS file viewer and basic UTF-8 editor built with Rust and GPUI Kit](https://github.com/NeoPanic/Glim)
 
 ## CLI
 
