@@ -13,6 +13,7 @@
 - [Mouthful - self-hosted alternative to Disqus](https://github.com/vkuznecovas/mouthful)
 - [carbon - Create and share beautiful images of your source code](https://carbon.now.sh/)
 - [gitignore.io - create useful .gitignore files for your project](https://www.toptal.com/developers/gitignore)
+- [Flisk - generate and run your whole tech stack from one command](https://github.com/flisk-sh/flisk)
 - [DevDocs combines multiple API documentations in a fast, organized, and searchable interface](https://devdocs.io/)
 - [pgCenter - command-line admin tool for observing and troubleshooting Postgres](https://github.com/lesovsky/pgcenter)
 - [i3 - tiling window manager](https://i3wm.org/)
