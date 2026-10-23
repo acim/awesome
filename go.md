@@ -499,6 +499,7 @@
 - [ergo - actor-based framework with network transparency for creating event-driven architecture](https://github.com/ergo-services/ergo)
 - [SeekTune - implementation of Shazam's song recognition algorithm](https://github.com/cgzirim/seek-tune)
 - [yt-dlp - donwload YouTube videos](https://github.com/lrstanley/go-ytdlp)
+- [coregex - high-performance regex engine for Go, drop-in replacement for regexp](https://github.com/coregx/coregex)
 
 ## Images
 
