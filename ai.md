@@ -39,6 +39,7 @@
 - [Ponytail - makes your AI agent think like the laziest senior dev in the room](https://github.com/dietrichgebert/ponytail)
 - [Skills For Real Engineers](https://github.com/mattpocock/skills)
 - [michaelshimeles/skills](https://github.com/michaelshimeles/skills)
+- [deed.page skill - lets an agent publish an HTML file or static folder to a permanent public URL, no account needed](https://github.com/f-o-x11/deed-page-skill)
 
 ## Prompts
 
