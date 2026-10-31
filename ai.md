@@ -66,6 +66,7 @@
 - [Best MCP Servers in 2026](https://www.mcpbundles.com/blog/best-mcp-servers)
 - [GitHub MCP Server](https://github.com/github/github-mcp-server)
 - [Playwright MCP Server](https://github.com/microsoft/playwright-mcp)
+- [agent-qa - CLI/MCP app testing with memidex persistent memory and validated self-improvement](https://vostride.com/docs/agent-qa/mcp)
 - [Context7 Platform - Up-to-date code documentation for LLMs and AI code editors](https://github.com/upstash/context7)
 - [postgres-mcp - connect your coding agent to PostgreSQL](https://github.com/microsoft/postgres-mcp)
 - [rea - reverse engineer anything with agents](https://github.com/morluto/rea)
